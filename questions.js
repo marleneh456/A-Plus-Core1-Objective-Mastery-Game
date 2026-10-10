@@ -5791,28 +5791,28 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "In a troubleshooting case, the following observation is recorded: A swollen pack must be taken out of service safely. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A laptop disconnects from Wi-Fi whenever its display is opened beyond 90 degrees. An external USB Wi-Fi adapter works normally. What should be inspected first?",
     "opts": [
-      "Battery",
-      "Wireless card",
-      "SSD",
-      "Webcam"
+      "Display-hinge antenna leads",
+      "SSD SATA cable",
+      "Touchpad ribbon cable",
+      "Keyboard backlight connector"
     ],
     "ans": [
       0
     ],
     "why": [
-      "Battery: Stores portable electrical power.",
-      "Wireless card: Provides radio connectivity to networks.",
-      "SSD: Solid-state storage without moving platters.",
-      "Webcam: Captures video for calls and meetings."
+      "Wi-Fi antenna cables commonly route through the display hinge; flexing a damaged lead can interrupt reception.",
+      "Storage cabling affects disk access, not antenna reception as the lid moves.",
+      "A touchpad ribbon cable carries pointer input and would not explain wireless signal loss.",
+      "Keyboard illumination wiring is separate from wireless radio antennas."
     ],
-    "tip": "A swollen pack must be taken out of service safely."
+    "tip": "When a fault follows hinge movement, inspect cables routed through the hinge before replacing the wireless card."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "Which option would you select when a support ticket calls for temporary working memory for active tasks?",
+    "q": "A hardware assessment notes: temporary working memory for active tasks. Identify the most suitable component or feature.",
     "opts": [
       "RAM",
       "SSD",
@@ -5833,7 +5833,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "A customer describes a system that needs solid-state storage without moving platters. Which choice matches that need?",
+    "q": "A service desk technician receives this requirement: solid-state storage without moving platters. Which listed technology fits the requirement?",
     "opts": [
       "SSD",
       "RAM",
@@ -5854,7 +5854,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "In a troubleshooting case, the following observation is recorded: A disconnected lead can cause weak wireless reception. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A client reports the following technical detail: links the wireless card to antenna leads. What does it most closely describe?",
     "opts": [
       "Wi-Fi antenna connector",
       "RAM",
@@ -5875,7 +5875,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "A technician is comparing options for this requirement: captures video for calls and meetings. Which technology is appropriate?",
+    "q": "A small-office technician is asked to provide the following capability: captures video for calls and meetings. What should be selected?",
     "opts": [
       "Webcam",
       "Wireless card",
@@ -5896,7 +5896,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "A field technician must provide uses physical traits to authenticate users. Which technology fulfills this purpose?",
+    "q": "A field engineer is planning a repair involving this need: uses physical traits to authenticate users. Select the most appropriate item.",
     "opts": [
       "Biometrics",
       "SSD",
@@ -5917,7 +5917,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "In a troubleshooting case, the following observation is recorded: Confirm antenna leads before replacing a wireless card. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "During equipment selection, a customer requests this functionality: provides radio connectivity to networks. Which item is appropriate?",
     "opts": [
       "Wireless card",
       "Wi-Fi antenna connector",
@@ -5938,7 +5938,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "An administrator needs stores portable electrical power. Which item matches the requirement?",
+    "q": "A device specification calls for the following: stores portable electrical power. Which listed option meets it?",
     "opts": [
       "Battery",
       "Biometrics",
@@ -5959,7 +5959,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "A repair ticket specifies temporary working memory for active tasks. Which item addresses that specification?",
+    "q": "An IT team must address the following condition: temporary working memory for active tasks. Which choice best applies?",
     "opts": [
       "RAM",
       "SSD",
@@ -5980,7 +5980,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "In a troubleshooting case, the following observation is recorded: Storage upgrades need interface and form-factor compatibility. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A technician is reviewing a configuration with this characteristic: solid-state storage without moving platters. Identify the best match.",
     "opts": [
       "SSD",
       "RAM",
@@ -6001,7 +6001,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "A device specification mentions links the wireless card to antenna leads. What feature is being described?",
+    "q": "A support engineer must account for this behavior: links the wireless card to antenna leads. Which technology is relevant?",
     "opts": [
       "Wi-Fi antenna connector",
       "Wireless card",
@@ -6022,7 +6022,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "During a help-desk escalation, the documented need is captures video for calls and meetings. What should the technician use?",
+    "q": "A hardware assessment notes: captures video for calls and meetings. Identify the most suitable component or feature.",
     "opts": [
       "Webcam",
       "SSD",
@@ -6043,7 +6043,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "In a troubleshooting case, the following observation is recorded: A fingerprint reader is a security component. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A service desk technician receives this requirement: uses physical traits to authenticate users. Which listed technology fits the requirement?",
     "opts": [
       "Biometrics",
       "Wi-Fi antenna connector",
@@ -6064,7 +6064,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "Which option would you select when a support ticket calls for provides radio connectivity to networks?",
+    "q": "A client reports the following technical detail: provides radio connectivity to networks. What does it most closely describe?",
     "opts": [
       "Wireless card",
       "Biometrics",
@@ -6106,7 +6106,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "In a troubleshooting case, the following observation is recorded: Match laptop memory form factor and supported generation. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A field engineer is planning a repair involving this need: temporary working memory for active tasks. Select the most appropriate item.",
     "opts": [
       "RAM",
       "Webcam",
@@ -6127,7 +6127,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "A technician is comparing options for this requirement: solid-state storage without moving platters. Which technology is appropriate?",
+    "q": "During equipment selection, a customer requests this functionality: solid-state storage without moving platters. Which item is appropriate?",
     "opts": [
       "SSD",
       "Wireless card",
@@ -6169,28 +6169,28 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Connector shape alone does not guarantee every feature. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A tablet must connect to an external monitor, Ethernet, a keyboard, and charging power through one connection at a desk. Which accessory is most suitable?",
     "opts": [
-      "USB-C",
-      "Docking station",
-      "Lightning",
-      "Hotspot"
+      "USB-C docking station",
+      "Bluetooth audio headset",
+      "NFC reader",
+      "Passive stylus"
     ],
     "ans": [
       0
     ],
     "why": [
-      "USB-C: Reversible connector used for data and sometimes power/video.",
-      "Docking station: Adds multiple peripheral and display connections.",
-      "Lightning: Proprietary mobile connector on certain Apple devices.",
-      "Hotspot: Shares a phone's cellular connection with clients."
+      "A compatible USB-C dock can provide display, network, peripheral ports, and power delivery through one cable.",
+      "A Bluetooth headset carries audio, not wired display and Ethernet connections.",
+      "An NFC reader handles close-range identification or payment data rather than multiport connectivity.",
+      "A passive stylus supplies touch input but does not expand device ports."
     ],
-    "tip": "Connector shape alone does not guarantee every feature."
+    "tip": "For a desk setup with several peripherals, check the dock’s video outputs and power-delivery rating."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "Which option would you select when a support ticket calls for proprietary mobile connector on certain Apple devices?",
+    "q": "A technician is reviewing a configuration with this characteristic: proprietary mobile connector on certain Apple devices. Identify the best match.",
     "opts": [
       "Lightning",
       "Hotspot",
@@ -6211,7 +6211,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "A customer describes a system that needs very short-range contactless communication. Which choice matches that need?",
+    "q": "A support engineer must account for this behavior: very short-range contactless communication. Which technology is relevant?",
     "opts": [
       "NFC",
       "Port replicator",
@@ -6232,7 +6232,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Pairing a headset differs from sharing internet access. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A hardware assessment notes: short-range wireless accessory pairing. Identify the most suitable component or feature.",
     "opts": [
       "Bluetooth",
       "Docking station",
@@ -6253,7 +6253,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "A technician is comparing options for this requirement: shares a phone's cellular connection with clients. Which technology is appropriate?",
+    "q": "A service desk technician receives this requirement: shares a phone's cellular connection with clients. Which listed technology fits the requirement?",
     "opts": [
       "Hotspot",
       "Docking station",
@@ -6274,7 +6274,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "A field technician must provide adds multiple peripheral and display connections. Which technology fulfills this purpose?",
+    "q": "A client reports the following technical detail: adds multiple peripheral and display connections. What does it most closely describe?",
     "opts": [
       "Docking station",
       "NFC",
@@ -6295,7 +6295,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Confirm digitizer support before replacing the pen. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A small-office technician is asked to provide the following capability: precision pen input on compatible touchscreens. What should be selected?",
     "opts": [
       "Stylus",
       "NFC",
@@ -6316,7 +6316,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "An administrator needs extends accessible computer ports. Which item matches the requirement?",
+    "q": "A field engineer is planning a repair involving this need: extends accessible computer ports. Select the most appropriate item.",
     "opts": [
       "Port replicator",
       "USB-C",
@@ -6337,7 +6337,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "A repair ticket specifies reversible connector used for data and sometimes power/video. Which item addresses that specification?",
+    "q": "During equipment selection, a customer requests this functionality: reversible connector used for data and sometimes power/video. Which item is appropriate?",
     "opts": [
       "USB-C",
       "Docking station",
@@ -6358,7 +6358,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Check the device generation before choosing a cable. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A device specification calls for the following: proprietary mobile connector on certain Apple devices. Which listed option meets it?",
     "opts": [
       "Lightning",
       "NFC",
@@ -6379,7 +6379,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "A device specification mentions very short-range contactless communication. What feature is being described?",
+    "q": "An IT team must address the following condition: very short-range contactless communication. Which choice best applies?",
     "opts": [
       "NFC",
       "Docking station",
@@ -6400,7 +6400,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "During a help-desk escalation, the documented need is short-range wireless accessory pairing. What should the technician use?",
+    "q": "A technician is reviewing a configuration with this characteristic: short-range wireless accessory pairing. Identify the best match.",
     "opts": [
       "Bluetooth",
       "Stylus",
@@ -6421,7 +6421,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Check data plan and hotspot settings. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A support engineer must account for this behavior: shares a phone's cellular connection with clients. Which technology is relevant?",
     "opts": [
       "Hotspot",
       "Bluetooth",
@@ -6442,7 +6442,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "Which option would you select when a support ticket calls for adds multiple peripheral and display connections?",
+    "q": "A hardware assessment notes: adds multiple peripheral and display connections. Identify the most suitable component or feature.",
     "opts": [
       "Docking station",
       "USB-C",
@@ -6484,7 +6484,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Useful when a laptop lacks enough physical connections. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A client reports the following technical detail: extends accessible computer ports. What does it most closely describe?",
     "opts": [
       "Port replicator",
       "Lightning",
@@ -6505,7 +6505,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "A technician is comparing options for this requirement: reversible connector used for data and sometimes power/video. Which technology is appropriate?",
+    "q": "A small-office technician is asked to provide the following capability: reversible connector used for data and sometimes power/video. What should be selected?",
     "opts": [
       "USB-C",
       "NFC",
@@ -6526,28 +6526,28 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "In a troubleshooting case, the following observation is recorded: A cellular activation issue can involve eSIM provisioning. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A company-owned phone can install personal apps but cannot install the required corporate email app. Other enrolled phones work. Which area should IT review first?",
     "opts": [
-      "eSIM",
-      "Cloud storage sync",
-      "Data cap",
-      "GPS"
+      "MDM enrollment and application policy",
+      "Phone camera resolution",
+      "Bluetooth pairing PIN",
+      "Screen refresh rate"
     ],
     "ans": [
       0
     ],
     "why": [
-      "eSIM: Embedded digital subscriber identity.",
-      "Cloud storage sync: Keeps selected files synchronized across devices.",
-      "Data cap: Limit on allowed cellular data usage.",
-      "GPS: Satellite-based positioning service."
+      "Mobile device management controls managed app deployment, enrollment state, and compliance rules.",
+      "Camera resolution affects imaging, not permission to install managed email.",
+      "A Bluetooth PIN pairs nearby accessories and does not control corporate app deployment.",
+      "Display refresh rate affects visual smoothness, not application policy."
     ],
-    "tip": "A cellular activation issue can involve eSIM provisioning."
+    "tip": "When only managed apps fail, compare enrollment status and policy assignments with a working device."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "Which option would you select when a support ticket calls for centrally applies mobile configurations and policies?",
+    "q": "During equipment selection, a customer requests this functionality: centrally applies mobile configurations and policies. Which item is appropriate?",
     "opts": [
       "MDM",
       "Bluetooth PIN",
@@ -6568,7 +6568,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "A customer describes a system that needs satellite-based positioning service. Which choice matches that need?",
+    "q": "A device specification calls for the following: satellite-based positioning service. Which listed option meets it?",
     "opts": [
       "GPS",
       "MDM",
@@ -6589,7 +6589,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "In a troubleshooting case, the following observation is recorded: Separate corporate policies from personal ownership. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "An IT team must address the following condition: employee-owned device used for work. Which choice best applies?",
     "opts": [
       "BYOD",
       "Data cap",
@@ -6610,7 +6610,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "A technician is comparing options for this requirement: code used to verify device pairing. Which technology is appropriate?",
+    "q": "A technician is reviewing a configuration with this characteristic: code used to verify device pairing. Identify the best match.",
     "opts": [
       "Bluetooth PIN",
       "Cloud storage sync",
@@ -6631,7 +6631,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "A field technician must provide limit on allowed cellular data usage. Which technology fulfills this purpose?",
+    "q": "A support engineer must account for this behavior: limit on allowed cellular data usage. Which technology is relevant?",
     "opts": [
       "Data cap",
       "MDM",
@@ -6652,7 +6652,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "In a troubleshooting case, the following observation is recorded: Check account and synchronization settings. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A hardware assessment notes: keeps selected files synchronized across devices. Identify the most suitable component or feature.",
     "opts": [
       "Cloud storage sync",
       "GPS",
@@ -6673,7 +6673,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "An administrator needs embedded digital subscriber identity. Which item matches the requirement?",
+    "q": "A service desk technician receives this requirement: embedded digital subscriber identity. Which listed technology fits the requirement?",
     "opts": [
       "eSIM",
       "Data cap",
@@ -6694,7 +6694,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "A repair ticket specifies centrally applies mobile configurations and policies. Which item addresses that specification?",
+    "q": "A client reports the following technical detail: centrally applies mobile configurations and policies. What does it most closely describe?",
     "opts": [
       "MDM",
       "Data cap",
@@ -6715,7 +6715,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "In a troubleshooting case, the following observation is recorded: Outdoor location may use satellite signals. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A small-office technician is asked to provide the following capability: satellite-based positioning service. What should be selected?",
     "opts": [
       "GPS",
       "Data cap",
@@ -6736,7 +6736,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "A device specification mentions employee-owned device used for work. What feature is being described?",
+    "q": "A field engineer is planning a repair involving this need: employee-owned device used for work. Select the most appropriate item.",
     "opts": [
       "BYOD",
       "Data cap",
@@ -6757,7 +6757,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "During a help-desk escalation, the documented need is code used to verify device pairing. What should the technician use?",
+    "q": "During equipment selection, a customer requests this functionality: code used to verify device pairing. Which item is appropriate?",
     "opts": [
       "Bluetooth PIN",
       "GPS",
@@ -6778,7 +6778,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "In a troubleshooting case, the following observation is recorded: Unexpected throttling can follow a plan's usage threshold. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A device specification calls for the following: limit on allowed cellular data usage. Which listed option meets it?",
     "opts": [
       "Data cap",
       "BYOD",
@@ -6799,7 +6799,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "Which option would you select when a support ticket calls for keeps selected files synchronized across devices?",
+    "q": "An IT team must address the following condition: keeps selected files synchronized across devices. Which choice best applies?",
     "opts": [
       "Cloud storage sync",
       "Bluetooth PIN",
@@ -6841,7 +6841,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "In a troubleshooting case, the following observation is recorded: Corporate devices may restrict settings through management. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A support engineer must account for this behavior: centrally applies mobile configurations and policies. Which technology is relevant?",
     "opts": [
       "MDM",
       "Cloud storage sync",
@@ -6862,7 +6862,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "A technician is comparing options for this requirement: satellite-based positioning service. Which technology is appropriate?",
+    "q": "A hardware assessment notes: satellite-based positioning service. Identify the most suitable component or feature.",
     "opts": [
       "GPS",
       "Data cap",
@@ -6883,28 +6883,28 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "In a troubleshooting case, the following observation is recorded: Choose encrypted shell access over Telnet. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A technician can browse an internal website over HTTPS but cannot map a Windows file share by server name or IP. The firewall blocks one required service. Which destination port should be checked?",
     "opts": [
-      "SSH",
-      "SMB",
-      "SMTP",
-      "HTTPS"
+      "TCP 445",
+      "TCP 443",
+      "TCP 3389",
+      "UDP 53"
     ],
     "ans": [
       0
     ],
     "why": [
-      "SSH: Encrypted remote command-line administration using port 22.",
-      "SMB: Network file sharing commonly using TCP port 445.",
-      "SMTP: Mail transfer protocol commonly using TCP port 25.",
-      "HTTPS: Encrypted web traffic using TCP port 443."
+      "SMB file sharing normally uses TCP port 445.",
+      "TCP 443 is HTTPS and is already functioning in this scenario.",
+      "TCP 3389 is commonly used for Remote Desktop, not SMB shares.",
+      "UDP 53 handles DNS queries, but using the server IP also fails here."
     ],
-    "tip": "Choose encrypted shell access over Telnet."
+    "tip": "If name and IP both fail for a file share, investigate SMB connectivity rather than assuming DNS is the cause."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "Which option would you select when a support ticket calls for unencrypted remote terminal protocol using port 23?",
+    "q": "During equipment selection, a customer requests this functionality: unencrypted remote terminal protocol using port 23. Which item is appropriate?",
     "opts": [
       "Telnet",
       "DNS",
@@ -6925,7 +6925,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "A customer describes a system that needs name resolution commonly using port 53. Which choice matches that need?",
+    "q": "A device specification calls for the following: name resolution commonly using port 53. Which listed option meets it?",
     "opts": [
       "DNS",
       "RDP",
@@ -6946,7 +6946,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "In a troubleshooting case, the following observation is recorded: A missing lease can lead to 169.254 addressing. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "An IT team must address the following condition: automatic address assignment using UDP ports 67 and 68. Which choice best applies?",
     "opts": [
       "DHCP",
       "DNS",
@@ -6967,7 +6967,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "A technician is comparing options for this requirement: encrypted web traffic using TCP port 443. Which technology is appropriate?",
+    "q": "A technician is reviewing a configuration with this characteristic: encrypted web traffic using TCP port 443. Identify the best match.",
     "opts": [
       "HTTPS",
       "DHCP",
@@ -6988,7 +6988,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "A field technician must provide remote graphical desktop service using TCP port 3389. Which technology fulfills this purpose?",
+    "q": "A support engineer must account for this behavior: remote graphical desktop service using TCP port 3389. Which technology is relevant?",
     "opts": [
       "RDP",
       "SMB",
@@ -7009,7 +7009,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "In a troubleshooting case, the following observation is recorded: Outgoing mail transport is not the same as reading mail. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A hardware assessment notes: mail transfer protocol commonly using TCP port 25. Identify the most suitable component or feature.",
     "opts": [
       "SMTP",
       "DNS",
@@ -7030,7 +7030,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "An administrator needs mail access protocol commonly using TCP port 143. Which item matches the requirement?",
+    "q": "A service desk technician receives this requirement: mail access protocol commonly using TCP port 143. Which listed technology fits the requirement?",
     "opts": [
       "IMAP",
       "SSH",
@@ -7051,7 +7051,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "A repair ticket specifies network file sharing commonly using TCP port 445. Which item addresses that specification?",
+    "q": "A client reports the following technical detail: network file sharing commonly using TCP port 445. What does it most closely describe?",
     "opts": [
       "SMB",
       "RDP",
@@ -7072,7 +7072,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "In a troubleshooting case, the following observation is recorded: Choose encrypted shell access over Telnet. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A small-office technician is asked to provide the following capability: encrypted remote command-line administration using port 22. What should be selected?",
     "opts": [
       "SSH",
       "SMTP",
@@ -7093,7 +7093,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "A device specification mentions unencrypted remote terminal protocol using port 23. What feature is being described?",
+    "q": "A field engineer is planning a repair involving this need: unencrypted remote terminal protocol using port 23. Select the most appropriate item.",
     "opts": [
       "Telnet",
       "SSH",
@@ -7114,7 +7114,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "During a help-desk escalation, the documented need is name resolution commonly using port 53. What should the technician use?",
+    "q": "During equipment selection, a customer requests this functionality: name resolution commonly using port 53. Which item is appropriate?",
     "opts": [
       "DNS",
       "DHCP",
@@ -7135,7 +7135,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "In a troubleshooting case, the following observation is recorded: A missing lease can lead to 169.254 addressing. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A device specification calls for the following: automatic address assignment using UDP ports 67 and 68. Which listed option meets it?",
     "opts": [
       "DHCP",
       "IMAP",
@@ -7156,7 +7156,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "Which option would you select when a support ticket calls for encrypted web traffic using TCP port 443?",
+    "q": "An IT team must address the following condition: encrypted web traffic using TCP port 443. Which choice best applies?",
     "opts": [
       "HTTPS",
       "RDP",
@@ -7198,28 +7198,28 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Crowded channels can affect nearby networks. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "An office has many neighboring 2.4 GHz networks. Users near the access point need higher throughput, and all clients support 5 GHz. What is the best initial wireless change?",
     "opts": [
-      "2.4 GHz",
-      "6 GHz",
-      "5 GHz",
-      "RFID"
+      "Move compatible clients to a clean 5 GHz channel",
+      "Increase 2.4 GHz channel width to 40 MHz",
+      "Disable all Wi-Fi security",
+      "Enable Bluetooth on every workstation"
     ],
     "ans": [
       0
     ],
     "why": [
-      "2.4 GHz: Wi-Fi band with longer typical reach but more interference.",
-      "6 GHz: Newer Wi-Fi spectrum used by compatible devices.4 ghz.",
-      "5 GHz: Wi-Fi band with more available channels and shorter typical reach.4 ghz.",
-      "RFID: Radio identification technology using tags and readers.4 ghz."
+      "A clean 5 GHz channel often reduces interference and offers more usable spectrum near the AP.",
+      "Wider 2.4 GHz channels increase overlap in a crowded band.",
+      "Disabling encryption exposes traffic and does not solve channel contention.",
+      "Bluetooth is not a substitute for an office Wi-Fi connection."
     ],
-    "tip": "Crowded channels can affect nearby networks."
+    "tip": "In congested offices, inspect channel utilization before raising transmit power or widening channels."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "Which option would you select when a support ticket calls for wi-Fi band with more available channels and shorter typical reach?",
+    "q": "A hardware assessment notes: wi-Fi band with more available channels and shorter typical reach. Identify the most suitable component or feature.",
     "opts": [
       "5 GHz",
       "802.11 standards",
@@ -7240,7 +7240,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "A customer describes a system that needs newer Wi-Fi spectrum used by compatible devices. Which choice matches that need?",
+    "q": "A service desk technician receives this requirement: newer Wi-Fi spectrum used by compatible devices. Which listed technology fits the requirement?",
     "opts": [
       "6 GHz",
       "5 GHz",
@@ -7261,7 +7261,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Wider channels can increase overlap. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A client reports the following technical detail: amount of radio spectrum a Wi-Fi channel occupies. What does it most closely describe?",
     "opts": [
       "Channel width",
       "6 GHz",
@@ -7282,7 +7282,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "A technician is comparing options for this requirement: family of wireless LAN technical standards. Which technology is appropriate?",
+    "q": "A small-office technician is asked to provide the following capability: family of wireless LAN technical standards. What should be selected?",
     "opts": [
       "802.11 standards",
       "Channel width",
@@ -7303,7 +7303,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "A field technician must provide radio identification technology using tags and readers. Which technology fulfills this purpose?",
+    "q": "A field engineer is planning a repair involving this need: radio identification technology using tags and readers. Select the most appropriate item.",
     "opts": [
       "RFID",
       "2.4 GHz",
@@ -7324,7 +7324,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Headsets generally use Bluetooth rather than Wi-Fi. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "During equipment selection, a customer requests this functionality: short-range wireless technology for peripherals. Which item is appropriate?",
     "opts": [
       "Bluetooth",
       "802.11 standards",
@@ -7345,7 +7345,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "An administrator needs wi-Fi band with longer typical reach but more interference. Which item matches the requirement?",
+    "q": "A device specification calls for the following: wi-Fi band with longer typical reach but more interference. Which listed option meets it?",
     "opts": [
       "2.4 GHz",
       "6 GHz",
@@ -7366,7 +7366,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "A repair ticket specifies wi-Fi band with more available channels and shorter typical reach. Which item addresses that specification?",
+    "q": "An IT team must address the following condition: wi-Fi band with more available channels and shorter typical reach. Which choice best applies?",
     "opts": [
       "5 GHz",
       "6 GHz",
@@ -7387,7 +7387,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Both client and access point must support it. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A technician is reviewing a configuration with this characteristic: newer Wi-Fi spectrum used by compatible devices. Identify the best match.",
     "opts": [
       "6 GHz",
       "2.4 GHz",
@@ -7408,7 +7408,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "A device specification mentions amount of radio spectrum a Wi-Fi channel occupies. What feature is being described?",
+    "q": "A support engineer must account for this behavior: amount of radio spectrum a Wi-Fi channel occupies. Which technology is relevant?",
     "opts": [
       "Channel width",
       "5 GHz",
@@ -7429,7 +7429,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "During a help-desk escalation, the documented need is family of wireless LAN technical standards. What should the technician use?",
+    "q": "A hardware assessment notes: family of wireless LAN technical standards. Identify the most suitable component or feature.",
     "opts": [
       "802.11 standards",
       "RFID",
@@ -7450,7 +7450,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Inventory tags are not the same as Wi-Fi clients. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A service desk technician receives this requirement: radio identification technology using tags and readers. Which listed technology fits the requirement?",
     "opts": [
       "RFID",
       "6 GHz",
@@ -7471,7 +7471,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "Which option would you select when a support ticket calls for short-range wireless technology for peripherals?",
+    "q": "A client reports the following technical detail: short-range wireless technology for peripherals. What does it most closely describe?",
     "opts": [
       "Bluetooth",
       "Channel width",
@@ -7513,7 +7513,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Prefer it when interference matters and coverage is sufficient. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A field engineer is planning a repair involving this need: wi-Fi band with more available channels and shorter typical reach. Select the most appropriate item.",
     "opts": [
       "5 GHz",
       "802.11 standards",
@@ -7534,7 +7534,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "A technician is comparing options for this requirement: newer Wi-Fi spectrum used by compatible devices. Which technology is appropriate?",
+    "q": "During equipment selection, a customer requests this functionality: newer Wi-Fi spectrum used by compatible devices. Which item is appropriate?",
     "opts": [
       "6 GHz",
       "5 GHz",
@@ -7576,28 +7576,28 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "In a troubleshooting case, the following observation is recorded: A hostname failure may point to DNS. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "Several users can reach an intranet site by IP address but not by hostname; the default gateway works. Which network service should be investigated?",
     "opts": [
       "DNS server",
-      "Proxy server",
       "Print server",
-      "DHCP server"
+      "NTP server",
+      "Syslog collector"
     ],
     "ans": [
       0
     ],
     "why": [
-      "DNS server: Resolves hostnames into network information.",
-      "Proxy server: Intermediary for client network requests.",
-      "Print server: Shares and manages network print jobs.",
-      "DHCP server: Distributes IP configuration leases."
+      "DNS resolves hostnames to IP addresses; successful IP access isolates name resolution.",
+      "Print servers manage printing and do not resolve website hostnames.",
+      "NTP synchronizes time, not general hostname lookup.",
+      "Syslog collects logs rather than answering DNS queries."
     ],
-    "tip": "A hostname failure may point to DNS."
+    "tip": "Test the hostname and its IP separately to distinguish DNS failures from routing failures."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "Which option would you select when a support ticket calls for distributes IP configuration leases?",
+    "q": "A technician is reviewing a configuration with this characteristic: distributes IP configuration leases. Identify the best match.",
     "opts": [
       "DHCP server",
       "AAA",
@@ -7618,7 +7618,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "A customer describes a system that needs provides network time synchronization. Which choice matches that need?",
+    "q": "A support engineer must account for this behavior: provides network time synchronization. Which technology is relevant?",
     "opts": [
       "NTP server",
       "Print server",
@@ -7639,7 +7639,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "In a troubleshooting case, the following observation is recorded: Central logs help correlate faults. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A hardware assessment notes: collects system and device log messages. Identify the most suitable component or feature.",
     "opts": [
       "Syslog server",
       "Proxy server",
@@ -7660,7 +7660,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "A technician is comparing options for this requirement: shares and manages network print jobs. Which technology is appropriate?",
+    "q": "A service desk technician receives this requirement: shares and manages network print jobs. Which listed technology fits the requirement?",
     "opts": [
       "Print server",
       "Load balancer",
@@ -7681,7 +7681,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "A field technician must provide intermediary for client network requests. Which technology fulfills this purpose?",
+    "q": "A client reports the following technical detail: intermediary for client network requests. What does it most closely describe?",
     "opts": [
       "Proxy server",
       "NTP server",
@@ -7702,7 +7702,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "In a troubleshooting case, the following observation is recorded: Spreading traffic improves capacity and availability. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A small-office technician is asked to provide the following capability: distributes requests across backend systems. What should be selected?",
     "opts": [
       "Load balancer",
       "DNS server",
@@ -7723,7 +7723,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "An administrator needs supervisory systems for industrial processes. Which item matches the requirement?",
+    "q": "A field engineer is planning a repair involving this need: supervisory systems for industrial processes. Select the most appropriate item.",
     "opts": [
       "SCADA",
       "Print server",
@@ -7744,7 +7744,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "A repair ticket specifies authentication authorization and accounting services. Which item addresses that specification?",
+    "q": "During equipment selection, a customer requests this functionality: authentication authorization and accounting services. Which item is appropriate?",
     "opts": [
       "AAA",
       "Syslog server",
@@ -7765,7 +7765,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "In a troubleshooting case, the following observation is recorded: A hostname failure may point to DNS. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A device specification calls for the following: resolves hostnames into network information. Which listed option meets it?",
     "opts": [
       "DNS server",
       "Load balancer",
@@ -7786,7 +7786,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "A device specification mentions distributes IP configuration leases. What feature is being described?",
+    "q": "An IT team must address the following condition: distributes IP configuration leases. Which choice best applies?",
     "opts": [
       "DHCP server",
       "Print server",
@@ -7807,7 +7807,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "During a help-desk escalation, the documented need is provides network time synchronization. What should the technician use?",
+    "q": "A technician is reviewing a configuration with this characteristic: provides network time synchronization. Identify the best match.",
     "opts": [
       "NTP server",
       "Syslog server",
@@ -7828,7 +7828,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "In a troubleshooting case, the following observation is recorded: Central logs help correlate faults. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A support engineer must account for this behavior: collects system and device log messages. Which technology is relevant?",
     "opts": [
       "Syslog server",
       "Load balancer",
@@ -7849,7 +7849,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "Which option would you select when a support ticket calls for shares and manages network print jobs?",
+    "q": "A hardware assessment notes: shares and manages network print jobs. Identify the most suitable component or feature.",
     "opts": [
       "Print server",
       "AAA",
@@ -7891,7 +7891,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "In a troubleshooting case, the following observation is recorded: Spreading traffic improves capacity and availability. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A client reports the following technical detail: distributes requests across backend systems. What does it most closely describe?",
     "opts": [
       "Load balancer",
       "DHCP server",
@@ -7912,7 +7912,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "A technician is comparing options for this requirement: supervisory systems for industrial processes. Which technology is appropriate?",
+    "q": "A small-office technician is asked to provide the following capability: supervisory systems for industrial processes. What should be selected?",
     "opts": [
       "SCADA",
       "Print server",
@@ -7954,28 +7954,28 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "In a troubleshooting case, the following observation is recorded: A records do not store IPv6 addresses. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A printer must always receive 192.168.10.50 from DHCP without manually setting an address on the printer. What should the administrator configure?",
     "opts": [
-      "A record",
-      "DHCP exclusion",
       "DHCP reservation",
-      "VLAN"
+      "DHCP exclusion only",
+      "DNS CNAME",
+      "VLAN trunk"
     ],
     "ans": [
       0
     ],
     "why": [
-      "A record: Maps a DNS name to an IPv4 address.",
-      "DHCP exclusion: Prevents addresses in a scope from being handed out.",
-      "DHCP reservation: Assigns a consistent lease to a specified client.",
-      "VLAN: Logically separates broadcast domains on switching infrastructure."
+      "A reservation maps the printer MAC address to a consistent DHCP-assigned IP.",
+      "An exclusion only prevents allocation; it does not assign a specific IP to a client.",
+      "A CNAME provides a DNS alias rather than a DHCP address assignment.",
+      "A VLAN trunk transports tagged VLANs and does not reserve addresses."
     ],
-    "tip": "A records do not store IPv6 addresses."
+    "tip": "Reserve infrastructure device addresses by MAC, then document them to avoid accidental conflicts."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "Which option would you select when a support ticket calls for maps a DNS name to an IPv6 address?",
+    "q": "A device specification calls for the following: maps a DNS name to an IPv6 address. Which listed option meets it?",
     "opts": [
       "AAAA record",
       "TXT record",
@@ -7996,7 +7996,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "A customer describes a system that needs aliases one DNS hostname to another. Which choice matches that need?",
+    "q": "An IT team must address the following condition: aliases one DNS hostname to another. Which choice best applies?",
     "opts": [
       "CNAME record",
       "VPN",
@@ -8017,7 +8017,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "In a troubleshooting case, the following observation is recorded: Mail routing relies on MX. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A technician is reviewing a configuration with this characteristic: identifies mail exchangers for a domain. Identify the best match.",
     "opts": [
       "MX record",
       "VLAN",
@@ -8038,7 +8038,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "A technician is comparing options for this requirement: stores text values for DNS verification or policy. Which technology is appropriate?",
+    "q": "A support engineer must account for this behavior: stores text values for DNS verification or policy. Which technology is relevant?",
     "opts": [
       "TXT record",
       "VLAN",
@@ -8059,7 +8059,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "A field technician must provide assigns a consistent lease to a specified client. Which technology fulfills this purpose?",
+    "q": "A hardware assessment notes: assigns a consistent lease to a specified client. Identify the most suitable component or feature.",
     "opts": [
       "DHCP reservation",
       "DHCP exclusion",
@@ -8080,7 +8080,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "In a troubleshooting case, the following observation is recorded: Reserve infrastructure ranges from dynamic leasing. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A service desk technician receives this requirement: prevents addresses in a scope from being handed out. Which listed technology fits the requirement?",
     "opts": [
       "DHCP exclusion",
       "CNAME record",
@@ -8101,7 +8101,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "An administrator needs logically separates broadcast domains on switching infrastructure. Which item matches the requirement?",
+    "q": "A client reports the following technical detail: logically separates broadcast domains on switching infrastructure. What does it most closely describe?",
     "opts": [
       "VLAN",
       "MX record",
@@ -8122,7 +8122,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "A repair ticket specifies creates a protected tunnel across another network. Which item addresses that specification?",
+    "q": "A small-office technician is asked to provide the following capability: creates a protected tunnel across another network. What should be selected?",
     "opts": [
       "VPN",
       "A record",
@@ -8143,7 +8143,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "In a troubleshooting case, the following observation is recorded: A records do not store IPv6 addresses. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A field engineer is planning a repair involving this need: maps a DNS name to an IPv4 address. Select the most appropriate item.",
     "opts": [
       "A record",
       "DHCP exclusion",
@@ -8164,7 +8164,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "A device specification mentions maps a DNS name to an IPv6 address. What feature is being described?",
+    "q": "During equipment selection, a customer requests this functionality: maps a DNS name to an IPv6 address. Which item is appropriate?",
     "opts": [
       "AAAA record",
       "A record",
@@ -8185,7 +8185,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "During a help-desk escalation, the documented need is aliases one DNS hostname to another. What should the technician use?",
+    "q": "A device specification calls for the following: aliases one DNS hostname to another. Which listed option meets it?",
     "opts": [
       "CNAME record",
       "A record",
@@ -8206,7 +8206,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "In a troubleshooting case, the following observation is recorded: Mail routing relies on MX. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "An IT team must address the following condition: identifies mail exchangers for a domain. Which choice best applies?",
     "opts": [
       "MX record",
       "AAAA record",
@@ -8227,7 +8227,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "Which option would you select when a support ticket calls for stores text values for DNS verification or policy?",
+    "q": "A technician is reviewing a configuration with this characteristic: stores text values for DNS verification or policy. Identify the best match.",
     "opts": [
       "TXT record",
       "DHCP reservation",
@@ -8269,7 +8269,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "In a troubleshooting case, the following observation is recorded: Reserve infrastructure ranges from dynamic leasing. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A hardware assessment notes: prevents addresses in a scope from being handed out. Identify the most suitable component or feature.",
     "opts": [
       "DHCP exclusion",
       "DHCP reservation",
@@ -8290,28 +8290,28 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "In a troubleshooting case, the following observation is recorded: A default gateway is usually a router. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A ceiling access point needs both network data and electrical power, but no outlet is nearby. The existing switch has no PoE support. Which addition is most direct?",
     "opts": [
-      "Router",
-      "Firewall",
-      "Switch",
-      "NIC"
+      "PoE injector",
+      "Unmanaged hub",
+      "Cable modem",
+      "Patch panel"
     ],
     "ans": [
       0
     ],
     "why": [
-      "Router: Forwards traffic between IP networks.",
-      "Firewall: Filters traffic using security rules.",
-      "Switch: Connects devices within a local Ethernet network.",
-      "NIC: Interface enabling a host to connect to a network."
+      "A PoE injector adds power to a supported Ethernet run for a compatible access point.",
+      "A hub repeats Ethernet signals but does not inherently provide PoE power.",
+      "A cable modem converts ISP service and does not power an access point.",
+      "A passive patch panel terminates cables without supplying electrical power."
     ],
-    "tip": "A default gateway is usually a router."
+    "tip": "Check the AP’s PoE standard and power budget before choosing an injector."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "Which option would you select when a support ticket calls for connects devices within a local Ethernet network?",
+    "q": "A client reports the following technical detail: connects devices within a local Ethernet network. What does it most closely describe?",
     "opts": [
       "Switch",
       "Firewall",
@@ -8332,7 +8332,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "A customer describes a system that needs connects wireless clients to a wired network. Which choice matches that need?",
+    "q": "A small-office technician is asked to provide the following capability: connects wireless clients to a wired network. What should be selected?",
     "opts": [
       "Access point",
       "Router",
@@ -8353,7 +8353,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "In a troubleshooting case, the following observation is recorded: Patch panels do not make routing decisions. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A field engineer is planning a repair involving this need: passive termination and organization for cable runs. Select the most appropriate item.",
     "opts": [
       "Patch panel",
       "Firewall",
@@ -8374,7 +8374,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "A technician is comparing options for this requirement: filters traffic using security rules. Which technology is appropriate?",
+    "q": "During equipment selection, a customer requests this functionality: filters traffic using security rules. Which item is appropriate?",
     "opts": [
       "Firewall",
       "Switch",
@@ -8395,7 +8395,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "A field technician must provide adds power to an Ethernet link for a compatible device. Which technology fulfills this purpose?",
+    "q": "A device specification calls for the following: adds power to an Ethernet link for a compatible device. Which listed option meets it?",
     "opts": [
       "PoE injector",
       "Router",
@@ -8416,7 +8416,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "In a troubleshooting case, the following observation is recorded: Fiber service often ends at an ONT. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "An IT team must address the following condition: terminates a fiber service at customer premises. Which choice best applies?",
     "opts": [
       "ONT",
       "Access point",
@@ -8437,7 +8437,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "An administrator needs interface enabling a host to connect to a network. Which item matches the requirement?",
+    "q": "A technician is reviewing a configuration with this characteristic: interface enabling a host to connect to a network. Identify the best match.",
     "opts": [
       "NIC",
       "Access point",
@@ -8458,7 +8458,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "A repair ticket specifies forwards traffic between IP networks. Which item addresses that specification?",
+    "q": "A support engineer must account for this behavior: forwards traffic between IP networks. Which technology is relevant?",
     "opts": [
       "Router",
       "PoE injector",
@@ -8479,7 +8479,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "In a troubleshooting case, the following observation is recorded: Switches forward using MAC addresses. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A hardware assessment notes: connects devices within a local Ethernet network. Identify the most suitable component or feature.",
     "opts": [
       "Switch",
       "PoE injector",
@@ -8500,7 +8500,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "A device specification mentions connects wireless clients to a wired network. What feature is being described?",
+    "q": "A service desk technician receives this requirement: connects wireless clients to a wired network. Which listed technology fits the requirement?",
     "opts": [
       "Access point",
       "NIC",
@@ -8521,7 +8521,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "During a help-desk escalation, the documented need is passive termination and organization for cable runs. What should the technician use?",
+    "q": "A client reports the following technical detail: passive termination and organization for cable runs. What does it most closely describe?",
     "opts": [
       "Patch panel",
       "Access point",
@@ -8542,7 +8542,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "In a troubleshooting case, the following observation is recorded: Check policy before assuming a link failure. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A small-office technician is asked to provide the following capability: filters traffic using security rules. What should be selected?",
     "opts": [
       "Firewall",
       "NIC",
@@ -8563,7 +8563,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "Which option would you select when a support ticket calls for adds power to an Ethernet link for a compatible device?",
+    "q": "A field engineer is planning a repair involving this need: adds power to an Ethernet link for a compatible device. Select the most appropriate item.",
     "opts": [
       "PoE injector",
       "NIC",
@@ -8605,7 +8605,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "In a troubleshooting case, the following observation is recorded: Check link and drivers before replacing it. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A device specification calls for the following: interface enabling a host to connect to a network. Which listed option meets it?",
     "opts": [
       "NIC",
       "Switch",
@@ -8626,7 +8626,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "A technician is comparing options for this requirement: forwards traffic between IP networks. Which technology is appropriate?",
+    "q": "An IT team must address the following condition: forwards traffic between IP networks. Which choice best applies?",
     "opts": [
       "Router",
       "Access point",
@@ -8647,28 +8647,28 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "In a troubleshooting case, the following observation is recorded: 169.254 often signals a missing DHCP lease. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A Windows desktop self-assigns 169.254.22.8 after moving to a new office jack. Other users can access the network. What is the most likely immediate issue?",
     "opts": [
-      "APIPA",
-      "Subnet mask",
-      "Static IP",
-      "IPv6"
+      "DHCP lease could not be obtained",
+      "The DNS server returned a wrong MX record",
+      "The gateway is configured as IPv6 only",
+      "The monitor uses the wrong input"
     ],
     "ans": [
       0
     ],
     "why": [
-      "APIPA: Automatic 169.254.x.x IPv4 addressing when DHCP fails.",
-      "Subnet mask: Identifies the network portion of an IPv4 address.",
-      "Static IP: Manually configured fixed IP address.",
-      "IPv6: Internet Protocol with 128-bit addresses."
+      "169.254.0.0/16 APIPA addressing commonly appears when a DHCP client cannot obtain a lease.",
+      "MX records route email and do not directly cause APIPA assignment.",
+      "IPv6 gateway settings alone do not explain failure to obtain an IPv4 DHCP lease.",
+      "Display input selection does not affect network address negotiation."
     ],
-    "tip": "169.254 often signals a missing DHCP lease."
+    "tip": "An APIPA address is a cue to check cabling, VLAN membership, and DHCP reachability."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "Which option would you select when a support ticket calls for identifies the network portion of an IPv4 address?",
+    "q": "A support engineer must account for this behavior: identifies the network portion of an IPv4 address. Which technology is relevant?",
     "opts": [
       "Subnet mask",
       "APIPA",
@@ -8689,7 +8689,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "A customer describes a system that needs router used to reach other IP networks. Which choice matches that need?",
+    "q": "A hardware assessment notes: router used to reach other IP networks. Identify the most suitable component or feature.",
     "opts": [
       "Default gateway",
       "Subnet mask",
@@ -8710,7 +8710,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "In a troubleshooting case, the following observation is recorded: Avoid conflicts with DHCP pools. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A service desk technician receives this requirement: manually configured fixed IP address. Which listed technology fits the requirement?",
     "opts": [
       "Static IP",
       "APIPA",
@@ -8731,7 +8731,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "A technician is comparing options for this requirement: iP settings obtained automatically from a service. Which technology is appropriate?",
+    "q": "A client reports the following technical detail: iP settings obtained automatically from a service. What does it most closely describe?",
     "opts": [
       "Dynamic IP",
       "Static IP",
@@ -8752,7 +8752,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "A field technician must provide addressing intended for internal networks. Which technology fulfills this purpose?",
+    "q": "A small-office technician is asked to provide the following capability: addressing intended for internal networks. What should be selected?",
     "opts": [
       "Private IPv4",
       "Dynamic IP",
@@ -8773,7 +8773,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "In a troubleshooting case, the following observation is recorded: IPv6 notation uses hexadecimal and colons. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A field engineer is planning a repair involving this need: internet Protocol with 128-bit addresses. Select the most appropriate item.",
     "opts": [
       "IPv6",
       "APIPA",
@@ -8794,7 +8794,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "An administrator needs automatic 169.254.x.x IPv4 addressing when DHCP fails. Which item matches the requirement?",
+    "q": "During equipment selection, a customer requests this functionality: automatic 169.254.x.x IPv4 addressing when DHCP fails. Which item is appropriate?",
     "opts": [
       "APIPA",
       "Private IPv4",
@@ -8815,7 +8815,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "A repair ticket specifies identifies the network portion of an IPv4 address. Which item addresses that specification?",
+    "q": "A device specification calls for the following: identifies the network portion of an IPv4 address. Which listed option meets it?",
     "opts": [
       "Subnet mask",
       "APIPA",
@@ -8836,7 +8836,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "In a troubleshooting case, the following observation is recorded: Local access can work even with a bad gateway. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "An IT team must address the following condition: router used to reach other IP networks. Which choice best applies?",
     "opts": [
       "Default gateway",
       "Private IPv4",
@@ -8857,7 +8857,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "A device specification mentions manually configured fixed IP address. What feature is being described?",
+    "q": "A technician is reviewing a configuration with this characteristic: manually configured fixed IP address. Identify the best match.",
     "opts": [
       "Static IP",
       "Dynamic IP",
@@ -8878,7 +8878,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "During a help-desk escalation, the documented need is iP settings obtained automatically from a service. What should the technician use?",
+    "q": "A support engineer must account for this behavior: iP settings obtained automatically from a service. Which technology is relevant?",
     "opts": [
       "Dynamic IP",
       "Default gateway",
@@ -8899,7 +8899,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "In a troubleshooting case, the following observation is recorded: 10.x and 192.168.x ranges are private. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A hardware assessment notes: addressing intended for internal networks. Identify the most suitable component or feature.",
     "opts": [
       "Private IPv4",
       "Static IP",
@@ -8920,7 +8920,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "Which option would you select when a support ticket calls for internet Protocol with 128-bit addresses?",
+    "q": "A service desk technician receives this requirement: internet Protocol with 128-bit addresses. Which listed technology fits the requirement?",
     "opts": [
       "IPv6",
       "Default gateway",
@@ -8962,7 +8962,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "In a troubleshooting case, the following observation is recorded: An incorrect mask can make local hosts appear remote. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A small-office technician is asked to provide the following capability: identifies the network portion of an IPv4 address. What should be selected?",
     "opts": [
       "Subnet mask",
       "Dynamic IP",
@@ -8983,7 +8983,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "A technician is comparing options for this requirement: router used to reach other IP networks. Which technology is appropriate?",
+    "q": "A field engineer is planning a repair involving this need: router used to reach other IP networks. Select the most appropriate item.",
     "opts": [
       "Default gateway",
       "Static IP",
@@ -9025,28 +9025,28 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "In a troubleshooting case, the following observation is recorded: Fiber uses optical termination equipment. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A remote cabin has no wired broadband infrastructure or usable cellular signal but has a clear view of the sky. Which connection is most feasible?",
     "opts": [
-      "Fiber",
-      "WAN",
-      "SAN",
-      "LAN"
+      "Satellite internet",
+      "DSL",
+      "Cable broadband",
+      "Fiber to the premises"
     ],
     "ans": [
       0
     ],
     "why": [
-      "Fiber: Internet access transmitted using optical signals.",
-      "WAN: Network connecting geographically separated sites.",
-      "SAN: Dedicated network for block storage traffic.",
-      "LAN: Network covering a limited local area."
+      "Satellite can provide internet without nearby terrestrial broadband infrastructure.",
+      "DSL requires usable telephone-line infrastructure and provider service.",
+      "Cable requires a local coaxial provider network.",
+      "Fiber requires installed fiber infrastructure to the property."
     ],
-    "tip": "Fiber uses optical termination equipment."
+    "tip": "For remote sites, evaluate line of sight, latency, and weather exposure as well as coverage."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "Which option would you select when a support ticket calls for broadband service commonly using coaxial distribution?",
+    "q": "An IT team must address the following condition: broadband service commonly using coaxial distribution. Which choice best applies?",
     "opts": [
       "Cable internet",
       "WAN",
@@ -9067,7 +9067,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "A customer describes a system that needs internet access using telephone copper pairs. Which choice matches that need?",
+    "q": "A technician is reviewing a configuration with this characteristic: internet access using telephone copper pairs. Identify the best match.",
     "opts": [
       "DSL",
       "LAN",
@@ -9088,7 +9088,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "In a troubleshooting case, the following observation is recorded: Long path lengths can increase latency. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A support engineer must account for this behavior: internet service using orbiting relays. Which technology is relevant?",
     "opts": [
       "Satellite",
       "SAN",
@@ -9109,7 +9109,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "A technician is comparing options for this requirement: internet service over a mobile carrier network. Which technology is appropriate?",
+    "q": "A hardware assessment notes: internet service over a mobile carrier network. Identify the most suitable component or feature.",
     "opts": [
       "Cellular",
       "WAN",
@@ -9130,7 +9130,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "A field technician must provide network covering a limited local area. Which technology fulfills this purpose?",
+    "q": "A service desk technician receives this requirement: network covering a limited local area. Which listed technology fits the requirement?",
     "opts": [
       "LAN",
       "PAN",
@@ -9151,7 +9151,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "In a troubleshooting case, the following observation is recorded: A WAN spans beyond one local site. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A client reports the following technical detail: network connecting geographically separated sites. What does it most closely describe?",
     "opts": [
       "WAN",
       "Satellite",
@@ -9172,7 +9172,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "An administrator needs network centered around an individual. Which item matches the requirement?",
+    "q": "A small-office technician is asked to provide the following capability: network centered around an individual. What should be selected?",
     "opts": [
       "PAN",
       "SAN",
@@ -9193,7 +9193,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "A repair ticket specifies dedicated network for block storage traffic. Which item addresses that specification?",
+    "q": "A field engineer is planning a repair involving this need: dedicated network for block storage traffic. Select the most appropriate item.",
     "opts": [
       "SAN",
       "Cellular",
@@ -9214,7 +9214,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "In a troubleshooting case, the following observation is recorded: Fiber uses optical termination equipment. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "During equipment selection, a customer requests this functionality: internet access transmitted using optical signals. Which item is appropriate?",
     "opts": [
       "Fiber",
       "DSL",
@@ -9235,7 +9235,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "A device specification mentions broadband service commonly using coaxial distribution. What feature is being described?",
+    "q": "A device specification calls for the following: broadband service commonly using coaxial distribution. Which listed option meets it?",
     "opts": [
       "Cable internet",
       "SAN",
@@ -9256,7 +9256,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "During a help-desk escalation, the documented need is internet access using telephone copper pairs. What should the technician use?",
+    "q": "An IT team must address the following condition: internet access using telephone copper pairs. Which choice best applies?",
     "opts": [
       "DSL",
       "Cellular",
@@ -9277,7 +9277,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "In a troubleshooting case, the following observation is recorded: Long path lengths can increase latency. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A technician is reviewing a configuration with this characteristic: internet service using orbiting relays. Identify the best match.",
     "opts": [
       "Satellite",
       "SAN",
@@ -9298,7 +9298,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "Which option would you select when a support ticket calls for internet service over a mobile carrier network?",
+    "q": "A support engineer must account for this behavior: internet service over a mobile carrier network. Which technology is relevant?",
     "opts": [
       "Cellular",
       "SAN",
@@ -9340,7 +9340,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "In a troubleshooting case, the following observation is recorded: A WAN spans beyond one local site. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A service desk technician receives this requirement: network connecting geographically separated sites. Which listed technology fits the requirement?",
     "opts": [
       "WAN",
       "Fiber",
@@ -9361,7 +9361,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "A technician is comparing options for this requirement: network centered around an individual. Which technology is appropriate?",
+    "q": "A client reports the following technical detail: network centered around an individual. What does it most closely describe?",
     "opts": [
       "PAN",
       "WAN",
@@ -9403,28 +9403,28 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "In a troubleshooting case, the following observation is recorded: Choose a crimper for terminating modular plugs. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "Two unlabeled Ethernet cables disappear into a bundle. A technician must locate the far end of one disconnected cable without activating a link. Which tool pair is best?",
     "opts": [
-      "Crimper",
-      "Toner probe",
-      "Cable tester",
-      "Punchdown tool"
+      "Tone generator and probe",
+      "Wi-Fi analyzer and antenna",
+      "Loopback plug and switch",
+      "Crimper and cable stripper"
     ],
     "ans": [
       0
     ],
     "why": [
-      "Crimper: Attaches compatible connectors to cable ends.",
-      "Toner probe: Traces an unknown cable through bundles.",
-      "Cable tester: Checks cable continuity and wiring faults.",
-      "Punchdown tool: Seats conductors in insulation-displacement terminals."
+      "A tone generator sends a traceable signal and the probe identifies its cable among others.",
+      "A Wi-Fi analyzer surveys radio networks, not disconnected copper cable paths.",
+      "A loopback plug checks port signaling rather than tracing cable routes through a bundle.",
+      "Crimpers and strippers prepare connectors but cannot identify a distant cable."
     ],
-    "tip": "Choose a crimper for terminating modular plugs."
+    "tip": "Trace unknown cable runs before termination; label both ends once identified."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "Which option would you select when a support ticket calls for seats conductors in insulation-displacement terminals?",
+    "q": "During equipment selection, a customer requests this functionality: seats conductors in insulation-displacement terminals. Which item is appropriate?",
     "opts": [
       "Punchdown tool",
       "Loopback plug",
@@ -9445,7 +9445,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "A customer describes a system that needs checks cable continuity and wiring faults. Which choice matches that need?",
+    "q": "A device specification calls for the following: checks cable continuity and wiring faults. Which listed option meets it?",
     "opts": [
       "Cable tester",
       "Network tap",
@@ -9466,7 +9466,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "In a troubleshooting case, the following observation is recorded: Use tone and probe to locate the far end. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "An IT team must address the following condition: traces an unknown cable through bundles. Which choice best applies?",
     "opts": [
       "Toner probe",
       "Punchdown tool",
@@ -9487,7 +9487,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "A technician is comparing options for this requirement: surveys wireless channels and signal environment. Which technology is appropriate?",
+    "q": "A technician is reviewing a configuration with this characteristic: surveys wireless channels and signal environment. Identify the best match.",
     "opts": [
       "Wi-Fi analyzer",
       "Crimper",
@@ -9508,7 +9508,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "A field technician must provide returns transmitted signals to test an interface. Which technology fulfills this purpose?",
+    "q": "A support engineer must account for this behavior: returns transmitted signals to test an interface. Which technology is relevant?",
     "opts": [
       "Loopback plug",
       "Wi-Fi analyzer",
@@ -9529,7 +9529,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "In a troubleshooting case, the following observation is recorded: A tap is for observing packets. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A hardware assessment notes: provides a copy of traffic for monitoring. Identify the most suitable component or feature.",
     "opts": [
       "Network tap",
       "Toner probe",
@@ -9550,7 +9550,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "An administrator needs attaches compatible connectors to cable ends. Which item matches the requirement?",
+    "q": "A service desk technician receives this requirement: attaches compatible connectors to cable ends. Which listed technology fits the requirement?",
     "opts": [
       "Crimper",
       "Punchdown tool",
@@ -9571,7 +9571,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "A repair ticket specifies seats conductors in insulation-displacement terminals. Which item addresses that specification?",
+    "q": "A client reports the following technical detail: seats conductors in insulation-displacement terminals. What does it most closely describe?",
     "opts": [
       "Punchdown tool",
       "Loopback plug",
@@ -9592,7 +9592,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "In a troubleshooting case, the following observation is recorded: Verify a newly terminated cable before deployment. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A small-office technician is asked to provide the following capability: checks cable continuity and wiring faults. What should be selected?",
     "opts": [
       "Cable tester",
       "Punchdown tool",
@@ -9613,7 +9613,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "A device specification mentions traces an unknown cable through bundles. What feature is being described?",
+    "q": "A field engineer is planning a repair involving this need: traces an unknown cable through bundles. Select the most appropriate item.",
     "opts": [
       "Toner probe",
       "Crimper",
@@ -9634,7 +9634,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "During a help-desk escalation, the documented need is surveys wireless channels and signal environment. What should the technician use?",
+    "q": "During equipment selection, a customer requests this functionality: surveys wireless channels and signal environment. Which item is appropriate?",
     "opts": [
       "Wi-Fi analyzer",
       "Punchdown tool",
@@ -9655,7 +9655,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "In a troubleshooting case, the following observation is recorded: Loopback isolates a port from the external path. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A device specification calls for the following: returns transmitted signals to test an interface. Which listed option meets it?",
     "opts": [
       "Loopback plug",
       "Cable tester",
@@ -9676,7 +9676,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "Which option would you select when a support ticket calls for provides a copy of traffic for monitoring?",
+    "q": "An IT team must address the following condition: provides a copy of traffic for monitoring. Which choice best applies?",
     "opts": [
       "Network tap",
       "Crimper",
@@ -9718,7 +9718,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "In a troubleshooting case, the following observation is recorded: Patch panels often use punchdown blocks. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A support engineer must account for this behavior: seats conductors in insulation-displacement terminals. Which technology is relevant?",
     "opts": [
       "Punchdown tool",
       "Network tap",
@@ -9739,7 +9739,7 @@ const QUESTIONS = [
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "A technician is comparing options for this requirement: checks cable continuity and wiring faults. Which technology is appropriate?",
+    "q": "A hardware assessment notes: checks cable continuity and wiring faults. Identify the most suitable component or feature.",
     "opts": [
       "Cable tester",
       "Crimper",
@@ -9760,28 +9760,28 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "In a troubleshooting case, the following observation is recorded: Good viewing angles can matter for shared displays. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A designer needs wide viewing angles and reliable color consistency on an LCD workstation display. Which panel technology is most appropriate?",
     "opts": [
-      "IPS LCD",
-      "OLED",
-      "Refresh rate",
-      "TN LCD"
+      "IPS",
+      "TN",
+      "VA",
+      "Legacy CRT"
     ],
     "ans": [
       0
     ],
     "why": [
-      "IPS LCD: LCD panel known for wide viewing angles.",
-      "OLED: Self-emissive pixels that do not need a traditional backlight.",
-      "Refresh rate: Number of display updates per second.",
-      "TN LCD: LCD panel type often optimized for response speed."
+      "IPS LCD panels are known for broad viewing angles and consistent color presentation.",
+      "TN typically prioritizes response time and cost over viewing-angle consistency.",
+      "VA often offers strong contrast but may shift color and brightness off-axis.",
+      "CRT is not an LCD panel technology."
     ],
-    "tip": "Good viewing angles can matter for shared displays."
+    "tip": "For color-sensitive work, compare viewing angles and color accuracy rather than refresh rate alone."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "Which option would you select when a support ticket calls for lCD panel type often optimized for response speed?",
+    "q": "During equipment selection, a customer requests this functionality: lCD panel type often optimized for response speed. Which item is appropriate?",
     "opts": [
       "TN LCD",
       "OLED",
@@ -9802,7 +9802,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "A customer describes a system that needs lCD panel type often associated with stronger contrast. Which choice matches that need?",
+    "q": "A device specification calls for the following: lCD panel type often associated with stronger contrast. Which listed option meets it?",
     "opts": [
       "VA LCD",
       "Pixel density",
@@ -9823,7 +9823,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "In a troubleshooting case, the following observation is recorded: Static content can contribute to burn-in. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "An IT team must address the following condition: self-emissive pixels that do not need a traditional backlight. Which choice best applies?",
     "opts": [
       "OLED",
       "Pixel density",
@@ -9844,7 +9844,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "A technician is comparing options for this requirement: detects touch and stylus position. Which technology is appropriate?",
+    "q": "A technician is reviewing a configuration with this characteristic: detects touch and stylus position. Identify the best match.",
     "opts": [
       "Digitizer",
       "IPS LCD",
@@ -9865,7 +9865,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "A field technician must provide number of display updates per second. Which technology fulfills this purpose?",
+    "q": "A support engineer must account for this behavior: number of display updates per second. Which technology is relevant?",
     "opts": [
       "Refresh rate",
       "TN LCD",
@@ -9886,7 +9886,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "In a troubleshooting case, the following observation is recorded: A high-resolution small panel can look sharper. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A hardware assessment notes: number of pixels per physical display area. Identify the most suitable component or feature.",
     "opts": [
       "Pixel density",
       "VA LCD",
@@ -9907,7 +9907,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "An administrator needs range of colors a display can reproduce. Which item matches the requirement?",
+    "q": "A service desk technician receives this requirement: range of colors a display can reproduce. Which listed technology fits the requirement?",
     "opts": [
       "Color gamut",
       "Refresh rate",
@@ -9928,7 +9928,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "A repair ticket specifies lCD panel known for wide viewing angles. Which item addresses that specification?",
+    "q": "A client reports the following technical detail: lCD panel known for wide viewing angles. What does it most closely describe?",
     "opts": [
       "IPS LCD",
       "TN LCD",
@@ -9949,7 +9949,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "In a troubleshooting case, the following observation is recorded: Panel technology affects viewing and color. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A small-office technician is asked to provide the following capability: lCD panel type often optimized for response speed. What should be selected?",
     "opts": [
       "TN LCD",
       "Refresh rate",
@@ -9970,7 +9970,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "A device specification mentions lCD panel type often associated with stronger contrast. What feature is being described?",
+    "q": "A field engineer is planning a repair involving this need: lCD panel type often associated with stronger contrast. Select the most appropriate item.",
     "opts": [
       "VA LCD",
       "Pixel density",
@@ -9991,7 +9991,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "During a help-desk escalation, the documented need is self-emissive pixels that do not need a traditional backlight. What should the technician use?",
+    "q": "During equipment selection, a customer requests this functionality: self-emissive pixels that do not need a traditional backlight. Which item is appropriate?",
     "opts": [
       "OLED",
       "Refresh rate",
@@ -10012,7 +10012,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "In a troubleshooting case, the following observation is recorded: Visible image can work while touch input fails. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A device specification calls for the following: detects touch and stylus position. Which listed option meets it?",
     "opts": [
       "Digitizer",
       "Refresh rate",
@@ -10033,7 +10033,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "Which option would you select when a support ticket calls for number of display updates per second?",
+    "q": "An IT team must address the following condition: number of display updates per second. Which choice best applies?",
     "opts": [
       "Refresh rate",
       "OLED",
@@ -10075,7 +10075,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "In a troubleshooting case, the following observation is recorded: Gamut is not the same as resolution. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A support engineer must account for this behavior: range of colors a display can reproduce. Which technology is relevant?",
     "opts": [
       "Color gamut",
       "TN LCD",
@@ -10096,7 +10096,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "A technician is comparing options for this requirement: lCD panel known for wide viewing angles. Which technology is appropriate?",
+    "q": "A hardware assessment notes: lCD panel known for wide viewing angles. Identify the most suitable component or feature.",
     "opts": [
       "IPS LCD",
       "Digitizer",
@@ -10138,28 +10138,28 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Ethernet patch cables typically terminate with RJ45. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A 90-meter copper Ethernet run passes through an air-handling space. Which cable jacket rating addresses the installation requirement?",
     "opts": [
-      "RJ45",
-      "SATA",
-      "Single-mode fiber",
-      "DisplayPort"
+      "Plenum-rated",
+      "Direct-burial",
+      "Standard PVC patch cable",
+      "Unrated flat cable"
     ],
     "ans": [
       0
     ],
     "why": [
-      "RJ45: Modular connector commonly used for Ethernet.",
-      "SATA: Data interface for internal drives.",
-      "Single-mode fiber: Optical fiber suited for long-distance links.",
-      "DisplayPort: Digital display interface common on computers."
+      "Plenum-rated jackets are designed for spaces used for air circulation under applicable building codes.",
+      "Direct-burial jackets address underground moisture and soil exposure, not plenum fire requirements.",
+      "Ordinary PVC jackets may not satisfy air-handling-space fire and smoke rules.",
+      "An unrated cable does not meet the specified installation safety requirement."
     ],
-    "tip": "Ethernet patch cables typically terminate with RJ45."
+    "tip": "Cable jacket ratings are a safety and code decision, separate from speed category."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "Which option would you select when a support ticket calls for smaller modular connector for telephone lines?",
+    "q": "A small-office technician is asked to provide the following capability: smaller modular connector for telephone lines. What should be selected?",
     "opts": [
       "RJ11",
       "RJ45",
@@ -10180,7 +10180,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "A customer describes a system that needs threaded coaxial connector for cable service. Which choice matches that need?",
+    "q": "A field engineer is planning a repair involving this need: threaded coaxial connector for cable service. Select the most appropriate item.",
     "opts": [
       "F-type",
       "RJ11",
@@ -10201,7 +10201,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Fiber requires optical rather than copper termination. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "During equipment selection, a customer requests this functionality: compact fiber optic connector. Which item is appropriate?",
     "opts": [
       "LC",
       "T568A/T568B",
@@ -10222,7 +10222,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "A technician is comparing options for this requirement: digital video and audio interface. Which technology is appropriate?",
+    "q": "A device specification calls for the following: digital video and audio interface. Which listed option meets it?",
     "opts": [
       "HDMI",
       "T568A/T568B",
@@ -10243,7 +10243,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "A field technician must provide digital display interface common on computers. Which technology fulfills this purpose?",
+    "q": "An IT team must address the following condition: digital display interface common on computers. Which choice best applies?",
     "opts": [
       "DisplayPort",
       "LC",
@@ -10264,7 +10264,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "In a troubleshooting case, the following observation is recorded: SATA is not a display cable. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A technician is reviewing a configuration with this characteristic: data interface for internal drives. Identify the best match.",
     "opts": [
       "SATA",
       "RJ11",
@@ -10285,7 +10285,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "An administrator needs wiring pinout standards for twisted-pair terminations. Which item matches the requirement?",
+    "q": "A support engineer must account for this behavior: wiring pinout standards for twisted-pair terminations. Which technology is relevant?",
     "opts": [
       "T568A/T568B",
       "RJ11",
@@ -10306,7 +10306,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "A repair ticket specifies optical fiber suited for long-distance links. Which item addresses that specification?",
+    "q": "A hardware assessment notes: optical fiber suited for long-distance links. Identify the most suitable component or feature.",
     "opts": [
       "Single-mode fiber",
       "F-type",
@@ -10327,7 +10327,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Ethernet patch cables typically terminate with RJ45. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A service desk technician receives this requirement: modular connector commonly used for Ethernet. Which listed technology fits the requirement?",
     "opts": [
       "RJ45",
       "F-type",
@@ -10348,7 +10348,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "A device specification mentions smaller modular connector for telephone lines. What feature is being described?",
+    "q": "A client reports the following technical detail: smaller modular connector for telephone lines. What does it most closely describe?",
     "opts": [
       "RJ11",
       "T568A/T568B",
@@ -10369,7 +10369,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "During a help-desk escalation, the documented need is threaded coaxial connector for cable service. What should the technician use?",
+    "q": "A small-office technician is asked to provide the following capability: threaded coaxial connector for cable service. What should be selected?",
     "opts": [
       "F-type",
       "Single-mode fiber",
@@ -10390,7 +10390,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Fiber requires optical rather than copper termination. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A field engineer is planning a repair involving this need: compact fiber optic connector. Select the most appropriate item.",
     "opts": [
       "LC",
       "SATA",
@@ -10411,7 +10411,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "Which option would you select when a support ticket calls for digital video and audio interface?",
+    "q": "During equipment selection, a customer requests this functionality: digital video and audio interface. Which item is appropriate?",
     "opts": [
       "HDMI",
       "RJ11",
@@ -10453,7 +10453,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "In a troubleshooting case, the following observation is recorded: SATA is not a display cable. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "An IT team must address the following condition: data interface for internal drives. Which choice best applies?",
     "opts": [
       "SATA",
       "Single-mode fiber",
@@ -10474,7 +10474,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "A technician is comparing options for this requirement: wiring pinout standards for twisted-pair terminations. Which technology is appropriate?",
+    "q": "A technician is reviewing a configuration with this characteristic: wiring pinout standards for twisted-pair terminations. Identify the best match.",
     "opts": [
       "T568A/T568B",
       "SATA",
@@ -10495,28 +10495,28 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "In a troubleshooting case, the following observation is recorded: Laptop memory slots often use SODIMMs. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A server must detect and correct single-bit memory errors during operation. Which memory feature is required?",
     "opts": [
-      "SODIMM",
-      "Non-ECC RAM",
-      "DDR generation",
-      "Dual channel"
+      "ECC RAM",
+      "Dual-channel mode",
+      "Higher DDR generation alone",
+      "SO-DIMM form factor"
     ],
     "ans": [
       0
     ],
     "why": [
-      "SODIMM: Compact RAM module form factor for many laptops.",
-      "Non-ECC RAM: Memory without ECC correction capability.",
-      "DDR generation: Memory family generation with specific compatibility.",
-      "Dual channel: Memory configuration using multiple channels."
+      "ECC memory adds error-detection and correction capability when supported by the platform.",
+      "Dual-channel mode increases bandwidth but does not itself correct memory bit errors.",
+      "A newer DDR generation does not guarantee error correction.",
+      "SO-DIMM describes module size, not error-correction support."
     ],
-    "tip": "Laptop memory slots often use SODIMMs."
+    "tip": "ECC needs compatible memory, motherboard, and CPU support—not just an ECC label on a module."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "Which option would you select when a support ticket calls for full-size memory module form factor for desktops?",
+    "q": "A hardware assessment notes: full-size memory module form factor for desktops. Identify the most suitable component or feature.",
     "opts": [
       "DIMM",
       "Dual channel",
@@ -10537,7 +10537,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "A customer describes a system that needs memory family generation with specific compatibility. Which choice matches that need?",
+    "q": "A service desk technician receives this requirement: memory family generation with specific compatibility. Which listed technology fits the requirement?",
     "opts": [
       "DDR generation",
       "DIMM",
@@ -10558,7 +10558,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "In a troubleshooting case, the following observation is recorded: Servers may use ECC for reliability. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A client reports the following technical detail: memory capable of detecting and correcting certain errors. What does it most closely describe?",
     "opts": [
       "ECC RAM",
       "DDR generation",
@@ -10579,7 +10579,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "A technician is comparing options for this requirement: memory without ECC correction capability. Which technology is appropriate?",
+    "q": "A small-office technician is asked to provide the following capability: memory without ECC correction capability. What should be selected?",
     "opts": [
       "Non-ECC RAM",
       "SODIMM",
@@ -10600,7 +10600,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "A field technician must provide memory configuration using multiple channels. Which technology fulfills this purpose?",
+    "q": "A field engineer is planning a repair involving this need: memory configuration using multiple channels. Select the most appropriate item.",
     "opts": [
       "Dual channel",
       "DIMM",
@@ -10621,7 +10621,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "In a troubleshooting case, the following observation is recorded: Laptop memory slots often use SODIMMs. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "During equipment selection, a customer requests this functionality: compact RAM module form factor for many laptops. Which item is appropriate?",
     "opts": [
       "SODIMM",
       "DDR generation",
@@ -10642,7 +10642,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "An administrator needs full-size memory module form factor for desktops. Which item matches the requirement?",
+    "q": "A device specification calls for the following: full-size memory module form factor for desktops. Which listed option meets it?",
     "opts": [
       "DIMM",
       "ECC RAM",
@@ -10663,7 +10663,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "A repair ticket specifies memory family generation with specific compatibility. Which item addresses that specification?",
+    "q": "An IT team must address the following condition: memory family generation with specific compatibility. Which choice best applies?",
     "opts": [
       "DDR generation",
       "DIMM",
@@ -10684,7 +10684,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "In a troubleshooting case, the following observation is recorded: Servers may use ECC for reliability. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A technician is reviewing a configuration with this characteristic: memory capable of detecting and correcting certain errors. Identify the best match.",
     "opts": [
       "ECC RAM",
       "DDR generation",
@@ -10705,7 +10705,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "A device specification mentions memory without ECC correction capability. What feature is being described?",
+    "q": "A support engineer must account for this behavior: memory without ECC correction capability. Which technology is relevant?",
     "opts": [
       "Non-ECC RAM",
       "SODIMM",
@@ -10726,7 +10726,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "During a help-desk escalation, the documented need is memory configuration using multiple channels. What should the technician use?",
+    "q": "A hardware assessment notes: memory configuration using multiple channels. Identify the most suitable component or feature.",
     "opts": [
       "Dual channel",
       "Non-ECC RAM",
@@ -10747,7 +10747,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "In a troubleshooting case, the following observation is recorded: Laptop memory slots often use SODIMMs. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A service desk technician receives this requirement: compact RAM module form factor for many laptops. Which listed technology fits the requirement?",
     "opts": [
       "SODIMM",
       "Non-ECC RAM",
@@ -10768,7 +10768,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "Which option would you select when a support ticket calls for full-size memory module form factor for desktops?",
+    "q": "A client reports the following technical detail: full-size memory module form factor for desktops. What does it most closely describe?",
     "opts": [
       "DIMM",
       "SODIMM",
@@ -10810,7 +10810,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "In a troubleshooting case, the following observation is recorded: Servers may use ECC for reliability. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A field engineer is planning a repair involving this need: memory capable of detecting and correcting certain errors. Select the most appropriate item.",
     "opts": [
       "ECC RAM",
       "Dual channel",
@@ -10831,7 +10831,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "A technician is comparing options for this requirement: memory without ECC correction capability. Which technology is appropriate?",
+    "q": "During equipment selection, a customer requests this functionality: memory without ECC correction capability. Which item is appropriate?",
     "opts": [
       "Non-ECC RAM",
       "ECC RAM",
@@ -10852,28 +10852,28 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "In a troubleshooting case, the following observation is recorded: M.2 shape does not guarantee NVMe operation. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A workstation needs fault tolerance for a two-drive array, and usable capacity is less important than surviving one drive failure. Which RAID level fits?",
     "opts": [
-      "NVMe",
       "RAID 1",
-      "RAID 10",
-      "M.2"
+      "RAID 0",
+      "RAID 5 with two drives",
+      "RAID 6 with two drives"
     ],
     "ans": [
       0
     ],
     "why": [
-      "NVMe: Storage protocol optimized for SSDs over PCIe.",
-      "RAID 1: Mirroring data on separate drives.",
-      "RAID 10: Mirrored sets combined with striping.",
-      "M.2: Compact expansion card form factor."
+      "RAID 1 mirrors data across two drives and can survive one drive failure.",
+      "RAID 0 stripes without redundancy; one drive failure loses the array.",
+      "RAID 5 requires at least three drives.",
+      "RAID 6 requires at least four drives."
     ],
-    "tip": "M.2 shape does not guarantee NVMe operation."
+    "tip": "Mirroring is redundancy, not a substitute for independent backups."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "Which option would you select when a support ticket calls for solid-state storage using the SATA interface?",
+    "q": "An IT team must address the following condition: solid-state storage using the SATA interface. Which choice best applies?",
     "opts": [
       "SATA SSD",
       "NVMe",
@@ -10894,7 +10894,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "A customer describes a system that needs compact expansion card form factor. Which choice matches that need?",
+    "q": "A technician is reviewing a configuration with this characteristic: compact expansion card form factor. Identify the best match.",
     "opts": [
       "M.2",
       "RAID 5",
@@ -10915,7 +10915,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "In a troubleshooting case, the following observation is recorded: One failed member loses the array. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A support engineer must account for this behavior: data striping without fault tolerance. Which technology is relevant?",
     "opts": [
       "RAID 0",
       "SAS",
@@ -10936,7 +10936,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "A technician is comparing options for this requirement: mirroring data on separate drives. Which technology is appropriate?",
+    "q": "A hardware assessment notes: mirroring data on separate drives. Identify the most suitable component or feature.",
     "opts": [
       "RAID 1",
       "RAID 6",
@@ -10957,7 +10957,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "A field technician must provide striping with distributed single parity. Which technology fulfills this purpose?",
+    "q": "A service desk technician receives this requirement: striping with distributed single parity. Which listed technology fits the requirement?",
     "opts": [
       "RAID 5",
       "RAID 1",
@@ -10978,7 +10978,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "In a troubleshooting case, the following observation is recorded: Can survive two drive failures. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A client reports the following technical detail: striping with dual distributed parity. What does it most closely describe?",
     "opts": [
       "RAID 6",
       "M.2",
@@ -10999,7 +10999,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "An administrator needs mirrored sets combined with striping. Which item matches the requirement?",
+    "q": "A small-office technician is asked to provide the following capability: mirrored sets combined with striping. What should be selected?",
     "opts": [
       "RAID 10",
       "NVMe",
@@ -11020,7 +11020,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "A repair ticket specifies enterprise-oriented serial storage interface. Which item addresses that specification?",
+    "q": "A field engineer is planning a repair involving this need: enterprise-oriented serial storage interface. Select the most appropriate item.",
     "opts": [
       "SAS",
       "SATA SSD",
@@ -11041,7 +11041,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "In a troubleshooting case, the following observation is recorded: M.2 shape does not guarantee NVMe operation. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "During equipment selection, a customer requests this functionality: storage protocol optimized for SSDs over PCIe. Which item is appropriate?",
     "opts": [
       "NVMe",
       "RAID 5",
@@ -11062,7 +11062,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "A device specification mentions solid-state storage using the SATA interface. What feature is being described?",
+    "q": "A device specification calls for the following: solid-state storage using the SATA interface. Which listed option meets it?",
     "opts": [
       "SATA SSD",
       "SAS",
@@ -11083,7 +11083,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "During a help-desk escalation, the documented need is compact expansion card form factor. What should the technician use?",
+    "q": "An IT team must address the following condition: compact expansion card form factor. Which choice best applies?",
     "opts": [
       "M.2",
       "RAID 6",
@@ -11104,7 +11104,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "In a troubleshooting case, the following observation is recorded: One failed member loses the array. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A technician is reviewing a configuration with this characteristic: data striping without fault tolerance. Identify the best match.",
     "opts": [
       "RAID 0",
       "RAID 6",
@@ -11125,7 +11125,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "Which option would you select when a support ticket calls for mirroring data on separate drives?",
+    "q": "A support engineer must account for this behavior: mirroring data on separate drives. Which technology is relevant?",
     "opts": [
       "RAID 1",
       "SATA SSD",
@@ -11167,7 +11167,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "In a troubleshooting case, the following observation is recorded: Can survive two drive failures. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A service desk technician receives this requirement: striping with dual distributed parity. Which listed technology fits the requirement?",
     "opts": [
       "RAID 6",
       "M.2",
@@ -11188,28 +11188,28 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "In a troubleshooting case, the following observation is recorded: Case and board form factors must align. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A newly assembled PC reports Secure Boot is unavailable although the board supports it. The firmware is running in legacy compatibility mode. What should be reviewed?",
     "opts": [
-      "ATX",
-      "microATX",
-      "Secure Boot",
-      "Thermal paste"
+      "UEFI boot configuration",
+      "GPU fan curve",
+      "Audio jack assignment",
+      "Display brightness"
     ],
     "ans": [
       0
     ],
     "why": [
-      "ATX: Common full-size motherboard form factor.",
-      "microATX: Smaller motherboard form factor than ATX.",
-      "Secure Boot: Firmware feature checking trusted boot components.",
-      "Thermal paste: Transfers heat between CPU and cooler surfaces."
+      "Secure Boot depends on UEFI boot operation and compatible configuration, not legacy-only boot.",
+      "GPU cooling settings do not enable firmware signature verification.",
+      "Audio port configuration does not control the boot trust chain.",
+      "Brightness affects the display, not firmware boot security."
     ],
-    "tip": "Case and board form factors must align."
+    "tip": "Before changing firmware boot modes, confirm the OS disk partitioning and backup state."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "Which option would you select when a support ticket calls for smaller motherboard form factor than ATX?",
+    "q": "A small-office technician is asked to provide the following capability: smaller motherboard form factor than ATX. What should be selected?",
     "opts": [
       "microATX",
       "Secure Boot",
@@ -11230,7 +11230,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "A customer describes a system that needs high-speed expansion interconnect for cards and SSDs. Which choice matches that need?",
+    "q": "A field engineer is planning a repair involving this need: high-speed expansion interconnect for cards and SSDs. Select the most appropriate item.",
     "opts": [
       "PCIe",
       "TPM",
@@ -11251,7 +11251,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "In a troubleshooting case, the following observation is recorded: TPM can support disk encryption security. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "During equipment selection, a customer requests this functionality: hardware-backed security functionality for protected keys. Which item is appropriate?",
     "opts": [
       "TPM",
       "microATX",
@@ -11272,7 +11272,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "A technician is comparing options for this requirement: firmware feature checking trusted boot components. Which technology is appropriate?",
+    "q": "A device specification calls for the following: firmware feature checking trusted boot components. Which listed option meets it?",
     "opts": [
       "Secure Boot",
       "Thermal paste",
@@ -11293,7 +11293,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "A field technician must provide modern platform firmware and boot interface. Which technology fulfills this purpose?",
+    "q": "An IT team must address the following condition: modern platform firmware and boot interface. Which choice best applies?",
     "opts": [
       "UEFI",
       "ARM",
@@ -11314,7 +11314,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "In a troubleshooting case, the following observation is recorded: Use appropriate amount when reseating a heatsink. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A technician is reviewing a configuration with this characteristic: transfers heat between CPU and cooler surfaces. Identify the best match.",
     "opts": [
       "Thermal paste",
       "Secure Boot",
@@ -11335,7 +11335,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "An administrator needs processor instruction set architecture common in mobile systems. Which item matches the requirement?",
+    "q": "A support engineer must account for this behavior: processor instruction set architecture common in mobile systems. Which technology is relevant?",
     "opts": [
       "ARM",
       "Secure Boot",
@@ -11356,7 +11356,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "A repair ticket specifies conducts heat away from a component. Which item addresses that specification?",
+    "q": "A hardware assessment notes: conducts heat away from a component. Identify the most suitable component or feature.",
     "opts": [
       "Heat sink",
       "UEFI",
@@ -11377,7 +11377,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "In a troubleshooting case, the following observation is recorded: Case and board form factors must align. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A service desk technician receives this requirement: common full-size motherboard form factor. Which listed technology fits the requirement?",
     "opts": [
       "ATX",
       "Thermal paste",
@@ -11398,7 +11398,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "A device specification mentions smaller motherboard form factor than ATX. What feature is being described?",
+    "q": "A client reports the following technical detail: smaller motherboard form factor than ATX. What does it most closely describe?",
     "opts": [
       "microATX",
       "Thermal paste",
@@ -11419,7 +11419,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "During a help-desk escalation, the documented need is high-speed expansion interconnect for cards and SSDs. What should the technician use?",
+    "q": "A small-office technician is asked to provide the following capability: high-speed expansion interconnect for cards and SSDs. What should be selected?",
     "opts": [
       "PCIe",
       "TPM",
@@ -11440,7 +11440,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "In a troubleshooting case, the following observation is recorded: TPM can support disk encryption security. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A field engineer is planning a repair involving this need: hardware-backed security functionality for protected keys. Select the most appropriate item.",
     "opts": [
       "TPM",
       "microATX",
@@ -11461,7 +11461,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "Which option would you select when a support ticket calls for firmware feature checking trusted boot components?",
+    "q": "During equipment selection, a customer requests this functionality: firmware feature checking trusted boot components. Which item is appropriate?",
     "opts": [
       "Secure Boot",
       "microATX",
@@ -11503,7 +11503,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "In a troubleshooting case, the following observation is recorded: Use appropriate amount when reseating a heatsink. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "An IT team must address the following condition: transfers heat between CPU and cooler surfaces. Which choice best applies?",
     "opts": [
       "Thermal paste",
       "ATX",
@@ -11524,28 +11524,28 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "In a troubleshooting case, the following observation is recorded: Check connector seating before diagnosing no power. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A workstation shuts down under GPU load after a graphics upgrade. Temperatures are normal, and the new card draws substantially more power. Which specification should be checked first?",
     "opts": [
-      "20+4 pin",
-      "Wattage rating",
-      "5 V rail",
-      "Redundant PSU"
+      "PSU wattage and PCIe power connectors",
+      "Monitor refresh rate",
+      "SSD capacity",
+      "Keyboard layout"
     ],
     "ans": [
       0
     ],
     "why": [
-      "20+4 pin: Main ATX motherboard power connector.",
-      "Wattage rating: Maximum specified electrical output capacity.",
-      "5 V rail: Power supply voltage used by various computer circuits.",
-      "Redundant PSU: Multiple supplies designed for continued operation on failure."
+      "A GPU upgrade can exceed PSU power capacity or require additional PCIe power leads.",
+      "Refresh rate does not directly determine whether the PSU can support the card.",
+      "SSD capacity does not explain shutdown only under GPU power demand.",
+      "Keyboard layout is unrelated to electrical load."
     ],
-    "tip": "Check connector seating before diagnosing no power."
+    "tip": "Power budgets must account for peak component draw and the correct physical connectors."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "Which option would you select when a support ticket calls for power output commonly used for motors and CPU/GPU regulation?",
+    "q": "A support engineer must account for this behavior: power output commonly used for motors and CPU/GPU regulation. Which technology is relevant?",
     "opts": [
       "12 V rail",
       "20+4 pin",
@@ -11566,7 +11566,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "A customer describes a system that needs power supply voltage used by various computer circuits. Which choice matches that need?",
+    "q": "A hardware assessment notes: power supply voltage used by various computer circuits. Identify the most suitable component or feature.",
     "opts": [
       "5 V rail",
       "3.3 V rail",
@@ -11587,7 +11587,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "In a troubleshooting case, the following observation is recorded: Power rails are not interchangeable. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A service desk technician receives this requirement: low-voltage supply for computer electronics. Which listed technology fits the requirement?",
     "opts": [
       "3.3 V rail",
       "12 V rail",
@@ -11608,7 +11608,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "A technician is comparing options for this requirement: power supply with detachable output cables. Which technology is appropriate?",
+    "q": "A client reports the following technical detail: power supply with detachable output cables. What does it most closely describe?",
     "opts": [
       "Modular PSU",
       "20+4 pin",
@@ -11629,7 +11629,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "A field technician must provide multiple supplies designed for continued operation on failure. Which technology fulfills this purpose?",
+    "q": "A small-office technician is asked to provide the following capability: multiple supplies designed for continued operation on failure. What should be selected?",
     "opts": [
       "Redundant PSU",
       "Wattage rating",
@@ -11650,7 +11650,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "In a troubleshooting case, the following observation is recorded: Leave headroom for component load. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A field engineer is planning a repair involving this need: maximum specified electrical output capacity. Select the most appropriate item.",
     "opts": [
       "Wattage rating",
       "20+4 pin",
@@ -11671,7 +11671,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "An administrator needs measure of power conversion efficiency. Which item matches the requirement?",
+    "q": "During equipment selection, a customer requests this functionality: measure of power conversion efficiency. Which item is appropriate?",
     "opts": [
       "Efficiency rating",
       "Modular PSU",
@@ -11692,7 +11692,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "A repair ticket specifies main ATX motherboard power connector. Which item addresses that specification?",
+    "q": "A device specification calls for the following: main ATX motherboard power connector. Which listed option meets it?",
     "opts": [
       "20+4 pin",
       "Efficiency rating",
@@ -11713,7 +11713,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "In a troubleshooting case, the following observation is recorded: Different rails supply different loads. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "An IT team must address the following condition: power output commonly used for motors and CPU/GPU regulation. Which choice best applies?",
     "opts": [
       "12 V rail",
       "5 V rail",
@@ -11734,7 +11734,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "A device specification mentions power supply voltage used by various computer circuits. What feature is being described?",
+    "q": "A technician is reviewing a configuration with this characteristic: power supply voltage used by various computer circuits. Identify the best match.",
     "opts": [
       "5 V rail",
       "Redundant PSU",
@@ -11755,7 +11755,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "During a help-desk escalation, the documented need is low-voltage supply for computer electronics. What should the technician use?",
+    "q": "A support engineer must account for this behavior: low-voltage supply for computer electronics. Which technology is relevant?",
     "opts": [
       "3.3 V rail",
       "Efficiency rating",
@@ -11776,7 +11776,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "In a troubleshooting case, the following observation is recorded: Use cables approved for the exact PSU model. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A hardware assessment notes: power supply with detachable output cables. Identify the most suitable component or feature.",
     "opts": [
       "Modular PSU",
       "Redundant PSU",
@@ -11797,7 +11797,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "Which option would you select when a support ticket calls for multiple supplies designed for continued operation on failure?",
+    "q": "A service desk technician receives this requirement: multiple supplies designed for continued operation on failure. Which listed technology fits the requirement?",
     "opts": [
       "Redundant PSU",
       "Modular PSU",
@@ -11839,7 +11839,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "In a troubleshooting case, the following observation is recorded: Efficiency is not the same as wattage capacity. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A small-office technician is asked to provide the following capability: measure of power conversion efficiency. What should be selected?",
     "opts": [
       "Efficiency rating",
       "3.3 V rail",
@@ -11860,7 +11860,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "A technician is comparing options for this requirement: main ATX motherboard power connector. Which technology is appropriate?",
+    "q": "A field engineer is planning a repair involving this need: main ATX motherboard power connector. Select the most appropriate item.",
     "opts": [
       "20+4 pin",
       "12 V rail",
@@ -11902,28 +11902,28 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "In a troubleshooting case, the following observation is recorded: Enable duplex to reduce paper use. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A shared multifunction printer must hold confidential documents until the employee authenticates at the device. Which setting should be enabled?",
     "opts": [
-      "Duplex",
-      "Print server",
-      "Orientation",
-      "Secure print"
+      "Secure print release",
+      "Duplex printing",
+      "Draft quality",
+      "Landscape orientation"
     ],
     "ans": [
       0
     ],
     "why": [
-      "Duplex: Printer setting to print on both sides.",
-      "Print server: Host that manages shared printer jobs.",
-      "Orientation: Page setting for portrait or landscape.",
-      "Secure print: Holds jobs until authorized release."
+      "Secure print release prevents documents from being output until the user authenticates.",
+      "Duplex prints on both sides but does not restrict who collects documents.",
+      "Draft quality reduces ink or toner use without providing access control.",
+      "Orientation changes page layout, not document confidentiality."
     ],
-    "tip": "Enable duplex to reduce paper use."
+    "tip": "For sensitive shared printing, prevent unattended output rather than relying on a nearby printer location."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "Which option would you select when a support ticket calls for page setting for portrait or landscape?",
+    "q": "An IT team must address the following condition: page setting for portrait or landscape. Which choice best applies?",
     "opts": [
       "Orientation",
       "PostScript",
@@ -11944,7 +11944,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "A customer describes a system that needs automatic document feeder for multi-page scanning. Which choice matches that need?",
+    "q": "A technician is reviewing a configuration with this characteristic: automatic document feeder for multi-page scanning. Identify the best match.",
     "opts": [
       "ADF",
       "Duplex",
@@ -11965,7 +11965,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "In a troubleshooting case, the following observation is recorded: Driver compatibility affects output. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A support engineer must account for this behavior: printer control language for describing print jobs. Which technology is relevant?",
     "opts": [
       "PCL",
       "Duplex",
@@ -11986,7 +11986,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "A technician is comparing options for this requirement: page description language used by many printers. Which technology is appropriate?",
+    "q": "A hardware assessment notes: page description language used by many printers. Identify the most suitable component or feature.",
     "opts": [
       "PostScript",
       "Print server",
@@ -12007,7 +12007,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "A field technician must provide host that manages shared printer jobs. Which technology fulfills this purpose?",
+    "q": "A service desk technician receives this requirement: host that manages shared printer jobs. Which listed technology fits the requirement?",
     "opts": [
       "Print server",
       "PCL",
@@ -12028,7 +12028,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "In a troubleshooting case, the following observation is recorded: Protects sensitive pages in shared spaces. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A client reports the following technical detail: holds jobs until authorized release. What does it most closely describe?",
     "opts": [
       "Secure print",
       "Print server",
@@ -12049,7 +12049,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "An administrator needs sends scanned documents to a network file share. Which item matches the requirement?",
+    "q": "A small-office technician is asked to provide the following capability: sends scanned documents to a network file share. What should be selected?",
     "opts": [
       "SMB scan",
       "Secure print",
@@ -12070,7 +12070,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "A repair ticket specifies printer setting to print on both sides. Which item addresses that specification?",
+    "q": "A field engineer is planning a repair involving this need: printer setting to print on both sides. Select the most appropriate item.",
     "opts": [
       "Duplex",
       "ADF",
@@ -12091,7 +12091,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "In a troubleshooting case, the following observation is recorded: Wrong orientation can look like a layout fault. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "During equipment selection, a customer requests this functionality: page setting for portrait or landscape. Which item is appropriate?",
     "opts": [
       "Orientation",
       "ADF",
@@ -12112,7 +12112,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "A device specification mentions automatic document feeder for multi-page scanning. What feature is being described?",
+    "q": "A device specification calls for the following: automatic document feeder for multi-page scanning. Which listed option meets it?",
     "opts": [
       "ADF",
       "Secure print",
@@ -12133,7 +12133,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "During a help-desk escalation, the documented need is printer control language for describing print jobs. What should the technician use?",
+    "q": "An IT team must address the following condition: printer control language for describing print jobs. Which choice best applies?",
     "opts": [
       "PCL",
       "PostScript",
@@ -12154,7 +12154,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "In a troubleshooting case, the following observation is recorded: Incorrect driver language can produce garbled output. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A technician is reviewing a configuration with this characteristic: page description language used by many printers. Identify the best match.",
     "opts": [
       "PostScript",
       "ADF",
@@ -12175,7 +12175,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "Which option would you select when a support ticket calls for host that manages shared printer jobs?",
+    "q": "A support engineer must account for this behavior: host that manages shared printer jobs. Which technology is relevant?",
     "opts": [
       "Print server",
       "PostScript",
@@ -12217,7 +12217,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "In a troubleshooting case, the following observation is recorded: Check share permissions and path. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A service desk technician receives this requirement: sends scanned documents to a network file share. Which listed technology fits the requirement?",
     "opts": [
       "SMB scan",
       "Print server",
@@ -12238,7 +12238,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "A technician is comparing options for this requirement: printer setting to print on both sides. Which technology is appropriate?",
+    "q": "A client reports the following technical detail: printer setting to print on both sides. What does it most closely describe?",
     "opts": [
       "Duplex",
       "ADF",
@@ -12280,28 +12280,28 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "In a troubleshooting case, the following observation is recorded: Faded laser output can indicate low toner. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A laser printer produces a faint duplicate image farther down each page. Which component should be investigated first?",
     "opts": [
-      "Laser toner",
-      "Pickup roller",
-      "Impact ribbon",
-      "Thermal paper"
+      "Fuser or imaging assembly",
+      "Inkjet printhead",
+      "Impact printer ribbon",
+      "ADF scan glass"
     ],
     "ans": [
       0
     ],
     "why": [
-      "Laser toner: Powder used in laser printing.",
-      "Pickup roller: Roller that feeds sheets into a printer.",
-      "Impact ribbon: Ink ribbon struck by an impact printhead.",
-      "Thermal paper: Heat-sensitive paper used by thermal printers."
+      "Ghosting on laser output can result from toner not being properly fused or cleared in the imaging path.",
+      "Inkjet printheads are not part of a laser printing mechanism.",
+      "Impact ribbons belong to dot-matrix printers.",
+      "ADF glass affects scanning, not repeated images on newly printed pages."
     ],
-    "tip": "Faded laser output can indicate low toner."
+    "tip": "Repeated defects at regular intervals can help identify a rotating printer component."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "Which option would you select when a support ticket calls for nozzle assembly that deposits ink?",
+    "q": "During equipment selection, a customer requests this functionality: nozzle assembly that deposits ink. Which item is appropriate?",
     "opts": [
       "Inkjet printhead",
       "Pickup roller",
@@ -12322,7 +12322,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "A customer describes a system that needs heat-sensitive paper used by thermal printers. Which choice matches that need?",
+    "q": "A device specification calls for the following: heat-sensitive paper used by thermal printers. Which listed option meets it?",
     "opts": [
       "Thermal paper",
       "Impact ribbon",
@@ -12343,7 +12343,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "In a troubleshooting case, the following observation is recorded: Faded impact output may need a new ribbon. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "An IT team must address the following condition: ink ribbon struck by an impact printhead. Which choice best applies?",
     "opts": [
       "Impact ribbon",
       "Laser toner",
@@ -12364,7 +12364,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "A technician is comparing options for this requirement: replaceable service components for laser printers. Which technology is appropriate?",
+    "q": "A technician is reviewing a configuration with this characteristic: replaceable service components for laser printers. Identify the best match.",
     "opts": [
       "Laser maintenance kit",
       "Pickup roller",
@@ -12385,7 +12385,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "A field technician must provide roller that feeds sheets into a printer. Which technology fulfills this purpose?",
+    "q": "A support engineer must account for this behavior: roller that feeds sheets into a printer. Which technology is relevant?",
     "opts": [
       "Pickup roller",
       "Thermal paper",
@@ -12406,7 +12406,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "In a troubleshooting case, the following observation is recorded: Calibration can address output consistency. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A hardware assessment notes: adjusts printer output alignment or quality. Identify the most suitable component or feature.",
     "opts": [
       "Calibrate printer",
       "Laser toner",
@@ -12427,7 +12427,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "An administrator needs powder used in laser printing. Which item matches the requirement?",
+    "q": "A service desk technician receives this requirement: powder used in laser printing. Which listed technology fits the requirement?",
     "opts": [
       "Laser toner",
       "Impact ribbon",
@@ -12448,7 +12448,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "A repair ticket specifies nozzle assembly that deposits ink. Which item addresses that specification?",
+    "q": "A client reports the following technical detail: nozzle assembly that deposits ink. What does it most closely describe?",
     "opts": [
       "Inkjet printhead",
       "Laser toner",
@@ -12469,7 +12469,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "In a troubleshooting case, the following observation is recorded: Ordinary paper may not work in direct thermal units. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A small-office technician is asked to provide the following capability: heat-sensitive paper used by thermal printers. What should be selected?",
     "opts": [
       "Thermal paper",
       "Laser toner",
@@ -12490,7 +12490,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "A device specification mentions ink ribbon struck by an impact printhead. What feature is being described?",
+    "q": "A field engineer is planning a repair involving this need: ink ribbon struck by an impact printhead. Select the most appropriate item.",
     "opts": [
       "Impact ribbon",
       "Inkjet printhead",
@@ -12511,7 +12511,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "During a help-desk escalation, the documented need is replaceable service components for laser printers. What should the technician use?",
+    "q": "During equipment selection, a customer requests this functionality: replaceable service components for laser printers. Which item is appropriate?",
     "opts": [
       "Laser maintenance kit",
       "Thermal paper",
@@ -12532,7 +12532,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "In a troubleshooting case, the following observation is recorded: Worn rollers can cause feed failures. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A device specification calls for the following: roller that feeds sheets into a printer. Which listed option meets it?",
     "opts": [
       "Pickup roller",
       "Impact ribbon",
@@ -12553,7 +12553,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "Which option would you select when a support ticket calls for adjusts printer output alignment or quality?",
+    "q": "An IT team must address the following condition: adjusts printer output alignment or quality. Which choice best applies?",
     "opts": [
       "Calibrate printer",
       "Pickup roller",
@@ -12595,7 +12595,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "In a troubleshooting case, the following observation is recorded: Streaking may call for printhead cleaning. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A support engineer must account for this behavior: nozzle assembly that deposits ink. Which technology is relevant?",
     "opts": [
       "Inkjet printhead",
       "Laser maintenance kit",
@@ -12616,7 +12616,7 @@ const QUESTIONS = [
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "A technician is comparing options for this requirement: heat-sensitive paper used by thermal printers. Which technology is appropriate?",
+    "q": "A hardware assessment notes: heat-sensitive paper used by thermal printers. Identify the most suitable component or feature.",
     "opts": [
       "Thermal paper",
       "Laser toner",
@@ -12658,28 +12658,28 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "In a troubleshooting case, the following observation is recorded: Bare-metal hosts do not require a desktop OS underneath. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A developer wants to test an untrusted OS image without replacing the host OS, while keeping a separate virtual disk. Which approach best meets the need?",
     "opts": [
-      "Type 1 hypervisor",
-      "VM",
-      "VDI",
-      "Type 2 hypervisor"
+      "Virtual machine with isolated test settings",
+      "Install directly over the host OS",
+      "Replace the host bootloader",
+      "Share the host system partition read-write"
     ],
     "ans": [
       0
     ],
     "why": [
-      "Type 1 hypervisor: Virtualization layer running directly on physical hardware.",
-      "VM: Isolated virtual computer with its own guest OS.",
-      "VDI: Remote delivery of centrally hosted desktop sessions.",
-      "Type 2 hypervisor: Virtualization software running on a host operating system."
+      "A VM provides a guest environment with separate virtualized hardware and disk storage.",
+      "Overwriting the host removes the isolation required for safe testing.",
+      "Changing the bootloader does not create a contained test environment.",
+      "Read-write sharing of the host system partition undermines isolation."
     ],
-    "tip": "Bare-metal hosts do not require a desktop OS underneath."
+    "tip": "Snapshots can speed recovery, but isolation also depends on network and shared-folder settings."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "Which option would you select when a support ticket calls for virtualization software running on a host operating system?",
+    "q": "A device specification calls for the following: virtualization software running on a host operating system. Which listed option meets it?",
     "opts": [
       "Type 2 hypervisor",
       "Application virtualization",
@@ -12700,7 +12700,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "A customer describes a system that needs isolated virtual computer with its own guest OS. Which choice matches that need?",
+    "q": "An IT team must address the following condition: isolated virtual computer with its own guest OS. Which choice best applies?",
     "opts": [
       "VM",
       "Application virtualization",
@@ -12721,7 +12721,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "In a troubleshooting case, the following observation is recorded: Containers are lighter than full guest VMs. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A technician is reviewing a configuration with this characteristic: isolated application environment sharing a host kernel. Identify the best match.",
     "opts": [
       "Container",
       "Sandbox",
@@ -12742,7 +12742,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "A technician is comparing options for this requirement: remote delivery of centrally hosted desktop sessions. Which technology is appropriate?",
+    "q": "A support engineer must account for this behavior: remote delivery of centrally hosted desktop sessions. Which technology is relevant?",
     "opts": [
       "VDI",
       "Container",
@@ -12763,7 +12763,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "A field technician must provide isolated environment for safely testing software. Which technology fulfills this purpose?",
+    "q": "A hardware assessment notes: isolated environment for safely testing software. Identify the most suitable component or feature.",
     "opts": [
       "Sandbox",
       "Container",
@@ -12784,7 +12784,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "In a troubleshooting case, the following observation is recorded: Legacy software may need compatibility isolation. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A service desk technician receives this requirement: runs applications in a virtualized environment. Which listed technology fits the requirement?",
     "opts": [
       "Application virtualization",
       "Type 2 hypervisor",
@@ -12805,7 +12805,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "An administrator needs virtualization layer running directly on physical hardware. Which item matches the requirement?",
+    "q": "A client reports the following technical detail: virtualization layer running directly on physical hardware. What does it most closely describe?",
     "opts": [
       "Type 1 hypervisor",
       "Type 2 hypervisor",
@@ -12826,7 +12826,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "A repair ticket specifies virtualization software running on a host operating system. Which item addresses that specification?",
+    "q": "A small-office technician is asked to provide the following capability: virtualization software running on a host operating system. What should be selected?",
     "opts": [
       "Type 2 hypervisor",
       "Container",
@@ -12847,7 +12847,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "In a troubleshooting case, the following observation is recorded: A VM usually includes a complete operating system. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A field engineer is planning a repair involving this need: isolated virtual computer with its own guest OS. Select the most appropriate item.",
     "opts": [
       "VM",
       "Container",
@@ -12868,7 +12868,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "A device specification mentions isolated application environment sharing a host kernel. What feature is being described?",
+    "q": "During equipment selection, a customer requests this functionality: isolated application environment sharing a host kernel. Which item is appropriate?",
     "opts": [
       "Container",
       "VDI",
@@ -12889,7 +12889,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "During a help-desk escalation, the documented need is remote delivery of centrally hosted desktop sessions. What should the technician use?",
+    "q": "A device specification calls for the following: remote delivery of centrally hosted desktop sessions. Which listed option meets it?",
     "opts": [
       "VDI",
       "Type 2 hypervisor",
@@ -12910,7 +12910,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "In a troubleshooting case, the following observation is recorded: Test untrusted changes away from production. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "An IT team must address the following condition: isolated environment for safely testing software. Which choice best applies?",
     "opts": [
       "Sandbox",
       "Application virtualization",
@@ -12931,7 +12931,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "Which option would you select when a support ticket calls for runs applications in a virtualized environment?",
+    "q": "A technician is reviewing a configuration with this characteristic: runs applications in a virtualized environment. Identify the best match.",
     "opts": [
       "Application virtualization",
       "Sandbox",
@@ -12973,7 +12973,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "In a troubleshooting case, the following observation is recorded: Hosted virtualization is convenient for desktop labs. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A hardware assessment notes: virtualization software running on a host operating system. Identify the most suitable component or feature.",
     "opts": [
       "Type 2 hypervisor",
       "VDI",
@@ -12994,28 +12994,28 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Customer typically manages guest operating systems. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A retailer automatically increases cloud compute capacity during holiday spikes and reduces it afterward. Which cloud characteristic is illustrated?",
     "opts": [
-      "IaaS",
-      "Public cloud",
       "Elasticity",
-      "SaaS"
+      "Multitenancy",
+      "Ingress billing",
+      "Community cloud"
     ],
     "ans": [
       0
     ],
     "why": [
-      "IaaS: Cloud delivery of virtual infrastructure resources.",
-      "Public cloud: Shared provider infrastructure offered broadly.",
-      "Elasticity: Ability to scale resources with demand.",
-      "SaaS: Complete provider-hosted application."
+      "Elasticity adjusts allocated resources as demand changes.",
+      "Multitenancy means different customers share provider infrastructure with logical isolation.",
+      "Ingress billing describes data transfer charging, not automatic capacity scaling.",
+      "Community cloud describes a deployment model shared by organizations with common needs."
     ],
-    "tip": "Customer typically manages guest operating systems."
+    "tip": "Elasticity is about changing capacity; availability is about keeping a service accessible."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "Which option would you select when a support ticket calls for cloud-managed application development and runtime platform?",
+    "q": "A client reports the following technical detail: cloud-managed application development and runtime platform. What does it most closely describe?",
     "opts": [
       "PaaS",
       "Multitenancy",
@@ -13036,7 +13036,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "A customer describes a system that needs complete provider-hosted application. Which choice matches that need?",
+    "q": "A small-office technician is asked to provide the following capability: complete provider-hosted application. What should be selected?",
     "opts": [
       "SaaS",
       "Multitenancy",
@@ -13057,7 +13057,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Shared infrastructure does not imply public data. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A field engineer is planning a repair involving this need: shared provider infrastructure offered broadly. Select the most appropriate item.",
     "opts": [
       "Public cloud",
       "SaaS",
@@ -13078,7 +13078,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "A technician is comparing options for this requirement: cloud environment dedicated to one organization. Which technology is appropriate?",
+    "q": "During equipment selection, a customer requests this functionality: cloud environment dedicated to one organization. Which item is appropriate?",
     "opts": [
       "Private cloud",
       "Metered utilization",
@@ -13099,7 +13099,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "A field technician must provide architecture combining private and public environments. Which technology fulfills this purpose?",
+    "q": "A device specification calls for the following: architecture combining private and public environments. Which listed option meets it?",
     "opts": [
       "Hybrid cloud",
       "PaaS",
@@ -13120,7 +13120,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Temporary demand can trigger scaling. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "An IT team must address the following condition: ability to scale resources with demand. Which choice best applies?",
     "opts": [
       "Elasticity",
       "Hybrid cloud",
@@ -13141,7 +13141,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "An administrator needs resource usage measured for billing or control. Which item matches the requirement?",
+    "q": "A technician is reviewing a configuration with this characteristic: resource usage measured for billing or control. Identify the best match.",
     "opts": [
       "Metered utilization",
       "Public cloud",
@@ -13162,7 +13162,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "A repair ticket specifies multiple customers share underlying infrastructure with isolation. Which item addresses that specification?",
+    "q": "A support engineer must account for this behavior: multiple customers share underlying infrastructure with isolation. Which technology is relevant?",
     "opts": [
       "Multitenancy",
       "Hybrid cloud",
@@ -13183,7 +13183,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Customer typically manages guest operating systems. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A hardware assessment notes: cloud delivery of virtual infrastructure resources. Identify the most suitable component or feature.",
     "opts": [
       "IaaS",
       "Multitenancy",
@@ -13204,7 +13204,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "A device specification mentions cloud-managed application development and runtime platform. What feature is being described?",
+    "q": "A service desk technician receives this requirement: cloud-managed application development and runtime platform. Which listed technology fits the requirement?",
     "opts": [
       "PaaS",
       "SaaS",
@@ -13225,7 +13225,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "During a help-desk escalation, the documented need is complete provider-hosted application. What should the technician use?",
+    "q": "A client reports the following technical detail: complete provider-hosted application. What does it most closely describe?",
     "opts": [
       "SaaS",
       "Multitenancy",
@@ -13246,7 +13246,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Shared infrastructure does not imply public data. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A small-office technician is asked to provide the following capability: shared provider infrastructure offered broadly. What should be selected?",
     "opts": [
       "Public cloud",
       "Hybrid cloud",
@@ -13267,7 +13267,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "Which option would you select when a support ticket calls for cloud environment dedicated to one organization?",
+    "q": "A field engineer is planning a repair involving this need: cloud environment dedicated to one organization. Select the most appropriate item.",
     "opts": [
       "Private cloud",
       "Multitenancy",
@@ -13309,7 +13309,7 @@ const QUESTIONS = [
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Temporary demand can trigger scaling. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A device specification calls for the following: ability to scale resources with demand. Which listed option meets it?",
     "opts": [
       "Elasticity",
       "Metered utilization",
@@ -13330,28 +13330,28 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "In a troubleshooting case, the following observation is recorded: Interpret beep patterns using vendor documentation. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A desktop loses its clock settings after every unplugged weekend, but runs normally once powered on. What component should be checked?",
     "opts": [
-      "POST beeps",
-      "No power",
-      "Overheating",
-      "Application crash"
+      "CMOS/RTC battery",
+      "CPU heat sink",
+      "GPU video memory",
+      "Front-panel audio header"
     ],
     "ans": [
       0
     ],
     "why": [
-      "POST beeps: Startup diagnostic sound codes for hardware checks.",
-      "No power: System shows no sign of electrical startup.",
-      "Overheating: Excessive component temperature affecting stability.",
-      "Application crash: Program unexpectedly stops running."
+      "A depleted RTC/CMOS battery can cause time and firmware settings to reset when external power is removed.",
+      "A heat sink affects processor temperature, not retention of the real-time clock.",
+      "GPU VRAM stores graphics data and does not preserve system time while unplugged.",
+      "Audio headers connect case audio jacks and do not retain firmware settings."
     ],
-    "tip": "Interpret beep patterns using vendor documentation."
+    "tip": "Time resets after complete power removal point toward RTC power before OS time synchronization."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "Which option would you select when a support ticket calls for excessive component temperature affecting stability?",
+    "q": "A service desk technician receives this requirement: excessive component temperature affecting stability. Which listed technology fits the requirement?",
     "opts": [
       "Overheating",
       "POST beeps",
@@ -13372,7 +13372,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "A customer describes a system that needs unexpected loss of system operation. Which choice matches that need?",
+    "q": "A client reports the following technical detail: unexpected loss of system operation. What does it most closely describe?",
     "opts": [
       "Random shutdown",
       "No power",
@@ -13393,7 +13393,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "In a troubleshooting case, the following observation is recorded: Do not ignore bulging board components. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A small-office technician is asked to provide the following capability: physical sign of possible motherboard failure. What should be selected?",
     "opts": [
       "Swollen capacitor",
       "No power",
@@ -13414,7 +13414,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "A technician is comparing options for this requirement: clock settings that reset or drift. Which technology is appropriate?",
+    "q": "A field engineer is planning a repair involving this need: clock settings that reset or drift. Select the most appropriate item.",
     "opts": [
       "Incorrect date/time",
       "Application crash",
@@ -13435,7 +13435,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "A field technician must provide system shows no sign of electrical startup. Which technology fulfills this purpose?",
+    "q": "During equipment selection, a customer requests this functionality: system shows no sign of electrical startup. Which item is appropriate?",
     "opts": [
       "No power",
       "Overheating",
@@ -13456,7 +13456,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "In a troubleshooting case, the following observation is recorded: Distinguish app faults from hardware instability. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A device specification calls for the following: program unexpectedly stops running. Which listed option meets it?",
     "opts": [
       "Application crash",
       "Random shutdown",
@@ -13477,7 +13477,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "An administrator needs startup diagnostic sound codes for hardware checks. Which item matches the requirement?",
+    "q": "An IT team must address the following condition: startup diagnostic sound codes for hardware checks. Which choice best applies?",
     "opts": [
       "POST beeps",
       "Random shutdown",
@@ -13498,7 +13498,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "A repair ticket specifies excessive component temperature affecting stability. Which item addresses that specification?",
+    "q": "A technician is reviewing a configuration with this characteristic: excessive component temperature affecting stability. Identify the best match.",
     "opts": [
       "Overheating",
       "Random shutdown",
@@ -13519,7 +13519,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "In a troubleshooting case, the following observation is recorded: Check thermal and power conditions. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A support engineer must account for this behavior: unexpected loss of system operation. Which technology is relevant?",
     "opts": [
       "Random shutdown",
       "Overheating",
@@ -13540,7 +13540,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "A device specification mentions physical sign of possible motherboard failure. What feature is being described?",
+    "q": "A hardware assessment notes: physical sign of possible motherboard failure. Identify the most suitable component or feature.",
     "opts": [
       "Swollen capacitor",
       "Random shutdown",
@@ -13561,7 +13561,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "During a help-desk escalation, the documented need is clock settings that reset or drift. What should the technician use?",
+    "q": "A service desk technician receives this requirement: clock settings that reset or drift. Which listed technology fits the requirement?",
     "opts": [
       "Incorrect date/time",
       "Random shutdown",
@@ -13582,7 +13582,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "In a troubleshooting case, the following observation is recorded: Verify outlet PSU switch and power connections. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A client reports the following technical detail: system shows no sign of electrical startup. What does it most closely describe?",
     "opts": [
       "No power",
       "Random shutdown",
@@ -13603,7 +13603,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "Which option would you select when a support ticket calls for program unexpectedly stops running?",
+    "q": "A small-office technician is asked to provide the following capability: program unexpectedly stops running. What should be selected?",
     "opts": [
       "Application crash",
       "POST beeps",
@@ -13645,7 +13645,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "In a troubleshooting case, the following observation is recorded: Check fans dust and heatsink contact. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "During equipment selection, a customer requests this functionality: excessive component temperature affecting stability. Which item is appropriate?",
     "opts": [
       "Overheating",
       "Application crash",
@@ -13666,7 +13666,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "A technician is comparing options for this requirement: unexpected loss of system operation. Which technology is appropriate?",
+    "q": "A device specification calls for the following: unexpected loss of system operation. Which listed option meets it?",
     "opts": [
       "Random shutdown",
       "POST beeps",
@@ -13687,28 +13687,28 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Back up data before investigating replacement. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A hard drive begins clicking and SMART reports reallocated-sector growth. The user needs files urgently. What is the safest next step?",
     "opts": [
-      "SMART alert",
-      "Clicking HDD",
-      "Boot device not found",
-      "Low IOPS"
+      "Back up recoverable data before stress testing",
+      "Run repeated full surface scans immediately",
+      "Defragment the disk several times",
+      "Initialize the disk and recreate partitions"
     ],
     "ans": [
       0
     ],
     "why": [
-      "SMART alert: Drive health monitoring warning of possible failure.",
-      "Clicking HDD: Repeated mechanical drive clicking.",
-      "Boot device not found: Firmware cannot locate a bootable storage target.",
-      "Low IOPS: Insufficient input/output operations per second."
+      "Mechanical symptoms and SMART deterioration indicate failure risk; prioritize preserving accessible data.",
+      "Repeated scans stress a failing disk and may accelerate loss before a backup.",
+      "Defragmentation adds heavy writes and seeks without repairing physical failure.",
+      "Initializing partitions can destroy access to existing data."
     ],
-    "tip": "Back up data before investigating replacement."
+    "tip": "When a drive may be failing physically, preserve data first and minimize unnecessary reads and writes."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "Which option would you select when a support ticket calls for repeated mechanical drive clicking?",
+    "q": "A technician is reviewing a configuration with this characteristic: repeated mechanical drive clicking. Identify the best match.",
     "opts": [
       "Clicking HDD",
       "RAID failure",
@@ -13729,7 +13729,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "A customer describes a system that needs loss or degradation of a disk array. Which choice matches that need?",
+    "q": "A support engineer must account for this behavior: loss or degradation of a disk array. Which technology is relevant?",
     "opts": [
       "RAID failure",
       "Low IOPS",
@@ -13750,7 +13750,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Inspect boot order and drive detection. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A hardware assessment notes: firmware cannot locate a bootable storage target. Identify the most suitable component or feature.",
     "opts": [
       "Boot device not found",
       "Missing drive",
@@ -13771,7 +13771,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "A technician is comparing options for this requirement: insufficient input/output operations per second. Which technology is appropriate?",
+    "q": "A service desk technician receives this requirement: insufficient input/output operations per second. Which listed technology fits the requirement?",
     "opts": [
       "Low IOPS",
       "SMART alert",
@@ -13792,7 +13792,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "A field technician must provide stored information becomes invalid or unreadable. Which technology fulfills this purpose?",
+    "q": "A client reports the following technical detail: stored information becomes invalid or unreadable. What does it most closely describe?",
     "opts": [
       "Data corruption",
       "RAID failure",
@@ -13813,7 +13813,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Check power data cable and firmware detection. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A small-office technician is asked to provide the following capability: storage device absent from operating system view. What should be selected?",
     "opts": [
       "Missing drive",
       "Data corruption",
@@ -13834,7 +13834,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "An administrator needs drive health monitoring warning of possible failure. Which item matches the requirement?",
+    "q": "A field engineer is planning a repair involving this need: drive health monitoring warning of possible failure. Select the most appropriate item.",
     "opts": [
       "SMART alert",
       "RAID failure",
@@ -13855,7 +13855,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "A repair ticket specifies repeated mechanical drive clicking. Which item addresses that specification?",
+    "q": "During equipment selection, a customer requests this functionality: repeated mechanical drive clicking. Which item is appropriate?",
     "opts": [
       "Clicking HDD",
       "Data corruption",
@@ -13876,7 +13876,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Check array status and failed member identification. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A device specification calls for the following: loss or degradation of a disk array. Which listed option meets it?",
     "opts": [
       "RAID failure",
       "Clicking HDD",
@@ -13897,7 +13897,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "A device specification mentions firmware cannot locate a bootable storage target. What feature is being described?",
+    "q": "An IT team must address the following condition: firmware cannot locate a bootable storage target. Which choice best applies?",
     "opts": [
       "Boot device not found",
       "SMART alert",
@@ -13918,7 +13918,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "During a help-desk escalation, the documented need is insufficient input/output operations per second. What should the technician use?",
+    "q": "A technician is reviewing a configuration with this characteristic: insufficient input/output operations per second. Identify the best match.",
     "opts": [
       "Low IOPS",
       "Data corruption",
@@ -13939,7 +13939,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Prioritize preserving remaining data. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A support engineer must account for this behavior: stored information becomes invalid or unreadable. Which technology is relevant?",
     "opts": [
       "Data corruption",
       "Missing drive",
@@ -13960,7 +13960,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "Which option would you select when a support ticket calls for storage device absent from operating system view?",
+    "q": "A hardware assessment notes: storage device absent from operating system view. Identify the most suitable component or feature.",
     "opts": [
       "Missing drive",
       "Data corruption",
@@ -14002,7 +14002,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "In a troubleshooting case, the following observation is recorded: Mechanical noise can signal impending failure. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A client reports the following technical detail: repeated mechanical drive clicking. What does it most closely describe?",
     "opts": [
       "Clicking HDD",
       "Missing drive",
@@ -14023,7 +14023,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "A technician is comparing options for this requirement: loss or degradation of a disk array. Which technology is appropriate?",
+    "q": "A small-office technician is asked to provide the following capability: loss or degradation of a disk array. What should be selected?",
     "opts": [
       "RAID failure",
       "Boot device not found",
@@ -14044,28 +14044,28 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "In a troubleshooting case, the following observation is recorded: Select the active HDMI or DisplayPort input. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A projector shows “No signal” while a laptop screen works normally. The projector is set to HDMI 2, but the laptop is plugged into HDMI 1. What should be corrected first?",
     "opts": [
-      "Incorrect input source",
-      "Fuzzy image",
-      "Burnt-out bulb",
-      "Burn-in"
+      "Select HDMI 1 on the projector",
+      "Replace the laptop SSD",
+      "Recalibrate projector colors",
+      "Replace the projection lamp"
     ],
     "ans": [
       0
     ],
     "why": [
-      "Incorrect input source: Display listens to the wrong input connector.",
-      "Fuzzy image: Projected or displayed image lacks sharpness.",
-      "Burnt-out bulb: Projector light source no longer operates.",
-      "Burn-in: Persistent image retention damage on a display."
+      "The projector must select the input connected to the laptop.",
+      "The laptop SSD is unrelated to input selection.",
+      "Color calibration does not restore a missing input signal.",
+      "A failed lamp would affect light output rather than the selected input mismatch."
     ],
-    "tip": "Select the active HDMI or DisplayPort input."
+    "tip": "Verify the physical input and selected source before replacing display hardware."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "Which option would you select when a support ticket calls for individual screen pixels that no longer function correctly?",
+    "q": "During equipment selection, a customer requests this functionality: individual screen pixels that no longer function correctly. Which item is appropriate?",
     "opts": [
       "Dead pixels",
       "Incorrect input source",
@@ -14086,7 +14086,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "A customer describes a system that needs persistent image retention damage on a display. Which choice matches that need?",
+    "q": "A device specification calls for the following: persistent image retention damage on a display. Which listed option meets it?",
     "opts": [
       "Burn-in",
       "Burnt-out bulb",
@@ -14107,7 +14107,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "In a troubleshooting case, the following observation is recorded: Check brightness backlight and power. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "An IT team must address the following condition: display output has insufficient brightness. Which choice best applies?",
     "opts": [
       "Dim image",
       "Fuzzy image",
@@ -14128,7 +14128,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "A technician is comparing options for this requirement: projected or displayed image lacks sharpness. Which technology is appropriate?",
+    "q": "A technician is reviewing a configuration with this characteristic: projected or displayed image lacks sharpness. Identify the best match.",
     "opts": [
       "Fuzzy image",
       "Dim image",
@@ -14149,7 +14149,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "A field technician must provide projector light source no longer operates. Which technology fulfills this purpose?",
+    "q": "A support engineer must account for this behavior: projector light source no longer operates. Which technology is relevant?",
     "opts": [
       "Burnt-out bulb",
       "Dim image",
@@ -14170,7 +14170,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "In a troubleshooting case, the following observation is recorded: Check cable refresh rate and display hardware. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A hardware assessment notes: display intermittently flickers. Identify the most suitable component or feature.",
     "opts": [
       "Flashing screen",
       "Incorrect input source",
@@ -14191,7 +14191,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "An administrator needs display listens to the wrong input connector. Which item matches the requirement?",
+    "q": "A service desk technician receives this requirement: display listens to the wrong input connector. Which listed technology fits the requirement?",
     "opts": [
       "Incorrect input source",
       "Dim image",
@@ -14212,7 +14212,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "A repair ticket specifies individual screen pixels that no longer function correctly. Which item addresses that specification?",
+    "q": "A client reports the following technical detail: individual screen pixels that no longer function correctly. What does it most closely describe?",
     "opts": [
       "Dead pixels",
       "Burnt-out bulb",
@@ -14233,7 +14233,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "In a troubleshooting case, the following observation is recorded: Static imagery is especially relevant to OLED. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A small-office technician is asked to provide the following capability: persistent image retention damage on a display. What should be selected?",
     "opts": [
       "Burn-in",
       "Burnt-out bulb",
@@ -14254,7 +14254,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "A device specification mentions display output has insufficient brightness. What feature is being described?",
+    "q": "A field engineer is planning a repair involving this need: display output has insufficient brightness. Select the most appropriate item.",
     "opts": [
       "Dim image",
       "Dead pixels",
@@ -14275,7 +14275,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "During a help-desk escalation, the documented need is projected or displayed image lacks sharpness. What should the technician use?",
+    "q": "During equipment selection, a customer requests this functionality: projected or displayed image lacks sharpness. Which item is appropriate?",
     "opts": [
       "Fuzzy image",
       "Burn-in",
@@ -14296,7 +14296,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "In a troubleshooting case, the following observation is recorded: Follow safe cooling before lamp replacement. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A device specification calls for the following: projector light source no longer operates. Which listed option meets it?",
     "opts": [
       "Burnt-out bulb",
       "Burn-in",
@@ -14317,7 +14317,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "Which option would you select when a support ticket calls for display intermittently flickers?",
+    "q": "An IT team must address the following condition: display intermittently flickers. Which choice best applies?",
     "opts": [
       "Flashing screen",
       "Dim image",
@@ -14359,7 +14359,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "In a troubleshooting case, the following observation is recorded: A single bad pixel differs from total signal loss. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A support engineer must account for this behavior: individual screen pixels that no longer function correctly. Which technology is relevant?",
     "opts": [
       "Dead pixels",
       "Incorrect input source",
@@ -14380,7 +14380,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "A technician is comparing options for this requirement: persistent image retention damage on a display. Which technology is appropriate?",
+    "q": "A hardware assessment notes: persistent image retention damage on a display. Identify the most suitable component or feature.",
     "opts": [
       "Burn-in",
       "Dead pixels",
@@ -14422,28 +14422,28 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "In a troubleshooting case, the following observation is recorded: Stop charging and follow safe replacement procedures. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A phone has a visibly bulging battery and the back cover is separating. What should a technician do first?",
     "opts": [
-      "Swollen battery",
-      "Digitizer failure",
-      "Charging port damage",
-      "Overheating phone"
+      "Stop charging and follow safe battery handling procedures",
+      "Press the cover back into place",
+      "Run battery calibration until fully discharged",
+      "Apply heat to soften the adhesive"
     ],
     "ans": [
       0
     ],
     "why": [
-      "Swollen battery: Physically expanded rechargeable cell.",
-      "Digitizer failure: Touch sensing malfunction with image still visible.",
-      "Charging port damage: Physical connector damage preventing reliable power.",
-      "Overheating phone: Mobile device becomes excessively hot."
+      "A swollen lithium battery poses fire and injury risk and requires safe isolation and replacement.",
+      "Pressing the cover can puncture or stress a swollen cell.",
+      "Charging or discharging a damaged cell increases risk.",
+      "Applying heat to a compromised cell can trigger thermal runaway."
     ],
-    "tip": "Stop charging and follow safe replacement procedures."
+    "tip": "Treat swelling as a safety incident, not a cosmetic fit issue."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "Which option would you select when a support ticket calls for touch sensing malfunction with image still visible?",
+    "q": "A small-office technician is asked to provide the following capability: touch sensing malfunction with image still visible. What should be selected?",
     "opts": [
       "Digitizer failure",
       "Poor connectivity",
@@ -14464,7 +14464,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "A customer describes a system that needs physical connector damage preventing reliable power. Which choice matches that need?",
+    "q": "A field engineer is planning a repair involving this need: physical connector damage preventing reliable power. Select the most appropriate item.",
     "opts": [
       "Charging port damage",
       "Malware",
@@ -14485,7 +14485,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "In a troubleshooting case, the following observation is recorded: Unexpected behavior can require security checks. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "During equipment selection, a customer requests this functionality: malicious software affecting device operation. Which item is appropriate?",
     "opts": [
       "Malware",
       "Cursor drift",
@@ -14506,7 +14506,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "A technician is comparing options for this requirement: touch pointer moves or registers inaccurately. Which technology is appropriate?",
+    "q": "A device specification calls for the following: touch pointer moves or registers inaccurately. Which listed option meets it?",
     "opts": [
       "Cursor drift",
       "Malware",
@@ -14527,7 +14527,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "A field technician must provide mobile device becomes excessively hot. Which technology fulfills this purpose?",
+    "q": "An IT team must address the following condition: mobile device becomes excessively hot. Which choice best applies?",
     "opts": [
       "Overheating phone",
       "Charging port damage",
@@ -14548,7 +14548,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "In a troubleshooting case, the following observation is recorded: Isolate Wi-Fi cellular and Bluetooth separately. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A technician is reviewing a configuration with this characteristic: weak or absent mobile network access. Identify the best match.",
     "opts": [
       "Poor connectivity",
       "Cursor drift",
@@ -14569,7 +14569,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "An administrator needs physically expanded rechargeable cell. Which item matches the requirement?",
+    "q": "A support engineer must account for this behavior: physically expanded rechargeable cell. Which technology is relevant?",
     "opts": [
       "Swollen battery",
       "Poor connectivity",
@@ -14590,7 +14590,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "A repair ticket specifies touch sensing malfunction with image still visible. Which item addresses that specification?",
+    "q": "A hardware assessment notes: touch sensing malfunction with image still visible. Identify the most suitable component or feature.",
     "opts": [
       "Digitizer failure",
       "Cursor drift",
@@ -14611,7 +14611,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "In a troubleshooting case, the following observation is recorded: Inspect the port before blaming the charger. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A service desk technician receives this requirement: physical connector damage preventing reliable power. Which listed technology fits the requirement?",
     "opts": [
       "Charging port damage",
       "Digitizer failure",
@@ -14632,7 +14632,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "A device specification mentions malicious software affecting device operation. What feature is being described?",
+    "q": "A client reports the following technical detail: malicious software affecting device operation. What does it most closely describe?",
     "opts": [
       "Malware",
       "Overheating phone",
@@ -14653,7 +14653,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "During a help-desk escalation, the documented need is touch pointer moves or registers inaccurately. What should the technician use?",
+    "q": "A small-office technician is asked to provide the following capability: touch pointer moves or registers inaccurately. What should be selected?",
     "opts": [
       "Cursor drift",
       "Poor connectivity",
@@ -14674,7 +14674,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "In a troubleshooting case, the following observation is recorded: Check charging battery and workload. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A field engineer is planning a repair involving this need: mobile device becomes excessively hot. Select the most appropriate item.",
     "opts": [
       "Overheating phone",
       "Malware",
@@ -14695,7 +14695,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "Which option would you select when a support ticket calls for weak or absent mobile network access?",
+    "q": "During equipment selection, a customer requests this functionality: weak or absent mobile network access. Which item is appropriate?",
     "opts": [
       "Poor connectivity",
       "Overheating phone",
@@ -14737,7 +14737,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "In a troubleshooting case, the following observation is recorded: Touch and display image are separate functions. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "An IT team must address the following condition: touch sensing malfunction with image still visible. Which choice best applies?",
     "opts": [
       "Digitizer failure",
       "Swollen battery",
@@ -14758,7 +14758,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "A technician is comparing options for this requirement: physical connector damage preventing reliable power. Which technology is appropriate?",
+    "q": "A technician is reviewing a configuration with this characteristic: physical connector damage preventing reliable power. Identify the best match.",
     "opts": [
       "Charging port damage",
       "Poor connectivity",
@@ -14779,28 +14779,28 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "In a troubleshooting case, the following observation is recorded: VoIP audio breaks up when timing varies. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A VoIP call sounds choppy despite high download speed. Measurements show packets arriving at irregular intervals. Which metric best describes the problem?",
     "opts": [
       "Jitter",
-      "Authentication failure",
-      "Slow network",
-      "Wireless interference"
+      "Throughput",
+      "Signal strength",
+      "DNS TTL"
     ],
     "ans": [
       0
     ],
     "why": [
-      "Jitter: Variation in packet arrival delay.",
-      "Authentication failure: Access rejected during identity verification.",
-      "Slow network: Throughput lower than expected.",
-      "Wireless interference: Competing radio signals degrade Wi-Fi."
+      "Jitter is variation in packet arrival delay, which can disrupt real-time audio.",
+      "Throughput measures data volume over time and can be high despite uneven packet timing.",
+      "Signal strength is a radio measurement, not the timing variation itself.",
+      "DNS TTL controls cache lifetime for records, not VoIP packet timing."
     ],
-    "tip": "VoIP audio breaks up when timing varies."
+    "tip": "Voice traffic needs consistent timing; a fast speed test alone cannot rule out jitter."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "Which option would you select when a support ticket calls for delay for data to traverse a network path?",
+    "q": "A hardware assessment notes: delay for data to traverse a network path. Identify the most suitable component or feature.",
     "opts": [
       "Latency",
       "Jitter",
@@ -14821,7 +14821,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "A customer describes a system that needs switch port repeatedly changes link state. Which choice matches that need?",
+    "q": "A service desk technician receives this requirement: switch port repeatedly changes link state. Which listed technology fits the requirement?",
     "opts": [
       "Port flapping",
       "Jitter",
@@ -14842,7 +14842,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "In a troubleshooting case, the following observation is recorded: Survey channels and physical sources. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A client reports the following technical detail: competing radio signals degrade Wi-Fi. What does it most closely describe?",
     "opts": [
       "Wireless interference",
       "Jitter",
@@ -14863,7 +14863,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "A technician is comparing options for this requirement: access rejected during identity verification. Which technology is appropriate?",
+    "q": "A small-office technician is asked to provide the following capability: access rejected during identity verification. What should be selected?",
     "opts": [
       "Authentication failure",
       "Port flapping",
@@ -14884,7 +14884,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "A field technician must provide wAN access drops unpredictably. Which technology fulfills this purpose?",
+    "q": "A field engineer is planning a repair involving this need: wAN access drops unpredictably. Select the most appropriate item.",
     "opts": [
       "Intermittent internet",
       "Wireless interference",
@@ -14905,7 +14905,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "In a troubleshooting case, the following observation is recorded: Test link speed congestion and errors. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "During equipment selection, a customer requests this functionality: throughput lower than expected. Which item is appropriate?",
     "opts": [
       "Slow network",
       "Authentication failure",
@@ -14926,7 +14926,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "An administrator needs variation in packet arrival delay. Which item matches the requirement?",
+    "q": "A device specification calls for the following: variation in packet arrival delay. Which listed option meets it?",
     "opts": [
       "Jitter",
       "Authentication failure",
@@ -14947,7 +14947,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "A repair ticket specifies delay for data to traverse a network path. Which item addresses that specification?",
+    "q": "An IT team must address the following condition: delay for data to traverse a network path. Which choice best applies?",
     "opts": [
       "Latency",
       "Authentication failure",
@@ -14968,7 +14968,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "In a troubleshooting case, the following observation is recorded: Check cabling transceiver and endpoint power. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A technician is reviewing a configuration with this characteristic: switch port repeatedly changes link state. Identify the best match.",
     "opts": [
       "Port flapping",
       "Jitter",
@@ -14989,7 +14989,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "A device specification mentions competing radio signals degrade Wi-Fi. What feature is being described?",
+    "q": "A support engineer must account for this behavior: competing radio signals degrade Wi-Fi. Which technology is relevant?",
     "opts": [
       "Wireless interference",
       "Intermittent internet",
@@ -15010,7 +15010,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "During a help-desk escalation, the documented need is access rejected during identity verification. What should the technician use?",
+    "q": "A hardware assessment notes: access rejected during identity verification. Identify the most suitable component or feature.",
     "opts": [
       "Authentication failure",
       "Port flapping",
@@ -15031,7 +15031,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "In a troubleshooting case, the following observation is recorded: Separate local Wi-Fi loss from ISP failure. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A service desk technician receives this requirement: wAN access drops unpredictably. Which listed technology fits the requirement?",
     "opts": [
       "Intermittent internet",
       "Jitter",
@@ -15052,7 +15052,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "Which option would you select when a support ticket calls for throughput lower than expected?",
+    "q": "A client reports the following technical detail: throughput lower than expected. What does it most closely describe?",
     "opts": [
       "Slow network",
       "Jitter",
@@ -15094,7 +15094,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "In a troubleshooting case, the following observation is recorded: High round-trip times harm interactive applications. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A field engineer is planning a repair involving this need: delay for data to traverse a network path. Select the most appropriate item.",
     "opts": [
       "Latency",
       "Authentication failure",
@@ -15115,28 +15115,28 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "In a troubleshooting case, the following observation is recorded: Inspect rollers and remove paper carefully. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A network printer is online and other users can print, but one workstation has several jobs stuck without progressing. What should be checked first on that workstation?",
     "opts": [
-      "Paper jam",
-      "Multipage misfeed",
-      "Wrong orientation",
-      "Garbled print"
+      "Local print queue and spooler",
+      "Printer imaging drum",
+      "Printer paper tray size",
+      "Printer fuser temperature"
     ],
     "ans": [
       0
     ],
     "why": [
-      "Paper jam: Sheet becomes stuck in printer path.",
-      "Multipage misfeed: Several sheets feed at once.",
-      "Wrong orientation: Page prints in unintended portrait or landscape mode.",
-      "Garbled print: Output contains unexpected characters or symbols."
+      "A stuck local queue or spooler can block jobs from one workstation while other users print normally.",
+      "An imaging drum problem would affect printed output, not only one user’s queued jobs.",
+      "Paper size problems would likely be visible at the device or affect multiple clients.",
+      "Fuser issues affect physical printing and are not isolated to one client queue."
     ],
-    "tip": "Inspect rollers and remove paper carefully."
+    "tip": "Compare behavior from another workstation to separate local spooler faults from printer hardware faults."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "Which option would you select when a support ticket calls for printed content lacks expected density?",
+    "q": "A device specification calls for the following: printed content lacks expected density. Which listed option meets it?",
     "opts": [
       "Faded print",
       "Frozen print queue",
@@ -15157,7 +15157,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "A customer describes a system that needs output contains unexpected characters or symbols. Which choice matches that need?",
+    "q": "An IT team must address the following condition: output contains unexpected characters or symbols. Which choice best applies?",
     "opts": [
       "Garbled print",
       "Double image",
@@ -15178,7 +15178,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "In a troubleshooting case, the following observation is recorded: Clear or restart the affected queue appropriately. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A technician is reviewing a configuration with this characteristic: jobs stop progressing through the spooler. Identify the best match.",
     "opts": [
       "Frozen print queue",
       "Multipage misfeed",
@@ -15199,7 +15199,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "A technician is comparing options for this requirement: several sheets feed at once. Which technology is appropriate?",
+    "q": "A support engineer must account for this behavior: several sheets feed at once. Which technology is relevant?",
     "opts": [
       "Multipage misfeed",
       "Paper jam",
@@ -15220,7 +15220,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "A field technician must provide ghosted repeated image on a printed page. Which technology fulfills this purpose?",
+    "q": "A hardware assessment notes: ghosted repeated image on a printed page. Identify the most suitable component or feature.",
     "opts": [
       "Double image",
       "Paper jam",
@@ -15241,7 +15241,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "In a troubleshooting case, the following observation is recorded: Reseat tray and check sensors. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A service desk technician receives this requirement: printer does not detect installed paper tray. Which listed technology fits the requirement?",
     "opts": [
       "Tray not recognized",
       "Multipage misfeed",
@@ -15262,7 +15262,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "An administrator needs page prints in unintended portrait or landscape mode. Which item matches the requirement?",
+    "q": "A client reports the following technical detail: page prints in unintended portrait or landscape mode. What does it most closely describe?",
     "opts": [
       "Wrong orientation",
       "Faded print",
@@ -15283,7 +15283,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "A repair ticket specifies sheet becomes stuck in printer path. Which item addresses that specification?",
+    "q": "A small-office technician is asked to provide the following capability: sheet becomes stuck in printer path. What should be selected?",
     "opts": [
       "Paper jam",
       "Double image",
@@ -15304,7 +15304,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "In a troubleshooting case, the following observation is recorded: Consumables and printheads differ by printer type. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A field engineer is planning a repair involving this need: printed content lacks expected density. Select the most appropriate item.",
     "opts": [
       "Faded print",
       "Paper jam",
@@ -15325,7 +15325,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "A device specification mentions output contains unexpected characters or symbols. What feature is being described?",
+    "q": "During equipment selection, a customer requests this functionality: output contains unexpected characters or symbols. Which item is appropriate?",
     "opts": [
       "Garbled print",
       "Multipage misfeed",
@@ -15346,7 +15346,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "During a help-desk escalation, the documented need is jobs stop progressing through the spooler. What should the technician use?",
+    "q": "A device specification calls for the following: jobs stop progressing through the spooler. Which listed option meets it?",
     "opts": [
       "Frozen print queue",
       "Wrong orientation",
@@ -15367,7 +15367,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "In a troubleshooting case, the following observation is recorded: Check separation rollers and paper condition. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "An IT team must address the following condition: several sheets feed at once. Which choice best applies?",
     "opts": [
       "Multipage misfeed",
       "Frozen print queue",
@@ -15388,7 +15388,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "Which option would you select when a support ticket calls for ghosted repeated image on a printed page?",
+    "q": "A technician is reviewing a configuration with this characteristic: ghosted repeated image on a printed page. Identify the best match.",
     "opts": [
       "Double image",
       "Tray not recognized",
@@ -15430,7 +15430,7 @@ const QUESTIONS = [
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "In a troubleshooting case, the following observation is recorded: Verify application and driver settings. Which technology or concept is MOST relevant? Which option is most relevant?",
+    "q": "A hardware assessment notes: page prints in unintended portrait or landscape mode. Identify the most suitable component or feature.",
     "opts": [
       "Wrong orientation",
       "Paper jam",
@@ -15449,6 +15449,7 @@ const QUESTIONS = [
     "tip": "Verify application and driver settings."
   }
 ];
+;
 const OBJECTIVE_HEADINGS = {
   "1.1": "Given a scenario, monitor mobile device hardware and use appropriate replacement",
   "1.2": "Compare and contrast accessories and connectivity options for mobile devices.",

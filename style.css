@@ -3,3 +3,7 @@
 .objective-drill,.objective-pbq{padding:7px 11px;margin:5px;border-radius:8px;font-size:.85rem}.objective-pbq{background:#5c46ad;color:white}#objectiveGuide p{padding:9px 0;border-bottom:1px solid #30405d}
 
 .domain-card{border:1px solid #30436e;background:#192442;border-radius:18px;padding:18px;display:flex;flex-direction:column;gap:10px;color:#eef4ff}.domain-card>b{font-size:1.1rem}.domain-card>span{color:#aec5f4}.domain-actions{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-top:8px}.domain-actions button{font-size:.9rem;padding:12px 8px;white-space:normal;min-height:54px}.domain-full{background:#a58cf5!important;color:#0c1124!important}@media(max-width:760px){.domain-actions{grid-template-columns:1fr}.domain-actions button{min-height:45px}}
+
+/* Readability for long scenario-based prompts */
+#question{display:block!important;white-space:normal!important;overflow:visible!important;text-overflow:clip!important;overflow-wrap:break-word!important;line-height:1.4!important;color:#f5f8ff!important;max-height:none!important;-webkit-line-clamp:unset!important;}
+.question{max-width:1000px!important;} .option{white-space:normal;overflow-wrap:anywhere;line-height:1.5;} .badge{white-space:normal;overflow-wrap:anywhere;line-height:1.4;}
