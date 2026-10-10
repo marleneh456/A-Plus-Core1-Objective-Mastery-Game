@@ -5791,7 +5791,7 @@ const QUESTIONS = [
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "A technician encounters this situation: A swollen pack must be taken out of service safely. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: A swollen pack must be taken out of service safely. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Battery",
       "Wireless card",
@@ -5803,16 +5803,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Battery: Stores portable electrical power.",
-      "Wireless card: Provides radio connectivity to networks. This serves a different function from battery.",
-      "SSD: Solid-state storage without moving platters. This serves a different function from battery.",
-      "Webcam: Captures video for calls and meetings. This serves a different function from battery."
+      "Wireless card: Provides radio connectivity to networks.",
+      "SSD: Solid-state storage without moving platters.",
+      "Webcam: Captures video for calls and meetings."
     ],
     "tip": "A swollen pack must be taken out of service safely."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "Which term describes the following capability: temporary working memory for active tasks?",
+    "q": "Which option would you select when a support ticket calls for temporary working memory for active tasks?",
     "opts": [
       "RAM",
       "SSD",
@@ -5824,16 +5824,16 @@ const QUESTIONS = [
     ],
     "why": [
       "RAM: Temporary working memory for active tasks.",
-      "SSD: Solid-state storage without moving platters. This serves a different function from ram.",
-      "Wi-Fi antenna connector: Links the wireless card to antenna leads. This serves a different function from ram.",
-      "Battery: Stores portable electrical power. This serves a different function from ram."
+      "SSD: Solid-state storage without moving platters.",
+      "Wi-Fi antenna connector: Links the wireless card to antenna leads.",
+      "Battery: Stores portable electrical power."
     ],
     "tip": "Match laptop memory form factor and supported generation."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "An IT support specialist needs to identify a component or service that solid-state storage without moving platters. What should they select?",
+    "q": "A customer describes a system that needs solid-state storage without moving platters. Which choice matches that need?",
     "opts": [
       "SSD",
       "RAM",
@@ -5845,16 +5845,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SSD: Solid-state storage without moving platters.",
-      "RAM: Temporary working memory for active tasks. This serves a different function from ssd.",
-      "Biometrics: Uses physical traits to authenticate users. This serves a different function from ssd.",
-      "Webcam: Captures video for calls and meetings. This serves a different function from ssd."
+      "RAM: Temporary working memory for active tasks.",
+      "Biometrics: Uses physical traits to authenticate users.",
+      "Webcam: Captures video for calls and meetings."
     ],
     "tip": "Storage upgrades need interface and form-factor compatibility."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "A technician encounters this situation: A disconnected lead can cause weak wireless reception. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: A disconnected lead can cause weak wireless reception. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Wi-Fi antenna connector",
       "RAM",
@@ -5866,16 +5866,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Wi-Fi antenna connector: Links the wireless card to antenna leads.",
-      "RAM: Temporary working memory for active tasks. This serves a different function from wi-fi antenna connector.",
-      "Battery: Stores portable electrical power. This serves a different function from wi-fi antenna connector.",
-      "Webcam: Captures video for calls and meetings. This serves a different function from wi-fi antenna connector."
+      "RAM: Temporary working memory for active tasks.",
+      "Battery: Stores portable electrical power.",
+      "Webcam: Captures video for calls and meetings."
     ],
     "tip": "A disconnected lead can cause weak wireless reception."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "Which term describes the following capability: captures video for calls and meetings?",
+    "q": "A technician is comparing options for this requirement: captures video for calls and meetings. Which technology is appropriate?",
     "opts": [
       "Webcam",
       "Wireless card",
@@ -5887,16 +5887,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Webcam: Captures video for calls and meetings.",
-      "Wireless card: Provides radio connectivity to networks. This serves a different function from webcam.",
-      "SSD: Solid-state storage without moving platters. This serves a different function from webcam.",
-      "Biometrics: Uses physical traits to authenticate users. This serves a different function from webcam."
+      "Wireless card: Provides radio connectivity to networks.",
+      "SSD: Solid-state storage without moving platters.",
+      "Biometrics: Uses physical traits to authenticate users."
     ],
     "tip": "Check privacy shutters and camera permissions first."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "An IT support specialist needs to identify a component or service that uses physical traits to authenticate users. What should they select?",
+    "q": "A field technician must provide uses physical traits to authenticate users. Which technology fulfills this purpose?",
     "opts": [
       "Biometrics",
       "SSD",
@@ -5908,16 +5908,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Biometrics: Uses physical traits to authenticate users.",
-      "SSD: Solid-state storage without moving platters. This serves a different function from biometrics.",
-      "Wireless card: Provides radio connectivity to networks. This serves a different function from biometrics.",
-      "Wi-Fi antenna connector: Links the wireless card to antenna leads. This serves a different function from biometrics."
+      "SSD: Solid-state storage without moving platters.",
+      "Wireless card: Provides radio connectivity to networks.",
+      "Wi-Fi antenna connector: Links the wireless card to antenna leads."
     ],
     "tip": "A fingerprint reader is a security component."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "A technician encounters this situation: Confirm antenna leads before replacing a wireless card. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Confirm antenna leads before replacing a wireless card. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Wireless card",
       "Wi-Fi antenna connector",
@@ -5929,16 +5929,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Wireless card: Provides radio connectivity to networks.",
-      "Wi-Fi antenna connector: Links the wireless card to antenna leads. This serves a different function from wireless card.",
-      "Biometrics: Uses physical traits to authenticate users. This serves a different function from wireless card.",
-      "Battery: Stores portable electrical power. This serves a different function from wireless card."
+      "Wi-Fi antenna connector: Links the wireless card to antenna leads.",
+      "Biometrics: Uses physical traits to authenticate users.",
+      "Battery: Stores portable electrical power."
     ],
     "tip": "Confirm antenna leads before replacing a wireless card."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "Which term describes the following capability: stores portable electrical power?",
+    "q": "An administrator needs stores portable electrical power. Which item matches the requirement?",
     "opts": [
       "Battery",
       "Biometrics",
@@ -5950,16 +5950,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Battery: Stores portable electrical power.",
-      "Biometrics: Uses physical traits to authenticate users. This serves a different function from battery.",
-      "Webcam: Captures video for calls and meetings. This serves a different function from battery.",
-      "Wireless card: Provides radio connectivity to networks. This serves a different function from battery."
+      "Biometrics: Uses physical traits to authenticate users.",
+      "Webcam: Captures video for calls and meetings.",
+      "Wireless card: Provides radio connectivity to networks."
     ],
     "tip": "A swollen pack must be taken out of service safely."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "An IT support specialist needs to identify a component or service that temporary working memory for active tasks. What should they select?",
+    "q": "A repair ticket specifies temporary working memory for active tasks. Which item addresses that specification?",
     "opts": [
       "RAM",
       "SSD",
@@ -5971,16 +5971,16 @@ const QUESTIONS = [
     ],
     "why": [
       "RAM: Temporary working memory for active tasks.",
-      "SSD: Solid-state storage without moving platters. This serves a different function from ram.",
-      "Webcam: Captures video for calls and meetings. This serves a different function from ram.",
-      "Biometrics: Uses physical traits to authenticate users. This serves a different function from ram."
+      "SSD: Solid-state storage without moving platters.",
+      "Webcam: Captures video for calls and meetings.",
+      "Biometrics: Uses physical traits to authenticate users."
     ],
     "tip": "Match laptop memory form factor and supported generation."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "A technician encounters this situation: Storage upgrades need interface and form-factor compatibility. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Storage upgrades need interface and form-factor compatibility. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "SSD",
       "RAM",
@@ -5992,16 +5992,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SSD: Solid-state storage without moving platters.",
-      "RAM: Temporary working memory for active tasks. This serves a different function from ssd.",
-      "Biometrics: Uses physical traits to authenticate users. This serves a different function from ssd.",
-      "Wi-Fi antenna connector: Links the wireless card to antenna leads. This serves a different function from ssd."
+      "RAM: Temporary working memory for active tasks.",
+      "Biometrics: Uses physical traits to authenticate users.",
+      "Wi-Fi antenna connector: Links the wireless card to antenna leads."
     ],
     "tip": "Storage upgrades need interface and form-factor compatibility."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "Which term describes the following capability: links the wireless card to antenna leads?",
+    "q": "A device specification mentions links the wireless card to antenna leads. What feature is being described?",
     "opts": [
       "Wi-Fi antenna connector",
       "Wireless card",
@@ -6013,16 +6013,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Wi-Fi antenna connector: Links the wireless card to antenna leads.",
-      "Wireless card: Provides radio connectivity to networks. This serves a different function from wi-fi antenna connector.",
-      "SSD: Solid-state storage without moving platters. This serves a different function from wi-fi antenna connector.",
-      "Webcam: Captures video for calls and meetings. This serves a different function from wi-fi antenna connector."
+      "Wireless card: Provides radio connectivity to networks.",
+      "SSD: Solid-state storage without moving platters.",
+      "Webcam: Captures video for calls and meetings."
     ],
     "tip": "A disconnected lead can cause weak wireless reception."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "An IT support specialist needs to identify a component or service that captures video for calls and meetings. What should they select?",
+    "q": "During a help-desk escalation, the documented need is captures video for calls and meetings. What should the technician use?",
     "opts": [
       "Webcam",
       "SSD",
@@ -6034,16 +6034,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Webcam: Captures video for calls and meetings.",
-      "SSD: Solid-state storage without moving platters. This serves a different function from webcam.",
-      "Wireless card: Provides radio connectivity to networks. This serves a different function from webcam.",
-      "RAM: Temporary working memory for active tasks. This serves a different function from webcam."
+      "SSD: Solid-state storage without moving platters.",
+      "Wireless card: Provides radio connectivity to networks.",
+      "RAM: Temporary working memory for active tasks."
     ],
     "tip": "Check privacy shutters and camera permissions first."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "A technician encounters this situation: A fingerprint reader is a security component. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: A fingerprint reader is a security component. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Biometrics",
       "Wi-Fi antenna connector",
@@ -6055,16 +6055,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Biometrics: Uses physical traits to authenticate users.",
-      "Wi-Fi antenna connector: Links the wireless card to antenna leads. This serves a different function from biometrics.",
-      "Wireless card: Provides radio connectivity to networks. This serves a different function from biometrics.",
-      "Battery: Stores portable electrical power. This serves a different function from biometrics."
+      "Wi-Fi antenna connector: Links the wireless card to antenna leads.",
+      "Wireless card: Provides radio connectivity to networks.",
+      "Battery: Stores portable electrical power."
     ],
     "tip": "A fingerprint reader is a security component."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "Which term describes the following capability: provides radio connectivity to networks?",
+    "q": "Which option would you select when a support ticket calls for provides radio connectivity to networks?",
     "opts": [
       "Wireless card",
       "Biometrics",
@@ -6076,16 +6076,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Wireless card: Provides radio connectivity to networks.",
-      "Biometrics: Uses physical traits to authenticate users. This serves a different function from wireless card.",
-      "RAM: Temporary working memory for active tasks. This serves a different function from wireless card.",
-      "Wi-Fi antenna connector: Links the wireless card to antenna leads. This serves a different function from wireless card."
+      "Biometrics: Uses physical traits to authenticate users.",
+      "RAM: Temporary working memory for active tasks.",
+      "Wi-Fi antenna connector: Links the wireless card to antenna leads."
     ],
     "tip": "Confirm antenna leads before replacing a wireless card."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "An IT support specialist needs to identify a component or service that stores portable electrical power. What should they select?",
+    "q": "A support team is checking compatibility for stores portable electrical power. Which item should be considered?",
     "opts": [
       "Battery",
       "Biometrics",
@@ -6097,16 +6097,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Battery: Stores portable electrical power.",
-      "Biometrics: Uses physical traits to authenticate users. This serves a different function from battery.",
-      "Wireless card: Provides radio connectivity to networks. This serves a different function from battery.",
-      "Wi-Fi antenna connector: Links the wireless card to antenna leads. This serves a different function from battery."
+      "Biometrics: Uses physical traits to authenticate users.",
+      "Wireless card: Provides radio connectivity to networks.",
+      "Wi-Fi antenna connector: Links the wireless card to antenna leads."
     ],
     "tip": "A swollen pack must be taken out of service safely."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "A technician encounters this situation: Match laptop memory form factor and supported generation. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Match laptop memory form factor and supported generation. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "RAM",
       "Webcam",
@@ -6118,16 +6118,16 @@ const QUESTIONS = [
     ],
     "why": [
       "RAM: Temporary working memory for active tasks.",
-      "Webcam: Captures video for calls and meetings. This serves a different function from ram.",
-      "Biometrics: Uses physical traits to authenticate users. This serves a different function from ram.",
-      "Wireless card: Provides radio connectivity to networks. This serves a different function from ram."
+      "Webcam: Captures video for calls and meetings.",
+      "Biometrics: Uses physical traits to authenticate users.",
+      "Wireless card: Provides radio connectivity to networks."
     ],
     "tip": "Match laptop memory form factor and supported generation."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "Which term describes the following capability: solid-state storage without moving platters?",
+    "q": "A technician is comparing options for this requirement: solid-state storage without moving platters. Which technology is appropriate?",
     "opts": [
       "SSD",
       "Wireless card",
@@ -6139,16 +6139,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SSD: Solid-state storage without moving platters.",
-      "Wireless card: Provides radio connectivity to networks. This serves a different function from ssd.",
-      "Battery: Stores portable electrical power. This serves a different function from ssd.",
-      "Webcam: Captures video for calls and meetings. This serves a different function from ssd."
+      "Wireless card: Provides radio connectivity to networks.",
+      "Battery: Stores portable electrical power.",
+      "Webcam: Captures video for calls and meetings."
     ],
     "tip": "Storage upgrades need interface and form-factor compatibility."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.1",
-    "q": "An IT support specialist needs to identify a component or service that links the wireless card to antenna leads. What should they select?",
+    "q": "An IT department is purchasing equipment for links the wireless card to antenna leads. Which option is relevant?",
     "opts": [
       "Wi-Fi antenna connector",
       "Battery",
@@ -6160,16 +6160,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Wi-Fi antenna connector: Links the wireless card to antenna leads.",
-      "Battery: Stores portable electrical power. This serves a different function from wi-fi antenna connector.",
-      "Wireless card: Provides radio connectivity to networks. This serves a different function from wi-fi antenna connector.",
-      "Webcam: Captures video for calls and meetings. This serves a different function from wi-fi antenna connector."
+      "Battery: Stores portable electrical power.",
+      "Wireless card: Provides radio connectivity to networks.",
+      "Webcam: Captures video for calls and meetings."
     ],
     "tip": "A disconnected lead can cause weak wireless reception."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "A technician encounters this situation: Connector shape alone does not guarantee every feature. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Connector shape alone does not guarantee every feature. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "USB-C",
       "Docking station",
@@ -6181,16 +6181,16 @@ const QUESTIONS = [
     ],
     "why": [
       "USB-C: Reversible connector used for data and sometimes power/video.",
-      "Docking station: Adds multiple peripheral and display connections. This serves a different function from usb-c.",
-      "Lightning: Proprietary mobile connector on certain Apple devices. This serves a different function from usb-c.",
-      "Hotspot: Shares a phone's cellular connection with clients. This serves a different function from usb-c."
+      "Docking station: Adds multiple peripheral and display connections.",
+      "Lightning: Proprietary mobile connector on certain Apple devices.",
+      "Hotspot: Shares a phone's cellular connection with clients."
     ],
     "tip": "Connector shape alone does not guarantee every feature."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "Which term describes the following capability: proprietary mobile connector on certain Apple devices?",
+    "q": "Which option would you select when a support ticket calls for proprietary mobile connector on certain Apple devices?",
     "opts": [
       "Lightning",
       "Hotspot",
@@ -6202,16 +6202,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Lightning: Proprietary mobile connector on certain Apple devices.",
-      "Hotspot: Shares a phone's cellular connection with clients. This serves a different function from lightning.",
-      "Docking station: Adds multiple peripheral and display connections. This serves a different function from lightning.",
-      "Stylus: Precision pen input on compatible touchscreens. This serves a different function from lightning."
+      "Hotspot: Shares a phone's cellular connection with clients.",
+      "Docking station: Adds multiple peripheral and display connections.",
+      "Stylus: Precision pen input on compatible touchscreens."
     ],
     "tip": "Check the device generation before choosing a cable."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "An IT support specialist needs to identify a component or service that very short-range contactless communication. What should they select?",
+    "q": "A customer describes a system that needs very short-range contactless communication. Which choice matches that need?",
     "opts": [
       "NFC",
       "Port replicator",
@@ -6223,16 +6223,16 @@ const QUESTIONS = [
     ],
     "why": [
       "NFC: Very short-range contactless communication.",
-      "Port replicator: Extends accessible computer ports. This serves a different function from nfc.",
-      "Lightning: Proprietary mobile connector on certain Apple devices. This serves a different function from nfc.",
-      "USB-C: Reversible connector used for data and sometimes power/video. This serves a different function from nfc."
+      "Port replicator: Extends accessible computer ports.",
+      "Lightning: Proprietary mobile connector on certain Apple devices.",
+      "USB-C: Reversible connector used for data and sometimes power/video."
     ],
     "tip": "Tap-to-pay happens at close proximity."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "A technician encounters this situation: Pairing a headset differs from sharing internet access. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Pairing a headset differs from sharing internet access. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Bluetooth",
       "Docking station",
@@ -6244,16 +6244,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Bluetooth: Short-range wireless accessory pairing.",
-      "Docking station: Adds multiple peripheral and display connections. This serves a different function from bluetooth.",
-      "NFC: Very short-range contactless communication. This serves a different function from bluetooth.",
-      "Port replicator: Extends accessible computer ports. This serves a different function from bluetooth."
+      "Docking station: Adds multiple peripheral and display connections.",
+      "NFC: Very short-range contactless communication.",
+      "Port replicator: Extends accessible computer ports."
     ],
     "tip": "Pairing a headset differs from sharing internet access."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "Which term describes the following capability: shares a phone's cellular connection with clients?",
+    "q": "A technician is comparing options for this requirement: shares a phone's cellular connection with clients. Which technology is appropriate?",
     "opts": [
       "Hotspot",
       "Docking station",
@@ -6265,16 +6265,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Hotspot: Shares a phone's cellular connection with clients.",
-      "Docking station: Adds multiple peripheral and display connections. This serves a different function from hotspot.",
-      "NFC: Very short-range contactless communication. This serves a different function from hotspot.",
-      "USB-C: Reversible connector used for data and sometimes power/video. This serves a different function from hotspot."
+      "Docking station: Adds multiple peripheral and display connections.",
+      "NFC: Very short-range contactless communication.",
+      "USB-C: Reversible connector used for data and sometimes power/video."
     ],
     "tip": "Check data plan and hotspot settings."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "An IT support specialist needs to identify a component or service that adds multiple peripheral and display connections. What should they select?",
+    "q": "A field technician must provide adds multiple peripheral and display connections. Which technology fulfills this purpose?",
     "opts": [
       "Docking station",
       "NFC",
@@ -6286,16 +6286,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Docking station: Adds multiple peripheral and display connections.",
-      "NFC: Very short-range contactless communication. This serves a different function from docking station.",
-      "Stylus: Precision pen input on compatible touchscreens. This serves a different function from docking station.",
-      "Lightning: Proprietary mobile connector on certain Apple devices. This serves a different function from docking station."
+      "NFC: Very short-range contactless communication.",
+      "Stylus: Precision pen input on compatible touchscreens.",
+      "Lightning: Proprietary mobile connector on certain Apple devices."
     ],
     "tip": "One connection can attach a laptop to desk peripherals."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "A technician encounters this situation: Confirm digitizer support before replacing the pen. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Confirm digitizer support before replacing the pen. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Stylus",
       "NFC",
@@ -6307,16 +6307,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Stylus: Precision pen input on compatible touchscreens.",
-      "NFC: Very short-range contactless communication. This serves a different function from stylus.",
-      "Hotspot: Shares a phone's cellular connection with clients. This serves a different function from stylus.",
-      "USB-C: Reversible connector used for data and sometimes power/video. This serves a different function from stylus."
+      "NFC: Very short-range contactless communication.",
+      "Hotspot: Shares a phone's cellular connection with clients.",
+      "USB-C: Reversible connector used for data and sometimes power/video."
     ],
     "tip": "Confirm digitizer support before replacing the pen."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "Which term describes the following capability: extends accessible computer ports?",
+    "q": "An administrator needs extends accessible computer ports. Which item matches the requirement?",
     "opts": [
       "Port replicator",
       "USB-C",
@@ -6328,16 +6328,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Port replicator: Extends accessible computer ports.",
-      "USB-C: Reversible connector used for data and sometimes power/video. This serves a different function from port replicator.",
-      "Bluetooth: Short-range wireless accessory pairing. This serves a different function from port replicator.",
-      "NFC: Very short-range contactless communication. This serves a different function from port replicator."
+      "USB-C: Reversible connector used for data and sometimes power/video.",
+      "Bluetooth: Short-range wireless accessory pairing.",
+      "NFC: Very short-range contactless communication."
     ],
     "tip": "Useful when a laptop lacks enough physical connections."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "An IT support specialist needs to identify a component or service that reversible connector used for data and sometimes power/video. What should they select?",
+    "q": "A repair ticket specifies reversible connector used for data and sometimes power/video. Which item addresses that specification?",
     "opts": [
       "USB-C",
       "Docking station",
@@ -6349,16 +6349,16 @@ const QUESTIONS = [
     ],
     "why": [
       "USB-C: Reversible connector used for data and sometimes power/video.",
-      "Docking station: Adds multiple peripheral and display connections. This serves a different function from usb-c.",
-      "Stylus: Precision pen input on compatible touchscreens. This serves a different function from usb-c.",
-      "Lightning: Proprietary mobile connector on certain Apple devices. This serves a different function from usb-c."
+      "Docking station: Adds multiple peripheral and display connections.",
+      "Stylus: Precision pen input on compatible touchscreens.",
+      "Lightning: Proprietary mobile connector on certain Apple devices."
     ],
     "tip": "Connector shape alone does not guarantee every feature."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "A technician encounters this situation: Check the device generation before choosing a cable. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Check the device generation before choosing a cable. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Lightning",
       "NFC",
@@ -6370,16 +6370,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Lightning: Proprietary mobile connector on certain Apple devices.",
-      "NFC: Very short-range contactless communication. This serves a different function from lightning.",
-      "Bluetooth: Short-range wireless accessory pairing. This serves a different function from lightning.",
-      "Docking station: Adds multiple peripheral and display connections. This serves a different function from lightning."
+      "NFC: Very short-range contactless communication.",
+      "Bluetooth: Short-range wireless accessory pairing.",
+      "Docking station: Adds multiple peripheral and display connections."
     ],
     "tip": "Check the device generation before choosing a cable."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "Which term describes the following capability: very short-range contactless communication?",
+    "q": "A device specification mentions very short-range contactless communication. What feature is being described?",
     "opts": [
       "NFC",
       "Docking station",
@@ -6391,16 +6391,16 @@ const QUESTIONS = [
     ],
     "why": [
       "NFC: Very short-range contactless communication.",
-      "Docking station: Adds multiple peripheral and display connections. This serves a different function from nfc.",
-      "USB-C: Reversible connector used for data and sometimes power/video. This serves a different function from nfc.",
-      "Stylus: Precision pen input on compatible touchscreens. This serves a different function from nfc."
+      "Docking station: Adds multiple peripheral and display connections.",
+      "USB-C: Reversible connector used for data and sometimes power/video.",
+      "Stylus: Precision pen input on compatible touchscreens."
     ],
     "tip": "Tap-to-pay happens at close proximity."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "An IT support specialist needs to identify a component or service that short-range wireless accessory pairing. What should they select?",
+    "q": "During a help-desk escalation, the documented need is short-range wireless accessory pairing. What should the technician use?",
     "opts": [
       "Bluetooth",
       "Stylus",
@@ -6412,16 +6412,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Bluetooth: Short-range wireless accessory pairing.",
-      "Stylus: Precision pen input on compatible touchscreens. This serves a different function from bluetooth.",
-      "Lightning: Proprietary mobile connector on certain Apple devices. This serves a different function from bluetooth.",
-      "Docking station: Adds multiple peripheral and display connections. This serves a different function from bluetooth."
+      "Stylus: Precision pen input on compatible touchscreens.",
+      "Lightning: Proprietary mobile connector on certain Apple devices.",
+      "Docking station: Adds multiple peripheral and display connections."
     ],
     "tip": "Pairing a headset differs from sharing internet access."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "A technician encounters this situation: Check data plan and hotspot settings. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Check data plan and hotspot settings. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Hotspot",
       "Bluetooth",
@@ -6433,16 +6433,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Hotspot: Shares a phone's cellular connection with clients.",
-      "Bluetooth: Short-range wireless accessory pairing. This serves a different function from hotspot.",
-      "Lightning: Proprietary mobile connector on certain Apple devices. This serves a different function from hotspot.",
-      "NFC: Very short-range contactless communication. This serves a different function from hotspot."
+      "Bluetooth: Short-range wireless accessory pairing.",
+      "Lightning: Proprietary mobile connector on certain Apple devices.",
+      "NFC: Very short-range contactless communication."
     ],
     "tip": "Check data plan and hotspot settings."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "Which term describes the following capability: adds multiple peripheral and display connections?",
+    "q": "Which option would you select when a support ticket calls for adds multiple peripheral and display connections?",
     "opts": [
       "Docking station",
       "USB-C",
@@ -6454,16 +6454,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Docking station: Adds multiple peripheral and display connections.",
-      "USB-C: Reversible connector used for data and sometimes power/video. This serves a different function from docking station.",
-      "Port replicator: Extends accessible computer ports. This serves a different function from docking station.",
-      "Bluetooth: Short-range wireless accessory pairing. This serves a different function from docking station."
+      "USB-C: Reversible connector used for data and sometimes power/video.",
+      "Port replicator: Extends accessible computer ports.",
+      "Bluetooth: Short-range wireless accessory pairing."
     ],
     "tip": "One connection can attach a laptop to desk peripherals."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "An IT support specialist needs to identify a component or service that precision pen input on compatible touchscreens. What should they select?",
+    "q": "A support team is checking compatibility for precision pen input on compatible touchscreens. Which item should be considered?",
     "opts": [
       "Stylus",
       "Docking station",
@@ -6475,16 +6475,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Stylus: Precision pen input on compatible touchscreens.",
-      "Docking station: Adds multiple peripheral and display connections. This serves a different function from stylus.",
-      "NFC: Very short-range contactless communication. This serves a different function from stylus.",
-      "Port replicator: Extends accessible computer ports. This serves a different function from stylus."
+      "Docking station: Adds multiple peripheral and display connections.",
+      "NFC: Very short-range contactless communication.",
+      "Port replicator: Extends accessible computer ports."
     ],
     "tip": "Confirm digitizer support before replacing the pen."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "A technician encounters this situation: Useful when a laptop lacks enough physical connections. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Useful when a laptop lacks enough physical connections. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Port replicator",
       "Lightning",
@@ -6496,16 +6496,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Port replicator: Extends accessible computer ports.",
-      "Lightning: Proprietary mobile connector on certain Apple devices. This serves a different function from port replicator.",
-      "NFC: Very short-range contactless communication. This serves a different function from port replicator.",
-      "Stylus: Precision pen input on compatible touchscreens. This serves a different function from port replicator."
+      "Lightning: Proprietary mobile connector on certain Apple devices.",
+      "NFC: Very short-range contactless communication.",
+      "Stylus: Precision pen input on compatible touchscreens."
     ],
     "tip": "Useful when a laptop lacks enough physical connections."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.2",
-    "q": "Which term describes the following capability: reversible connector used for data and sometimes power/video?",
+    "q": "A technician is comparing options for this requirement: reversible connector used for data and sometimes power/video. Which technology is appropriate?",
     "opts": [
       "USB-C",
       "NFC",
@@ -6517,16 +6517,16 @@ const QUESTIONS = [
     ],
     "why": [
       "USB-C: Reversible connector used for data and sometimes power/video.",
-      "NFC: Very short-range contactless communication. This serves a different function from usb-c.",
-      "Bluetooth: Short-range wireless accessory pairing. This serves a different function from usb-c.",
-      "Hotspot: Shares a phone's cellular connection with clients. This serves a different function from usb-c."
+      "NFC: Very short-range contactless communication.",
+      "Bluetooth: Short-range wireless accessory pairing.",
+      "Hotspot: Shares a phone's cellular connection with clients."
     ],
     "tip": "Connector shape alone does not guarantee every feature."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "A technician encounters this situation: A cellular activation issue can involve eSIM provisioning. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: A cellular activation issue can involve eSIM provisioning. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "eSIM",
       "Cloud storage sync",
@@ -6538,16 +6538,16 @@ const QUESTIONS = [
     ],
     "why": [
       "eSIM: Embedded digital subscriber identity.",
-      "Cloud storage sync: Keeps selected files synchronized across devices. This serves a different function from esim.",
-      "Data cap: Limit on allowed cellular data usage. This serves a different function from esim.",
-      "GPS: Satellite-based positioning service. This serves a different function from esim."
+      "Cloud storage sync: Keeps selected files synchronized across devices.",
+      "Data cap: Limit on allowed cellular data usage.",
+      "GPS: Satellite-based positioning service."
     ],
     "tip": "A cellular activation issue can involve eSIM provisioning."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "Which term describes the following capability: centrally applies mobile configurations and policies?",
+    "q": "Which option would you select when a support ticket calls for centrally applies mobile configurations and policies?",
     "opts": [
       "MDM",
       "Bluetooth PIN",
@@ -6559,16 +6559,16 @@ const QUESTIONS = [
     ],
     "why": [
       "MDM: Centrally applies mobile configurations and policies.",
-      "Bluetooth PIN: Code used to verify device pairing. This serves a different function from mdm.",
-      "Cloud storage sync: Keeps selected files synchronized across devices. This serves a different function from mdm.",
-      "eSIM: Embedded digital subscriber identity. This serves a different function from mdm."
+      "Bluetooth PIN: Code used to verify device pairing.",
+      "Cloud storage sync: Keeps selected files synchronized across devices.",
+      "eSIM: Embedded digital subscriber identity."
     ],
     "tip": "Corporate devices may restrict settings through management."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "An IT support specialist needs to identify a component or service that satellite-based positioning service. What should they select?",
+    "q": "A customer describes a system that needs satellite-based positioning service. Which choice matches that need?",
     "opts": [
       "GPS",
       "MDM",
@@ -6580,16 +6580,16 @@ const QUESTIONS = [
     ],
     "why": [
       "GPS: Satellite-based positioning service.",
-      "MDM: Centrally applies mobile configurations and policies. This serves a different function from gps.",
-      "eSIM: Embedded digital subscriber identity. This serves a different function from gps.",
-      "BYOD: Employee-owned device used for work. This serves a different function from gps."
+      "MDM: Centrally applies mobile configurations and policies.",
+      "eSIM: Embedded digital subscriber identity.",
+      "BYOD: Employee-owned device used for work."
     ],
     "tip": "Outdoor location may use satellite signals."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "A technician encounters this situation: Separate corporate policies from personal ownership. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Separate corporate policies from personal ownership. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "BYOD",
       "Data cap",
@@ -6601,16 +6601,16 @@ const QUESTIONS = [
     ],
     "why": [
       "BYOD: Employee-owned device used for work.",
-      "Data cap: Limit on allowed cellular data usage. This serves a different function from byod.",
-      "Bluetooth PIN: Code used to verify device pairing. This serves a different function from byod.",
-      "MDM: Centrally applies mobile configurations and policies. This serves a different function from byod."
+      "Data cap: Limit on allowed cellular data usage.",
+      "Bluetooth PIN: Code used to verify device pairing.",
+      "MDM: Centrally applies mobile configurations and policies."
     ],
     "tip": "Separate corporate policies from personal ownership."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "Which term describes the following capability: code used to verify device pairing?",
+    "q": "A technician is comparing options for this requirement: code used to verify device pairing. Which technology is appropriate?",
     "opts": [
       "Bluetooth PIN",
       "Cloud storage sync",
@@ -6622,16 +6622,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Bluetooth PIN: Code used to verify device pairing.",
-      "Cloud storage sync: Keeps selected files synchronized across devices. This serves a different function from bluetooth pin.",
-      "GPS: Satellite-based positioning service. This serves a different function from bluetooth pin.",
-      "eSIM: Embedded digital subscriber identity. This serves a different function from bluetooth pin."
+      "Cloud storage sync: Keeps selected files synchronized across devices.",
+      "GPS: Satellite-based positioning service.",
+      "eSIM: Embedded digital subscriber identity."
     ],
     "tip": "Confirm matching passkeys before troubleshooting the radio."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "An IT support specialist needs to identify a component or service that limit on allowed cellular data usage. What should they select?",
+    "q": "A field technician must provide limit on allowed cellular data usage. Which technology fulfills this purpose?",
     "opts": [
       "Data cap",
       "MDM",
@@ -6643,16 +6643,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Data cap: Limit on allowed cellular data usage.",
-      "MDM: Centrally applies mobile configurations and policies. This serves a different function from data cap.",
-      "Bluetooth PIN: Code used to verify device pairing. This serves a different function from data cap.",
-      "Cloud storage sync: Keeps selected files synchronized across devices. This serves a different function from data cap."
+      "MDM: Centrally applies mobile configurations and policies.",
+      "Bluetooth PIN: Code used to verify device pairing.",
+      "Cloud storage sync: Keeps selected files synchronized across devices."
     ],
     "tip": "Unexpected throttling can follow a plan's usage threshold."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "A technician encounters this situation: Check account and synchronization settings. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Check account and synchronization settings. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Cloud storage sync",
       "GPS",
@@ -6664,16 +6664,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Cloud storage sync: Keeps selected files synchronized across devices.",
-      "GPS: Satellite-based positioning service. This serves a different function from cloud storage sync.",
-      "Bluetooth PIN: Code used to verify device pairing. This serves a different function from cloud storage sync.",
-      "BYOD: Employee-owned device used for work. This serves a different function from cloud storage sync."
+      "GPS: Satellite-based positioning service.",
+      "Bluetooth PIN: Code used to verify device pairing.",
+      "BYOD: Employee-owned device used for work."
     ],
     "tip": "Check account and synchronization settings."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "Which term describes the following capability: embedded digital subscriber identity?",
+    "q": "An administrator needs embedded digital subscriber identity. Which item matches the requirement?",
     "opts": [
       "eSIM",
       "Data cap",
@@ -6685,16 +6685,16 @@ const QUESTIONS = [
     ],
     "why": [
       "eSIM: Embedded digital subscriber identity.",
-      "Data cap: Limit on allowed cellular data usage. This serves a different function from esim.",
-      "Bluetooth PIN: Code used to verify device pairing. This serves a different function from esim.",
-      "GPS: Satellite-based positioning service. This serves a different function from esim."
+      "Data cap: Limit on allowed cellular data usage.",
+      "Bluetooth PIN: Code used to verify device pairing.",
+      "GPS: Satellite-based positioning service."
     ],
     "tip": "A cellular activation issue can involve eSIM provisioning."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "An IT support specialist needs to identify a component or service that centrally applies mobile configurations and policies. What should they select?",
+    "q": "A repair ticket specifies centrally applies mobile configurations and policies. Which item addresses that specification?",
     "opts": [
       "MDM",
       "Data cap",
@@ -6706,16 +6706,16 @@ const QUESTIONS = [
     ],
     "why": [
       "MDM: Centrally applies mobile configurations and policies.",
-      "Data cap: Limit on allowed cellular data usage. This serves a different function from mdm.",
-      "Cloud storage sync: Keeps selected files synchronized across devices. This serves a different function from mdm.",
-      "BYOD: Employee-owned device used for work. This serves a different function from mdm."
+      "Data cap: Limit on allowed cellular data usage.",
+      "Cloud storage sync: Keeps selected files synchronized across devices.",
+      "BYOD: Employee-owned device used for work."
     ],
     "tip": "Corporate devices may restrict settings through management."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "A technician encounters this situation: Outdoor location may use satellite signals. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Outdoor location may use satellite signals. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "GPS",
       "Data cap",
@@ -6727,16 +6727,16 @@ const QUESTIONS = [
     ],
     "why": [
       "GPS: Satellite-based positioning service.",
-      "Data cap: Limit on allowed cellular data usage. This serves a different function from gps.",
-      "eSIM: Embedded digital subscriber identity. This serves a different function from gps.",
-      "Cloud storage sync: Keeps selected files synchronized across devices. This serves a different function from gps."
+      "Data cap: Limit on allowed cellular data usage.",
+      "eSIM: Embedded digital subscriber identity.",
+      "Cloud storage sync: Keeps selected files synchronized across devices."
     ],
     "tip": "Outdoor location may use satellite signals."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "Which term describes the following capability: employee-owned device used for work?",
+    "q": "A device specification mentions employee-owned device used for work. What feature is being described?",
     "opts": [
       "BYOD",
       "Data cap",
@@ -6748,16 +6748,16 @@ const QUESTIONS = [
     ],
     "why": [
       "BYOD: Employee-owned device used for work.",
-      "Data cap: Limit on allowed cellular data usage. This serves a different function from byod.",
-      "Cloud storage sync: Keeps selected files synchronized across devices. This serves a different function from byod.",
-      "eSIM: Embedded digital subscriber identity. This serves a different function from byod."
+      "Data cap: Limit on allowed cellular data usage.",
+      "Cloud storage sync: Keeps selected files synchronized across devices.",
+      "eSIM: Embedded digital subscriber identity."
     ],
     "tip": "Separate corporate policies from personal ownership."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "An IT support specialist needs to identify a component or service that code used to verify device pairing. What should they select?",
+    "q": "During a help-desk escalation, the documented need is code used to verify device pairing. What should the technician use?",
     "opts": [
       "Bluetooth PIN",
       "GPS",
@@ -6769,16 +6769,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Bluetooth PIN: Code used to verify device pairing.",
-      "GPS: Satellite-based positioning service. This serves a different function from bluetooth pin.",
-      "MDM: Centrally applies mobile configurations and policies. This serves a different function from bluetooth pin.",
-      "Data cap: Limit on allowed cellular data usage. This serves a different function from bluetooth pin."
+      "GPS: Satellite-based positioning service.",
+      "MDM: Centrally applies mobile configurations and policies.",
+      "Data cap: Limit on allowed cellular data usage."
     ],
     "tip": "Confirm matching passkeys before troubleshooting the radio."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "A technician encounters this situation: Unexpected throttling can follow a plan's usage threshold. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Unexpected throttling can follow a plan's usage threshold. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Data cap",
       "BYOD",
@@ -6790,16 +6790,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Data cap: Limit on allowed cellular data usage.",
-      "BYOD: Employee-owned device used for work. This serves a different function from data cap.",
-      "Cloud storage sync: Keeps selected files synchronized across devices. This serves a different function from data cap.",
-      "Bluetooth PIN: Code used to verify device pairing. This serves a different function from data cap."
+      "BYOD: Employee-owned device used for work.",
+      "Cloud storage sync: Keeps selected files synchronized across devices.",
+      "Bluetooth PIN: Code used to verify device pairing."
     ],
     "tip": "Unexpected throttling can follow a plan's usage threshold."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "Which term describes the following capability: keeps selected files synchronized across devices?",
+    "q": "Which option would you select when a support ticket calls for keeps selected files synchronized across devices?",
     "opts": [
       "Cloud storage sync",
       "Bluetooth PIN",
@@ -6811,16 +6811,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Cloud storage sync: Keeps selected files synchronized across devices.",
-      "Bluetooth PIN: Code used to verify device pairing. This serves a different function from cloud storage sync.",
-      "BYOD: Employee-owned device used for work. This serves a different function from cloud storage sync.",
-      "eSIM: Embedded digital subscriber identity. This serves a different function from cloud storage sync."
+      "Bluetooth PIN: Code used to verify device pairing.",
+      "BYOD: Employee-owned device used for work.",
+      "eSIM: Embedded digital subscriber identity."
     ],
     "tip": "Check account and synchronization settings."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "An IT support specialist needs to identify a component or service that embedded digital subscriber identity. What should they select?",
+    "q": "A support team is checking compatibility for embedded digital subscriber identity. Which item should be considered?",
     "opts": [
       "eSIM",
       "Bluetooth PIN",
@@ -6832,16 +6832,16 @@ const QUESTIONS = [
     ],
     "why": [
       "eSIM: Embedded digital subscriber identity.",
-      "Bluetooth PIN: Code used to verify device pairing. This serves a different function from esim.",
-      "MDM: Centrally applies mobile configurations and policies. This serves a different function from esim.",
-      "Cloud storage sync: Keeps selected files synchronized across devices. This serves a different function from esim."
+      "Bluetooth PIN: Code used to verify device pairing.",
+      "MDM: Centrally applies mobile configurations and policies.",
+      "Cloud storage sync: Keeps selected files synchronized across devices."
     ],
     "tip": "A cellular activation issue can involve eSIM provisioning."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "A technician encounters this situation: Corporate devices may restrict settings through management. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Corporate devices may restrict settings through management. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "MDM",
       "Cloud storage sync",
@@ -6853,16 +6853,16 @@ const QUESTIONS = [
     ],
     "why": [
       "MDM: Centrally applies mobile configurations and policies.",
-      "Cloud storage sync: Keeps selected files synchronized across devices. This serves a different function from mdm.",
-      "Bluetooth PIN: Code used to verify device pairing. This serves a different function from mdm.",
-      "GPS: Satellite-based positioning service. This serves a different function from mdm."
+      "Cloud storage sync: Keeps selected files synchronized across devices.",
+      "Bluetooth PIN: Code used to verify device pairing.",
+      "GPS: Satellite-based positioning service."
     ],
     "tip": "Corporate devices may restrict settings through management."
   },
   {
     "domain": "1.0 Mobile Devices",
     "obj": "1.3",
-    "q": "Which term describes the following capability: satellite-based positioning service?",
+    "q": "A technician is comparing options for this requirement: satellite-based positioning service. Which technology is appropriate?",
     "opts": [
       "GPS",
       "Data cap",
@@ -6874,16 +6874,16 @@ const QUESTIONS = [
     ],
     "why": [
       "GPS: Satellite-based positioning service.",
-      "Data cap: Limit on allowed cellular data usage. This serves a different function from gps.",
-      "eSIM: Embedded digital subscriber identity. This serves a different function from gps.",
-      "Cloud storage sync: Keeps selected files synchronized across devices. This serves a different function from gps."
+      "Data cap: Limit on allowed cellular data usage.",
+      "eSIM: Embedded digital subscriber identity.",
+      "Cloud storage sync: Keeps selected files synchronized across devices."
     ],
     "tip": "Outdoor location may use satellite signals."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "A technician encounters this situation: Choose encrypted shell access over Telnet. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Choose encrypted shell access over Telnet. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "SSH",
       "SMB",
@@ -6895,16 +6895,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SSH: Encrypted remote command-line administration using port 22.",
-      "SMB: Network file sharing commonly using TCP port 445. This serves a different function from ssh.",
-      "SMTP: Mail transfer protocol commonly using TCP port 25. This serves a different function from ssh.",
-      "HTTPS: Encrypted web traffic using TCP port 443. This serves a different function from ssh."
+      "SMB: Network file sharing commonly using TCP port 445.",
+      "SMTP: Mail transfer protocol commonly using TCP port 25.",
+      "HTTPS: Encrypted web traffic using TCP port 443."
     ],
     "tip": "Choose encrypted shell access over Telnet."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "Which term describes the following capability: unencrypted remote terminal protocol using port 23?",
+    "q": "Which option would you select when a support ticket calls for unencrypted remote terminal protocol using port 23?",
     "opts": [
       "Telnet",
       "DNS",
@@ -6916,16 +6916,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Telnet: Unencrypted remote terminal protocol using port 23.",
-      "DNS: Name resolution commonly using port 53. This serves a different function from telnet.",
-      "HTTPS: Encrypted web traffic using TCP port 443. This serves a different function from telnet.",
-      "SMTP: Mail transfer protocol commonly using TCP port 25. This serves a different function from telnet."
+      "DNS: Name resolution commonly using port 53.",
+      "HTTPS: Encrypted web traffic using TCP port 443.",
+      "SMTP: Mail transfer protocol commonly using TCP port 25."
     ],
     "tip": "Avoid sending administrative credentials in plaintext."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "An IT support specialist needs to identify a component or service that name resolution commonly using port 53. What should they select?",
+    "q": "A customer describes a system that needs name resolution commonly using port 53. Which choice matches that need?",
     "opts": [
       "DNS",
       "RDP",
@@ -6937,16 +6937,16 @@ const QUESTIONS = [
     ],
     "why": [
       "DNS: Name resolution commonly using port 53.",
-      "RDP: Remote graphical desktop service using TCP port 3389. This serves a different function from dns.",
-      "Telnet: Unencrypted remote terminal protocol using port 23. This serves a different function from dns.",
-      "DHCP: Automatic address assignment using UDP ports 67 and 68. This serves a different function from dns."
+      "RDP: Remote graphical desktop service using TCP port 3389.",
+      "Telnet: Unencrypted remote terminal protocol using port 23.",
+      "DHCP: Automatic address assignment using UDP ports 67 and 68."
     ],
     "tip": "Name failures can occur even when IP connectivity works."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "A technician encounters this situation: A missing lease can lead to 169.254 addressing. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: A missing lease can lead to 169.254 addressing. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "DHCP",
       "DNS",
@@ -6958,16 +6958,16 @@ const QUESTIONS = [
     ],
     "why": [
       "DHCP: Automatic address assignment using UDP ports 67 and 68.",
-      "DNS: Name resolution commonly using port 53. This serves a different function from dhcp.",
-      "SMTP: Mail transfer protocol commonly using TCP port 25. This serves a different function from dhcp.",
-      "Telnet: Unencrypted remote terminal protocol using port 23. This serves a different function from dhcp."
+      "DNS: Name resolution commonly using port 53.",
+      "SMTP: Mail transfer protocol commonly using TCP port 25.",
+      "Telnet: Unencrypted remote terminal protocol using port 23."
     ],
     "tip": "A missing lease can lead to 169.254 addressing."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "Which term describes the following capability: encrypted web traffic using TCP port 443?",
+    "q": "A technician is comparing options for this requirement: encrypted web traffic using TCP port 443. Which technology is appropriate?",
     "opts": [
       "HTTPS",
       "DHCP",
@@ -6979,16 +6979,16 @@ const QUESTIONS = [
     ],
     "why": [
       "HTTPS: Encrypted web traffic using TCP port 443.",
-      "DHCP: Automatic address assignment using UDP ports 67 and 68. This serves a different function from https.",
-      "RDP: Remote graphical desktop service using TCP port 3389. This serves a different function from https.",
-      "SMB: Network file sharing commonly using TCP port 445. This serves a different function from https."
+      "DHCP: Automatic address assignment using UDP ports 67 and 68.",
+      "RDP: Remote graphical desktop service using TCP port 3389.",
+      "SMB: Network file sharing commonly using TCP port 445."
     ],
     "tip": "Secure browser sessions normally use 443."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "An IT support specialist needs to identify a component or service that remote graphical desktop service using TCP port 3389. What should they select?",
+    "q": "A field technician must provide remote graphical desktop service using TCP port 3389. Which technology fulfills this purpose?",
     "opts": [
       "RDP",
       "SMB",
@@ -7000,16 +7000,16 @@ const QUESTIONS = [
     ],
     "why": [
       "RDP: Remote graphical desktop service using TCP port 3389.",
-      "SMB: Network file sharing commonly using TCP port 445. This serves a different function from rdp.",
-      "DNS: Name resolution commonly using port 53. This serves a different function from rdp.",
-      "IMAP: Mail access protocol commonly using TCP port 143. This serves a different function from rdp."
+      "SMB: Network file sharing commonly using TCP port 445.",
+      "DNS: Name resolution commonly using port 53.",
+      "IMAP: Mail access protocol commonly using TCP port 143."
     ],
     "tip": "Remote desktop differs from remote shell."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "A technician encounters this situation: Outgoing mail transport is not the same as reading mail. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Outgoing mail transport is not the same as reading mail. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "SMTP",
       "DNS",
@@ -7021,16 +7021,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SMTP: Mail transfer protocol commonly using TCP port 25.",
-      "DNS: Name resolution commonly using port 53. This serves a different function from smtp.",
-      "HTTPS: Encrypted web traffic using TCP port 443. This serves a different function from smtp.",
-      "SSH: Encrypted remote command-line administration using port 22. This serves a different function from smtp."
+      "DNS: Name resolution commonly using port 53.",
+      "HTTPS: Encrypted web traffic using TCP port 443.",
+      "SSH: Encrypted remote command-line administration using port 22."
     ],
     "tip": "Outgoing mail transport is not the same as reading mail."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "Which term describes the following capability: mail access protocol commonly using TCP port 143?",
+    "q": "An administrator needs mail access protocol commonly using TCP port 143. Which item matches the requirement?",
     "opts": [
       "IMAP",
       "SSH",
@@ -7042,16 +7042,16 @@ const QUESTIONS = [
     ],
     "why": [
       "IMAP: Mail access protocol commonly using TCP port 143.",
-      "SSH: Encrypted remote command-line administration using port 22. This serves a different function from imap.",
-      "Telnet: Unencrypted remote terminal protocol using port 23. This serves a different function from imap.",
-      "DNS: Name resolution commonly using port 53. This serves a different function from imap."
+      "SSH: Encrypted remote command-line administration using port 22.",
+      "Telnet: Unencrypted remote terminal protocol using port 23.",
+      "DNS: Name resolution commonly using port 53."
     ],
     "tip": "Mailbox synchronization differs from mail sending."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "An IT support specialist needs to identify a component or service that network file sharing commonly using TCP port 445. What should they select?",
+    "q": "A repair ticket specifies network file sharing commonly using TCP port 445. Which item addresses that specification?",
     "opts": [
       "SMB",
       "RDP",
@@ -7063,16 +7063,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SMB: Network file sharing commonly using TCP port 445.",
-      "RDP: Remote graphical desktop service using TCP port 3389. This serves a different function from smb.",
-      "HTTPS: Encrypted web traffic using TCP port 443. This serves a different function from smb.",
-      "IMAP: Mail access protocol commonly using TCP port 143. This serves a different function from smb."
+      "RDP: Remote graphical desktop service using TCP port 3389.",
+      "HTTPS: Encrypted web traffic using TCP port 443.",
+      "IMAP: Mail access protocol commonly using TCP port 143."
     ],
     "tip": "Shared folders typically use SMB."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "A technician encounters this situation: Choose encrypted shell access over Telnet. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Choose encrypted shell access over Telnet. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "SSH",
       "SMTP",
@@ -7084,16 +7084,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SSH: Encrypted remote command-line administration using port 22.",
-      "SMTP: Mail transfer protocol commonly using TCP port 25. This serves a different function from ssh.",
-      "HTTPS: Encrypted web traffic using TCP port 443. This serves a different function from ssh.",
-      "DNS: Name resolution commonly using port 53. This serves a different function from ssh."
+      "SMTP: Mail transfer protocol commonly using TCP port 25.",
+      "HTTPS: Encrypted web traffic using TCP port 443.",
+      "DNS: Name resolution commonly using port 53."
     ],
     "tip": "Choose encrypted shell access over Telnet."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "Which term describes the following capability: unencrypted remote terminal protocol using port 23?",
+    "q": "A device specification mentions unencrypted remote terminal protocol using port 23. What feature is being described?",
     "opts": [
       "Telnet",
       "SSH",
@@ -7105,16 +7105,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Telnet: Unencrypted remote terminal protocol using port 23.",
-      "SSH: Encrypted remote command-line administration using port 22. This serves a different function from telnet.",
-      "SMTP: Mail transfer protocol commonly using TCP port 25. This serves a different function from telnet.",
-      "HTTPS: Encrypted web traffic using TCP port 443. This serves a different function from telnet."
+      "SSH: Encrypted remote command-line administration using port 22.",
+      "SMTP: Mail transfer protocol commonly using TCP port 25.",
+      "HTTPS: Encrypted web traffic using TCP port 443."
     ],
     "tip": "Avoid sending administrative credentials in plaintext."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "An IT support specialist needs to identify a component or service that name resolution commonly using port 53. What should they select?",
+    "q": "During a help-desk escalation, the documented need is name resolution commonly using port 53. What should the technician use?",
     "opts": [
       "DNS",
       "DHCP",
@@ -7126,16 +7126,16 @@ const QUESTIONS = [
     ],
     "why": [
       "DNS: Name resolution commonly using port 53.",
-      "DHCP: Automatic address assignment using UDP ports 67 and 68. This serves a different function from dns.",
-      "IMAP: Mail access protocol commonly using TCP port 143. This serves a different function from dns.",
-      "SMTP: Mail transfer protocol commonly using TCP port 25. This serves a different function from dns."
+      "DHCP: Automatic address assignment using UDP ports 67 and 68.",
+      "IMAP: Mail access protocol commonly using TCP port 143.",
+      "SMTP: Mail transfer protocol commonly using TCP port 25."
     ],
     "tip": "Name failures can occur even when IP connectivity works."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "A technician encounters this situation: A missing lease can lead to 169.254 addressing. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: A missing lease can lead to 169.254 addressing. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "DHCP",
       "IMAP",
@@ -7147,16 +7147,16 @@ const QUESTIONS = [
     ],
     "why": [
       "DHCP: Automatic address assignment using UDP ports 67 and 68.",
-      "IMAP: Mail access protocol commonly using TCP port 143. This serves a different function from dhcp.",
-      "RDP: Remote graphical desktop service using TCP port 3389. This serves a different function from dhcp.",
-      "HTTPS: Encrypted web traffic using TCP port 443. This serves a different function from dhcp."
+      "IMAP: Mail access protocol commonly using TCP port 143.",
+      "RDP: Remote graphical desktop service using TCP port 3389.",
+      "HTTPS: Encrypted web traffic using TCP port 443."
     ],
     "tip": "A missing lease can lead to 169.254 addressing."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "Which term describes the following capability: encrypted web traffic using TCP port 443?",
+    "q": "Which option would you select when a support ticket calls for encrypted web traffic using TCP port 443?",
     "opts": [
       "HTTPS",
       "RDP",
@@ -7168,16 +7168,16 @@ const QUESTIONS = [
     ],
     "why": [
       "HTTPS: Encrypted web traffic using TCP port 443.",
-      "RDP: Remote graphical desktop service using TCP port 3389. This serves a different function from https.",
-      "DNS: Name resolution commonly using port 53. This serves a different function from https.",
-      "Telnet: Unencrypted remote terminal protocol using port 23. This serves a different function from https."
+      "RDP: Remote graphical desktop service using TCP port 3389.",
+      "DNS: Name resolution commonly using port 53.",
+      "Telnet: Unencrypted remote terminal protocol using port 23."
     ],
     "tip": "Secure browser sessions normally use 443."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.1",
-    "q": "An IT support specialist needs to identify a component or service that remote graphical desktop service using TCP port 3389. What should they select?",
+    "q": "A support team is checking compatibility for remote graphical desktop service using TCP port 3389. Which item should be considered?",
     "opts": [
       "RDP",
       "SSH",
@@ -7189,16 +7189,16 @@ const QUESTIONS = [
     ],
     "why": [
       "RDP: Remote graphical desktop service using TCP port 3389.",
-      "SSH: Encrypted remote command-line administration using port 22. This serves a different function from rdp.",
-      "Telnet: Unencrypted remote terminal protocol using port 23. This serves a different function from rdp.",
-      "SMB: Network file sharing commonly using TCP port 445. This serves a different function from rdp."
+      "SSH: Encrypted remote command-line administration using port 22.",
+      "Telnet: Unencrypted remote terminal protocol using port 23.",
+      "SMB: Network file sharing commonly using TCP port 445."
     ],
     "tip": "Remote desktop differs from remote shell."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "A technician encounters this situation: Crowded channels can affect nearby networks. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Crowded channels can affect nearby networks. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "2.4 GHz",
       "6 GHz",
@@ -7210,16 +7210,16 @@ const QUESTIONS = [
     ],
     "why": [
       "2.4 GHz: Wi-Fi band with longer typical reach but more interference.",
-      "6 GHz: Newer Wi-Fi spectrum used by compatible devices. This serves a different function from 2.4 ghz.",
-      "5 GHz: Wi-Fi band with more available channels and shorter typical reach. This serves a different function from 2.4 ghz.",
-      "RFID: Radio identification technology using tags and readers. This serves a different function from 2.4 ghz."
+      "6 GHz: Newer Wi-Fi spectrum used by compatible devices.4 ghz.",
+      "5 GHz: Wi-Fi band with more available channels and shorter typical reach.4 ghz.",
+      "RFID: Radio identification technology using tags and readers.4 ghz."
     ],
     "tip": "Crowded channels can affect nearby networks."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "Which term describes the following capability: wi-Fi band with more available channels and shorter typical reach?",
+    "q": "Which option would you select when a support ticket calls for wi-Fi band with more available channels and shorter typical reach?",
     "opts": [
       "5 GHz",
       "802.11 standards",
@@ -7231,16 +7231,16 @@ const QUESTIONS = [
     ],
     "why": [
       "5 GHz: Wi-Fi band with more available channels and shorter typical reach.",
-      "802.11 standards: Family of wireless LAN technical standards. This serves a different function from 5 ghz.",
-      "RFID: Radio identification technology using tags and readers. This serves a different function from 5 ghz.",
-      "2.4 GHz: Wi-Fi band with longer typical reach but more interference. This serves a different function from 5 ghz."
+      "802.11 standards: Family of wireless LAN technical standards.",
+      "RFID: Radio identification technology using tags and readers.",
+      "2.4 GHz: Wi-Fi band with longer typical reach but more interference."
     ],
     "tip": "Prefer it when interference matters and coverage is sufficient."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "An IT support specialist needs to identify a component or service that newer Wi-Fi spectrum used by compatible devices. What should they select?",
+    "q": "A customer describes a system that needs newer Wi-Fi spectrum used by compatible devices. Which choice matches that need?",
     "opts": [
       "6 GHz",
       "5 GHz",
@@ -7252,16 +7252,16 @@ const QUESTIONS = [
     ],
     "why": [
       "6 GHz: Newer Wi-Fi spectrum used by compatible devices.",
-      "5 GHz: Wi-Fi band with more available channels and shorter typical reach. This serves a different function from 6 ghz.",
-      "Bluetooth: Short-range wireless technology for peripherals. This serves a different function from 6 ghz.",
-      "2.4 GHz: Wi-Fi band with longer typical reach but more interference. This serves a different function from 6 ghz."
+      "5 GHz: Wi-Fi band with more available channels and shorter typical reach.",
+      "Bluetooth: Short-range wireless technology for peripherals.",
+      "2.4 GHz: Wi-Fi band with longer typical reach but more interference."
     ],
     "tip": "Both client and access point must support it."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "A technician encounters this situation: Wider channels can increase overlap. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Wider channels can increase overlap. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Channel width",
       "6 GHz",
@@ -7273,16 +7273,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Channel width: Amount of radio spectrum a Wi-Fi channel occupies.",
-      "6 GHz: Newer Wi-Fi spectrum used by compatible devices. This serves a different function from channel width.",
-      "5 GHz: Wi-Fi band with more available channels and shorter typical reach. This serves a different function from channel width.",
-      "Bluetooth: Short-range wireless technology for peripherals. This serves a different function from channel width."
+      "6 GHz: Newer Wi-Fi spectrum used by compatible devices.",
+      "5 GHz: Wi-Fi band with more available channels and shorter typical reach.",
+      "Bluetooth: Short-range wireless technology for peripherals."
     ],
     "tip": "Wider channels can increase overlap."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "Which term describes the following capability: family of wireless LAN technical standards?",
+    "q": "A technician is comparing options for this requirement: family of wireless LAN technical standards. Which technology is appropriate?",
     "opts": [
       "802.11 standards",
       "Channel width",
@@ -7294,16 +7294,16 @@ const QUESTIONS = [
     ],
     "why": [
       "802.11 standards: Family of wireless LAN technical standards.",
-      "Channel width: Amount of radio spectrum a Wi-Fi channel occupies. This serves a different function from 802.11 standards.",
-      "6 GHz: Newer Wi-Fi spectrum used by compatible devices. This serves a different function from 802.11 standards.",
-      "Bluetooth: Short-range wireless technology for peripherals. This serves a different function from 802.11 standards."
+      "Channel width: Amount of radio spectrum a Wi-Fi channel occupies.11 standards.",
+      "6 GHz: Newer Wi-Fi spectrum used by compatible devices.11 standards.",
+      "Bluetooth: Short-range wireless technology for peripherals.11 standards."
     ],
     "tip": "Check client and router compatibility."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "An IT support specialist needs to identify a component or service that radio identification technology using tags and readers. What should they select?",
+    "q": "A field technician must provide radio identification technology using tags and readers. Which technology fulfills this purpose?",
     "opts": [
       "RFID",
       "2.4 GHz",
@@ -7315,16 +7315,16 @@ const QUESTIONS = [
     ],
     "why": [
       "RFID: Radio identification technology using tags and readers.",
-      "2.4 GHz: Wi-Fi band with longer typical reach but more interference. This serves a different function from rfid.",
-      "6 GHz: Newer Wi-Fi spectrum used by compatible devices. This serves a different function from rfid.",
-      "Bluetooth: Short-range wireless technology for peripherals. This serves a different function from rfid."
+      "2.4 GHz: Wi-Fi band with longer typical reach but more interference.",
+      "6 GHz: Newer Wi-Fi spectrum used by compatible devices.",
+      "Bluetooth: Short-range wireless technology for peripherals."
     ],
     "tip": "Inventory tags are not the same as Wi-Fi clients."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "A technician encounters this situation: Headsets generally use Bluetooth rather than Wi-Fi. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Headsets generally use Bluetooth rather than Wi-Fi. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Bluetooth",
       "802.11 standards",
@@ -7336,16 +7336,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Bluetooth: Short-range wireless technology for peripherals.",
-      "802.11 standards: Family of wireless LAN technical standards. This serves a different function from bluetooth.",
-      "5 GHz: Wi-Fi band with more available channels and shorter typical reach. This serves a different function from bluetooth.",
-      "RFID: Radio identification technology using tags and readers. This serves a different function from bluetooth."
+      "802.11 standards: Family of wireless LAN technical standards.",
+      "5 GHz: Wi-Fi band with more available channels and shorter typical reach.",
+      "RFID: Radio identification technology using tags and readers."
     ],
     "tip": "Headsets generally use Bluetooth rather than Wi-Fi."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "Which term describes the following capability: wi-Fi band with longer typical reach but more interference?",
+    "q": "An administrator needs wi-Fi band with longer typical reach but more interference. Which item matches the requirement?",
     "opts": [
       "2.4 GHz",
       "6 GHz",
@@ -7357,16 +7357,16 @@ const QUESTIONS = [
     ],
     "why": [
       "2.4 GHz: Wi-Fi band with longer typical reach but more interference.",
-      "6 GHz: Newer Wi-Fi spectrum used by compatible devices. This serves a different function from 2.4 ghz.",
-      "Channel width: Amount of radio spectrum a Wi-Fi channel occupies. This serves a different function from 2.4 ghz.",
-      "802.11 standards: Family of wireless LAN technical standards. This serves a different function from 2.4 ghz."
+      "6 GHz: Newer Wi-Fi spectrum used by compatible devices.4 ghz.",
+      "Channel width: Amount of radio spectrum a Wi-Fi channel occupies.4 ghz.",
+      "802.11 standards: Family of wireless LAN technical standards.4 ghz."
     ],
     "tip": "Crowded channels can affect nearby networks."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "An IT support specialist needs to identify a component or service that wi-Fi band with more available channels and shorter typical reach. What should they select?",
+    "q": "A repair ticket specifies wi-Fi band with more available channels and shorter typical reach. Which item addresses that specification?",
     "opts": [
       "5 GHz",
       "6 GHz",
@@ -7378,16 +7378,16 @@ const QUESTIONS = [
     ],
     "why": [
       "5 GHz: Wi-Fi band with more available channels and shorter typical reach.",
-      "6 GHz: Newer Wi-Fi spectrum used by compatible devices. This serves a different function from 5 ghz.",
-      "Bluetooth: Short-range wireless technology for peripherals. This serves a different function from 5 ghz.",
-      "802.11 standards: Family of wireless LAN technical standards. This serves a different function from 5 ghz."
+      "6 GHz: Newer Wi-Fi spectrum used by compatible devices.",
+      "Bluetooth: Short-range wireless technology for peripherals.",
+      "802.11 standards: Family of wireless LAN technical standards."
     ],
     "tip": "Prefer it when interference matters and coverage is sufficient."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "A technician encounters this situation: Both client and access point must support it. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Both client and access point must support it. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "6 GHz",
       "2.4 GHz",
@@ -7399,16 +7399,16 @@ const QUESTIONS = [
     ],
     "why": [
       "6 GHz: Newer Wi-Fi spectrum used by compatible devices.",
-      "2.4 GHz: Wi-Fi band with longer typical reach but more interference. This serves a different function from 6 ghz.",
-      "RFID: Radio identification technology using tags and readers. This serves a different function from 6 ghz.",
-      "5 GHz: Wi-Fi band with more available channels and shorter typical reach. This serves a different function from 6 ghz."
+      "2.4 GHz: Wi-Fi band with longer typical reach but more interference.",
+      "RFID: Radio identification technology using tags and readers.",
+      "5 GHz: Wi-Fi band with more available channels and shorter typical reach."
     ],
     "tip": "Both client and access point must support it."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "Which term describes the following capability: amount of radio spectrum a Wi-Fi channel occupies?",
+    "q": "A device specification mentions amount of radio spectrum a Wi-Fi channel occupies. What feature is being described?",
     "opts": [
       "Channel width",
       "5 GHz",
@@ -7420,16 +7420,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Channel width: Amount of radio spectrum a Wi-Fi channel occupies.",
-      "5 GHz: Wi-Fi band with more available channels and shorter typical reach. This serves a different function from channel width.",
-      "Bluetooth: Short-range wireless technology for peripherals. This serves a different function from channel width.",
-      "2.4 GHz: Wi-Fi band with longer typical reach but more interference. This serves a different function from channel width."
+      "5 GHz: Wi-Fi band with more available channels and shorter typical reach.",
+      "Bluetooth: Short-range wireless technology for peripherals.",
+      "2.4 GHz: Wi-Fi band with longer typical reach but more interference."
     ],
     "tip": "Wider channels can increase overlap."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "An IT support specialist needs to identify a component or service that family of wireless LAN technical standards. What should they select?",
+    "q": "During a help-desk escalation, the documented need is family of wireless LAN technical standards. What should the technician use?",
     "opts": [
       "802.11 standards",
       "RFID",
@@ -7441,16 +7441,16 @@ const QUESTIONS = [
     ],
     "why": [
       "802.11 standards: Family of wireless LAN technical standards.",
-      "RFID: Radio identification technology using tags and readers. This serves a different function from 802.11 standards.",
-      "2.4 GHz: Wi-Fi band with longer typical reach but more interference. This serves a different function from 802.11 standards.",
-      "5 GHz: Wi-Fi band with more available channels and shorter typical reach. This serves a different function from 802.11 standards."
+      "RFID: Radio identification technology using tags and readers.11 standards.",
+      "2.4 GHz: Wi-Fi band with longer typical reach but more interference.11 standards.",
+      "5 GHz: Wi-Fi band with more available channels and shorter typical reach.11 standards."
     ],
     "tip": "Check client and router compatibility."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "A technician encounters this situation: Inventory tags are not the same as Wi-Fi clients. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Inventory tags are not the same as Wi-Fi clients. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "RFID",
       "6 GHz",
@@ -7462,16 +7462,16 @@ const QUESTIONS = [
     ],
     "why": [
       "RFID: Radio identification technology using tags and readers.",
-      "6 GHz: Newer Wi-Fi spectrum used by compatible devices. This serves a different function from rfid.",
-      "Bluetooth: Short-range wireless technology for peripherals. This serves a different function from rfid.",
-      "802.11 standards: Family of wireless LAN technical standards. This serves a different function from rfid."
+      "6 GHz: Newer Wi-Fi spectrum used by compatible devices.",
+      "Bluetooth: Short-range wireless technology for peripherals.",
+      "802.11 standards: Family of wireless LAN technical standards."
     ],
     "tip": "Inventory tags are not the same as Wi-Fi clients."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "Which term describes the following capability: short-range wireless technology for peripherals?",
+    "q": "Which option would you select when a support ticket calls for short-range wireless technology for peripherals?",
     "opts": [
       "Bluetooth",
       "Channel width",
@@ -7483,16 +7483,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Bluetooth: Short-range wireless technology for peripherals.",
-      "Channel width: Amount of radio spectrum a Wi-Fi channel occupies. This serves a different function from bluetooth.",
-      "802.11 standards: Family of wireless LAN technical standards. This serves a different function from bluetooth.",
-      "5 GHz: Wi-Fi band with more available channels and shorter typical reach. This serves a different function from bluetooth."
+      "Channel width: Amount of radio spectrum a Wi-Fi channel occupies.",
+      "802.11 standards: Family of wireless LAN technical standards.",
+      "5 GHz: Wi-Fi band with more available channels and shorter typical reach."
     ],
     "tip": "Headsets generally use Bluetooth rather than Wi-Fi."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "An IT support specialist needs to identify a component or service that wi-Fi band with longer typical reach but more interference. What should they select?",
+    "q": "A support team is checking compatibility for wi-Fi band with longer typical reach but more interference. Which item should be considered?",
     "opts": [
       "2.4 GHz",
       "802.11 standards",
@@ -7504,16 +7504,16 @@ const QUESTIONS = [
     ],
     "why": [
       "2.4 GHz: Wi-Fi band with longer typical reach but more interference.",
-      "802.11 standards: Family of wireless LAN technical standards. This serves a different function from 2.4 ghz.",
-      "RFID: Radio identification technology using tags and readers. This serves a different function from 2.4 ghz.",
-      "5 GHz: Wi-Fi band with more available channels and shorter typical reach. This serves a different function from 2.4 ghz."
+      "802.11 standards: Family of wireless LAN technical standards.4 ghz.",
+      "RFID: Radio identification technology using tags and readers.4 ghz.",
+      "5 GHz: Wi-Fi band with more available channels and shorter typical reach.4 ghz."
     ],
     "tip": "Crowded channels can affect nearby networks."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "A technician encounters this situation: Prefer it when interference matters and coverage is sufficient. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Prefer it when interference matters and coverage is sufficient. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "5 GHz",
       "802.11 standards",
@@ -7525,16 +7525,16 @@ const QUESTIONS = [
     ],
     "why": [
       "5 GHz: Wi-Fi band with more available channels and shorter typical reach.",
-      "802.11 standards: Family of wireless LAN technical standards. This serves a different function from 5 ghz.",
-      "2.4 GHz: Wi-Fi band with longer typical reach but more interference. This serves a different function from 5 ghz.",
-      "Bluetooth: Short-range wireless technology for peripherals. This serves a different function from 5 ghz."
+      "802.11 standards: Family of wireless LAN technical standards.",
+      "2.4 GHz: Wi-Fi band with longer typical reach but more interference.",
+      "Bluetooth: Short-range wireless technology for peripherals."
     ],
     "tip": "Prefer it when interference matters and coverage is sufficient."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "Which term describes the following capability: newer Wi-Fi spectrum used by compatible devices?",
+    "q": "A technician is comparing options for this requirement: newer Wi-Fi spectrum used by compatible devices. Which technology is appropriate?",
     "opts": [
       "6 GHz",
       "5 GHz",
@@ -7546,16 +7546,16 @@ const QUESTIONS = [
     ],
     "why": [
       "6 GHz: Newer Wi-Fi spectrum used by compatible devices.",
-      "5 GHz: Wi-Fi band with more available channels and shorter typical reach. This serves a different function from 6 ghz.",
-      "Channel width: Amount of radio spectrum a Wi-Fi channel occupies. This serves a different function from 6 ghz.",
-      "802.11 standards: Family of wireless LAN technical standards. This serves a different function from 6 ghz."
+      "5 GHz: Wi-Fi band with more available channels and shorter typical reach.",
+      "Channel width: Amount of radio spectrum a Wi-Fi channel occupies.",
+      "802.11 standards: Family of wireless LAN technical standards."
     ],
     "tip": "Both client and access point must support it."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.2",
-    "q": "An IT support specialist needs to identify a component or service that amount of radio spectrum a Wi-Fi channel occupies. What should they select?",
+    "q": "An IT department is purchasing equipment for amount of radio spectrum a Wi-Fi channel occupies. Which option is relevant?",
     "opts": [
       "Channel width",
       "6 GHz",
@@ -7567,16 +7567,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Channel width: Amount of radio spectrum a Wi-Fi channel occupies.",
-      "6 GHz: Newer Wi-Fi spectrum used by compatible devices. This serves a different function from channel width.",
-      "5 GHz: Wi-Fi band with more available channels and shorter typical reach. This serves a different function from channel width.",
-      "RFID: Radio identification technology using tags and readers. This serves a different function from channel width."
+      "6 GHz: Newer Wi-Fi spectrum used by compatible devices.",
+      "5 GHz: Wi-Fi band with more available channels and shorter typical reach.",
+      "RFID: Radio identification technology using tags and readers."
     ],
     "tip": "Wider channels can increase overlap."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "A technician encounters this situation: A hostname failure may point to DNS. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: A hostname failure may point to DNS. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "DNS server",
       "Proxy server",
@@ -7588,16 +7588,16 @@ const QUESTIONS = [
     ],
     "why": [
       "DNS server: Resolves hostnames into network information.",
-      "Proxy server: Intermediary for client network requests. This serves a different function from dns server.",
-      "Print server: Shares and manages network print jobs. This serves a different function from dns server.",
-      "DHCP server: Distributes IP configuration leases. This serves a different function from dns server."
+      "Proxy server: Intermediary for client network requests.",
+      "Print server: Shares and manages network print jobs.",
+      "DHCP server: Distributes IP configuration leases."
     ],
     "tip": "A hostname failure may point to DNS."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "Which term describes the following capability: distributes IP configuration leases?",
+    "q": "Which option would you select when a support ticket calls for distributes IP configuration leases?",
     "opts": [
       "DHCP server",
       "AAA",
@@ -7609,16 +7609,16 @@ const QUESTIONS = [
     ],
     "why": [
       "DHCP server: Distributes IP configuration leases.",
-      "AAA: Authentication authorization and accounting services. This serves a different function from dhcp server.",
-      "Proxy server: Intermediary for client network requests. This serves a different function from dhcp server.",
-      "SCADA: Supervisory systems for industrial processes. This serves a different function from dhcp server."
+      "AAA: Authentication authorization and accounting services.",
+      "Proxy server: Intermediary for client network requests.",
+      "SCADA: Supervisory systems for industrial processes."
     ],
     "tip": "Check scope and address exhaustion."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "An IT support specialist needs to identify a component or service that provides network time synchronization. What should they select?",
+    "q": "A customer describes a system that needs provides network time synchronization. Which choice matches that need?",
     "opts": [
       "NTP server",
       "Print server",
@@ -7630,16 +7630,16 @@ const QUESTIONS = [
     ],
     "why": [
       "NTP server: Provides network time synchronization.",
-      "Print server: Shares and manages network print jobs. This serves a different function from ntp server.",
-      "Proxy server: Intermediary for client network requests. This serves a different function from ntp server.",
-      "DNS server: Resolves hostnames into network information. This serves a different function from ntp server."
+      "Print server: Shares and manages network print jobs.",
+      "Proxy server: Intermediary for client network requests.",
+      "DNS server: Resolves hostnames into network information."
     ],
     "tip": "Incorrect time can affect authentication and logs."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "A technician encounters this situation: Central logs help correlate faults. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Central logs help correlate faults. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Syslog server",
       "Proxy server",
@@ -7651,16 +7651,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Syslog server: Collects system and device log messages.",
-      "Proxy server: Intermediary for client network requests. This serves a different function from syslog server.",
-      "AAA: Authentication authorization and accounting services. This serves a different function from syslog server.",
-      "DNS server: Resolves hostnames into network information. This serves a different function from syslog server."
+      "Proxy server: Intermediary for client network requests.",
+      "AAA: Authentication authorization and accounting services.",
+      "DNS server: Resolves hostnames into network information."
     ],
     "tip": "Central logs help correlate faults."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "Which term describes the following capability: shares and manages network print jobs?",
+    "q": "A technician is comparing options for this requirement: shares and manages network print jobs. Which technology is appropriate?",
     "opts": [
       "Print server",
       "Load balancer",
@@ -7672,16 +7672,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Print server: Shares and manages network print jobs.",
-      "Load balancer: Distributes requests across backend systems. This serves a different function from print server.",
-      "Proxy server: Intermediary for client network requests. This serves a different function from print server.",
-      "NTP server: Provides network time synchronization. This serves a different function from print server."
+      "Load balancer: Distributes requests across backend systems.",
+      "Proxy server: Intermediary for client network requests.",
+      "NTP server: Provides network time synchronization."
     ],
     "tip": "A central queue serves many users."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "An IT support specialist needs to identify a component or service that intermediary for client network requests. What should they select?",
+    "q": "A field technician must provide intermediary for client network requests. Which technology fulfills this purpose?",
     "opts": [
       "Proxy server",
       "NTP server",
@@ -7693,16 +7693,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Proxy server: Intermediary for client network requests.",
-      "NTP server: Provides network time synchronization. This serves a different function from proxy server.",
-      "SCADA: Supervisory systems for industrial processes. This serves a different function from proxy server.",
-      "Load balancer: Distributes requests across backend systems. This serves a different function from proxy server."
+      "NTP server: Provides network time synchronization.",
+      "SCADA: Supervisory systems for industrial processes.",
+      "Load balancer: Distributes requests across backend systems."
     ],
     "tip": "A proxy can filter or forward web requests."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "A technician encounters this situation: Spreading traffic improves capacity and availability. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Spreading traffic improves capacity and availability. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Load balancer",
       "DNS server",
@@ -7714,16 +7714,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Load balancer: Distributes requests across backend systems.",
-      "DNS server: Resolves hostnames into network information. This serves a different function from load balancer.",
-      "SCADA: Supervisory systems for industrial processes. This serves a different function from load balancer.",
-      "Proxy server: Intermediary for client network requests. This serves a different function from load balancer."
+      "DNS server: Resolves hostnames into network information.",
+      "SCADA: Supervisory systems for industrial processes.",
+      "Proxy server: Intermediary for client network requests."
     ],
     "tip": "Spreading traffic improves capacity and availability."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "Which term describes the following capability: supervisory systems for industrial processes?",
+    "q": "An administrator needs supervisory systems for industrial processes. Which item matches the requirement?",
     "opts": [
       "SCADA",
       "Print server",
@@ -7735,16 +7735,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SCADA: Supervisory systems for industrial processes.",
-      "Print server: Shares and manages network print jobs. This serves a different function from scada.",
-      "Syslog server: Collects system and device log messages. This serves a different function from scada.",
-      "DNS server: Resolves hostnames into network information. This serves a different function from scada."
+      "Print server: Shares and manages network print jobs.",
+      "Syslog server: Collects system and device log messages.",
+      "DNS server: Resolves hostnames into network information."
     ],
     "tip": "Industrial control equipment differs from office printers."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "An IT support specialist needs to identify a component or service that authentication authorization and accounting services. What should they select?",
+    "q": "A repair ticket specifies authentication authorization and accounting services. Which item addresses that specification?",
     "opts": [
       "AAA",
       "Syslog server",
@@ -7756,16 +7756,16 @@ const QUESTIONS = [
     ],
     "why": [
       "AAA: Authentication authorization and accounting services.",
-      "Syslog server: Collects system and device log messages. This serves a different function from aaa.",
-      "SCADA: Supervisory systems for industrial processes. This serves a different function from aaa.",
-      "Print server: Shares and manages network print jobs. This serves a different function from aaa."
+      "Syslog server: Collects system and device log messages.",
+      "SCADA: Supervisory systems for industrial processes.",
+      "Print server: Shares and manages network print jobs."
     ],
     "tip": "Identity verification differs from permission decisions."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "A technician encounters this situation: A hostname failure may point to DNS. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: A hostname failure may point to DNS. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "DNS server",
       "Load balancer",
@@ -7777,16 +7777,16 @@ const QUESTIONS = [
     ],
     "why": [
       "DNS server: Resolves hostnames into network information.",
-      "Load balancer: Distributes requests across backend systems. This serves a different function from dns server.",
-      "DHCP server: Distributes IP configuration leases. This serves a different function from dns server.",
-      "Syslog server: Collects system and device log messages. This serves a different function from dns server."
+      "Load balancer: Distributes requests across backend systems.",
+      "DHCP server: Distributes IP configuration leases.",
+      "Syslog server: Collects system and device log messages."
     ],
     "tip": "A hostname failure may point to DNS."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "Which term describes the following capability: distributes IP configuration leases?",
+    "q": "A device specification mentions distributes IP configuration leases. What feature is being described?",
     "opts": [
       "DHCP server",
       "Print server",
@@ -7798,16 +7798,16 @@ const QUESTIONS = [
     ],
     "why": [
       "DHCP server: Distributes IP configuration leases.",
-      "Print server: Shares and manages network print jobs. This serves a different function from dhcp server.",
-      "Proxy server: Intermediary for client network requests. This serves a different function from dhcp server.",
-      "DNS server: Resolves hostnames into network information. This serves a different function from dhcp server."
+      "Print server: Shares and manages network print jobs.",
+      "Proxy server: Intermediary for client network requests.",
+      "DNS server: Resolves hostnames into network information."
     ],
     "tip": "Check scope and address exhaustion."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "An IT support specialist needs to identify a component or service that provides network time synchronization. What should they select?",
+    "q": "During a help-desk escalation, the documented need is provides network time synchronization. What should the technician use?",
     "opts": [
       "NTP server",
       "Syslog server",
@@ -7819,16 +7819,16 @@ const QUESTIONS = [
     ],
     "why": [
       "NTP server: Provides network time synchronization.",
-      "Syslog server: Collects system and device log messages. This serves a different function from ntp server.",
-      "DHCP server: Distributes IP configuration leases. This serves a different function from ntp server.",
-      "Load balancer: Distributes requests across backend systems. This serves a different function from ntp server."
+      "Syslog server: Collects system and device log messages.",
+      "DHCP server: Distributes IP configuration leases.",
+      "Load balancer: Distributes requests across backend systems."
     ],
     "tip": "Incorrect time can affect authentication and logs."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "A technician encounters this situation: Central logs help correlate faults. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Central logs help correlate faults. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Syslog server",
       "Load balancer",
@@ -7840,16 +7840,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Syslog server: Collects system and device log messages.",
-      "Load balancer: Distributes requests across backend systems. This serves a different function from syslog server.",
-      "Proxy server: Intermediary for client network requests. This serves a different function from syslog server.",
-      "NTP server: Provides network time synchronization. This serves a different function from syslog server."
+      "Load balancer: Distributes requests across backend systems.",
+      "Proxy server: Intermediary for client network requests.",
+      "NTP server: Provides network time synchronization."
     ],
     "tip": "Central logs help correlate faults."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "Which term describes the following capability: shares and manages network print jobs?",
+    "q": "Which option would you select when a support ticket calls for shares and manages network print jobs?",
     "opts": [
       "Print server",
       "AAA",
@@ -7861,16 +7861,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Print server: Shares and manages network print jobs.",
-      "AAA: Authentication authorization and accounting services. This serves a different function from print server.",
-      "Load balancer: Distributes requests across backend systems. This serves a different function from print server.",
-      "NTP server: Provides network time synchronization. This serves a different function from print server."
+      "AAA: Authentication authorization and accounting services.",
+      "Load balancer: Distributes requests across backend systems.",
+      "NTP server: Provides network time synchronization."
     ],
     "tip": "A central queue serves many users."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "An IT support specialist needs to identify a component or service that intermediary for client network requests. What should they select?",
+    "q": "A support team is checking compatibility for intermediary for client network requests. Which item should be considered?",
     "opts": [
       "Proxy server",
       "Load balancer",
@@ -7882,16 +7882,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Proxy server: Intermediary for client network requests.",
-      "Load balancer: Distributes requests across backend systems. This serves a different function from proxy server.",
-      "AAA: Authentication authorization and accounting services. This serves a different function from proxy server.",
-      "DNS server: Resolves hostnames into network information. This serves a different function from proxy server."
+      "Load balancer: Distributes requests across backend systems.",
+      "AAA: Authentication authorization and accounting services.",
+      "DNS server: Resolves hostnames into network information."
     ],
     "tip": "A proxy can filter or forward web requests."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "A technician encounters this situation: Spreading traffic improves capacity and availability. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Spreading traffic improves capacity and availability. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Load balancer",
       "DHCP server",
@@ -7903,16 +7903,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Load balancer: Distributes requests across backend systems.",
-      "DHCP server: Distributes IP configuration leases. This serves a different function from load balancer.",
-      "Print server: Shares and manages network print jobs. This serves a different function from load balancer.",
-      "Syslog server: Collects system and device log messages. This serves a different function from load balancer."
+      "DHCP server: Distributes IP configuration leases.",
+      "Print server: Shares and manages network print jobs.",
+      "Syslog server: Collects system and device log messages."
     ],
     "tip": "Spreading traffic improves capacity and availability."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "Which term describes the following capability: supervisory systems for industrial processes?",
+    "q": "A technician is comparing options for this requirement: supervisory systems for industrial processes. Which technology is appropriate?",
     "opts": [
       "SCADA",
       "Print server",
@@ -7924,16 +7924,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SCADA: Supervisory systems for industrial processes.",
-      "Print server: Shares and manages network print jobs. This serves a different function from scada.",
-      "Load balancer: Distributes requests across backend systems. This serves a different function from scada.",
-      "Proxy server: Intermediary for client network requests. This serves a different function from scada."
+      "Print server: Shares and manages network print jobs.",
+      "Load balancer: Distributes requests across backend systems.",
+      "Proxy server: Intermediary for client network requests."
     ],
     "tip": "Industrial control equipment differs from office printers."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.3",
-    "q": "An IT support specialist needs to identify a component or service that authentication authorization and accounting services. What should they select?",
+    "q": "An IT department is purchasing equipment for authentication authorization and accounting services. Which option is relevant?",
     "opts": [
       "AAA",
       "DNS server",
@@ -7945,16 +7945,16 @@ const QUESTIONS = [
     ],
     "why": [
       "AAA: Authentication authorization and accounting services.",
-      "DNS server: Resolves hostnames into network information. This serves a different function from aaa.",
-      "Syslog server: Collects system and device log messages. This serves a different function from aaa.",
-      "Print server: Shares and manages network print jobs. This serves a different function from aaa."
+      "DNS server: Resolves hostnames into network information.",
+      "Syslog server: Collects system and device log messages.",
+      "Print server: Shares and manages network print jobs."
     ],
     "tip": "Identity verification differs from permission decisions."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "A technician encounters this situation: A records do not store IPv6 addresses. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: A records do not store IPv6 addresses. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "A record",
       "DHCP exclusion",
@@ -7966,16 +7966,16 @@ const QUESTIONS = [
     ],
     "why": [
       "A record: Maps a DNS name to an IPv4 address.",
-      "DHCP exclusion: Prevents addresses in a scope from being handed out. This serves a different function from a record.",
-      "DHCP reservation: Assigns a consistent lease to a specified client. This serves a different function from a record.",
-      "VLAN: Logically separates broadcast domains on switching infrastructure. This serves a different function from a record."
+      "DHCP exclusion: Prevents addresses in a scope from being handed out.",
+      "DHCP reservation: Assigns a consistent lease to a specified client.",
+      "VLAN: Logically separates broadcast domains on switching infrastructure."
     ],
     "tip": "A records do not store IPv6 addresses."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "Which term describes the following capability: maps a DNS name to an IPv6 address?",
+    "q": "Which option would you select when a support ticket calls for maps a DNS name to an IPv6 address?",
     "opts": [
       "AAAA record",
       "TXT record",
@@ -7987,16 +7987,16 @@ const QUESTIONS = [
     ],
     "why": [
       "AAAA record: Maps a DNS name to an IPv6 address.",
-      "TXT record: Stores text values for DNS verification or policy. This serves a different function from aaaa record.",
-      "CNAME record: Aliases one DNS hostname to another. This serves a different function from aaaa record.",
-      "MX record: Identifies mail exchangers for a domain. This serves a different function from aaaa record."
+      "TXT record: Stores text values for DNS verification or policy.",
+      "CNAME record: Aliases one DNS hostname to another.",
+      "MX record: Identifies mail exchangers for a domain."
     ],
     "tip": "Four As indicate the longer address family."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "An IT support specialist needs to identify a component or service that aliases one DNS hostname to another. What should they select?",
+    "q": "A customer describes a system that needs aliases one DNS hostname to another. Which choice matches that need?",
     "opts": [
       "CNAME record",
       "VPN",
@@ -8008,16 +8008,16 @@ const QUESTIONS = [
     ],
     "why": [
       "CNAME record: Aliases one DNS hostname to another.",
-      "VPN: Creates a protected tunnel across another network. This serves a different function from cname record.",
-      "VLAN: Logically separates broadcast domains on switching infrastructure. This serves a different function from cname record.",
-      "A record: Maps a DNS name to an IPv4 address. This serves a different function from cname record."
+      "VPN: Creates a protected tunnel across another network.",
+      "VLAN: Logically separates broadcast domains on switching infrastructure.",
+      "A record: Maps a DNS name to an IPv4 address."
     ],
     "tip": "An alias does not directly store an IP address."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "A technician encounters this situation: Mail routing relies on MX. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Mail routing relies on MX. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "MX record",
       "VLAN",
@@ -8029,16 +8029,16 @@ const QUESTIONS = [
     ],
     "why": [
       "MX record: Identifies mail exchangers for a domain.",
-      "VLAN: Logically separates broadcast domains on switching infrastructure. This serves a different function from mx record.",
-      "TXT record: Stores text values for DNS verification or policy. This serves a different function from mx record.",
-      "DHCP reservation: Assigns a consistent lease to a specified client. This serves a different function from mx record."
+      "VLAN: Logically separates broadcast domains on switching infrastructure.",
+      "TXT record: Stores text values for DNS verification or policy.",
+      "DHCP reservation: Assigns a consistent lease to a specified client."
     ],
     "tip": "Mail routing relies on MX."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "Which term describes the following capability: stores text values for DNS verification or policy?",
+    "q": "A technician is comparing options for this requirement: stores text values for DNS verification or policy. Which technology is appropriate?",
     "opts": [
       "TXT record",
       "VLAN",
@@ -8050,16 +8050,16 @@ const QUESTIONS = [
     ],
     "why": [
       "TXT record: Stores text values for DNS verification or policy.",
-      "VLAN: Logically separates broadcast domains on switching infrastructure. This serves a different function from txt record.",
-      "VPN: Creates a protected tunnel across another network. This serves a different function from txt record.",
-      "MX record: Identifies mail exchangers for a domain. This serves a different function from txt record."
+      "VLAN: Logically separates broadcast domains on switching infrastructure.",
+      "VPN: Creates a protected tunnel across another network.",
+      "MX record: Identifies mail exchangers for a domain."
     ],
     "tip": "Email authentication often publishes TXT data."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "An IT support specialist needs to identify a component or service that assigns a consistent lease to a specified client. What should they select?",
+    "q": "A field technician must provide assigns a consistent lease to a specified client. Which technology fulfills this purpose?",
     "opts": [
       "DHCP reservation",
       "DHCP exclusion",
@@ -8071,16 +8071,16 @@ const QUESTIONS = [
     ],
     "why": [
       "DHCP reservation: Assigns a consistent lease to a specified client.",
-      "DHCP exclusion: Prevents addresses in a scope from being handed out. This serves a different function from dhcp reservation.",
-      "A record: Maps a DNS name to an IPv4 address. This serves a different function from dhcp reservation.",
-      "TXT record: Stores text values for DNS verification or policy. This serves a different function from dhcp reservation."
+      "DHCP exclusion: Prevents addresses in a scope from being handed out.",
+      "A record: Maps a DNS name to an IPv4 address.",
+      "TXT record: Stores text values for DNS verification or policy."
     ],
     "tip": "Reservations differ from exclusions."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "A technician encounters this situation: Reserve infrastructure ranges from dynamic leasing. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Reserve infrastructure ranges from dynamic leasing. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "DHCP exclusion",
       "CNAME record",
@@ -8092,16 +8092,16 @@ const QUESTIONS = [
     ],
     "why": [
       "DHCP exclusion: Prevents addresses in a scope from being handed out.",
-      "CNAME record: Aliases one DNS hostname to another. This serves a different function from dhcp exclusion.",
-      "MX record: Identifies mail exchangers for a domain. This serves a different function from dhcp exclusion.",
-      "AAAA record: Maps a DNS name to an IPv6 address. This serves a different function from dhcp exclusion."
+      "CNAME record: Aliases one DNS hostname to another.",
+      "MX record: Identifies mail exchangers for a domain.",
+      "AAAA record: Maps a DNS name to an IPv6 address."
     ],
     "tip": "Reserve infrastructure ranges from dynamic leasing."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "Which term describes the following capability: logically separates broadcast domains on switching infrastructure?",
+    "q": "An administrator needs logically separates broadcast domains on switching infrastructure. Which item matches the requirement?",
     "opts": [
       "VLAN",
       "MX record",
@@ -8113,16 +8113,16 @@ const QUESTIONS = [
     ],
     "why": [
       "VLAN: Logically separates broadcast domains on switching infrastructure.",
-      "MX record: Identifies mail exchangers for a domain. This serves a different function from vlan.",
-      "DHCP exclusion: Prevents addresses in a scope from being handed out. This serves a different function from vlan.",
-      "CNAME record: Aliases one DNS hostname to another. This serves a different function from vlan."
+      "MX record: Identifies mail exchangers for a domain.",
+      "DHCP exclusion: Prevents addresses in a scope from being handed out.",
+      "CNAME record: Aliases one DNS hostname to another."
     ],
     "tip": "A VLAN does not require a separate physical switch."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "An IT support specialist needs to identify a component or service that creates a protected tunnel across another network. What should they select?",
+    "q": "A repair ticket specifies creates a protected tunnel across another network. Which item addresses that specification?",
     "opts": [
       "VPN",
       "A record",
@@ -8134,16 +8134,16 @@ const QUESTIONS = [
     ],
     "why": [
       "VPN: Creates a protected tunnel across another network.",
-      "A record: Maps a DNS name to an IPv4 address. This serves a different function from vpn.",
-      "TXT record: Stores text values for DNS verification or policy. This serves a different function from vpn.",
-      "VLAN: Logically separates broadcast domains on switching infrastructure. This serves a different function from vpn."
+      "A record: Maps a DNS name to an IPv4 address.",
+      "TXT record: Stores text values for DNS verification or policy.",
+      "VLAN: Logically separates broadcast domains on switching infrastructure."
     ],
     "tip": "Remote access may rely on a VPN."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "A technician encounters this situation: A records do not store IPv6 addresses. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: A records do not store IPv6 addresses. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "A record",
       "DHCP exclusion",
@@ -8155,16 +8155,16 @@ const QUESTIONS = [
     ],
     "why": [
       "A record: Maps a DNS name to an IPv4 address.",
-      "DHCP exclusion: Prevents addresses in a scope from being handed out. This serves a different function from a record.",
-      "DHCP reservation: Assigns a consistent lease to a specified client. This serves a different function from a record.",
-      "MX record: Identifies mail exchangers for a domain. This serves a different function from a record."
+      "DHCP exclusion: Prevents addresses in a scope from being handed out.",
+      "DHCP reservation: Assigns a consistent lease to a specified client.",
+      "MX record: Identifies mail exchangers for a domain."
     ],
     "tip": "A records do not store IPv6 addresses."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "Which term describes the following capability: maps a DNS name to an IPv6 address?",
+    "q": "A device specification mentions maps a DNS name to an IPv6 address. What feature is being described?",
     "opts": [
       "AAAA record",
       "A record",
@@ -8176,16 +8176,16 @@ const QUESTIONS = [
     ],
     "why": [
       "AAAA record: Maps a DNS name to an IPv6 address.",
-      "A record: Maps a DNS name to an IPv4 address. This serves a different function from aaaa record.",
-      "DHCP reservation: Assigns a consistent lease to a specified client. This serves a different function from aaaa record.",
-      "VPN: Creates a protected tunnel across another network. This serves a different function from aaaa record."
+      "A record: Maps a DNS name to an IPv4 address.",
+      "DHCP reservation: Assigns a consistent lease to a specified client.",
+      "VPN: Creates a protected tunnel across another network."
     ],
     "tip": "Four As indicate the longer address family."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "An IT support specialist needs to identify a component or service that aliases one DNS hostname to another. What should they select?",
+    "q": "During a help-desk escalation, the documented need is aliases one DNS hostname to another. What should the technician use?",
     "opts": [
       "CNAME record",
       "A record",
@@ -8197,16 +8197,16 @@ const QUESTIONS = [
     ],
     "why": [
       "CNAME record: Aliases one DNS hostname to another.",
-      "A record: Maps a DNS name to an IPv4 address. This serves a different function from cname record.",
-      "DHCP exclusion: Prevents addresses in a scope from being handed out. This serves a different function from cname record.",
-      "DHCP reservation: Assigns a consistent lease to a specified client. This serves a different function from cname record."
+      "A record: Maps a DNS name to an IPv4 address.",
+      "DHCP exclusion: Prevents addresses in a scope from being handed out.",
+      "DHCP reservation: Assigns a consistent lease to a specified client."
     ],
     "tip": "An alias does not directly store an IP address."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "A technician encounters this situation: Mail routing relies on MX. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Mail routing relies on MX. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "MX record",
       "AAAA record",
@@ -8218,16 +8218,16 @@ const QUESTIONS = [
     ],
     "why": [
       "MX record: Identifies mail exchangers for a domain.",
-      "AAAA record: Maps a DNS name to an IPv6 address. This serves a different function from mx record.",
-      "CNAME record: Aliases one DNS hostname to another. This serves a different function from mx record.",
-      "VLAN: Logically separates broadcast domains on switching infrastructure. This serves a different function from mx record."
+      "AAAA record: Maps a DNS name to an IPv6 address.",
+      "CNAME record: Aliases one DNS hostname to another.",
+      "VLAN: Logically separates broadcast domains on switching infrastructure."
     ],
     "tip": "Mail routing relies on MX."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "Which term describes the following capability: stores text values for DNS verification or policy?",
+    "q": "Which option would you select when a support ticket calls for stores text values for DNS verification or policy?",
     "opts": [
       "TXT record",
       "DHCP reservation",
@@ -8239,16 +8239,16 @@ const QUESTIONS = [
     ],
     "why": [
       "TXT record: Stores text values for DNS verification or policy.",
-      "DHCP reservation: Assigns a consistent lease to a specified client. This serves a different function from txt record.",
-      "VPN: Creates a protected tunnel across another network. This serves a different function from txt record.",
-      "DHCP exclusion: Prevents addresses in a scope from being handed out. This serves a different function from txt record."
+      "DHCP reservation: Assigns a consistent lease to a specified client.",
+      "VPN: Creates a protected tunnel across another network.",
+      "DHCP exclusion: Prevents addresses in a scope from being handed out."
     ],
     "tip": "Email authentication often publishes TXT data."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "An IT support specialist needs to identify a component or service that assigns a consistent lease to a specified client. What should they select?",
+    "q": "A support team is checking compatibility for assigns a consistent lease to a specified client. Which item should be considered?",
     "opts": [
       "DHCP reservation",
       "TXT record",
@@ -8260,16 +8260,16 @@ const QUESTIONS = [
     ],
     "why": [
       "DHCP reservation: Assigns a consistent lease to a specified client.",
-      "TXT record: Stores text values for DNS verification or policy. This serves a different function from dhcp reservation.",
-      "VLAN: Logically separates broadcast domains on switching infrastructure. This serves a different function from dhcp reservation.",
-      "A record: Maps a DNS name to an IPv4 address. This serves a different function from dhcp reservation."
+      "TXT record: Stores text values for DNS verification or policy.",
+      "VLAN: Logically separates broadcast domains on switching infrastructure.",
+      "A record: Maps a DNS name to an IPv4 address."
     ],
     "tip": "Reservations differ from exclusions."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.4",
-    "q": "A technician encounters this situation: Reserve infrastructure ranges from dynamic leasing. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Reserve infrastructure ranges from dynamic leasing. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "DHCP exclusion",
       "DHCP reservation",
@@ -8281,16 +8281,16 @@ const QUESTIONS = [
     ],
     "why": [
       "DHCP exclusion: Prevents addresses in a scope from being handed out.",
-      "DHCP reservation: Assigns a consistent lease to a specified client. This serves a different function from dhcp exclusion.",
-      "VLAN: Logically separates broadcast domains on switching infrastructure. This serves a different function from dhcp exclusion.",
-      "TXT record: Stores text values for DNS verification or policy. This serves a different function from dhcp exclusion."
+      "DHCP reservation: Assigns a consistent lease to a specified client.",
+      "VLAN: Logically separates broadcast domains on switching infrastructure.",
+      "TXT record: Stores text values for DNS verification or policy."
     ],
     "tip": "Reserve infrastructure ranges from dynamic leasing."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "A technician encounters this situation: A default gateway is usually a router. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: A default gateway is usually a router. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Router",
       "Firewall",
@@ -8302,16 +8302,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Router: Forwards traffic between IP networks.",
-      "Firewall: Filters traffic using security rules. This serves a different function from router.",
-      "Switch: Connects devices within a local Ethernet network. This serves a different function from router.",
-      "NIC: Interface enabling a host to connect to a network. This serves a different function from router."
+      "Firewall: Filters traffic using security rules.",
+      "Switch: Connects devices within a local Ethernet network.",
+      "NIC: Interface enabling a host to connect to a network."
     ],
     "tip": "A default gateway is usually a router."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "Which term describes the following capability: connects devices within a local Ethernet network?",
+    "q": "Which option would you select when a support ticket calls for connects devices within a local Ethernet network?",
     "opts": [
       "Switch",
       "Firewall",
@@ -8323,16 +8323,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Switch: Connects devices within a local Ethernet network.",
-      "Firewall: Filters traffic using security rules. This serves a different function from switch.",
-      "NIC: Interface enabling a host to connect to a network. This serves a different function from switch.",
-      "ONT: Terminates a fiber service at customer premises. This serves a different function from switch."
+      "Firewall: Filters traffic using security rules.",
+      "NIC: Interface enabling a host to connect to a network.",
+      "ONT: Terminates a fiber service at customer premises."
     ],
     "tip": "Switches forward using MAC addresses."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "An IT support specialist needs to identify a component or service that connects wireless clients to a wired network. What should they select?",
+    "q": "A customer describes a system that needs connects wireless clients to a wired network. Which choice matches that need?",
     "opts": [
       "Access point",
       "Router",
@@ -8344,16 +8344,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Access point: Connects wireless clients to a wired network.",
-      "Router: Forwards traffic between IP networks. This serves a different function from access point.",
-      "Switch: Connects devices within a local Ethernet network. This serves a different function from access point.",
-      "ONT: Terminates a fiber service at customer premises. This serves a different function from access point."
+      "Router: Forwards traffic between IP networks.",
+      "Switch: Connects devices within a local Ethernet network.",
+      "ONT: Terminates a fiber service at customer premises."
     ],
     "tip": "An AP provides wireless access rather than routing by necessity."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "A technician encounters this situation: Patch panels do not make routing decisions. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Patch panels do not make routing decisions. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Patch panel",
       "Firewall",
@@ -8365,16 +8365,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Patch panel: Passive termination and organization for cable runs.",
-      "Firewall: Filters traffic using security rules. This serves a different function from patch panel.",
-      "Access point: Connects wireless clients to a wired network. This serves a different function from patch panel.",
-      "Router: Forwards traffic between IP networks. This serves a different function from patch panel."
+      "Firewall: Filters traffic using security rules.",
+      "Access point: Connects wireless clients to a wired network.",
+      "Router: Forwards traffic between IP networks."
     ],
     "tip": "Patch panels do not make routing decisions."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "Which term describes the following capability: filters traffic using security rules?",
+    "q": "A technician is comparing options for this requirement: filters traffic using security rules. Which technology is appropriate?",
     "opts": [
       "Firewall",
       "Switch",
@@ -8386,16 +8386,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Firewall: Filters traffic using security rules.",
-      "Switch: Connects devices within a local Ethernet network. This serves a different function from firewall.",
-      "PoE injector: Adds power to an Ethernet link for a compatible device. This serves a different function from firewall.",
-      "Router: Forwards traffic between IP networks. This serves a different function from firewall."
+      "Switch: Connects devices within a local Ethernet network.",
+      "PoE injector: Adds power to an Ethernet link for a compatible device.",
+      "Router: Forwards traffic between IP networks."
     ],
     "tip": "Check policy before assuming a link failure."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "An IT support specialist needs to identify a component or service that adds power to an Ethernet link for a compatible device. What should they select?",
+    "q": "A field technician must provide adds power to an Ethernet link for a compatible device. Which technology fulfills this purpose?",
     "opts": [
       "PoE injector",
       "Router",
@@ -8407,16 +8407,16 @@ const QUESTIONS = [
     ],
     "why": [
       "PoE injector: Adds power to an Ethernet link for a compatible device.",
-      "Router: Forwards traffic between IP networks. This serves a different function from poe injector.",
-      "NIC: Interface enabling a host to connect to a network. This serves a different function from poe injector.",
-      "Switch: Connects devices within a local Ethernet network. This serves a different function from poe injector."
+      "Router: Forwards traffic between IP networks.",
+      "NIC: Interface enabling a host to connect to a network.",
+      "Switch: Connects devices within a local Ethernet network."
     ],
     "tip": "Useful when a switch lacks PoE."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "A technician encounters this situation: Fiber service often ends at an ONT. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Fiber service often ends at an ONT. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "ONT",
       "Access point",
@@ -8428,16 +8428,16 @@ const QUESTIONS = [
     ],
     "why": [
       "ONT: Terminates a fiber service at customer premises.",
-      "Access point: Connects wireless clients to a wired network. This serves a different function from ont.",
-      "Router: Forwards traffic between IP networks. This serves a different function from ont.",
-      "NIC: Interface enabling a host to connect to a network. This serves a different function from ont."
+      "Access point: Connects wireless clients to a wired network.",
+      "Router: Forwards traffic between IP networks.",
+      "NIC: Interface enabling a host to connect to a network."
     ],
     "tip": "Fiber service often ends at an ONT."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "Which term describes the following capability: interface enabling a host to connect to a network?",
+    "q": "An administrator needs interface enabling a host to connect to a network. Which item matches the requirement?",
     "opts": [
       "NIC",
       "Access point",
@@ -8449,16 +8449,16 @@ const QUESTIONS = [
     ],
     "why": [
       "NIC: Interface enabling a host to connect to a network.",
-      "Access point: Connects wireless clients to a wired network. This serves a different function from nic.",
-      "Switch: Connects devices within a local Ethernet network. This serves a different function from nic.",
-      "Firewall: Filters traffic using security rules. This serves a different function from nic."
+      "Access point: Connects wireless clients to a wired network.",
+      "Switch: Connects devices within a local Ethernet network.",
+      "Firewall: Filters traffic using security rules."
     ],
     "tip": "Check link and drivers before replacing it."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "An IT support specialist needs to identify a component or service that forwards traffic between IP networks. What should they select?",
+    "q": "A repair ticket specifies forwards traffic between IP networks. Which item addresses that specification?",
     "opts": [
       "Router",
       "PoE injector",
@@ -8470,16 +8470,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Router: Forwards traffic between IP networks.",
-      "PoE injector: Adds power to an Ethernet link for a compatible device. This serves a different function from router.",
-      "Firewall: Filters traffic using security rules. This serves a different function from router.",
-      "Access point: Connects wireless clients to a wired network. This serves a different function from router."
+      "PoE injector: Adds power to an Ethernet link for a compatible device.",
+      "Firewall: Filters traffic using security rules.",
+      "Access point: Connects wireless clients to a wired network."
     ],
     "tip": "A default gateway is usually a router."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "A technician encounters this situation: Switches forward using MAC addresses. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Switches forward using MAC addresses. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Switch",
       "PoE injector",
@@ -8491,16 +8491,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Switch: Connects devices within a local Ethernet network.",
-      "PoE injector: Adds power to an Ethernet link for a compatible device. This serves a different function from switch.",
-      "Firewall: Filters traffic using security rules. This serves a different function from switch.",
-      "ONT: Terminates a fiber service at customer premises. This serves a different function from switch."
+      "PoE injector: Adds power to an Ethernet link for a compatible device.",
+      "Firewall: Filters traffic using security rules.",
+      "ONT: Terminates a fiber service at customer premises."
     ],
     "tip": "Switches forward using MAC addresses."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "Which term describes the following capability: connects wireless clients to a wired network?",
+    "q": "A device specification mentions connects wireless clients to a wired network. What feature is being described?",
     "opts": [
       "Access point",
       "NIC",
@@ -8512,16 +8512,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Access point: Connects wireless clients to a wired network.",
-      "NIC: Interface enabling a host to connect to a network. This serves a different function from access point.",
-      "Patch panel: Passive termination and organization for cable runs. This serves a different function from access point.",
-      "PoE injector: Adds power to an Ethernet link for a compatible device. This serves a different function from access point."
+      "NIC: Interface enabling a host to connect to a network.",
+      "Patch panel: Passive termination and organization for cable runs.",
+      "PoE injector: Adds power to an Ethernet link for a compatible device."
     ],
     "tip": "An AP provides wireless access rather than routing by necessity."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "An IT support specialist needs to identify a component or service that passive termination and organization for cable runs. What should they select?",
+    "q": "During a help-desk escalation, the documented need is passive termination and organization for cable runs. What should the technician use?",
     "opts": [
       "Patch panel",
       "Access point",
@@ -8533,16 +8533,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Patch panel: Passive termination and organization for cable runs.",
-      "Access point: Connects wireless clients to a wired network. This serves a different function from patch panel.",
-      "PoE injector: Adds power to an Ethernet link for a compatible device. This serves a different function from patch panel.",
-      "Switch: Connects devices within a local Ethernet network. This serves a different function from patch panel."
+      "Access point: Connects wireless clients to a wired network.",
+      "PoE injector: Adds power to an Ethernet link for a compatible device.",
+      "Switch: Connects devices within a local Ethernet network."
     ],
     "tip": "Patch panels do not make routing decisions."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "A technician encounters this situation: Check policy before assuming a link failure. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Check policy before assuming a link failure. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Firewall",
       "NIC",
@@ -8554,16 +8554,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Firewall: Filters traffic using security rules.",
-      "NIC: Interface enabling a host to connect to a network. This serves a different function from firewall.",
-      "PoE injector: Adds power to an Ethernet link for a compatible device. This serves a different function from firewall.",
-      "Access point: Connects wireless clients to a wired network. This serves a different function from firewall."
+      "NIC: Interface enabling a host to connect to a network.",
+      "PoE injector: Adds power to an Ethernet link for a compatible device.",
+      "Access point: Connects wireless clients to a wired network."
     ],
     "tip": "Check policy before assuming a link failure."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "Which term describes the following capability: adds power to an Ethernet link for a compatible device?",
+    "q": "Which option would you select when a support ticket calls for adds power to an Ethernet link for a compatible device?",
     "opts": [
       "PoE injector",
       "NIC",
@@ -8575,16 +8575,16 @@ const QUESTIONS = [
     ],
     "why": [
       "PoE injector: Adds power to an Ethernet link for a compatible device.",
-      "NIC: Interface enabling a host to connect to a network. This serves a different function from poe injector.",
-      "Router: Forwards traffic between IP networks. This serves a different function from poe injector.",
-      "Switch: Connects devices within a local Ethernet network. This serves a different function from poe injector."
+      "NIC: Interface enabling a host to connect to a network.",
+      "Router: Forwards traffic between IP networks.",
+      "Switch: Connects devices within a local Ethernet network."
     ],
     "tip": "Useful when a switch lacks PoE."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "An IT support specialist needs to identify a component or service that terminates a fiber service at customer premises. What should they select?",
+    "q": "A support team is checking compatibility for terminates a fiber service at customer premises. Which item should be considered?",
     "opts": [
       "ONT",
       "Router",
@@ -8596,16 +8596,16 @@ const QUESTIONS = [
     ],
     "why": [
       "ONT: Terminates a fiber service at customer premises.",
-      "Router: Forwards traffic between IP networks. This serves a different function from ont.",
-      "PoE injector: Adds power to an Ethernet link for a compatible device. This serves a different function from ont.",
-      "Patch panel: Passive termination and organization for cable runs. This serves a different function from ont."
+      "Router: Forwards traffic between IP networks.",
+      "PoE injector: Adds power to an Ethernet link for a compatible device.",
+      "Patch panel: Passive termination and organization for cable runs."
     ],
     "tip": "Fiber service often ends at an ONT."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "A technician encounters this situation: Check link and drivers before replacing it. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Check link and drivers before replacing it. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "NIC",
       "Switch",
@@ -8617,16 +8617,16 @@ const QUESTIONS = [
     ],
     "why": [
       "NIC: Interface enabling a host to connect to a network.",
-      "Switch: Connects devices within a local Ethernet network. This serves a different function from nic.",
-      "Router: Forwards traffic between IP networks. This serves a different function from nic.",
-      "Access point: Connects wireless clients to a wired network. This serves a different function from nic."
+      "Switch: Connects devices within a local Ethernet network.",
+      "Router: Forwards traffic between IP networks.",
+      "Access point: Connects wireless clients to a wired network."
     ],
     "tip": "Check link and drivers before replacing it."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.5",
-    "q": "Which term describes the following capability: forwards traffic between IP networks?",
+    "q": "A technician is comparing options for this requirement: forwards traffic between IP networks. Which technology is appropriate?",
     "opts": [
       "Router",
       "Access point",
@@ -8638,16 +8638,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Router: Forwards traffic between IP networks.",
-      "Access point: Connects wireless clients to a wired network. This serves a different function from router.",
-      "ONT: Terminates a fiber service at customer premises. This serves a different function from router.",
-      "NIC: Interface enabling a host to connect to a network. This serves a different function from router."
+      "Access point: Connects wireless clients to a wired network.",
+      "ONT: Terminates a fiber service at customer premises.",
+      "NIC: Interface enabling a host to connect to a network."
     ],
     "tip": "A default gateway is usually a router."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "A technician encounters this situation: 169.254 often signals a missing DHCP lease. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: 169.254 often signals a missing DHCP lease. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "APIPA",
       "Subnet mask",
@@ -8659,16 +8659,16 @@ const QUESTIONS = [
     ],
     "why": [
       "APIPA: Automatic 169.254.x.x IPv4 addressing when DHCP fails.",
-      "Subnet mask: Identifies the network portion of an IPv4 address. This serves a different function from apipa.",
-      "Static IP: Manually configured fixed IP address. This serves a different function from apipa.",
-      "IPv6: Internet Protocol with 128-bit addresses. This serves a different function from apipa."
+      "Subnet mask: Identifies the network portion of an IPv4 address.",
+      "Static IP: Manually configured fixed IP address.",
+      "IPv6: Internet Protocol with 128-bit addresses."
     ],
     "tip": "169.254 often signals a missing DHCP lease."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "Which term describes the following capability: identifies the network portion of an IPv4 address?",
+    "q": "Which option would you select when a support ticket calls for identifies the network portion of an IPv4 address?",
     "opts": [
       "Subnet mask",
       "APIPA",
@@ -8680,16 +8680,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Subnet mask: Identifies the network portion of an IPv4 address.",
-      "APIPA: Automatic 169.254.x.x IPv4 addressing when DHCP fails. This serves a different function from subnet mask.",
-      "Static IP: Manually configured fixed IP address. This serves a different function from subnet mask.",
-      "IPv6: Internet Protocol with 128-bit addresses. This serves a different function from subnet mask."
+      "APIPA: Automatic 169.254.x.x IPv4 addressing when DHCP fails.",
+      "Static IP: Manually configured fixed IP address.",
+      "IPv6: Internet Protocol with 128-bit addresses."
     ],
     "tip": "An incorrect mask can make local hosts appear remote."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "An IT support specialist needs to identify a component or service that router used to reach other IP networks. What should they select?",
+    "q": "A customer describes a system that needs router used to reach other IP networks. Which choice matches that need?",
     "opts": [
       "Default gateway",
       "Subnet mask",
@@ -8701,16 +8701,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Default gateway: Router used to reach other IP networks.",
-      "Subnet mask: Identifies the network portion of an IPv4 address. This serves a different function from default gateway.",
-      "APIPA: Automatic 169.254.x.x IPv4 addressing when DHCP fails. This serves a different function from default gateway.",
-      "Dynamic IP: IP settings obtained automatically from a service. This serves a different function from default gateway."
+      "Subnet mask: Identifies the network portion of an IPv4 address.",
+      "APIPA: Automatic 169.254.x.x IPv4 addressing when DHCP fails.",
+      "Dynamic IP: IP settings obtained automatically from a service."
     ],
     "tip": "Local access can work even with a bad gateway."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "A technician encounters this situation: Avoid conflicts with DHCP pools. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Avoid conflicts with DHCP pools. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Static IP",
       "APIPA",
@@ -8722,16 +8722,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Static IP: Manually configured fixed IP address.",
-      "APIPA: Automatic 169.254.x.x IPv4 addressing when DHCP fails. This serves a different function from static ip.",
-      "Subnet mask: Identifies the network portion of an IPv4 address. This serves a different function from static ip.",
-      "Dynamic IP: IP settings obtained automatically from a service. This serves a different function from static ip."
+      "APIPA: Automatic 169.254.x.x IPv4 addressing when DHCP fails.",
+      "Subnet mask: Identifies the network portion of an IPv4 address.",
+      "Dynamic IP: IP settings obtained automatically from a service."
     ],
     "tip": "Avoid conflicts with DHCP pools."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "Which term describes the following capability: iP settings obtained automatically from a service?",
+    "q": "A technician is comparing options for this requirement: iP settings obtained automatically from a service. Which technology is appropriate?",
     "opts": [
       "Dynamic IP",
       "Static IP",
@@ -8743,16 +8743,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Dynamic IP: IP settings obtained automatically from a service.",
-      "Static IP: Manually configured fixed IP address. This serves a different function from dynamic ip.",
-      "Subnet mask: Identifies the network portion of an IPv4 address. This serves a different function from dynamic ip.",
-      "APIPA: Automatic 169.254.x.x IPv4 addressing when DHCP fails. This serves a different function from dynamic ip."
+      "Static IP: Manually configured fixed IP address.",
+      "Subnet mask: Identifies the network portion of an IPv4 address.",
+      "APIPA: Automatic 169.254.x.x IPv4 addressing when DHCP fails."
     ],
     "tip": "Lease renewal may fix stale settings."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "An IT support specialist needs to identify a component or service that addressing intended for internal networks. What should they select?",
+    "q": "A field technician must provide addressing intended for internal networks. Which technology fulfills this purpose?",
     "opts": [
       "Private IPv4",
       "Dynamic IP",
@@ -8764,16 +8764,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Private IPv4: Addressing intended for internal networks.",
-      "Dynamic IP: IP settings obtained automatically from a service. This serves a different function from private ipv4.",
-      "Default gateway: Router used to reach other IP networks. This serves a different function from private ipv4.",
-      "APIPA: Automatic 169.254.x.x IPv4 addressing when DHCP fails. This serves a different function from private ipv4."
+      "Dynamic IP: IP settings obtained automatically from a service.",
+      "Default gateway: Router used to reach other IP networks.",
+      "APIPA: Automatic 169.254.x.x IPv4 addressing when DHCP fails."
     ],
     "tip": "10.x and 192.168.x ranges are private."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "A technician encounters this situation: IPv6 notation uses hexadecimal and colons. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: IPv6 notation uses hexadecimal and colons. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "IPv6",
       "APIPA",
@@ -8785,16 +8785,16 @@ const QUESTIONS = [
     ],
     "why": [
       "IPv6: Internet Protocol with 128-bit addresses.",
-      "APIPA: Automatic 169.254.x.x IPv4 addressing when DHCP fails. This serves a different function from ipv6.",
-      "Default gateway: Router used to reach other IP networks. This serves a different function from ipv6.",
-      "Private IPv4: Addressing intended for internal networks. This serves a different function from ipv6."
+      "APIPA: Automatic 169.254.x.x IPv4 addressing when DHCP fails.",
+      "Default gateway: Router used to reach other IP networks.",
+      "Private IPv4: Addressing intended for internal networks."
     ],
     "tip": "IPv6 notation uses hexadecimal and colons."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "Which term describes the following capability: automatic 169.254.x.x IPv4 addressing when DHCP fails?",
+    "q": "An administrator needs automatic 169.254.x.x IPv4 addressing when DHCP fails. Which item matches the requirement?",
     "opts": [
       "APIPA",
       "Private IPv4",
@@ -8806,16 +8806,16 @@ const QUESTIONS = [
     ],
     "why": [
       "APIPA: Automatic 169.254.x.x IPv4 addressing when DHCP fails.",
-      "Private IPv4: Addressing intended for internal networks. This serves a different function from apipa.",
-      "Subnet mask: Identifies the network portion of an IPv4 address. This serves a different function from apipa.",
-      "Default gateway: Router used to reach other IP networks. This serves a different function from apipa."
+      "Private IPv4: Addressing intended for internal networks.",
+      "Subnet mask: Identifies the network portion of an IPv4 address.",
+      "Default gateway: Router used to reach other IP networks."
     ],
     "tip": "169.254 often signals a missing DHCP lease."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "An IT support specialist needs to identify a component or service that identifies the network portion of an IPv4 address. What should they select?",
+    "q": "A repair ticket specifies identifies the network portion of an IPv4 address. Which item addresses that specification?",
     "opts": [
       "Subnet mask",
       "APIPA",
@@ -8827,16 +8827,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Subnet mask: Identifies the network portion of an IPv4 address.",
-      "APIPA: Automatic 169.254.x.x IPv4 addressing when DHCP fails. This serves a different function from subnet mask.",
-      "Private IPv4: Addressing intended for internal networks. This serves a different function from subnet mask.",
-      "Static IP: Manually configured fixed IP address. This serves a different function from subnet mask."
+      "APIPA: Automatic 169.254.x.x IPv4 addressing when DHCP fails.",
+      "Private IPv4: Addressing intended for internal networks.",
+      "Static IP: Manually configured fixed IP address."
     ],
     "tip": "An incorrect mask can make local hosts appear remote."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "A technician encounters this situation: Local access can work even with a bad gateway. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Local access can work even with a bad gateway. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Default gateway",
       "Private IPv4",
@@ -8848,16 +8848,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Default gateway: Router used to reach other IP networks.",
-      "Private IPv4: Addressing intended for internal networks. This serves a different function from default gateway.",
-      "Static IP: Manually configured fixed IP address. This serves a different function from default gateway.",
-      "Dynamic IP: IP settings obtained automatically from a service. This serves a different function from default gateway."
+      "Private IPv4: Addressing intended for internal networks.",
+      "Static IP: Manually configured fixed IP address.",
+      "Dynamic IP: IP settings obtained automatically from a service."
     ],
     "tip": "Local access can work even with a bad gateway."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "Which term describes the following capability: manually configured fixed IP address?",
+    "q": "A device specification mentions manually configured fixed IP address. What feature is being described?",
     "opts": [
       "Static IP",
       "Dynamic IP",
@@ -8869,16 +8869,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Static IP: Manually configured fixed IP address.",
-      "Dynamic IP: IP settings obtained automatically from a service. This serves a different function from static ip.",
-      "IPv6: Internet Protocol with 128-bit addresses. This serves a different function from static ip.",
-      "APIPA: Automatic 169.254.x.x IPv4 addressing when DHCP fails. This serves a different function from static ip."
+      "Dynamic IP: IP settings obtained automatically from a service.",
+      "IPv6: Internet Protocol with 128-bit addresses.",
+      "APIPA: Automatic 169.254.x.x IPv4 addressing when DHCP fails."
     ],
     "tip": "Avoid conflicts with DHCP pools."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "An IT support specialist needs to identify a component or service that iP settings obtained automatically from a service. What should they select?",
+    "q": "During a help-desk escalation, the documented need is iP settings obtained automatically from a service. What should the technician use?",
     "opts": [
       "Dynamic IP",
       "Default gateway",
@@ -8890,16 +8890,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Dynamic IP: IP settings obtained automatically from a service.",
-      "Default gateway: Router used to reach other IP networks. This serves a different function from dynamic ip.",
-      "Subnet mask: Identifies the network portion of an IPv4 address. This serves a different function from dynamic ip.",
-      "Static IP: Manually configured fixed IP address. This serves a different function from dynamic ip."
+      "Default gateway: Router used to reach other IP networks.",
+      "Subnet mask: Identifies the network portion of an IPv4 address.",
+      "Static IP: Manually configured fixed IP address."
     ],
     "tip": "Lease renewal may fix stale settings."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "A technician encounters this situation: 10.x and 192.168.x ranges are private. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: 10.x and 192.168.x ranges are private. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Private IPv4",
       "Static IP",
@@ -8911,16 +8911,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Private IPv4: Addressing intended for internal networks.",
-      "Static IP: Manually configured fixed IP address. This serves a different function from private ipv4.",
-      "Subnet mask: Identifies the network portion of an IPv4 address. This serves a different function from private ipv4.",
-      "Dynamic IP: IP settings obtained automatically from a service. This serves a different function from private ipv4."
+      "Static IP: Manually configured fixed IP address.",
+      "Subnet mask: Identifies the network portion of an IPv4 address.",
+      "Dynamic IP: IP settings obtained automatically from a service."
     ],
     "tip": "10.x and 192.168.x ranges are private."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "Which term describes the following capability: internet Protocol with 128-bit addresses?",
+    "q": "Which option would you select when a support ticket calls for internet Protocol with 128-bit addresses?",
     "opts": [
       "IPv6",
       "Default gateway",
@@ -8932,16 +8932,16 @@ const QUESTIONS = [
     ],
     "why": [
       "IPv6: Internet Protocol with 128-bit addresses.",
-      "Default gateway: Router used to reach other IP networks. This serves a different function from ipv6.",
-      "APIPA: Automatic 169.254.x.x IPv4 addressing when DHCP fails. This serves a different function from ipv6.",
-      "Static IP: Manually configured fixed IP address. This serves a different function from ipv6."
+      "Default gateway: Router used to reach other IP networks.",
+      "APIPA: Automatic 169.254.x.x IPv4 addressing when DHCP fails.",
+      "Static IP: Manually configured fixed IP address."
     ],
     "tip": "IPv6 notation uses hexadecimal and colons."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "An IT support specialist needs to identify a component or service that automatic 169.254.x.x IPv4 addressing when DHCP fails. What should they select?",
+    "q": "A support team is checking compatibility for automatic 169.254.x.x IPv4 addressing when DHCP fails. Which item should be considered?",
     "opts": [
       "APIPA",
       "IPv6",
@@ -8953,16 +8953,16 @@ const QUESTIONS = [
     ],
     "why": [
       "APIPA: Automatic 169.254.x.x IPv4 addressing when DHCP fails.",
-      "IPv6: Internet Protocol with 128-bit addresses. This serves a different function from apipa.",
-      "Private IPv4: Addressing intended for internal networks. This serves a different function from apipa.",
-      "Default gateway: Router used to reach other IP networks. This serves a different function from apipa."
+      "IPv6: Internet Protocol with 128-bit addresses.",
+      "Private IPv4: Addressing intended for internal networks.",
+      "Default gateway: Router used to reach other IP networks."
     ],
     "tip": "169.254 often signals a missing DHCP lease."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "A technician encounters this situation: An incorrect mask can make local hosts appear remote. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: An incorrect mask can make local hosts appear remote. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Subnet mask",
       "Dynamic IP",
@@ -8974,16 +8974,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Subnet mask: Identifies the network portion of an IPv4 address.",
-      "Dynamic IP: IP settings obtained automatically from a service. This serves a different function from subnet mask.",
-      "Static IP: Manually configured fixed IP address. This serves a different function from subnet mask.",
-      "Private IPv4: Addressing intended for internal networks. This serves a different function from subnet mask."
+      "Dynamic IP: IP settings obtained automatically from a service.",
+      "Static IP: Manually configured fixed IP address.",
+      "Private IPv4: Addressing intended for internal networks."
     ],
     "tip": "An incorrect mask can make local hosts appear remote."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "Which term describes the following capability: router used to reach other IP networks?",
+    "q": "A technician is comparing options for this requirement: router used to reach other IP networks. Which technology is appropriate?",
     "opts": [
       "Default gateway",
       "Static IP",
@@ -8995,16 +8995,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Default gateway: Router used to reach other IP networks.",
-      "Static IP: Manually configured fixed IP address. This serves a different function from default gateway.",
-      "APIPA: Automatic 169.254.x.x IPv4 addressing when DHCP fails. This serves a different function from default gateway.",
-      "Subnet mask: Identifies the network portion of an IPv4 address. This serves a different function from default gateway."
+      "Static IP: Manually configured fixed IP address.",
+      "APIPA: Automatic 169.254.x.x IPv4 addressing when DHCP fails.",
+      "Subnet mask: Identifies the network portion of an IPv4 address."
     ],
     "tip": "Local access can work even with a bad gateway."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.6",
-    "q": "An IT support specialist needs to identify a component or service that manually configured fixed IP address. What should they select?",
+    "q": "An IT department is purchasing equipment for manually configured fixed IP address. Which option is relevant?",
     "opts": [
       "Static IP",
       "Dynamic IP",
@@ -9016,16 +9016,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Static IP: Manually configured fixed IP address.",
-      "Dynamic IP: IP settings obtained automatically from a service. This serves a different function from static ip.",
-      "IPv6: Internet Protocol with 128-bit addresses. This serves a different function from static ip.",
-      "Subnet mask: Identifies the network portion of an IPv4 address. This serves a different function from static ip."
+      "Dynamic IP: IP settings obtained automatically from a service.",
+      "IPv6: Internet Protocol with 128-bit addresses.",
+      "Subnet mask: Identifies the network portion of an IPv4 address."
     ],
     "tip": "Avoid conflicts with DHCP pools."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "A technician encounters this situation: Fiber uses optical termination equipment. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Fiber uses optical termination equipment. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Fiber",
       "WAN",
@@ -9037,16 +9037,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Fiber: Internet access transmitted using optical signals.",
-      "WAN: Network connecting geographically separated sites. This serves a different function from fiber.",
-      "SAN: Dedicated network for block storage traffic. This serves a different function from fiber.",
-      "LAN: Network covering a limited local area. This serves a different function from fiber."
+      "WAN: Network connecting geographically separated sites.",
+      "SAN: Dedicated network for block storage traffic.",
+      "LAN: Network covering a limited local area."
     ],
     "tip": "Fiber uses optical termination equipment."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "Which term describes the following capability: broadband service commonly using coaxial distribution?",
+    "q": "Which option would you select when a support ticket calls for broadband service commonly using coaxial distribution?",
     "opts": [
       "Cable internet",
       "WAN",
@@ -9058,16 +9058,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Cable internet: Broadband service commonly using coaxial distribution.",
-      "WAN: Network connecting geographically separated sites. This serves a different function from cable internet.",
-      "LAN: Network covering a limited local area. This serves a different function from cable internet.",
-      "Satellite: Internet service using orbiting relays. This serves a different function from cable internet."
+      "WAN: Network connecting geographically separated sites.",
+      "LAN: Network covering a limited local area.",
+      "Satellite: Internet service using orbiting relays."
     ],
     "tip": "A cable modem terminates coax service."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "An IT support specialist needs to identify a component or service that internet access using telephone copper pairs. What should they select?",
+    "q": "A customer describes a system that needs internet access using telephone copper pairs. Which choice matches that need?",
     "opts": [
       "DSL",
       "LAN",
@@ -9079,16 +9079,16 @@ const QUESTIONS = [
     ],
     "why": [
       "DSL: Internet access using telephone copper pairs.",
-      "LAN: Network covering a limited local area. This serves a different function from dsl.",
-      "Cable internet: Broadband service commonly using coaxial distribution. This serves a different function from dsl.",
-      "PAN: Network centered around an individual. This serves a different function from dsl."
+      "LAN: Network covering a limited local area.",
+      "Cable internet: Broadband service commonly using coaxial distribution.",
+      "PAN: Network centered around an individual."
     ],
     "tip": "DSL depends on the telephone line path."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "A technician encounters this situation: Long path lengths can increase latency. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Long path lengths can increase latency. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Satellite",
       "SAN",
@@ -9100,16 +9100,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Satellite: Internet service using orbiting relays.",
-      "SAN: Dedicated network for block storage traffic. This serves a different function from satellite.",
-      "WAN: Network connecting geographically separated sites. This serves a different function from satellite.",
-      "Cable internet: Broadband service commonly using coaxial distribution. This serves a different function from satellite."
+      "SAN: Dedicated network for block storage traffic.",
+      "WAN: Network connecting geographically separated sites.",
+      "Cable internet: Broadband service commonly using coaxial distribution."
     ],
     "tip": "Long path lengths can increase latency."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "Which term describes the following capability: internet service over a mobile carrier network?",
+    "q": "A technician is comparing options for this requirement: internet service over a mobile carrier network. Which technology is appropriate?",
     "opts": [
       "Cellular",
       "WAN",
@@ -9121,16 +9121,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Cellular: Internet service over a mobile carrier network.",
-      "WAN: Network connecting geographically separated sites. This serves a different function from cellular.",
-      "DSL: Internet access using telephone copper pairs. This serves a different function from cellular.",
-      "LAN: Network covering a limited local area. This serves a different function from cellular."
+      "WAN: Network connecting geographically separated sites.",
+      "DSL: Internet access using telephone copper pairs.",
+      "LAN: Network covering a limited local area."
     ],
     "tip": "Coverage and data plans affect performance."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "An IT support specialist needs to identify a component or service that network covering a limited local area. What should they select?",
+    "q": "A field technician must provide network covering a limited local area. Which technology fulfills this purpose?",
     "opts": [
       "LAN",
       "PAN",
@@ -9142,16 +9142,16 @@ const QUESTIONS = [
     ],
     "why": [
       "LAN: Network covering a limited local area.",
-      "PAN: Network centered around an individual. This serves a different function from lan.",
-      "Fiber: Internet access transmitted using optical signals. This serves a different function from lan.",
-      "DSL: Internet access using telephone copper pairs. This serves a different function from lan."
+      "PAN: Network centered around an individual.",
+      "Fiber: Internet access transmitted using optical signals.",
+      "DSL: Internet access using telephone copper pairs."
     ],
     "tip": "Office Ethernet is a LAN."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "A technician encounters this situation: A WAN spans beyond one local site. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: A WAN spans beyond one local site. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "WAN",
       "Satellite",
@@ -9163,16 +9163,16 @@ const QUESTIONS = [
     ],
     "why": [
       "WAN: Network connecting geographically separated sites.",
-      "Satellite: Internet service using orbiting relays. This serves a different function from wan.",
-      "SAN: Dedicated network for block storage traffic. This serves a different function from wan.",
-      "LAN: Network covering a limited local area. This serves a different function from wan."
+      "Satellite: Internet service using orbiting relays.",
+      "SAN: Dedicated network for block storage traffic.",
+      "LAN: Network covering a limited local area."
     ],
     "tip": "A WAN spans beyond one local site."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "Which term describes the following capability: network centered around an individual?",
+    "q": "An administrator needs network centered around an individual. Which item matches the requirement?",
     "opts": [
       "PAN",
       "SAN",
@@ -9184,16 +9184,16 @@ const QUESTIONS = [
     ],
     "why": [
       "PAN: Network centered around an individual.",
-      "SAN: Dedicated network for block storage traffic. This serves a different function from pan.",
-      "Cable internet: Broadband service commonly using coaxial distribution. This serves a different function from pan.",
-      "WAN: Network connecting geographically separated sites. This serves a different function from pan."
+      "SAN: Dedicated network for block storage traffic.",
+      "Cable internet: Broadband service commonly using coaxial distribution.",
+      "WAN: Network connecting geographically separated sites."
     ],
     "tip": "Bluetooth peripherals often form a PAN."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "An IT support specialist needs to identify a component or service that dedicated network for block storage traffic. What should they select?",
+    "q": "A repair ticket specifies dedicated network for block storage traffic. Which item addresses that specification?",
     "opts": [
       "SAN",
       "Cellular",
@@ -9205,16 +9205,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SAN: Dedicated network for block storage traffic.",
-      "Cellular: Internet service over a mobile carrier network. This serves a different function from san.",
-      "PAN: Network centered around an individual. This serves a different function from san.",
-      "Cable internet: Broadband service commonly using coaxial distribution. This serves a different function from san."
+      "Cellular: Internet service over a mobile carrier network.",
+      "PAN: Network centered around an individual.",
+      "Cable internet: Broadband service commonly using coaxial distribution."
     ],
     "tip": "A SAN differs from a user file share."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "A technician encounters this situation: Fiber uses optical termination equipment. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Fiber uses optical termination equipment. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Fiber",
       "DSL",
@@ -9226,16 +9226,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Fiber: Internet access transmitted using optical signals.",
-      "DSL: Internet access using telephone copper pairs. This serves a different function from fiber.",
-      "PAN: Network centered around an individual. This serves a different function from fiber.",
-      "Cellular: Internet service over a mobile carrier network. This serves a different function from fiber."
+      "DSL: Internet access using telephone copper pairs.",
+      "PAN: Network centered around an individual.",
+      "Cellular: Internet service over a mobile carrier network."
     ],
     "tip": "Fiber uses optical termination equipment."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "Which term describes the following capability: broadband service commonly using coaxial distribution?",
+    "q": "A device specification mentions broadband service commonly using coaxial distribution. What feature is being described?",
     "opts": [
       "Cable internet",
       "SAN",
@@ -9247,16 +9247,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Cable internet: Broadband service commonly using coaxial distribution.",
-      "SAN: Dedicated network for block storage traffic. This serves a different function from cable internet.",
-      "PAN: Network centered around an individual. This serves a different function from cable internet.",
-      "WAN: Network connecting geographically separated sites. This serves a different function from cable internet."
+      "SAN: Dedicated network for block storage traffic.",
+      "PAN: Network centered around an individual.",
+      "WAN: Network connecting geographically separated sites."
     ],
     "tip": "A cable modem terminates coax service."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "An IT support specialist needs to identify a component or service that internet access using telephone copper pairs. What should they select?",
+    "q": "During a help-desk escalation, the documented need is internet access using telephone copper pairs. What should the technician use?",
     "opts": [
       "DSL",
       "Cellular",
@@ -9268,16 +9268,16 @@ const QUESTIONS = [
     ],
     "why": [
       "DSL: Internet access using telephone copper pairs.",
-      "Cellular: Internet service over a mobile carrier network. This serves a different function from dsl.",
-      "Cable internet: Broadband service commonly using coaxial distribution. This serves a different function from dsl.",
-      "Satellite: Internet service using orbiting relays. This serves a different function from dsl."
+      "Cellular: Internet service over a mobile carrier network.",
+      "Cable internet: Broadband service commonly using coaxial distribution.",
+      "Satellite: Internet service using orbiting relays."
     ],
     "tip": "DSL depends on the telephone line path."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "A technician encounters this situation: Long path lengths can increase latency. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Long path lengths can increase latency. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Satellite",
       "SAN",
@@ -9289,16 +9289,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Satellite: Internet service using orbiting relays.",
-      "SAN: Dedicated network for block storage traffic. This serves a different function from satellite.",
-      "LAN: Network covering a limited local area. This serves a different function from satellite.",
-      "DSL: Internet access using telephone copper pairs. This serves a different function from satellite."
+      "SAN: Dedicated network for block storage traffic.",
+      "LAN: Network covering a limited local area.",
+      "DSL: Internet access using telephone copper pairs."
     ],
     "tip": "Long path lengths can increase latency."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "Which term describes the following capability: internet service over a mobile carrier network?",
+    "q": "Which option would you select when a support ticket calls for internet service over a mobile carrier network?",
     "opts": [
       "Cellular",
       "SAN",
@@ -9310,16 +9310,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Cellular: Internet service over a mobile carrier network.",
-      "SAN: Dedicated network for block storage traffic. This serves a different function from cellular.",
-      "PAN: Network centered around an individual. This serves a different function from cellular.",
-      "Satellite: Internet service using orbiting relays. This serves a different function from cellular."
+      "SAN: Dedicated network for block storage traffic.",
+      "PAN: Network centered around an individual.",
+      "Satellite: Internet service using orbiting relays."
     ],
     "tip": "Coverage and data plans affect performance."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "An IT support specialist needs to identify a component or service that network covering a limited local area. What should they select?",
+    "q": "A support team is checking compatibility for network covering a limited local area. Which item should be considered?",
     "opts": [
       "LAN",
       "Cellular",
@@ -9331,16 +9331,16 @@ const QUESTIONS = [
     ],
     "why": [
       "LAN: Network covering a limited local area.",
-      "Cellular: Internet service over a mobile carrier network. This serves a different function from lan.",
-      "WAN: Network connecting geographically separated sites. This serves a different function from lan.",
-      "SAN: Dedicated network for block storage traffic. This serves a different function from lan."
+      "Cellular: Internet service over a mobile carrier network.",
+      "WAN: Network connecting geographically separated sites.",
+      "SAN: Dedicated network for block storage traffic."
     ],
     "tip": "Office Ethernet is a LAN."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "A technician encounters this situation: A WAN spans beyond one local site. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: A WAN spans beyond one local site. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "WAN",
       "Fiber",
@@ -9352,16 +9352,16 @@ const QUESTIONS = [
     ],
     "why": [
       "WAN: Network connecting geographically separated sites.",
-      "Fiber: Internet access transmitted using optical signals. This serves a different function from wan.",
-      "LAN: Network covering a limited local area. This serves a different function from wan.",
-      "Cable internet: Broadband service commonly using coaxial distribution. This serves a different function from wan."
+      "Fiber: Internet access transmitted using optical signals.",
+      "LAN: Network covering a limited local area.",
+      "Cable internet: Broadband service commonly using coaxial distribution."
     ],
     "tip": "A WAN spans beyond one local site."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "Which term describes the following capability: network centered around an individual?",
+    "q": "A technician is comparing options for this requirement: network centered around an individual. Which technology is appropriate?",
     "opts": [
       "PAN",
       "WAN",
@@ -9373,16 +9373,16 @@ const QUESTIONS = [
     ],
     "why": [
       "PAN: Network centered around an individual.",
-      "WAN: Network connecting geographically separated sites. This serves a different function from pan.",
-      "Satellite: Internet service using orbiting relays. This serves a different function from pan.",
-      "Cellular: Internet service over a mobile carrier network. This serves a different function from pan."
+      "WAN: Network connecting geographically separated sites.",
+      "Satellite: Internet service using orbiting relays.",
+      "Cellular: Internet service over a mobile carrier network."
     ],
     "tip": "Bluetooth peripherals often form a PAN."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.7",
-    "q": "An IT support specialist needs to identify a component or service that dedicated network for block storage traffic. What should they select?",
+    "q": "An IT department is purchasing equipment for dedicated network for block storage traffic. Which option is relevant?",
     "opts": [
       "SAN",
       "DSL",
@@ -9394,16 +9394,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SAN: Dedicated network for block storage traffic.",
-      "DSL: Internet access using telephone copper pairs. This serves a different function from san.",
-      "Cable internet: Broadband service commonly using coaxial distribution. This serves a different function from san.",
-      "Satellite: Internet service using orbiting relays. This serves a different function from san."
+      "DSL: Internet access using telephone copper pairs.",
+      "Cable internet: Broadband service commonly using coaxial distribution.",
+      "Satellite: Internet service using orbiting relays."
     ],
     "tip": "A SAN differs from a user file share."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "A technician encounters this situation: Choose a crimper for terminating modular plugs. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Choose a crimper for terminating modular plugs. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Crimper",
       "Toner probe",
@@ -9415,16 +9415,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Crimper: Attaches compatible connectors to cable ends.",
-      "Toner probe: Traces an unknown cable through bundles. This serves a different function from crimper.",
-      "Cable tester: Checks cable continuity and wiring faults. This serves a different function from crimper.",
-      "Punchdown tool: Seats conductors in insulation-displacement terminals. This serves a different function from crimper."
+      "Toner probe: Traces an unknown cable through bundles.",
+      "Cable tester: Checks cable continuity and wiring faults.",
+      "Punchdown tool: Seats conductors in insulation-displacement terminals."
     ],
     "tip": "Choose a crimper for terminating modular plugs."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "Which term describes the following capability: seats conductors in insulation-displacement terminals?",
+    "q": "Which option would you select when a support ticket calls for seats conductors in insulation-displacement terminals?",
     "opts": [
       "Punchdown tool",
       "Loopback plug",
@@ -9436,16 +9436,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Punchdown tool: Seats conductors in insulation-displacement terminals.",
-      "Loopback plug: Returns transmitted signals to test an interface. This serves a different function from punchdown tool.",
-      "Toner probe: Traces an unknown cable through bundles. This serves a different function from punchdown tool.",
-      "Crimper: Attaches compatible connectors to cable ends. This serves a different function from punchdown tool."
+      "Loopback plug: Returns transmitted signals to test an interface.",
+      "Toner probe: Traces an unknown cable through bundles.",
+      "Crimper: Attaches compatible connectors to cable ends."
     ],
     "tip": "Patch panels often use punchdown blocks."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "An IT support specialist needs to identify a component or service that checks cable continuity and wiring faults. What should they select?",
+    "q": "A customer describes a system that needs checks cable continuity and wiring faults. Which choice matches that need?",
     "opts": [
       "Cable tester",
       "Network tap",
@@ -9457,16 +9457,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Cable tester: Checks cable continuity and wiring faults.",
-      "Network tap: Provides a copy of traffic for monitoring. This serves a different function from cable tester.",
-      "Wi-Fi analyzer: Surveys wireless channels and signal environment. This serves a different function from cable tester.",
-      "Loopback plug: Returns transmitted signals to test an interface. This serves a different function from cable tester."
+      "Network tap: Provides a copy of traffic for monitoring.",
+      "Wi-Fi analyzer: Surveys wireless channels and signal environment.",
+      "Loopback plug: Returns transmitted signals to test an interface."
     ],
     "tip": "Verify a newly terminated cable before deployment."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "A technician encounters this situation: Use tone and probe to locate the far end. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Use tone and probe to locate the far end. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Toner probe",
       "Punchdown tool",
@@ -9478,16 +9478,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Toner probe: Traces an unknown cable through bundles.",
-      "Punchdown tool: Seats conductors in insulation-displacement terminals. This serves a different function from toner probe.",
-      "Crimper: Attaches compatible connectors to cable ends. This serves a different function from toner probe.",
-      "Cable tester: Checks cable continuity and wiring faults. This serves a different function from toner probe."
+      "Punchdown tool: Seats conductors in insulation-displacement terminals.",
+      "Crimper: Attaches compatible connectors to cable ends.",
+      "Cable tester: Checks cable continuity and wiring faults."
     ],
     "tip": "Use tone and probe to locate the far end."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "Which term describes the following capability: surveys wireless channels and signal environment?",
+    "q": "A technician is comparing options for this requirement: surveys wireless channels and signal environment. Which technology is appropriate?",
     "opts": [
       "Wi-Fi analyzer",
       "Crimper",
@@ -9499,16 +9499,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Wi-Fi analyzer: Surveys wireless channels and signal environment.",
-      "Crimper: Attaches compatible connectors to cable ends. This serves a different function from wi-fi analyzer.",
-      "Toner probe: Traces an unknown cable through bundles. This serves a different function from wi-fi analyzer.",
-      "Network tap: Provides a copy of traffic for monitoring. This serves a different function from wi-fi analyzer."
+      "Crimper: Attaches compatible connectors to cable ends.",
+      "Toner probe: Traces an unknown cable through bundles.",
+      "Network tap: Provides a copy of traffic for monitoring."
     ],
     "tip": "Channel congestion requires radio analysis."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "An IT support specialist needs to identify a component or service that returns transmitted signals to test an interface. What should they select?",
+    "q": "A field technician must provide returns transmitted signals to test an interface. Which technology fulfills this purpose?",
     "opts": [
       "Loopback plug",
       "Wi-Fi analyzer",
@@ -9520,16 +9520,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Loopback plug: Returns transmitted signals to test an interface.",
-      "Wi-Fi analyzer: Surveys wireless channels and signal environment. This serves a different function from loopback plug.",
-      "Crimper: Attaches compatible connectors to cable ends. This serves a different function from loopback plug.",
-      "Cable tester: Checks cable continuity and wiring faults. This serves a different function from loopback plug."
+      "Wi-Fi analyzer: Surveys wireless channels and signal environment.",
+      "Crimper: Attaches compatible connectors to cable ends.",
+      "Cable tester: Checks cable continuity and wiring faults."
     ],
     "tip": "Loopback isolates a port from the external path."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "A technician encounters this situation: A tap is for observing packets. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: A tap is for observing packets. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Network tap",
       "Toner probe",
@@ -9541,16 +9541,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Network tap: Provides a copy of traffic for monitoring.",
-      "Toner probe: Traces an unknown cable through bundles. This serves a different function from network tap.",
-      "Loopback plug: Returns transmitted signals to test an interface. This serves a different function from network tap.",
-      "Wi-Fi analyzer: Surveys wireless channels and signal environment. This serves a different function from network tap."
+      "Toner probe: Traces an unknown cable through bundles.",
+      "Loopback plug: Returns transmitted signals to test an interface.",
+      "Wi-Fi analyzer: Surveys wireless channels and signal environment."
     ],
     "tip": "A tap is for observing packets."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "Which term describes the following capability: attaches compatible connectors to cable ends?",
+    "q": "An administrator needs attaches compatible connectors to cable ends. Which item matches the requirement?",
     "opts": [
       "Crimper",
       "Punchdown tool",
@@ -9562,16 +9562,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Crimper: Attaches compatible connectors to cable ends.",
-      "Punchdown tool: Seats conductors in insulation-displacement terminals. This serves a different function from crimper.",
-      "Toner probe: Traces an unknown cable through bundles. This serves a different function from crimper.",
-      "Network tap: Provides a copy of traffic for monitoring. This serves a different function from crimper."
+      "Punchdown tool: Seats conductors in insulation-displacement terminals.",
+      "Toner probe: Traces an unknown cable through bundles.",
+      "Network tap: Provides a copy of traffic for monitoring."
     ],
     "tip": "Choose a crimper for terminating modular plugs."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "An IT support specialist needs to identify a component or service that seats conductors in insulation-displacement terminals. What should they select?",
+    "q": "A repair ticket specifies seats conductors in insulation-displacement terminals. Which item addresses that specification?",
     "opts": [
       "Punchdown tool",
       "Loopback plug",
@@ -9583,16 +9583,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Punchdown tool: Seats conductors in insulation-displacement terminals.",
-      "Loopback plug: Returns transmitted signals to test an interface. This serves a different function from punchdown tool.",
-      "Crimper: Attaches compatible connectors to cable ends. This serves a different function from punchdown tool.",
-      "Cable tester: Checks cable continuity and wiring faults. This serves a different function from punchdown tool."
+      "Loopback plug: Returns transmitted signals to test an interface.",
+      "Crimper: Attaches compatible connectors to cable ends.",
+      "Cable tester: Checks cable continuity and wiring faults."
     ],
     "tip": "Patch panels often use punchdown blocks."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "A technician encounters this situation: Verify a newly terminated cable before deployment. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Verify a newly terminated cable before deployment. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Cable tester",
       "Punchdown tool",
@@ -9604,16 +9604,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Cable tester: Checks cable continuity and wiring faults.",
-      "Punchdown tool: Seats conductors in insulation-displacement terminals. This serves a different function from cable tester.",
-      "Loopback plug: Returns transmitted signals to test an interface. This serves a different function from cable tester.",
-      "Crimper: Attaches compatible connectors to cable ends. This serves a different function from cable tester."
+      "Punchdown tool: Seats conductors in insulation-displacement terminals.",
+      "Loopback plug: Returns transmitted signals to test an interface.",
+      "Crimper: Attaches compatible connectors to cable ends."
     ],
     "tip": "Verify a newly terminated cable before deployment."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "Which term describes the following capability: traces an unknown cable through bundles?",
+    "q": "A device specification mentions traces an unknown cable through bundles. What feature is being described?",
     "opts": [
       "Toner probe",
       "Crimper",
@@ -9625,16 +9625,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Toner probe: Traces an unknown cable through bundles.",
-      "Crimper: Attaches compatible connectors to cable ends. This serves a different function from toner probe.",
-      "Wi-Fi analyzer: Surveys wireless channels and signal environment. This serves a different function from toner probe.",
-      "Network tap: Provides a copy of traffic for monitoring. This serves a different function from toner probe."
+      "Crimper: Attaches compatible connectors to cable ends.",
+      "Wi-Fi analyzer: Surveys wireless channels and signal environment.",
+      "Network tap: Provides a copy of traffic for monitoring."
     ],
     "tip": "Use tone and probe to locate the far end."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "An IT support specialist needs to identify a component or service that surveys wireless channels and signal environment. What should they select?",
+    "q": "During a help-desk escalation, the documented need is surveys wireless channels and signal environment. What should the technician use?",
     "opts": [
       "Wi-Fi analyzer",
       "Punchdown tool",
@@ -9646,16 +9646,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Wi-Fi analyzer: Surveys wireless channels and signal environment.",
-      "Punchdown tool: Seats conductors in insulation-displacement terminals. This serves a different function from wi-fi analyzer.",
-      "Network tap: Provides a copy of traffic for monitoring. This serves a different function from wi-fi analyzer.",
-      "Loopback plug: Returns transmitted signals to test an interface. This serves a different function from wi-fi analyzer."
+      "Punchdown tool: Seats conductors in insulation-displacement terminals.",
+      "Network tap: Provides a copy of traffic for monitoring.",
+      "Loopback plug: Returns transmitted signals to test an interface."
     ],
     "tip": "Channel congestion requires radio analysis."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "A technician encounters this situation: Loopback isolates a port from the external path. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Loopback isolates a port from the external path. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Loopback plug",
       "Cable tester",
@@ -9667,16 +9667,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Loopback plug: Returns transmitted signals to test an interface.",
-      "Cable tester: Checks cable continuity and wiring faults. This serves a different function from loopback plug.",
-      "Network tap: Provides a copy of traffic for monitoring. This serves a different function from loopback plug.",
-      "Toner probe: Traces an unknown cable through bundles. This serves a different function from loopback plug."
+      "Cable tester: Checks cable continuity and wiring faults.",
+      "Network tap: Provides a copy of traffic for monitoring.",
+      "Toner probe: Traces an unknown cable through bundles."
     ],
     "tip": "Loopback isolates a port from the external path."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "Which term describes the following capability: provides a copy of traffic for monitoring?",
+    "q": "Which option would you select when a support ticket calls for provides a copy of traffic for monitoring?",
     "opts": [
       "Network tap",
       "Crimper",
@@ -9688,16 +9688,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Network tap: Provides a copy of traffic for monitoring.",
-      "Crimper: Attaches compatible connectors to cable ends. This serves a different function from network tap.",
-      "Loopback plug: Returns transmitted signals to test an interface. This serves a different function from network tap.",
-      "Cable tester: Checks cable continuity and wiring faults. This serves a different function from network tap."
+      "Crimper: Attaches compatible connectors to cable ends.",
+      "Loopback plug: Returns transmitted signals to test an interface.",
+      "Cable tester: Checks cable continuity and wiring faults."
     ],
     "tip": "A tap is for observing packets."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "An IT support specialist needs to identify a component or service that attaches compatible connectors to cable ends. What should they select?",
+    "q": "A support team is checking compatibility for attaches compatible connectors to cable ends. Which item should be considered?",
     "opts": [
       "Crimper",
       "Toner probe",
@@ -9709,16 +9709,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Crimper: Attaches compatible connectors to cable ends.",
-      "Toner probe: Traces an unknown cable through bundles. This serves a different function from crimper.",
-      "Cable tester: Checks cable continuity and wiring faults. This serves a different function from crimper.",
-      "Loopback plug: Returns transmitted signals to test an interface. This serves a different function from crimper."
+      "Toner probe: Traces an unknown cable through bundles.",
+      "Cable tester: Checks cable continuity and wiring faults.",
+      "Loopback plug: Returns transmitted signals to test an interface."
     ],
     "tip": "Choose a crimper for terminating modular plugs."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "A technician encounters this situation: Patch panels often use punchdown blocks. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Patch panels often use punchdown blocks. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Punchdown tool",
       "Network tap",
@@ -9730,16 +9730,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Punchdown tool: Seats conductors in insulation-displacement terminals.",
-      "Network tap: Provides a copy of traffic for monitoring. This serves a different function from punchdown tool.",
-      "Crimper: Attaches compatible connectors to cable ends. This serves a different function from punchdown tool.",
-      "Cable tester: Checks cable continuity and wiring faults. This serves a different function from punchdown tool."
+      "Network tap: Provides a copy of traffic for monitoring.",
+      "Crimper: Attaches compatible connectors to cable ends.",
+      "Cable tester: Checks cable continuity and wiring faults."
     ],
     "tip": "Patch panels often use punchdown blocks."
   },
   {
     "domain": "2.0 Networking",
     "obj": "2.8",
-    "q": "Which term describes the following capability: checks cable continuity and wiring faults?",
+    "q": "A technician is comparing options for this requirement: checks cable continuity and wiring faults. Which technology is appropriate?",
     "opts": [
       "Cable tester",
       "Crimper",
@@ -9751,16 +9751,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Cable tester: Checks cable continuity and wiring faults.",
-      "Crimper: Attaches compatible connectors to cable ends. This serves a different function from cable tester.",
-      "Toner probe: Traces an unknown cable through bundles. This serves a different function from cable tester.",
-      "Loopback plug: Returns transmitted signals to test an interface. This serves a different function from cable tester."
+      "Crimper: Attaches compatible connectors to cable ends.",
+      "Toner probe: Traces an unknown cable through bundles.",
+      "Loopback plug: Returns transmitted signals to test an interface."
     ],
     "tip": "Verify a newly terminated cable before deployment."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "A technician encounters this situation: Good viewing angles can matter for shared displays. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Good viewing angles can matter for shared displays. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "IPS LCD",
       "OLED",
@@ -9772,16 +9772,16 @@ const QUESTIONS = [
     ],
     "why": [
       "IPS LCD: LCD panel known for wide viewing angles.",
-      "OLED: Self-emissive pixels that do not need a traditional backlight. This serves a different function from ips lcd.",
-      "Refresh rate: Number of display updates per second. This serves a different function from ips lcd.",
-      "TN LCD: LCD panel type often optimized for response speed. This serves a different function from ips lcd."
+      "OLED: Self-emissive pixels that do not need a traditional backlight.",
+      "Refresh rate: Number of display updates per second.",
+      "TN LCD: LCD panel type often optimized for response speed."
     ],
     "tip": "Good viewing angles can matter for shared displays."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "Which term describes the following capability: lCD panel type often optimized for response speed?",
+    "q": "Which option would you select when a support ticket calls for lCD panel type often optimized for response speed?",
     "opts": [
       "TN LCD",
       "OLED",
@@ -9793,16 +9793,16 @@ const QUESTIONS = [
     ],
     "why": [
       "TN LCD: LCD panel type often optimized for response speed.",
-      "OLED: Self-emissive pixels that do not need a traditional backlight. This serves a different function from tn lcd.",
-      "Color gamut: Range of colors a display can reproduce. This serves a different function from tn lcd.",
-      "Pixel density: Number of pixels per physical display area. This serves a different function from tn lcd."
+      "OLED: Self-emissive pixels that do not need a traditional backlight.",
+      "Color gamut: Range of colors a display can reproduce.",
+      "Pixel density: Number of pixels per physical display area."
     ],
     "tip": "Panel technology affects viewing and color."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "An IT support specialist needs to identify a component or service that lCD panel type often associated with stronger contrast. What should they select?",
+    "q": "A customer describes a system that needs lCD panel type often associated with stronger contrast. Which choice matches that need?",
     "opts": [
       "VA LCD",
       "Pixel density",
@@ -9814,16 +9814,16 @@ const QUESTIONS = [
     ],
     "why": [
       "VA LCD: LCD panel type often associated with stronger contrast.",
-      "Pixel density: Number of pixels per physical display area. This serves a different function from va lcd.",
-      "IPS LCD: LCD panel known for wide viewing angles. This serves a different function from va lcd.",
-      "TN LCD: LCD panel type often optimized for response speed. This serves a different function from va lcd."
+      "Pixel density: Number of pixels per physical display area.",
+      "IPS LCD: LCD panel known for wide viewing angles.",
+      "TN LCD: LCD panel type often optimized for response speed."
     ],
     "tip": "Compare contrast and viewing-angle needs."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "A technician encounters this situation: Static content can contribute to burn-in. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Static content can contribute to burn-in. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "OLED",
       "Pixel density",
@@ -9835,16 +9835,16 @@ const QUESTIONS = [
     ],
     "why": [
       "OLED: Self-emissive pixels that do not need a traditional backlight.",
-      "Pixel density: Number of pixels per physical display area. This serves a different function from oled.",
-      "Color gamut: Range of colors a display can reproduce. This serves a different function from oled.",
-      "IPS LCD: LCD panel known for wide viewing angles. This serves a different function from oled."
+      "Pixel density: Number of pixels per physical display area.",
+      "Color gamut: Range of colors a display can reproduce.",
+      "IPS LCD: LCD panel known for wide viewing angles."
     ],
     "tip": "Static content can contribute to burn-in."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "Which term describes the following capability: detects touch and stylus position?",
+    "q": "A technician is comparing options for this requirement: detects touch and stylus position. Which technology is appropriate?",
     "opts": [
       "Digitizer",
       "IPS LCD",
@@ -9856,16 +9856,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Digitizer: Detects touch and stylus position.",
-      "IPS LCD: LCD panel known for wide viewing angles. This serves a different function from digitizer.",
-      "Color gamut: Range of colors a display can reproduce. This serves a different function from digitizer.",
-      "Pixel density: Number of pixels per physical display area. This serves a different function from digitizer."
+      "IPS LCD: LCD panel known for wide viewing angles.",
+      "Color gamut: Range of colors a display can reproduce.",
+      "Pixel density: Number of pixels per physical display area."
     ],
     "tip": "Visible image can work while touch input fails."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "An IT support specialist needs to identify a component or service that number of display updates per second. What should they select?",
+    "q": "A field technician must provide number of display updates per second. Which technology fulfills this purpose?",
     "opts": [
       "Refresh rate",
       "TN LCD",
@@ -9877,16 +9877,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Refresh rate: Number of display updates per second.",
-      "TN LCD: LCD panel type often optimized for response speed. This serves a different function from refresh rate.",
-      "Pixel density: Number of pixels per physical display area. This serves a different function from refresh rate.",
-      "Color gamut: Range of colors a display can reproduce. This serves a different function from refresh rate."
+      "TN LCD: LCD panel type often optimized for response speed.",
+      "Pixel density: Number of pixels per physical display area.",
+      "Color gamut: Range of colors a display can reproduce."
     ],
     "tip": "Higher hertz indicates more refreshes."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "A technician encounters this situation: A high-resolution small panel can look sharper. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: A high-resolution small panel can look sharper. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Pixel density",
       "VA LCD",
@@ -9898,16 +9898,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Pixel density: Number of pixels per physical display area.",
-      "VA LCD: LCD panel type often associated with stronger contrast. This serves a different function from pixel density.",
-      "IPS LCD: LCD panel known for wide viewing angles. This serves a different function from pixel density.",
-      "TN LCD: LCD panel type often optimized for response speed. This serves a different function from pixel density."
+      "VA LCD: LCD panel type often associated with stronger contrast.",
+      "IPS LCD: LCD panel known for wide viewing angles.",
+      "TN LCD: LCD panel type often optimized for response speed."
     ],
     "tip": "A high-resolution small panel can look sharper."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "Which term describes the following capability: range of colors a display can reproduce?",
+    "q": "An administrator needs range of colors a display can reproduce. Which item matches the requirement?",
     "opts": [
       "Color gamut",
       "Refresh rate",
@@ -9919,16 +9919,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Color gamut: Range of colors a display can reproduce.",
-      "Refresh rate: Number of display updates per second. This serves a different function from color gamut.",
-      "OLED: Self-emissive pixels that do not need a traditional backlight. This serves a different function from color gamut.",
-      "Pixel density: Number of pixels per physical display area. This serves a different function from color gamut."
+      "Refresh rate: Number of display updates per second.",
+      "OLED: Self-emissive pixels that do not need a traditional backlight.",
+      "Pixel density: Number of pixels per physical display area."
     ],
     "tip": "Gamut is not the same as resolution."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "An IT support specialist needs to identify a component or service that lCD panel known for wide viewing angles. What should they select?",
+    "q": "A repair ticket specifies lCD panel known for wide viewing angles. Which item addresses that specification?",
     "opts": [
       "IPS LCD",
       "TN LCD",
@@ -9940,16 +9940,16 @@ const QUESTIONS = [
     ],
     "why": [
       "IPS LCD: LCD panel known for wide viewing angles.",
-      "TN LCD: LCD panel type often optimized for response speed. This serves a different function from ips lcd.",
-      "Pixel density: Number of pixels per physical display area. This serves a different function from ips lcd.",
-      "Refresh rate: Number of display updates per second. This serves a different function from ips lcd."
+      "TN LCD: LCD panel type often optimized for response speed.",
+      "Pixel density: Number of pixels per physical display area.",
+      "Refresh rate: Number of display updates per second."
     ],
     "tip": "Good viewing angles can matter for shared displays."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "A technician encounters this situation: Panel technology affects viewing and color. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Panel technology affects viewing and color. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "TN LCD",
       "Refresh rate",
@@ -9961,16 +9961,16 @@ const QUESTIONS = [
     ],
     "why": [
       "TN LCD: LCD panel type often optimized for response speed.",
-      "Refresh rate: Number of display updates per second. This serves a different function from tn lcd.",
-      "Digitizer: Detects touch and stylus position. This serves a different function from tn lcd.",
-      "Pixel density: Number of pixels per physical display area. This serves a different function from tn lcd."
+      "Refresh rate: Number of display updates per second.",
+      "Digitizer: Detects touch and stylus position.",
+      "Pixel density: Number of pixels per physical display area."
     ],
     "tip": "Panel technology affects viewing and color."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "Which term describes the following capability: lCD panel type often associated with stronger contrast?",
+    "q": "A device specification mentions lCD panel type often associated with stronger contrast. What feature is being described?",
     "opts": [
       "VA LCD",
       "Pixel density",
@@ -9982,16 +9982,16 @@ const QUESTIONS = [
     ],
     "why": [
       "VA LCD: LCD panel type often associated with stronger contrast.",
-      "Pixel density: Number of pixels per physical display area. This serves a different function from va lcd.",
-      "Refresh rate: Number of display updates per second. This serves a different function from va lcd.",
-      "OLED: Self-emissive pixels that do not need a traditional backlight. This serves a different function from va lcd."
+      "Pixel density: Number of pixels per physical display area.",
+      "Refresh rate: Number of display updates per second.",
+      "OLED: Self-emissive pixels that do not need a traditional backlight."
     ],
     "tip": "Compare contrast and viewing-angle needs."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "An IT support specialist needs to identify a component or service that self-emissive pixels that do not need a traditional backlight. What should they select?",
+    "q": "During a help-desk escalation, the documented need is self-emissive pixels that do not need a traditional backlight. What should the technician use?",
     "opts": [
       "OLED",
       "Refresh rate",
@@ -10003,16 +10003,16 @@ const QUESTIONS = [
     ],
     "why": [
       "OLED: Self-emissive pixels that do not need a traditional backlight.",
-      "Refresh rate: Number of display updates per second. This serves a different function from oled.",
-      "Digitizer: Detects touch and stylus position. This serves a different function from oled.",
-      "Pixel density: Number of pixels per physical display area. This serves a different function from oled."
+      "Refresh rate: Number of display updates per second.",
+      "Digitizer: Detects touch and stylus position.",
+      "Pixel density: Number of pixels per physical display area."
     ],
     "tip": "Static content can contribute to burn-in."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "A technician encounters this situation: Visible image can work while touch input fails. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Visible image can work while touch input fails. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Digitizer",
       "Refresh rate",
@@ -10024,16 +10024,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Digitizer: Detects touch and stylus position.",
-      "Refresh rate: Number of display updates per second. This serves a different function from digitizer.",
-      "Color gamut: Range of colors a display can reproduce. This serves a different function from digitizer.",
-      "Pixel density: Number of pixels per physical display area. This serves a different function from digitizer."
+      "Refresh rate: Number of display updates per second.",
+      "Color gamut: Range of colors a display can reproduce.",
+      "Pixel density: Number of pixels per physical display area."
     ],
     "tip": "Visible image can work while touch input fails."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "Which term describes the following capability: number of display updates per second?",
+    "q": "Which option would you select when a support ticket calls for number of display updates per second?",
     "opts": [
       "Refresh rate",
       "OLED",
@@ -10045,16 +10045,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Refresh rate: Number of display updates per second.",
-      "OLED: Self-emissive pixels that do not need a traditional backlight. This serves a different function from refresh rate.",
-      "VA LCD: LCD panel type often associated with stronger contrast. This serves a different function from refresh rate.",
-      "IPS LCD: LCD panel known for wide viewing angles. This serves a different function from refresh rate."
+      "OLED: Self-emissive pixels that do not need a traditional backlight.",
+      "VA LCD: LCD panel type often associated with stronger contrast.",
+      "IPS LCD: LCD panel known for wide viewing angles."
     ],
     "tip": "Higher hertz indicates more refreshes."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "An IT support specialist needs to identify a component or service that number of pixels per physical display area. What should they select?",
+    "q": "A support team is checking compatibility for number of pixels per physical display area. Which item should be considered?",
     "opts": [
       "Pixel density",
       "Refresh rate",
@@ -10066,16 +10066,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Pixel density: Number of pixels per physical display area.",
-      "Refresh rate: Number of display updates per second. This serves a different function from pixel density.",
-      "VA LCD: LCD panel type often associated with stronger contrast. This serves a different function from pixel density.",
-      "IPS LCD: LCD panel known for wide viewing angles. This serves a different function from pixel density."
+      "Refresh rate: Number of display updates per second.",
+      "VA LCD: LCD panel type often associated with stronger contrast.",
+      "IPS LCD: LCD panel known for wide viewing angles."
     ],
     "tip": "A high-resolution small panel can look sharper."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "A technician encounters this situation: Gamut is not the same as resolution. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Gamut is not the same as resolution. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Color gamut",
       "TN LCD",
@@ -10087,16 +10087,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Color gamut: Range of colors a display can reproduce.",
-      "TN LCD: LCD panel type often optimized for response speed. This serves a different function from color gamut.",
-      "Digitizer: Detects touch and stylus position. This serves a different function from color gamut.",
-      "IPS LCD: LCD panel known for wide viewing angles. This serves a different function from color gamut."
+      "TN LCD: LCD panel type often optimized for response speed.",
+      "Digitizer: Detects touch and stylus position.",
+      "IPS LCD: LCD panel known for wide viewing angles."
     ],
     "tip": "Gamut is not the same as resolution."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "Which term describes the following capability: lCD panel known for wide viewing angles?",
+    "q": "A technician is comparing options for this requirement: lCD panel known for wide viewing angles. Which technology is appropriate?",
     "opts": [
       "IPS LCD",
       "Digitizer",
@@ -10108,16 +10108,16 @@ const QUESTIONS = [
     ],
     "why": [
       "IPS LCD: LCD panel known for wide viewing angles.",
-      "Digitizer: Detects touch and stylus position. This serves a different function from ips lcd.",
-      "Refresh rate: Number of display updates per second. This serves a different function from ips lcd.",
-      "Pixel density: Number of pixels per physical display area. This serves a different function from ips lcd."
+      "Digitizer: Detects touch and stylus position.",
+      "Refresh rate: Number of display updates per second.",
+      "Pixel density: Number of pixels per physical display area."
     ],
     "tip": "Good viewing angles can matter for shared displays."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.1",
-    "q": "An IT support specialist needs to identify a component or service that lCD panel type often optimized for response speed. What should they select?",
+    "q": "An IT department is purchasing equipment for lCD panel type often optimized for response speed. Which option is relevant?",
     "opts": [
       "TN LCD",
       "VA LCD",
@@ -10129,16 +10129,16 @@ const QUESTIONS = [
     ],
     "why": [
       "TN LCD: LCD panel type often optimized for response speed.",
-      "VA LCD: LCD panel type often associated with stronger contrast. This serves a different function from tn lcd.",
-      "OLED: Self-emissive pixels that do not need a traditional backlight. This serves a different function from tn lcd.",
-      "IPS LCD: LCD panel known for wide viewing angles. This serves a different function from tn lcd."
+      "VA LCD: LCD panel type often associated with stronger contrast.",
+      "OLED: Self-emissive pixels that do not need a traditional backlight.",
+      "IPS LCD: LCD panel known for wide viewing angles."
     ],
     "tip": "Panel technology affects viewing and color."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "A technician encounters this situation: Ethernet patch cables typically terminate with RJ45. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Ethernet patch cables typically terminate with RJ45. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "RJ45",
       "SATA",
@@ -10150,16 +10150,16 @@ const QUESTIONS = [
     ],
     "why": [
       "RJ45: Modular connector commonly used for Ethernet.",
-      "SATA: Data interface for internal drives. This serves a different function from rj45.",
-      "Single-mode fiber: Optical fiber suited for long-distance links. This serves a different function from rj45.",
-      "DisplayPort: Digital display interface common on computers. This serves a different function from rj45."
+      "SATA: Data interface for internal drives.",
+      "Single-mode fiber: Optical fiber suited for long-distance links.",
+      "DisplayPort: Digital display interface common on computers."
     ],
     "tip": "Ethernet patch cables typically terminate with RJ45."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "Which term describes the following capability: smaller modular connector for telephone lines?",
+    "q": "Which option would you select when a support ticket calls for smaller modular connector for telephone lines?",
     "opts": [
       "RJ11",
       "RJ45",
@@ -10171,16 +10171,16 @@ const QUESTIONS = [
     ],
     "why": [
       "RJ11: Smaller modular connector for telephone lines.",
-      "RJ45: Modular connector commonly used for Ethernet. This serves a different function from rj11.",
-      "Single-mode fiber: Optical fiber suited for long-distance links. This serves a different function from rj11.",
-      "F-type: Threaded coaxial connector for cable service. This serves a different function from rj11."
+      "RJ45: Modular connector commonly used for Ethernet.",
+      "Single-mode fiber: Optical fiber suited for long-distance links.",
+      "F-type: Threaded coaxial connector for cable service."
     ],
     "tip": "RJ11 is not a standard Ethernet patch plug."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "An IT support specialist needs to identify a component or service that threaded coaxial connector for cable service. What should they select?",
+    "q": "A customer describes a system that needs threaded coaxial connector for cable service. Which choice matches that need?",
     "opts": [
       "F-type",
       "RJ11",
@@ -10192,16 +10192,16 @@ const QUESTIONS = [
     ],
     "why": [
       "F-type: Threaded coaxial connector for cable service.",
-      "RJ11: Smaller modular connector for telephone lines. This serves a different function from f-type.",
-      "RJ45: Modular connector commonly used for Ethernet. This serves a different function from f-type.",
-      "SATA: Data interface for internal drives. This serves a different function from f-type."
+      "RJ11: Smaller modular connector for telephone lines.",
+      "RJ45: Modular connector commonly used for Ethernet.",
+      "SATA: Data interface for internal drives."
     ],
     "tip": "Coax wall connections often use F-type."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "A technician encounters this situation: Fiber requires optical rather than copper termination. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Fiber requires optical rather than copper termination. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "LC",
       "T568A/T568B",
@@ -10213,16 +10213,16 @@ const QUESTIONS = [
     ],
     "why": [
       "LC: Compact fiber optic connector.",
-      "T568A/T568B: Wiring pinout standards for twisted-pair terminations. This serves a different function from lc.",
-      "Single-mode fiber: Optical fiber suited for long-distance links. This serves a different function from lc.",
-      "SATA: Data interface for internal drives. This serves a different function from lc."
+      "T568A/T568B: Wiring pinout standards for twisted-pair terminations.",
+      "Single-mode fiber: Optical fiber suited for long-distance links.",
+      "SATA: Data interface for internal drives."
     ],
     "tip": "Fiber requires optical rather than copper termination."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "Which term describes the following capability: digital video and audio interface?",
+    "q": "A technician is comparing options for this requirement: digital video and audio interface. Which technology is appropriate?",
     "opts": [
       "HDMI",
       "T568A/T568B",
@@ -10234,16 +10234,16 @@ const QUESTIONS = [
     ],
     "why": [
       "HDMI: Digital video and audio interface.",
-      "T568A/T568B: Wiring pinout standards for twisted-pair terminations. This serves a different function from hdmi.",
-      "SATA: Data interface for internal drives. This serves a different function from hdmi.",
-      "RJ45: Modular connector commonly used for Ethernet. This serves a different function from hdmi."
+      "T568A/T568B: Wiring pinout standards for twisted-pair terminations.",
+      "SATA: Data interface for internal drives.",
+      "RJ45: Modular connector commonly used for Ethernet."
     ],
     "tip": "Check display input selection and cable type."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "An IT support specialist needs to identify a component or service that digital display interface common on computers. What should they select?",
+    "q": "A field technician must provide digital display interface common on computers. Which technology fulfills this purpose?",
     "opts": [
       "DisplayPort",
       "LC",
@@ -10255,16 +10255,16 @@ const QUESTIONS = [
     ],
     "why": [
       "DisplayPort: Digital display interface common on computers.",
-      "LC: Compact fiber optic connector. This serves a different function from displayport.",
-      "RJ45: Modular connector commonly used for Ethernet. This serves a different function from displayport.",
-      "RJ11: Smaller modular connector for telephone lines. This serves a different function from displayport."
+      "LC: Compact fiber optic connector.",
+      "RJ45: Modular connector commonly used for Ethernet.",
+      "RJ11: Smaller modular connector for telephone lines."
     ],
     "tip": "DP can carry digital video and audio."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "A technician encounters this situation: SATA is not a display cable. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: SATA is not a display cable. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "SATA",
       "RJ11",
@@ -10276,16 +10276,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SATA: Data interface for internal drives.",
-      "RJ11: Smaller modular connector for telephone lines. This serves a different function from sata.",
-      "Single-mode fiber: Optical fiber suited for long-distance links. This serves a different function from sata.",
-      "T568A/T568B: Wiring pinout standards for twisted-pair terminations. This serves a different function from sata."
+      "RJ11: Smaller modular connector for telephone lines.",
+      "Single-mode fiber: Optical fiber suited for long-distance links.",
+      "T568A/T568B: Wiring pinout standards for twisted-pair terminations."
     ],
     "tip": "SATA is not a display cable."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "Which term describes the following capability: wiring pinout standards for twisted-pair terminations?",
+    "q": "An administrator needs wiring pinout standards for twisted-pair terminations. Which item matches the requirement?",
     "opts": [
       "T568A/T568B",
       "RJ11",
@@ -10297,16 +10297,16 @@ const QUESTIONS = [
     ],
     "why": [
       "T568A/T568B: Wiring pinout standards for twisted-pair terminations.",
-      "RJ11: Smaller modular connector for telephone lines. This serves a different function from t568a/t568b.",
-      "Single-mode fiber: Optical fiber suited for long-distance links. This serves a different function from t568a/t568b.",
-      "RJ45: Modular connector commonly used for Ethernet. This serves a different function from t568a/t568b."
+      "RJ11: Smaller modular connector for telephone lines.",
+      "Single-mode fiber: Optical fiber suited for long-distance links.",
+      "RJ45: Modular connector commonly used for Ethernet."
     ],
     "tip": "Keep wiring schemes consistent for straight-through cables."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "An IT support specialist needs to identify a component or service that optical fiber suited for long-distance links. What should they select?",
+    "q": "A repair ticket specifies optical fiber suited for long-distance links. Which item addresses that specification?",
     "opts": [
       "Single-mode fiber",
       "F-type",
@@ -10318,16 +10318,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Single-mode fiber: Optical fiber suited for long-distance links.",
-      "F-type: Threaded coaxial connector for cable service. This serves a different function from single-mode fiber.",
-      "DisplayPort: Digital display interface common on computers. This serves a different function from single-mode fiber.",
-      "HDMI: Digital video and audio interface. This serves a different function from single-mode fiber."
+      "F-type: Threaded coaxial connector for cable service.",
+      "DisplayPort: Digital display interface common on computers.",
+      "HDMI: Digital video and audio interface."
     ],
     "tip": "Single-mode differs from multimode optics."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "A technician encounters this situation: Ethernet patch cables typically terminate with RJ45. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Ethernet patch cables typically terminate with RJ45. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "RJ45",
       "F-type",
@@ -10339,16 +10339,16 @@ const QUESTIONS = [
     ],
     "why": [
       "RJ45: Modular connector commonly used for Ethernet.",
-      "F-type: Threaded coaxial connector for cable service. This serves a different function from rj45.",
-      "LC: Compact fiber optic connector. This serves a different function from rj45.",
-      "Single-mode fiber: Optical fiber suited for long-distance links. This serves a different function from rj45."
+      "F-type: Threaded coaxial connector for cable service.",
+      "LC: Compact fiber optic connector.",
+      "Single-mode fiber: Optical fiber suited for long-distance links."
     ],
     "tip": "Ethernet patch cables typically terminate with RJ45."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "Which term describes the following capability: smaller modular connector for telephone lines?",
+    "q": "A device specification mentions smaller modular connector for telephone lines. What feature is being described?",
     "opts": [
       "RJ11",
       "T568A/T568B",
@@ -10360,16 +10360,16 @@ const QUESTIONS = [
     ],
     "why": [
       "RJ11: Smaller modular connector for telephone lines.",
-      "T568A/T568B: Wiring pinout standards for twisted-pair terminations. This serves a different function from rj11.",
-      "DisplayPort: Digital display interface common on computers. This serves a different function from rj11.",
-      "RJ45: Modular connector commonly used for Ethernet. This serves a different function from rj11."
+      "T568A/T568B: Wiring pinout standards for twisted-pair terminations.",
+      "DisplayPort: Digital display interface common on computers.",
+      "RJ45: Modular connector commonly used for Ethernet."
     ],
     "tip": "RJ11 is not a standard Ethernet patch plug."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "An IT support specialist needs to identify a component or service that threaded coaxial connector for cable service. What should they select?",
+    "q": "During a help-desk escalation, the documented need is threaded coaxial connector for cable service. What should the technician use?",
     "opts": [
       "F-type",
       "Single-mode fiber",
@@ -10381,16 +10381,16 @@ const QUESTIONS = [
     ],
     "why": [
       "F-type: Threaded coaxial connector for cable service.",
-      "Single-mode fiber: Optical fiber suited for long-distance links. This serves a different function from f-type.",
-      "RJ11: Smaller modular connector for telephone lines. This serves a different function from f-type.",
-      "DisplayPort: Digital display interface common on computers. This serves a different function from f-type."
+      "Single-mode fiber: Optical fiber suited for long-distance links.",
+      "RJ11: Smaller modular connector for telephone lines.",
+      "DisplayPort: Digital display interface common on computers."
     ],
     "tip": "Coax wall connections often use F-type."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "A technician encounters this situation: Fiber requires optical rather than copper termination. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Fiber requires optical rather than copper termination. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "LC",
       "SATA",
@@ -10402,16 +10402,16 @@ const QUESTIONS = [
     ],
     "why": [
       "LC: Compact fiber optic connector.",
-      "SATA: Data interface for internal drives. This serves a different function from lc.",
-      "F-type: Threaded coaxial connector for cable service. This serves a different function from lc.",
-      "RJ45: Modular connector commonly used for Ethernet. This serves a different function from lc."
+      "SATA: Data interface for internal drives.",
+      "F-type: Threaded coaxial connector for cable service.",
+      "RJ45: Modular connector commonly used for Ethernet."
     ],
     "tip": "Fiber requires optical rather than copper termination."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "Which term describes the following capability: digital video and audio interface?",
+    "q": "Which option would you select when a support ticket calls for digital video and audio interface?",
     "opts": [
       "HDMI",
       "RJ11",
@@ -10423,16 +10423,16 @@ const QUESTIONS = [
     ],
     "why": [
       "HDMI: Digital video and audio interface.",
-      "RJ11: Smaller modular connector for telephone lines. This serves a different function from hdmi.",
-      "F-type: Threaded coaxial connector for cable service. This serves a different function from hdmi.",
-      "DisplayPort: Digital display interface common on computers. This serves a different function from hdmi."
+      "RJ11: Smaller modular connector for telephone lines.",
+      "F-type: Threaded coaxial connector for cable service.",
+      "DisplayPort: Digital display interface common on computers."
     ],
     "tip": "Check display input selection and cable type."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "An IT support specialist needs to identify a component or service that digital display interface common on computers. What should they select?",
+    "q": "A support team is checking compatibility for digital display interface common on computers. Which item should be considered?",
     "opts": [
       "DisplayPort",
       "SATA",
@@ -10444,16 +10444,16 @@ const QUESTIONS = [
     ],
     "why": [
       "DisplayPort: Digital display interface common on computers.",
-      "SATA: Data interface for internal drives. This serves a different function from displayport.",
-      "Single-mode fiber: Optical fiber suited for long-distance links. This serves a different function from displayport.",
-      "F-type: Threaded coaxial connector for cable service. This serves a different function from displayport."
+      "SATA: Data interface for internal drives.",
+      "Single-mode fiber: Optical fiber suited for long-distance links.",
+      "F-type: Threaded coaxial connector for cable service."
     ],
     "tip": "DP can carry digital video and audio."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "A technician encounters this situation: SATA is not a display cable. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: SATA is not a display cable. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "SATA",
       "Single-mode fiber",
@@ -10465,16 +10465,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SATA: Data interface for internal drives.",
-      "Single-mode fiber: Optical fiber suited for long-distance links. This serves a different function from sata.",
-      "RJ45: Modular connector commonly used for Ethernet. This serves a different function from sata.",
-      "RJ11: Smaller modular connector for telephone lines. This serves a different function from sata."
+      "Single-mode fiber: Optical fiber suited for long-distance links.",
+      "RJ45: Modular connector commonly used for Ethernet.",
+      "RJ11: Smaller modular connector for telephone lines."
     ],
     "tip": "SATA is not a display cable."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.2",
-    "q": "Which term describes the following capability: wiring pinout standards for twisted-pair terminations?",
+    "q": "A technician is comparing options for this requirement: wiring pinout standards for twisted-pair terminations. Which technology is appropriate?",
     "opts": [
       "T568A/T568B",
       "SATA",
@@ -10486,16 +10486,16 @@ const QUESTIONS = [
     ],
     "why": [
       "T568A/T568B: Wiring pinout standards for twisted-pair terminations.",
-      "SATA: Data interface for internal drives. This serves a different function from t568a/t568b.",
-      "RJ11: Smaller modular connector for telephone lines. This serves a different function from t568a/t568b.",
-      "DisplayPort: Digital display interface common on computers. This serves a different function from t568a/t568b."
+      "SATA: Data interface for internal drives.",
+      "RJ11: Smaller modular connector for telephone lines.",
+      "DisplayPort: Digital display interface common on computers."
     ],
     "tip": "Keep wiring schemes consistent for straight-through cables."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "A technician encounters this situation: Laptop memory slots often use SODIMMs. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Laptop memory slots often use SODIMMs. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "SODIMM",
       "Non-ECC RAM",
@@ -10507,16 +10507,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SODIMM: Compact RAM module form factor for many laptops.",
-      "Non-ECC RAM: Memory without ECC correction capability. This serves a different function from sodimm.",
-      "DDR generation: Memory family generation with specific compatibility. This serves a different function from sodimm.",
-      "Dual channel: Memory configuration using multiple channels. This serves a different function from sodimm."
+      "Non-ECC RAM: Memory without ECC correction capability.",
+      "DDR generation: Memory family generation with specific compatibility.",
+      "Dual channel: Memory configuration using multiple channels."
     ],
     "tip": "Laptop memory slots often use SODIMMs."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "Which term describes the following capability: full-size memory module form factor for desktops?",
+    "q": "Which option would you select when a support ticket calls for full-size memory module form factor for desktops?",
     "opts": [
       "DIMM",
       "Dual channel",
@@ -10528,16 +10528,16 @@ const QUESTIONS = [
     ],
     "why": [
       "DIMM: Full-size memory module form factor for desktops.",
-      "Dual channel: Memory configuration using multiple channels. This serves a different function from dimm.",
-      "Non-ECC RAM: Memory without ECC correction capability. This serves a different function from dimm.",
-      "ECC RAM: Memory capable of detecting and correcting certain errors. This serves a different function from dimm."
+      "Dual channel: Memory configuration using multiple channels.",
+      "Non-ECC RAM: Memory without ECC correction capability.",
+      "ECC RAM: Memory capable of detecting and correcting certain errors."
     ],
     "tip": "DIMM and SODIMM are physically different."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "An IT support specialist needs to identify a component or service that memory family generation with specific compatibility. What should they select?",
+    "q": "A customer describes a system that needs memory family generation with specific compatibility. Which choice matches that need?",
     "opts": [
       "DDR generation",
       "DIMM",
@@ -10549,16 +10549,16 @@ const QUESTIONS = [
     ],
     "why": [
       "DDR generation: Memory family generation with specific compatibility.",
-      "DIMM: Full-size memory module form factor for desktops. This serves a different function from ddr generation.",
-      "SODIMM: Compact RAM module form factor for many laptops. This serves a different function from ddr generation.",
-      "Non-ECC RAM: Memory without ECC correction capability. This serves a different function from ddr generation."
+      "DIMM: Full-size memory module form factor for desktops.",
+      "SODIMM: Compact RAM module form factor for many laptops.",
+      "Non-ECC RAM: Memory without ECC correction capability."
     ],
     "tip": "Different DDR generations are not interchangeable."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "A technician encounters this situation: Servers may use ECC for reliability. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Servers may use ECC for reliability. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "ECC RAM",
       "DDR generation",
@@ -10570,16 +10570,16 @@ const QUESTIONS = [
     ],
     "why": [
       "ECC RAM: Memory capable of detecting and correcting certain errors.",
-      "DDR generation: Memory family generation with specific compatibility. This serves a different function from ecc ram.",
-      "DIMM: Full-size memory module form factor for desktops. This serves a different function from ecc ram.",
-      "SODIMM: Compact RAM module form factor for many laptops. This serves a different function from ecc ram."
+      "DDR generation: Memory family generation with specific compatibility.",
+      "DIMM: Full-size memory module form factor for desktops.",
+      "SODIMM: Compact RAM module form factor for many laptops."
     ],
     "tip": "Servers may use ECC for reliability."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "Which term describes the following capability: memory without ECC correction capability?",
+    "q": "A technician is comparing options for this requirement: memory without ECC correction capability. Which technology is appropriate?",
     "opts": [
       "Non-ECC RAM",
       "SODIMM",
@@ -10591,16 +10591,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Non-ECC RAM: Memory without ECC correction capability.",
-      "SODIMM: Compact RAM module form factor for many laptops. This serves a different function from non-ecc ram.",
-      "DDR generation: Memory family generation with specific compatibility. This serves a different function from non-ecc ram.",
-      "ECC RAM: Memory capable of detecting and correcting certain errors. This serves a different function from non-ecc ram."
+      "SODIMM: Compact RAM module form factor for many laptops.",
+      "DDR generation: Memory family generation with specific compatibility.",
+      "ECC RAM: Memory capable of detecting and correcting certain errors."
     ],
     "tip": "Check motherboard support before swapping."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "An IT support specialist needs to identify a component or service that memory configuration using multiple channels. What should they select?",
+    "q": "A field technician must provide memory configuration using multiple channels. Which technology fulfills this purpose?",
     "opts": [
       "Dual channel",
       "DIMM",
@@ -10612,16 +10612,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Dual channel: Memory configuration using multiple channels.",
-      "DIMM: Full-size memory module form factor for desktops. This serves a different function from dual channel.",
-      "SODIMM: Compact RAM module form factor for many laptops. This serves a different function from dual channel.",
-      "Non-ECC RAM: Memory without ECC correction capability. This serves a different function from dual channel."
+      "DIMM: Full-size memory module form factor for desktops.",
+      "SODIMM: Compact RAM module form factor for many laptops.",
+      "Non-ECC RAM: Memory without ECC correction capability."
     ],
     "tip": "Matched supported modules can enable multi-channel access."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "A technician encounters this situation: Laptop memory slots often use SODIMMs. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Laptop memory slots often use SODIMMs. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "SODIMM",
       "DDR generation",
@@ -10633,16 +10633,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SODIMM: Compact RAM module form factor for many laptops.",
-      "DDR generation: Memory family generation with specific compatibility. This serves a different function from sodimm.",
-      "DIMM: Full-size memory module form factor for desktops. This serves a different function from sodimm.",
-      "ECC RAM: Memory capable of detecting and correcting certain errors. This serves a different function from sodimm."
+      "DDR generation: Memory family generation with specific compatibility.",
+      "DIMM: Full-size memory module form factor for desktops.",
+      "ECC RAM: Memory capable of detecting and correcting certain errors."
     ],
     "tip": "Laptop memory slots often use SODIMMs."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "Which term describes the following capability: full-size memory module form factor for desktops?",
+    "q": "An administrator needs full-size memory module form factor for desktops. Which item matches the requirement?",
     "opts": [
       "DIMM",
       "ECC RAM",
@@ -10654,16 +10654,16 @@ const QUESTIONS = [
     ],
     "why": [
       "DIMM: Full-size memory module form factor for desktops.",
-      "ECC RAM: Memory capable of detecting and correcting certain errors. This serves a different function from dimm.",
-      "Dual channel: Memory configuration using multiple channels. This serves a different function from dimm.",
-      "SODIMM: Compact RAM module form factor for many laptops. This serves a different function from dimm."
+      "ECC RAM: Memory capable of detecting and correcting certain errors.",
+      "Dual channel: Memory configuration using multiple channels.",
+      "SODIMM: Compact RAM module form factor for many laptops."
     ],
     "tip": "DIMM and SODIMM are physically different."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "An IT support specialist needs to identify a component or service that memory family generation with specific compatibility. What should they select?",
+    "q": "A repair ticket specifies memory family generation with specific compatibility. Which item addresses that specification?",
     "opts": [
       "DDR generation",
       "DIMM",
@@ -10675,16 +10675,16 @@ const QUESTIONS = [
     ],
     "why": [
       "DDR generation: Memory family generation with specific compatibility.",
-      "DIMM: Full-size memory module form factor for desktops. This serves a different function from ddr generation.",
-      "Dual channel: Memory configuration using multiple channels. This serves a different function from ddr generation.",
-      "ECC RAM: Memory capable of detecting and correcting certain errors. This serves a different function from ddr generation."
+      "DIMM: Full-size memory module form factor for desktops.",
+      "Dual channel: Memory configuration using multiple channels.",
+      "ECC RAM: Memory capable of detecting and correcting certain errors."
     ],
     "tip": "Different DDR generations are not interchangeable."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "A technician encounters this situation: Servers may use ECC for reliability. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Servers may use ECC for reliability. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "ECC RAM",
       "DDR generation",
@@ -10696,16 +10696,16 @@ const QUESTIONS = [
     ],
     "why": [
       "ECC RAM: Memory capable of detecting and correcting certain errors.",
-      "DDR generation: Memory family generation with specific compatibility. This serves a different function from ecc ram.",
-      "Non-ECC RAM: Memory without ECC correction capability. This serves a different function from ecc ram.",
-      "DIMM: Full-size memory module form factor for desktops. This serves a different function from ecc ram."
+      "DDR generation: Memory family generation with specific compatibility.",
+      "Non-ECC RAM: Memory without ECC correction capability.",
+      "DIMM: Full-size memory module form factor for desktops."
     ],
     "tip": "Servers may use ECC for reliability."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "Which term describes the following capability: memory without ECC correction capability?",
+    "q": "A device specification mentions memory without ECC correction capability. What feature is being described?",
     "opts": [
       "Non-ECC RAM",
       "SODIMM",
@@ -10717,16 +10717,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Non-ECC RAM: Memory without ECC correction capability.",
-      "SODIMM: Compact RAM module form factor for many laptops. This serves a different function from non-ecc ram.",
-      "ECC RAM: Memory capable of detecting and correcting certain errors. This serves a different function from non-ecc ram.",
-      "DDR generation: Memory family generation with specific compatibility. This serves a different function from non-ecc ram."
+      "SODIMM: Compact RAM module form factor for many laptops.",
+      "ECC RAM: Memory capable of detecting and correcting certain errors.",
+      "DDR generation: Memory family generation with specific compatibility."
     ],
     "tip": "Check motherboard support before swapping."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "An IT support specialist needs to identify a component or service that memory configuration using multiple channels. What should they select?",
+    "q": "During a help-desk escalation, the documented need is memory configuration using multiple channels. What should the technician use?",
     "opts": [
       "Dual channel",
       "Non-ECC RAM",
@@ -10738,16 +10738,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Dual channel: Memory configuration using multiple channels.",
-      "Non-ECC RAM: Memory without ECC correction capability. This serves a different function from dual channel.",
-      "DDR generation: Memory family generation with specific compatibility. This serves a different function from dual channel.",
-      "DIMM: Full-size memory module form factor for desktops. This serves a different function from dual channel."
+      "Non-ECC RAM: Memory without ECC correction capability.",
+      "DDR generation: Memory family generation with specific compatibility.",
+      "DIMM: Full-size memory module form factor for desktops."
     ],
     "tip": "Matched supported modules can enable multi-channel access."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "A technician encounters this situation: Laptop memory slots often use SODIMMs. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Laptop memory slots often use SODIMMs. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "SODIMM",
       "Non-ECC RAM",
@@ -10759,16 +10759,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SODIMM: Compact RAM module form factor for many laptops.",
-      "Non-ECC RAM: Memory without ECC correction capability. This serves a different function from sodimm.",
-      "Dual channel: Memory configuration using multiple channels. This serves a different function from sodimm.",
-      "DIMM: Full-size memory module form factor for desktops. This serves a different function from sodimm."
+      "Non-ECC RAM: Memory without ECC correction capability.",
+      "Dual channel: Memory configuration using multiple channels.",
+      "DIMM: Full-size memory module form factor for desktops."
     ],
     "tip": "Laptop memory slots often use SODIMMs."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "Which term describes the following capability: full-size memory module form factor for desktops?",
+    "q": "Which option would you select when a support ticket calls for full-size memory module form factor for desktops?",
     "opts": [
       "DIMM",
       "SODIMM",
@@ -10780,16 +10780,16 @@ const QUESTIONS = [
     ],
     "why": [
       "DIMM: Full-size memory module form factor for desktops.",
-      "SODIMM: Compact RAM module form factor for many laptops. This serves a different function from dimm.",
-      "Non-ECC RAM: Memory without ECC correction capability. This serves a different function from dimm.",
-      "ECC RAM: Memory capable of detecting and correcting certain errors. This serves a different function from dimm."
+      "SODIMM: Compact RAM module form factor for many laptops.",
+      "Non-ECC RAM: Memory without ECC correction capability.",
+      "ECC RAM: Memory capable of detecting and correcting certain errors."
     ],
     "tip": "DIMM and SODIMM are physically different."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "An IT support specialist needs to identify a component or service that memory family generation with specific compatibility. What should they select?",
+    "q": "A support team is checking compatibility for memory family generation with specific compatibility. Which item should be considered?",
     "opts": [
       "DDR generation",
       "ECC RAM",
@@ -10801,16 +10801,16 @@ const QUESTIONS = [
     ],
     "why": [
       "DDR generation: Memory family generation with specific compatibility.",
-      "ECC RAM: Memory capable of detecting and correcting certain errors. This serves a different function from ddr generation.",
-      "DIMM: Full-size memory module form factor for desktops. This serves a different function from ddr generation.",
-      "Dual channel: Memory configuration using multiple channels. This serves a different function from ddr generation."
+      "ECC RAM: Memory capable of detecting and correcting certain errors.",
+      "DIMM: Full-size memory module form factor for desktops.",
+      "Dual channel: Memory configuration using multiple channels."
     ],
     "tip": "Different DDR generations are not interchangeable."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "A technician encounters this situation: Servers may use ECC for reliability. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Servers may use ECC for reliability. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "ECC RAM",
       "Dual channel",
@@ -10822,16 +10822,16 @@ const QUESTIONS = [
     ],
     "why": [
       "ECC RAM: Memory capable of detecting and correcting certain errors.",
-      "Dual channel: Memory configuration using multiple channels. This serves a different function from ecc ram.",
-      "DDR generation: Memory family generation with specific compatibility. This serves a different function from ecc ram.",
-      "SODIMM: Compact RAM module form factor for many laptops. This serves a different function from ecc ram."
+      "Dual channel: Memory configuration using multiple channels.",
+      "DDR generation: Memory family generation with specific compatibility.",
+      "SODIMM: Compact RAM module form factor for many laptops."
     ],
     "tip": "Servers may use ECC for reliability."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.3",
-    "q": "Which term describes the following capability: memory without ECC correction capability?",
+    "q": "A technician is comparing options for this requirement: memory without ECC correction capability. Which technology is appropriate?",
     "opts": [
       "Non-ECC RAM",
       "ECC RAM",
@@ -10843,16 +10843,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Non-ECC RAM: Memory without ECC correction capability.",
-      "ECC RAM: Memory capable of detecting and correcting certain errors. This serves a different function from non-ecc ram.",
-      "SODIMM: Compact RAM module form factor for many laptops. This serves a different function from non-ecc ram.",
-      "Dual channel: Memory configuration using multiple channels. This serves a different function from non-ecc ram."
+      "ECC RAM: Memory capable of detecting and correcting certain errors.",
+      "SODIMM: Compact RAM module form factor for many laptops.",
+      "Dual channel: Memory configuration using multiple channels."
     ],
     "tip": "Check motherboard support before swapping."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "A technician encounters this situation: M.2 shape does not guarantee NVMe operation. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: M.2 shape does not guarantee NVMe operation. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "NVMe",
       "RAID 1",
@@ -10864,16 +10864,16 @@ const QUESTIONS = [
     ],
     "why": [
       "NVMe: Storage protocol optimized for SSDs over PCIe.",
-      "RAID 1: Mirroring data on separate drives. This serves a different function from nvme.",
-      "RAID 10: Mirrored sets combined with striping. This serves a different function from nvme.",
-      "M.2: Compact expansion card form factor. This serves a different function from nvme."
+      "RAID 1: Mirroring data on separate drives.",
+      "RAID 10: Mirrored sets combined with striping.",
+      "M.2: Compact expansion card form factor."
     ],
     "tip": "M.2 shape does not guarantee NVMe operation."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "Which term describes the following capability: solid-state storage using the SATA interface?",
+    "q": "Which option would you select when a support ticket calls for solid-state storage using the SATA interface?",
     "opts": [
       "SATA SSD",
       "NVMe",
@@ -10885,16 +10885,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SATA SSD: Solid-state storage using the SATA interface.",
-      "NVMe: Storage protocol optimized for SSDs over PCIe. This serves a different function from sata ssd.",
-      "RAID 6: Striping with dual distributed parity. This serves a different function from sata ssd.",
-      "SAS: Enterprise-oriented serial storage interface. This serves a different function from sata ssd."
+      "NVMe: Storage protocol optimized for SSDs over PCIe.",
+      "RAID 6: Striping with dual distributed parity.",
+      "SAS: Enterprise-oriented serial storage interface."
     ],
     "tip": "SATA throughput differs from PCIe NVMe."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "An IT support specialist needs to identify a component or service that compact expansion card form factor. What should they select?",
+    "q": "A customer describes a system that needs compact expansion card form factor. Which choice matches that need?",
     "opts": [
       "M.2",
       "RAID 5",
@@ -10906,16 +10906,16 @@ const QUESTIONS = [
     ],
     "why": [
       "M.2: Compact expansion card form factor.",
-      "RAID 5: Striping with distributed single parity. This serves a different function from m.2.",
-      "SATA SSD: Solid-state storage using the SATA interface. This serves a different function from m.2.",
-      "SAS: Enterprise-oriented serial storage interface. This serves a different function from m.2."
+      "RAID 5: Striping with distributed single parity.2.",
+      "SATA SSD: Solid-state storage using the SATA interface.2.",
+      "SAS: Enterprise-oriented serial storage interface.2."
     ],
     "tip": "Check whether the slot supports SATA or PCIe."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "A technician encounters this situation: One failed member loses the array. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: One failed member loses the array. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "RAID 0",
       "SAS",
@@ -10927,16 +10927,16 @@ const QUESTIONS = [
     ],
     "why": [
       "RAID 0: Data striping without fault tolerance.",
-      "SAS: Enterprise-oriented serial storage interface. This serves a different function from raid 0.",
-      "RAID 5: Striping with distributed single parity. This serves a different function from raid 0.",
-      "NVMe: Storage protocol optimized for SSDs over PCIe. This serves a different function from raid 0."
+      "SAS: Enterprise-oriented serial storage interface.",
+      "RAID 5: Striping with distributed single parity.",
+      "NVMe: Storage protocol optimized for SSDs over PCIe."
     ],
     "tip": "One failed member loses the array."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "Which term describes the following capability: mirroring data on separate drives?",
+    "q": "A technician is comparing options for this requirement: mirroring data on separate drives. Which technology is appropriate?",
     "opts": [
       "RAID 1",
       "RAID 6",
@@ -10948,16 +10948,16 @@ const QUESTIONS = [
     ],
     "why": [
       "RAID 1: Mirroring data on separate drives.",
-      "RAID 6: Striping with dual distributed parity. This serves a different function from raid 1.",
-      "RAID 5: Striping with distributed single parity. This serves a different function from raid 1.",
-      "RAID 10: Mirrored sets combined with striping. This serves a different function from raid 1."
+      "RAID 6: Striping with dual distributed parity.",
+      "RAID 5: Striping with distributed single parity.",
+      "RAID 10: Mirrored sets combined with striping."
     ],
     "tip": "Mirroring keeps a copy but is not a backup."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "An IT support specialist needs to identify a component or service that striping with distributed single parity. What should they select?",
+    "q": "A field technician must provide striping with distributed single parity. Which technology fulfills this purpose?",
     "opts": [
       "RAID 5",
       "RAID 1",
@@ -10969,16 +10969,16 @@ const QUESTIONS = [
     ],
     "why": [
       "RAID 5: Striping with distributed single parity.",
-      "RAID 1: Mirroring data on separate drives. This serves a different function from raid 5.",
-      "M.2: Compact expansion card form factor. This serves a different function from raid 5.",
-      "SAS: Enterprise-oriented serial storage interface. This serves a different function from raid 5."
+      "RAID 1: Mirroring data on separate drives.",
+      "M.2: Compact expansion card form factor.",
+      "SAS: Enterprise-oriented serial storage interface."
     ],
     "tip": "Single-drive fault tolerance needs enough members."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "A technician encounters this situation: Can survive two drive failures. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Can survive two drive failures. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "RAID 6",
       "M.2",
@@ -10990,16 +10990,16 @@ const QUESTIONS = [
     ],
     "why": [
       "RAID 6: Striping with dual distributed parity.",
-      "M.2: Compact expansion card form factor. This serves a different function from raid 6.",
-      "SAS: Enterprise-oriented serial storage interface. This serves a different function from raid 6.",
-      "NVMe: Storage protocol optimized for SSDs over PCIe. This serves a different function from raid 6."
+      "M.2: Compact expansion card form factor.",
+      "SAS: Enterprise-oriented serial storage interface.",
+      "NVMe: Storage protocol optimized for SSDs over PCIe."
     ],
     "tip": "Can survive two drive failures."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "Which term describes the following capability: mirrored sets combined with striping?",
+    "q": "An administrator needs mirrored sets combined with striping. Which item matches the requirement?",
     "opts": [
       "RAID 10",
       "NVMe",
@@ -11011,16 +11011,16 @@ const QUESTIONS = [
     ],
     "why": [
       "RAID 10: Mirrored sets combined with striping.",
-      "NVMe: Storage protocol optimized for SSDs over PCIe. This serves a different function from raid 10.",
-      "RAID 0: Data striping without fault tolerance. This serves a different function from raid 10.",
-      "SATA SSD: Solid-state storage using the SATA interface. This serves a different function from raid 10."
+      "NVMe: Storage protocol optimized for SSDs over PCIe.",
+      "RAID 0: Data striping without fault tolerance.",
+      "SATA SSD: Solid-state storage using the SATA interface."
     ],
     "tip": "Needs multiple disks and combines speed with redundancy."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "An IT support specialist needs to identify a component or service that enterprise-oriented serial storage interface. What should they select?",
+    "q": "A repair ticket specifies enterprise-oriented serial storage interface. Which item addresses that specification?",
     "opts": [
       "SAS",
       "SATA SSD",
@@ -11032,16 +11032,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SAS: Enterprise-oriented serial storage interface.",
-      "SATA SSD: Solid-state storage using the SATA interface. This serves a different function from sas.",
-      "RAID 10: Mirrored sets combined with striping. This serves a different function from sas.",
-      "RAID 1: Mirroring data on separate drives. This serves a different function from sas."
+      "SATA SSD: Solid-state storage using the SATA interface.",
+      "RAID 10: Mirrored sets combined with striping.",
+      "RAID 1: Mirroring data on separate drives."
     ],
     "tip": "SAS and SATA are different drive interfaces."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "A technician encounters this situation: M.2 shape does not guarantee NVMe operation. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: M.2 shape does not guarantee NVMe operation. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "NVMe",
       "RAID 5",
@@ -11053,16 +11053,16 @@ const QUESTIONS = [
     ],
     "why": [
       "NVMe: Storage protocol optimized for SSDs over PCIe.",
-      "RAID 5: Striping with distributed single parity. This serves a different function from nvme.",
-      "RAID 6: Striping with dual distributed parity. This serves a different function from nvme.",
-      "M.2: Compact expansion card form factor. This serves a different function from nvme."
+      "RAID 5: Striping with distributed single parity.",
+      "RAID 6: Striping with dual distributed parity.",
+      "M.2: Compact expansion card form factor."
     ],
     "tip": "M.2 shape does not guarantee NVMe operation."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "Which term describes the following capability: solid-state storage using the SATA interface?",
+    "q": "A device specification mentions solid-state storage using the SATA interface. What feature is being described?",
     "opts": [
       "SATA SSD",
       "SAS",
@@ -11074,16 +11074,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SATA SSD: Solid-state storage using the SATA interface.",
-      "SAS: Enterprise-oriented serial storage interface. This serves a different function from sata ssd.",
-      "RAID 0: Data striping without fault tolerance. This serves a different function from sata ssd.",
-      "NVMe: Storage protocol optimized for SSDs over PCIe. This serves a different function from sata ssd."
+      "SAS: Enterprise-oriented serial storage interface.",
+      "RAID 0: Data striping without fault tolerance.",
+      "NVMe: Storage protocol optimized for SSDs over PCIe."
     ],
     "tip": "SATA throughput differs from PCIe NVMe."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "An IT support specialist needs to identify a component or service that compact expansion card form factor. What should they select?",
+    "q": "During a help-desk escalation, the documented need is compact expansion card form factor. What should the technician use?",
     "opts": [
       "M.2",
       "RAID 6",
@@ -11095,16 +11095,16 @@ const QUESTIONS = [
     ],
     "why": [
       "M.2: Compact expansion card form factor.",
-      "RAID 6: Striping with dual distributed parity. This serves a different function from m.2.",
-      "RAID 5: Striping with distributed single parity. This serves a different function from m.2.",
-      "RAID 10: Mirrored sets combined with striping. This serves a different function from m.2."
+      "RAID 6: Striping with dual distributed parity.2.",
+      "RAID 5: Striping with distributed single parity.2.",
+      "RAID 10: Mirrored sets combined with striping.2."
     ],
     "tip": "Check whether the slot supports SATA or PCIe."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "A technician encounters this situation: One failed member loses the array. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: One failed member loses the array. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "RAID 0",
       "RAID 6",
@@ -11116,16 +11116,16 @@ const QUESTIONS = [
     ],
     "why": [
       "RAID 0: Data striping without fault tolerance.",
-      "RAID 6: Striping with dual distributed parity. This serves a different function from raid 0.",
-      "RAID 1: Mirroring data on separate drives. This serves a different function from raid 0.",
-      "NVMe: Storage protocol optimized for SSDs over PCIe. This serves a different function from raid 0."
+      "RAID 6: Striping with dual distributed parity.",
+      "RAID 1: Mirroring data on separate drives.",
+      "NVMe: Storage protocol optimized for SSDs over PCIe."
     ],
     "tip": "One failed member loses the array."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "Which term describes the following capability: mirroring data on separate drives?",
+    "q": "Which option would you select when a support ticket calls for mirroring data on separate drives?",
     "opts": [
       "RAID 1",
       "SATA SSD",
@@ -11137,16 +11137,16 @@ const QUESTIONS = [
     ],
     "why": [
       "RAID 1: Mirroring data on separate drives.",
-      "SATA SSD: Solid-state storage using the SATA interface. This serves a different function from raid 1.",
-      "RAID 5: Striping with distributed single parity. This serves a different function from raid 1.",
-      "RAID 10: Mirrored sets combined with striping. This serves a different function from raid 1."
+      "SATA SSD: Solid-state storage using the SATA interface.",
+      "RAID 5: Striping with distributed single parity.",
+      "RAID 10: Mirrored sets combined with striping."
     ],
     "tip": "Mirroring keeps a copy but is not a backup."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "An IT support specialist needs to identify a component or service that striping with distributed single parity. What should they select?",
+    "q": "A support team is checking compatibility for striping with distributed single parity. Which item should be considered?",
     "opts": [
       "RAID 5",
       "SAS",
@@ -11158,16 +11158,16 @@ const QUESTIONS = [
     ],
     "why": [
       "RAID 5: Striping with distributed single parity.",
-      "SAS: Enterprise-oriented serial storage interface. This serves a different function from raid 5.",
-      "RAID 0: Data striping without fault tolerance. This serves a different function from raid 5.",
-      "SATA SSD: Solid-state storage using the SATA interface. This serves a different function from raid 5."
+      "SAS: Enterprise-oriented serial storage interface.",
+      "RAID 0: Data striping without fault tolerance.",
+      "SATA SSD: Solid-state storage using the SATA interface."
     ],
     "tip": "Single-drive fault tolerance needs enough members."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.4",
-    "q": "A technician encounters this situation: Can survive two drive failures. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Can survive two drive failures. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "RAID 6",
       "M.2",
@@ -11179,16 +11179,16 @@ const QUESTIONS = [
     ],
     "why": [
       "RAID 6: Striping with dual distributed parity.",
-      "M.2: Compact expansion card form factor. This serves a different function from raid 6.",
-      "RAID 0: Data striping without fault tolerance. This serves a different function from raid 6.",
-      "SAS: Enterprise-oriented serial storage interface. This serves a different function from raid 6."
+      "M.2: Compact expansion card form factor.",
+      "RAID 0: Data striping without fault tolerance.",
+      "SAS: Enterprise-oriented serial storage interface."
     ],
     "tip": "Can survive two drive failures."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "A technician encounters this situation: Case and board form factors must align. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Case and board form factors must align. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "ATX",
       "microATX",
@@ -11200,16 +11200,16 @@ const QUESTIONS = [
     ],
     "why": [
       "ATX: Common full-size motherboard form factor.",
-      "microATX: Smaller motherboard form factor than ATX. This serves a different function from atx.",
-      "Secure Boot: Firmware feature checking trusted boot components. This serves a different function from atx.",
-      "Thermal paste: Transfers heat between CPU and cooler surfaces. This serves a different function from atx."
+      "microATX: Smaller motherboard form factor than ATX.",
+      "Secure Boot: Firmware feature checking trusted boot components.",
+      "Thermal paste: Transfers heat between CPU and cooler surfaces."
     ],
     "tip": "Case and board form factors must align."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "Which term describes the following capability: smaller motherboard form factor than ATX?",
+    "q": "Which option would you select when a support ticket calls for smaller motherboard form factor than ATX?",
     "opts": [
       "microATX",
       "Secure Boot",
@@ -11221,16 +11221,16 @@ const QUESTIONS = [
     ],
     "why": [
       "microATX: Smaller motherboard form factor than ATX.",
-      "Secure Boot: Firmware feature checking trusted boot components. This serves a different function from microatx.",
-      "ARM: Processor instruction set architecture common in mobile systems. This serves a different function from microatx.",
-      "TPM: Hardware-backed security functionality for protected keys. This serves a different function from microatx."
+      "Secure Boot: Firmware feature checking trusted boot components.",
+      "ARM: Processor instruction set architecture common in mobile systems.",
+      "TPM: Hardware-backed security functionality for protected keys."
     ],
     "tip": "Expansion slots and case fit vary."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "An IT support specialist needs to identify a component or service that high-speed expansion interconnect for cards and SSDs. What should they select?",
+    "q": "A customer describes a system that needs high-speed expansion interconnect for cards and SSDs. Which choice matches that need?",
     "opts": [
       "PCIe",
       "TPM",
@@ -11242,16 +11242,16 @@ const QUESTIONS = [
     ],
     "why": [
       "PCIe: High-speed expansion interconnect for cards and SSDs.",
-      "TPM: Hardware-backed security functionality for protected keys. This serves a different function from pcie.",
-      "ARM: Processor instruction set architecture common in mobile systems. This serves a different function from pcie.",
-      "Secure Boot: Firmware feature checking trusted boot components. This serves a different function from pcie."
+      "TPM: Hardware-backed security functionality for protected keys.",
+      "ARM: Processor instruction set architecture common in mobile systems.",
+      "Secure Boot: Firmware feature checking trusted boot components."
     ],
     "tip": "Video cards commonly use PCIe."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "A technician encounters this situation: TPM can support disk encryption security. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: TPM can support disk encryption security. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "TPM",
       "microATX",
@@ -11263,16 +11263,16 @@ const QUESTIONS = [
     ],
     "why": [
       "TPM: Hardware-backed security functionality for protected keys.",
-      "microATX: Smaller motherboard form factor than ATX. This serves a different function from tpm.",
-      "Thermal paste: Transfers heat between CPU and cooler surfaces. This serves a different function from tpm.",
-      "ATX: Common full-size motherboard form factor. This serves a different function from tpm."
+      "microATX: Smaller motherboard form factor than ATX.",
+      "Thermal paste: Transfers heat between CPU and cooler surfaces.",
+      "ATX: Common full-size motherboard form factor."
     ],
     "tip": "TPM can support disk encryption security."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "Which term describes the following capability: firmware feature checking trusted boot components?",
+    "q": "A technician is comparing options for this requirement: firmware feature checking trusted boot components. Which technology is appropriate?",
     "opts": [
       "Secure Boot",
       "Thermal paste",
@@ -11284,16 +11284,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Secure Boot: Firmware feature checking trusted boot components.",
-      "Thermal paste: Transfers heat between CPU and cooler surfaces. This serves a different function from secure boot.",
-      "ATX: Common full-size motherboard form factor. This serves a different function from secure boot.",
-      "ARM: Processor instruction set architecture common in mobile systems. This serves a different function from secure boot."
+      "Thermal paste: Transfers heat between CPU and cooler surfaces.",
+      "ATX: Common full-size motherboard form factor.",
+      "ARM: Processor instruction set architecture common in mobile systems."
     ],
     "tip": "Secure Boot helps resist unauthorized bootloaders."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "An IT support specialist needs to identify a component or service that modern platform firmware and boot interface. What should they select?",
+    "q": "A field technician must provide modern platform firmware and boot interface. Which technology fulfills this purpose?",
     "opts": [
       "UEFI",
       "ARM",
@@ -11305,16 +11305,16 @@ const QUESTIONS = [
     ],
     "why": [
       "UEFI: Modern platform firmware and boot interface.",
-      "ARM: Processor instruction set architecture common in mobile systems. This serves a different function from uefi.",
-      "ATX: Common full-size motherboard form factor. This serves a different function from uefi.",
-      "PCIe: High-speed expansion interconnect for cards and SSDs. This serves a different function from uefi."
+      "ARM: Processor instruction set architecture common in mobile systems.",
+      "ATX: Common full-size motherboard form factor.",
+      "PCIe: High-speed expansion interconnect for cards and SSDs."
     ],
     "tip": "Boot mode affects disk and startup compatibility."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "A technician encounters this situation: Use appropriate amount when reseating a heatsink. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Use appropriate amount when reseating a heatsink. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Thermal paste",
       "Secure Boot",
@@ -11326,16 +11326,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Thermal paste: Transfers heat between CPU and cooler surfaces.",
-      "Secure Boot: Firmware feature checking trusted boot components. This serves a different function from thermal paste.",
-      "ATX: Common full-size motherboard form factor. This serves a different function from thermal paste.",
-      "PCIe: High-speed expansion interconnect for cards and SSDs. This serves a different function from thermal paste."
+      "Secure Boot: Firmware feature checking trusted boot components.",
+      "ATX: Common full-size motherboard form factor.",
+      "PCIe: High-speed expansion interconnect for cards and SSDs."
     ],
     "tip": "Use appropriate amount when reseating a heatsink."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "Which term describes the following capability: processor instruction set architecture common in mobile systems?",
+    "q": "An administrator needs processor instruction set architecture common in mobile systems. Which item matches the requirement?",
     "opts": [
       "ARM",
       "Secure Boot",
@@ -11347,16 +11347,16 @@ const QUESTIONS = [
     ],
     "why": [
       "ARM: Processor instruction set architecture common in mobile systems.",
-      "Secure Boot: Firmware feature checking trusted boot components. This serves a different function from arm.",
-      "PCIe: High-speed expansion interconnect for cards and SSDs. This serves a different function from arm.",
-      "Heat sink: Conducts heat away from a component. This serves a different function from arm."
+      "Secure Boot: Firmware feature checking trusted boot components.",
+      "PCIe: High-speed expansion interconnect for cards and SSDs.",
+      "Heat sink: Conducts heat away from a component."
     ],
     "tip": "ARM and x86/x64 software compatibility can differ."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "An IT support specialist needs to identify a component or service that conducts heat away from a component. What should they select?",
+    "q": "A repair ticket specifies conducts heat away from a component. Which item addresses that specification?",
     "opts": [
       "Heat sink",
       "UEFI",
@@ -11368,16 +11368,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Heat sink: Conducts heat away from a component.",
-      "UEFI: Modern platform firmware and boot interface. This serves a different function from heat sink.",
-      "microATX: Smaller motherboard form factor than ATX. This serves a different function from heat sink.",
-      "TPM: Hardware-backed security functionality for protected keys. This serves a different function from heat sink."
+      "UEFI: Modern platform firmware and boot interface.",
+      "microATX: Smaller motherboard form factor than ATX.",
+      "TPM: Hardware-backed security functionality for protected keys."
     ],
     "tip": "A fan moves air but a heatsink conducts heat."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "A technician encounters this situation: Case and board form factors must align. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Case and board form factors must align. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "ATX",
       "Thermal paste",
@@ -11389,16 +11389,16 @@ const QUESTIONS = [
     ],
     "why": [
       "ATX: Common full-size motherboard form factor.",
-      "Thermal paste: Transfers heat between CPU and cooler surfaces. This serves a different function from atx.",
-      "ARM: Processor instruction set architecture common in mobile systems. This serves a different function from atx.",
-      "Heat sink: Conducts heat away from a component. This serves a different function from atx."
+      "Thermal paste: Transfers heat between CPU and cooler surfaces.",
+      "ARM: Processor instruction set architecture common in mobile systems.",
+      "Heat sink: Conducts heat away from a component."
     ],
     "tip": "Case and board form factors must align."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "Which term describes the following capability: smaller motherboard form factor than ATX?",
+    "q": "A device specification mentions smaller motherboard form factor than ATX. What feature is being described?",
     "opts": [
       "microATX",
       "Thermal paste",
@@ -11410,16 +11410,16 @@ const QUESTIONS = [
     ],
     "why": [
       "microATX: Smaller motherboard form factor than ATX.",
-      "Thermal paste: Transfers heat between CPU and cooler surfaces. This serves a different function from microatx.",
-      "ATX: Common full-size motherboard form factor. This serves a different function from microatx.",
-      "Secure Boot: Firmware feature checking trusted boot components. This serves a different function from microatx."
+      "Thermal paste: Transfers heat between CPU and cooler surfaces.",
+      "ATX: Common full-size motherboard form factor.",
+      "Secure Boot: Firmware feature checking trusted boot components."
     ],
     "tip": "Expansion slots and case fit vary."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "An IT support specialist needs to identify a component or service that high-speed expansion interconnect for cards and SSDs. What should they select?",
+    "q": "During a help-desk escalation, the documented need is high-speed expansion interconnect for cards and SSDs. What should the technician use?",
     "opts": [
       "PCIe",
       "TPM",
@@ -11431,16 +11431,16 @@ const QUESTIONS = [
     ],
     "why": [
       "PCIe: High-speed expansion interconnect for cards and SSDs.",
-      "TPM: Hardware-backed security functionality for protected keys. This serves a different function from pcie.",
-      "UEFI: Modern platform firmware and boot interface. This serves a different function from pcie.",
-      "Heat sink: Conducts heat away from a component. This serves a different function from pcie."
+      "TPM: Hardware-backed security functionality for protected keys.",
+      "UEFI: Modern platform firmware and boot interface.",
+      "Heat sink: Conducts heat away from a component."
     ],
     "tip": "Video cards commonly use PCIe."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "A technician encounters this situation: TPM can support disk encryption security. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: TPM can support disk encryption security. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "TPM",
       "microATX",
@@ -11452,16 +11452,16 @@ const QUESTIONS = [
     ],
     "why": [
       "TPM: Hardware-backed security functionality for protected keys.",
-      "microATX: Smaller motherboard form factor than ATX. This serves a different function from tpm.",
-      "Thermal paste: Transfers heat between CPU and cooler surfaces. This serves a different function from tpm.",
-      "UEFI: Modern platform firmware and boot interface. This serves a different function from tpm."
+      "microATX: Smaller motherboard form factor than ATX.",
+      "Thermal paste: Transfers heat between CPU and cooler surfaces.",
+      "UEFI: Modern platform firmware and boot interface."
     ],
     "tip": "TPM can support disk encryption security."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "Which term describes the following capability: firmware feature checking trusted boot components?",
+    "q": "Which option would you select when a support ticket calls for firmware feature checking trusted boot components?",
     "opts": [
       "Secure Boot",
       "microATX",
@@ -11473,16 +11473,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Secure Boot: Firmware feature checking trusted boot components.",
-      "microATX: Smaller motherboard form factor than ATX. This serves a different function from secure boot.",
-      "PCIe: High-speed expansion interconnect for cards and SSDs. This serves a different function from secure boot.",
-      "TPM: Hardware-backed security functionality for protected keys. This serves a different function from secure boot."
+      "microATX: Smaller motherboard form factor than ATX.",
+      "PCIe: High-speed expansion interconnect for cards and SSDs.",
+      "TPM: Hardware-backed security functionality for protected keys."
     ],
     "tip": "Secure Boot helps resist unauthorized bootloaders."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "An IT support specialist needs to identify a component or service that modern platform firmware and boot interface. What should they select?",
+    "q": "A support team is checking compatibility for modern platform firmware and boot interface. Which item should be considered?",
     "opts": [
       "UEFI",
       "ATX",
@@ -11494,16 +11494,16 @@ const QUESTIONS = [
     ],
     "why": [
       "UEFI: Modern platform firmware and boot interface.",
-      "ATX: Common full-size motherboard form factor. This serves a different function from uefi.",
-      "TPM: Hardware-backed security functionality for protected keys. This serves a different function from uefi.",
-      "ARM: Processor instruction set architecture common in mobile systems. This serves a different function from uefi."
+      "ATX: Common full-size motherboard form factor.",
+      "TPM: Hardware-backed security functionality for protected keys.",
+      "ARM: Processor instruction set architecture common in mobile systems."
     ],
     "tip": "Boot mode affects disk and startup compatibility."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.5",
-    "q": "A technician encounters this situation: Use appropriate amount when reseating a heatsink. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Use appropriate amount when reseating a heatsink. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Thermal paste",
       "ATX",
@@ -11515,16 +11515,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Thermal paste: Transfers heat between CPU and cooler surfaces.",
-      "ATX: Common full-size motherboard form factor. This serves a different function from thermal paste.",
-      "Secure Boot: Firmware feature checking trusted boot components. This serves a different function from thermal paste.",
-      "TPM: Hardware-backed security functionality for protected keys. This serves a different function from thermal paste."
+      "ATX: Common full-size motherboard form factor.",
+      "Secure Boot: Firmware feature checking trusted boot components.",
+      "TPM: Hardware-backed security functionality for protected keys."
     ],
     "tip": "Use appropriate amount when reseating a heatsink."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "A technician encounters this situation: Check connector seating before diagnosing no power. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Check connector seating before diagnosing no power. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "20+4 pin",
       "Wattage rating",
@@ -11536,16 +11536,16 @@ const QUESTIONS = [
     ],
     "why": [
       "20+4 pin: Main ATX motherboard power connector.",
-      "Wattage rating: Maximum specified electrical output capacity. This serves a different function from 20+4 pin.",
-      "5 V rail: Power supply voltage used by various computer circuits. This serves a different function from 20+4 pin.",
-      "Redundant PSU: Multiple supplies designed for continued operation on failure. This serves a different function from 20+4 pin."
+      "Wattage rating: Maximum specified electrical output capacity.",
+      "5 V rail: Power supply voltage used by various computer circuits.",
+      "Redundant PSU: Multiple supplies designed for continued operation on failure."
     ],
     "tip": "Check connector seating before diagnosing no power."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "Which term describes the following capability: power output commonly used for motors and CPU/GPU regulation?",
+    "q": "Which option would you select when a support ticket calls for power output commonly used for motors and CPU/GPU regulation?",
     "opts": [
       "12 V rail",
       "20+4 pin",
@@ -11557,16 +11557,16 @@ const QUESTIONS = [
     ],
     "why": [
       "12 V rail: Power output commonly used for motors and CPU/GPU regulation.",
-      "20+4 pin: Main ATX motherboard power connector. This serves a different function from 12 v rail.",
-      "Efficiency rating: Measure of power conversion efficiency. This serves a different function from 12 v rail.",
-      "Redundant PSU: Multiple supplies designed for continued operation on failure. This serves a different function from 12 v rail."
+      "20+4 pin: Main ATX motherboard power connector.",
+      "Efficiency rating: Measure of power conversion efficiency.",
+      "Redundant PSU: Multiple supplies designed for continued operation on failure."
     ],
     "tip": "Different rails supply different loads."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "An IT support specialist needs to identify a component or service that power supply voltage used by various computer circuits. What should they select?",
+    "q": "A customer describes a system that needs power supply voltage used by various computer circuits. Which choice matches that need?",
     "opts": [
       "5 V rail",
       "3.3 V rail",
@@ -11578,16 +11578,16 @@ const QUESTIONS = [
     ],
     "why": [
       "5 V rail: Power supply voltage used by various computer circuits.",
-      "3.3 V rail: Low-voltage supply for computer electronics. This serves a different function from 5 v rail.",
-      "Wattage rating: Maximum specified electrical output capacity. This serves a different function from 5 v rail.",
-      "Modular PSU: Power supply with detachable output cables. This serves a different function from 5 v rail."
+      "3.3 V rail: Low-voltage supply for computer electronics.",
+      "Wattage rating: Maximum specified electrical output capacity.",
+      "Modular PSU: Power supply with detachable output cables."
     ],
     "tip": "Use a tester rather than guessing voltage."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "A technician encounters this situation: Power rails are not interchangeable. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Power rails are not interchangeable. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "3.3 V rail",
       "12 V rail",
@@ -11599,16 +11599,16 @@ const QUESTIONS = [
     ],
     "why": [
       "3.3 V rail: Low-voltage supply for computer electronics.",
-      "12 V rail: Power output commonly used for motors and CPU/GPU regulation. This serves a different function from 3.3 v rail.",
-      "20+4 pin: Main ATX motherboard power connector. This serves a different function from 3.3 v rail.",
-      "Wattage rating: Maximum specified electrical output capacity. This serves a different function from 3.3 v rail."
+      "12 V rail: Power output commonly used for motors and CPU/GPU regulation.3 v rail.",
+      "20+4 pin: Main ATX motherboard power connector.3 v rail.",
+      "Wattage rating: Maximum specified electrical output capacity.3 v rail."
     ],
     "tip": "Power rails are not interchangeable."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "Which term describes the following capability: power supply with detachable output cables?",
+    "q": "A technician is comparing options for this requirement: power supply with detachable output cables. Which technology is appropriate?",
     "opts": [
       "Modular PSU",
       "20+4 pin",
@@ -11620,16 +11620,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Modular PSU: Power supply with detachable output cables.",
-      "20+4 pin: Main ATX motherboard power connector. This serves a different function from modular psu.",
-      "3.3 V rail: Low-voltage supply for computer electronics. This serves a different function from modular psu.",
-      "Redundant PSU: Multiple supplies designed for continued operation on failure. This serves a different function from modular psu."
+      "20+4 pin: Main ATX motherboard power connector.",
+      "3.3 V rail: Low-voltage supply for computer electronics.",
+      "Redundant PSU: Multiple supplies designed for continued operation on failure."
     ],
     "tip": "Use cables approved for the exact PSU model."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "An IT support specialist needs to identify a component or service that multiple supplies designed for continued operation on failure. What should they select?",
+    "q": "A field technician must provide multiple supplies designed for continued operation on failure. Which technology fulfills this purpose?",
     "opts": [
       "Redundant PSU",
       "Wattage rating",
@@ -11641,16 +11641,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Redundant PSU: Multiple supplies designed for continued operation on failure.",
-      "Wattage rating: Maximum specified electrical output capacity. This serves a different function from redundant psu.",
-      "12 V rail: Power output commonly used for motors and CPU/GPU regulation. This serves a different function from redundant psu.",
-      "Efficiency rating: Measure of power conversion efficiency. This serves a different function from redundant psu."
+      "Wattage rating: Maximum specified electrical output capacity.",
+      "12 V rail: Power output commonly used for motors and CPU/GPU regulation.",
+      "Efficiency rating: Measure of power conversion efficiency."
     ],
     "tip": "Redundancy supports availability."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "A technician encounters this situation: Leave headroom for component load. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Leave headroom for component load. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Wattage rating",
       "20+4 pin",
@@ -11662,16 +11662,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Wattage rating: Maximum specified electrical output capacity.",
-      "20+4 pin: Main ATX motherboard power connector. This serves a different function from wattage rating.",
-      "3.3 V rail: Low-voltage supply for computer electronics. This serves a different function from wattage rating.",
-      "12 V rail: Power output commonly used for motors and CPU/GPU regulation. This serves a different function from wattage rating."
+      "20+4 pin: Main ATX motherboard power connector.",
+      "3.3 V rail: Low-voltage supply for computer electronics.",
+      "12 V rail: Power output commonly used for motors and CPU/GPU regulation."
     ],
     "tip": "Leave headroom for component load."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "Which term describes the following capability: measure of power conversion efficiency?",
+    "q": "An administrator needs measure of power conversion efficiency. Which item matches the requirement?",
     "opts": [
       "Efficiency rating",
       "Modular PSU",
@@ -11683,16 +11683,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Efficiency rating: Measure of power conversion efficiency.",
-      "Modular PSU: Power supply with detachable output cables. This serves a different function from efficiency rating.",
-      "12 V rail: Power output commonly used for motors and CPU/GPU regulation. This serves a different function from efficiency rating.",
-      "Redundant PSU: Multiple supplies designed for continued operation on failure. This serves a different function from efficiency rating."
+      "Modular PSU: Power supply with detachable output cables.",
+      "12 V rail: Power output commonly used for motors and CPU/GPU regulation.",
+      "Redundant PSU: Multiple supplies designed for continued operation on failure."
     ],
     "tip": "Efficiency is not the same as wattage capacity."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "An IT support specialist needs to identify a component or service that main ATX motherboard power connector. What should they select?",
+    "q": "A repair ticket specifies main ATX motherboard power connector. Which item addresses that specification?",
     "opts": [
       "20+4 pin",
       "Efficiency rating",
@@ -11704,16 +11704,16 @@ const QUESTIONS = [
     ],
     "why": [
       "20+4 pin: Main ATX motherboard power connector.",
-      "Efficiency rating: Measure of power conversion efficiency. This serves a different function from 20+4 pin.",
-      "Modular PSU: Power supply with detachable output cables. This serves a different function from 20+4 pin.",
-      "3.3 V rail: Low-voltage supply for computer electronics. This serves a different function from 20+4 pin."
+      "Efficiency rating: Measure of power conversion efficiency.",
+      "Modular PSU: Power supply with detachable output cables.",
+      "3.3 V rail: Low-voltage supply for computer electronics."
     ],
     "tip": "Check connector seating before diagnosing no power."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "A technician encounters this situation: Different rails supply different loads. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Different rails supply different loads. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "12 V rail",
       "5 V rail",
@@ -11725,16 +11725,16 @@ const QUESTIONS = [
     ],
     "why": [
       "12 V rail: Power output commonly used for motors and CPU/GPU regulation.",
-      "5 V rail: Power supply voltage used by various computer circuits. This serves a different function from 12 v rail.",
-      "3.3 V rail: Low-voltage supply for computer electronics. This serves a different function from 12 v rail.",
-      "Wattage rating: Maximum specified electrical output capacity. This serves a different function from 12 v rail."
+      "5 V rail: Power supply voltage used by various computer circuits.",
+      "3.3 V rail: Low-voltage supply for computer electronics.",
+      "Wattage rating: Maximum specified electrical output capacity."
     ],
     "tip": "Different rails supply different loads."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "Which term describes the following capability: power supply voltage used by various computer circuits?",
+    "q": "A device specification mentions power supply voltage used by various computer circuits. What feature is being described?",
     "opts": [
       "5 V rail",
       "Redundant PSU",
@@ -11746,16 +11746,16 @@ const QUESTIONS = [
     ],
     "why": [
       "5 V rail: Power supply voltage used by various computer circuits.",
-      "Redundant PSU: Multiple supplies designed for continued operation on failure. This serves a different function from 5 v rail.",
-      "Wattage rating: Maximum specified electrical output capacity. This serves a different function from 5 v rail.",
-      "3.3 V rail: Low-voltage supply for computer electronics. This serves a different function from 5 v rail."
+      "Redundant PSU: Multiple supplies designed for continued operation on failure.",
+      "Wattage rating: Maximum specified electrical output capacity.",
+      "3.3 V rail: Low-voltage supply for computer electronics."
     ],
     "tip": "Use a tester rather than guessing voltage."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "An IT support specialist needs to identify a component or service that low-voltage supply for computer electronics. What should they select?",
+    "q": "During a help-desk escalation, the documented need is low-voltage supply for computer electronics. What should the technician use?",
     "opts": [
       "3.3 V rail",
       "Efficiency rating",
@@ -11767,16 +11767,16 @@ const QUESTIONS = [
     ],
     "why": [
       "3.3 V rail: Low-voltage supply for computer electronics.",
-      "Efficiency rating: Measure of power conversion efficiency. This serves a different function from 3.3 v rail.",
-      "Redundant PSU: Multiple supplies designed for continued operation on failure. This serves a different function from 3.3 v rail.",
-      "20+4 pin: Main ATX motherboard power connector. This serves a different function from 3.3 v rail."
+      "Efficiency rating: Measure of power conversion efficiency.3 v rail.",
+      "Redundant PSU: Multiple supplies designed for continued operation on failure.3 v rail.",
+      "20+4 pin: Main ATX motherboard power connector.3 v rail."
     ],
     "tip": "Power rails are not interchangeable."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "A technician encounters this situation: Use cables approved for the exact PSU model. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Use cables approved for the exact PSU model. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Modular PSU",
       "Redundant PSU",
@@ -11788,16 +11788,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Modular PSU: Power supply with detachable output cables.",
-      "Redundant PSU: Multiple supplies designed for continued operation on failure. This serves a different function from modular psu.",
-      "20+4 pin: Main ATX motherboard power connector. This serves a different function from modular psu.",
-      "3.3 V rail: Low-voltage supply for computer electronics. This serves a different function from modular psu."
+      "Redundant PSU: Multiple supplies designed for continued operation on failure.",
+      "20+4 pin: Main ATX motherboard power connector.",
+      "3.3 V rail: Low-voltage supply for computer electronics."
     ],
     "tip": "Use cables approved for the exact PSU model."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "Which term describes the following capability: multiple supplies designed for continued operation on failure?",
+    "q": "Which option would you select when a support ticket calls for multiple supplies designed for continued operation on failure?",
     "opts": [
       "Redundant PSU",
       "Modular PSU",
@@ -11809,16 +11809,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Redundant PSU: Multiple supplies designed for continued operation on failure.",
-      "Modular PSU: Power supply with detachable output cables. This serves a different function from redundant psu.",
-      "3.3 V rail: Low-voltage supply for computer electronics. This serves a different function from redundant psu.",
-      "Wattage rating: Maximum specified electrical output capacity. This serves a different function from redundant psu."
+      "Modular PSU: Power supply with detachable output cables.",
+      "3.3 V rail: Low-voltage supply for computer electronics.",
+      "Wattage rating: Maximum specified electrical output capacity."
     ],
     "tip": "Redundancy supports availability."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "An IT support specialist needs to identify a component or service that maximum specified electrical output capacity. What should they select?",
+    "q": "A support team is checking compatibility for maximum specified electrical output capacity. Which item should be considered?",
     "opts": [
       "Wattage rating",
       "Efficiency rating",
@@ -11830,16 +11830,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Wattage rating: Maximum specified electrical output capacity.",
-      "Efficiency rating: Measure of power conversion efficiency. This serves a different function from wattage rating.",
-      "Modular PSU: Power supply with detachable output cables. This serves a different function from wattage rating.",
-      "3.3 V rail: Low-voltage supply for computer electronics. This serves a different function from wattage rating."
+      "Efficiency rating: Measure of power conversion efficiency.",
+      "Modular PSU: Power supply with detachable output cables.",
+      "3.3 V rail: Low-voltage supply for computer electronics."
     ],
     "tip": "Leave headroom for component load."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "A technician encounters this situation: Efficiency is not the same as wattage capacity. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Efficiency is not the same as wattage capacity. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Efficiency rating",
       "3.3 V rail",
@@ -11851,16 +11851,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Efficiency rating: Measure of power conversion efficiency.",
-      "3.3 V rail: Low-voltage supply for computer electronics. This serves a different function from efficiency rating.",
-      "Modular PSU: Power supply with detachable output cables. This serves a different function from efficiency rating.",
-      "20+4 pin: Main ATX motherboard power connector. This serves a different function from efficiency rating."
+      "3.3 V rail: Low-voltage supply for computer electronics.",
+      "Modular PSU: Power supply with detachable output cables.",
+      "20+4 pin: Main ATX motherboard power connector."
     ],
     "tip": "Efficiency is not the same as wattage capacity."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "Which term describes the following capability: main ATX motherboard power connector?",
+    "q": "A technician is comparing options for this requirement: main ATX motherboard power connector. Which technology is appropriate?",
     "opts": [
       "20+4 pin",
       "12 V rail",
@@ -11872,16 +11872,16 @@ const QUESTIONS = [
     ],
     "why": [
       "20+4 pin: Main ATX motherboard power connector.",
-      "12 V rail: Power output commonly used for motors and CPU/GPU regulation. This serves a different function from 20+4 pin.",
-      "5 V rail: Power supply voltage used by various computer circuits. This serves a different function from 20+4 pin.",
-      "Modular PSU: Power supply with detachable output cables. This serves a different function from 20+4 pin."
+      "12 V rail: Power output commonly used for motors and CPU/GPU regulation.",
+      "5 V rail: Power supply voltage used by various computer circuits.",
+      "Modular PSU: Power supply with detachable output cables."
     ],
     "tip": "Check connector seating before diagnosing no power."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.6",
-    "q": "An IT support specialist needs to identify a component or service that power output commonly used for motors and CPU/GPU regulation. What should they select?",
+    "q": "An IT department is purchasing equipment for power output commonly used for motors and CPU/GPU regulation. Which option is relevant?",
     "opts": [
       "12 V rail",
       "20+4 pin",
@@ -11893,16 +11893,16 @@ const QUESTIONS = [
     ],
     "why": [
       "12 V rail: Power output commonly used for motors and CPU/GPU regulation.",
-      "20+4 pin: Main ATX motherboard power connector. This serves a different function from 12 v rail.",
-      "Efficiency rating: Measure of power conversion efficiency. This serves a different function from 12 v rail.",
-      "Modular PSU: Power supply with detachable output cables. This serves a different function from 12 v rail."
+      "20+4 pin: Main ATX motherboard power connector.",
+      "Efficiency rating: Measure of power conversion efficiency.",
+      "Modular PSU: Power supply with detachable output cables."
     ],
     "tip": "Different rails supply different loads."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "A technician encounters this situation: Enable duplex to reduce paper use. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Enable duplex to reduce paper use. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Duplex",
       "Print server",
@@ -11914,16 +11914,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Duplex: Printer setting to print on both sides.",
-      "Print server: Host that manages shared printer jobs. This serves a different function from duplex.",
-      "Orientation: Page setting for portrait or landscape. This serves a different function from duplex.",
-      "Secure print: Holds jobs until authorized release. This serves a different function from duplex."
+      "Print server: Host that manages shared printer jobs.",
+      "Orientation: Page setting for portrait or landscape.",
+      "Secure print: Holds jobs until authorized release."
     ],
     "tip": "Enable duplex to reduce paper use."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "Which term describes the following capability: page setting for portrait or landscape?",
+    "q": "Which option would you select when a support ticket calls for page setting for portrait or landscape?",
     "opts": [
       "Orientation",
       "PostScript",
@@ -11935,16 +11935,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Orientation: Page setting for portrait or landscape.",
-      "PostScript: Page description language used by many printers. This serves a different function from orientation.",
-      "Duplex: Printer setting to print on both sides. This serves a different function from orientation.",
-      "SMB scan: Sends scanned documents to a network file share. This serves a different function from orientation."
+      "PostScript: Page description language used by many printers.",
+      "Duplex: Printer setting to print on both sides.",
+      "SMB scan: Sends scanned documents to a network file share."
     ],
     "tip": "Wrong orientation can look like a layout fault."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "An IT support specialist needs to identify a component or service that automatic document feeder for multi-page scanning. What should they select?",
+    "q": "A customer describes a system that needs automatic document feeder for multi-page scanning. Which choice matches that need?",
     "opts": [
       "ADF",
       "Duplex",
@@ -11956,16 +11956,16 @@ const QUESTIONS = [
     ],
     "why": [
       "ADF: Automatic document feeder for multi-page scanning.",
-      "Duplex: Printer setting to print on both sides. This serves a different function from adf.",
-      "Secure print: Holds jobs until authorized release. This serves a different function from adf.",
-      "Orientation: Page setting for portrait or landscape. This serves a different function from adf."
+      "Duplex: Printer setting to print on both sides.",
+      "Secure print: Holds jobs until authorized release.",
+      "Orientation: Page setting for portrait or landscape."
     ],
     "tip": "A stack of pages belongs in the feeder."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "A technician encounters this situation: Driver compatibility affects output. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Driver compatibility affects output. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "PCL",
       "Duplex",
@@ -11977,16 +11977,16 @@ const QUESTIONS = [
     ],
     "why": [
       "PCL: Printer control language for describing print jobs.",
-      "Duplex: Printer setting to print on both sides. This serves a different function from pcl.",
-      "ADF: Automatic document feeder for multi-page scanning. This serves a different function from pcl.",
-      "SMB scan: Sends scanned documents to a network file share. This serves a different function from pcl."
+      "Duplex: Printer setting to print on both sides.",
+      "ADF: Automatic document feeder for multi-page scanning.",
+      "SMB scan: Sends scanned documents to a network file share."
     ],
     "tip": "Driver compatibility affects output."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "Which term describes the following capability: page description language used by many printers?",
+    "q": "A technician is comparing options for this requirement: page description language used by many printers. Which technology is appropriate?",
     "opts": [
       "PostScript",
       "Print server",
@@ -11998,16 +11998,16 @@ const QUESTIONS = [
     ],
     "why": [
       "PostScript: Page description language used by many printers.",
-      "Print server: Host that manages shared printer jobs. This serves a different function from postscript.",
-      "Duplex: Printer setting to print on both sides. This serves a different function from postscript.",
-      "PCL: Printer control language for describing print jobs. This serves a different function from postscript."
+      "Print server: Host that manages shared printer jobs.",
+      "Duplex: Printer setting to print on both sides.",
+      "PCL: Printer control language for describing print jobs."
     ],
     "tip": "Incorrect driver language can produce garbled output."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "An IT support specialist needs to identify a component or service that host that manages shared printer jobs. What should they select?",
+    "q": "A field technician must provide host that manages shared printer jobs. Which technology fulfills this purpose?",
     "opts": [
       "Print server",
       "PCL",
@@ -12019,16 +12019,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Print server: Host that manages shared printer jobs.",
-      "PCL: Printer control language for describing print jobs. This serves a different function from print server.",
-      "ADF: Automatic document feeder for multi-page scanning. This serves a different function from print server.",
-      "PostScript: Page description language used by many printers. This serves a different function from print server."
+      "PCL: Printer control language for describing print jobs.",
+      "ADF: Automatic document feeder for multi-page scanning.",
+      "PostScript: Page description language used by many printers."
     ],
     "tip": "A stuck shared queue may affect many users."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "A technician encounters this situation: Protects sensitive pages in shared spaces. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Protects sensitive pages in shared spaces. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Secure print",
       "Print server",
@@ -12040,16 +12040,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Secure print: Holds jobs until authorized release.",
-      "Print server: Host that manages shared printer jobs. This serves a different function from secure print.",
-      "PCL: Printer control language for describing print jobs. This serves a different function from secure print.",
-      "SMB scan: Sends scanned documents to a network file share. This serves a different function from secure print."
+      "Print server: Host that manages shared printer jobs.",
+      "PCL: Printer control language for describing print jobs.",
+      "SMB scan: Sends scanned documents to a network file share."
     ],
     "tip": "Protects sensitive pages in shared spaces."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "Which term describes the following capability: sends scanned documents to a network file share?",
+    "q": "An administrator needs sends scanned documents to a network file share. Which item matches the requirement?",
     "opts": [
       "SMB scan",
       "Secure print",
@@ -12061,16 +12061,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SMB scan: Sends scanned documents to a network file share.",
-      "Secure print: Holds jobs until authorized release. This serves a different function from smb scan.",
-      "Duplex: Printer setting to print on both sides. This serves a different function from smb scan.",
-      "Orientation: Page setting for portrait or landscape. This serves a different function from smb scan."
+      "Secure print: Holds jobs until authorized release.",
+      "Duplex: Printer setting to print on both sides.",
+      "Orientation: Page setting for portrait or landscape."
     ],
     "tip": "Check share permissions and path."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "An IT support specialist needs to identify a component or service that printer setting to print on both sides. What should they select?",
+    "q": "A repair ticket specifies printer setting to print on both sides. Which item addresses that specification?",
     "opts": [
       "Duplex",
       "ADF",
@@ -12082,16 +12082,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Duplex: Printer setting to print on both sides.",
-      "ADF: Automatic document feeder for multi-page scanning. This serves a different function from duplex.",
-      "Secure print: Holds jobs until authorized release. This serves a different function from duplex.",
-      "PostScript: Page description language used by many printers. This serves a different function from duplex."
+      "ADF: Automatic document feeder for multi-page scanning.",
+      "Secure print: Holds jobs until authorized release.",
+      "PostScript: Page description language used by many printers."
     ],
     "tip": "Enable duplex to reduce paper use."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "A technician encounters this situation: Wrong orientation can look like a layout fault. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Wrong orientation can look like a layout fault. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Orientation",
       "ADF",
@@ -12103,16 +12103,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Orientation: Page setting for portrait or landscape.",
-      "ADF: Automatic document feeder for multi-page scanning. This serves a different function from orientation.",
-      "Secure print: Holds jobs until authorized release. This serves a different function from orientation.",
-      "SMB scan: Sends scanned documents to a network file share. This serves a different function from orientation."
+      "ADF: Automatic document feeder for multi-page scanning.",
+      "Secure print: Holds jobs until authorized release.",
+      "SMB scan: Sends scanned documents to a network file share."
     ],
     "tip": "Wrong orientation can look like a layout fault."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "Which term describes the following capability: automatic document feeder for multi-page scanning?",
+    "q": "A device specification mentions automatic document feeder for multi-page scanning. What feature is being described?",
     "opts": [
       "ADF",
       "Secure print",
@@ -12124,16 +12124,16 @@ const QUESTIONS = [
     ],
     "why": [
       "ADF: Automatic document feeder for multi-page scanning.",
-      "Secure print: Holds jobs until authorized release. This serves a different function from adf.",
-      "Orientation: Page setting for portrait or landscape. This serves a different function from adf.",
-      "PCL: Printer control language for describing print jobs. This serves a different function from adf."
+      "Secure print: Holds jobs until authorized release.",
+      "Orientation: Page setting for portrait or landscape.",
+      "PCL: Printer control language for describing print jobs."
     ],
     "tip": "A stack of pages belongs in the feeder."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "An IT support specialist needs to identify a component or service that printer control language for describing print jobs. What should they select?",
+    "q": "During a help-desk escalation, the documented need is printer control language for describing print jobs. What should the technician use?",
     "opts": [
       "PCL",
       "PostScript",
@@ -12145,16 +12145,16 @@ const QUESTIONS = [
     ],
     "why": [
       "PCL: Printer control language for describing print jobs.",
-      "PostScript: Page description language used by many printers. This serves a different function from pcl.",
-      "Orientation: Page setting for portrait or landscape. This serves a different function from pcl.",
-      "ADF: Automatic document feeder for multi-page scanning. This serves a different function from pcl."
+      "PostScript: Page description language used by many printers.",
+      "Orientation: Page setting for portrait or landscape.",
+      "ADF: Automatic document feeder for multi-page scanning."
     ],
     "tip": "Driver compatibility affects output."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "A technician encounters this situation: Incorrect driver language can produce garbled output. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Incorrect driver language can produce garbled output. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "PostScript",
       "ADF",
@@ -12166,16 +12166,16 @@ const QUESTIONS = [
     ],
     "why": [
       "PostScript: Page description language used by many printers.",
-      "ADF: Automatic document feeder for multi-page scanning. This serves a different function from postscript.",
-      "Orientation: Page setting for portrait or landscape. This serves a different function from postscript.",
-      "PCL: Printer control language for describing print jobs. This serves a different function from postscript."
+      "ADF: Automatic document feeder for multi-page scanning.",
+      "Orientation: Page setting for portrait or landscape.",
+      "PCL: Printer control language for describing print jobs."
     ],
     "tip": "Incorrect driver language can produce garbled output."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "Which term describes the following capability: host that manages shared printer jobs?",
+    "q": "Which option would you select when a support ticket calls for host that manages shared printer jobs?",
     "opts": [
       "Print server",
       "PostScript",
@@ -12187,16 +12187,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Print server: Host that manages shared printer jobs.",
-      "PostScript: Page description language used by many printers. This serves a different function from print server.",
-      "PCL: Printer control language for describing print jobs. This serves a different function from print server.",
-      "SMB scan: Sends scanned documents to a network file share. This serves a different function from print server."
+      "PostScript: Page description language used by many printers.",
+      "PCL: Printer control language for describing print jobs.",
+      "SMB scan: Sends scanned documents to a network file share."
     ],
     "tip": "A stuck shared queue may affect many users."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "An IT support specialist needs to identify a component or service that holds jobs until authorized release. What should they select?",
+    "q": "A support team is checking compatibility for holds jobs until authorized release. Which item should be considered?",
     "opts": [
       "Secure print",
       "PCL",
@@ -12208,16 +12208,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Secure print: Holds jobs until authorized release.",
-      "PCL: Printer control language for describing print jobs. This serves a different function from secure print.",
-      "ADF: Automatic document feeder for multi-page scanning. This serves a different function from secure print.",
-      "SMB scan: Sends scanned documents to a network file share. This serves a different function from secure print."
+      "PCL: Printer control language for describing print jobs.",
+      "ADF: Automatic document feeder for multi-page scanning.",
+      "SMB scan: Sends scanned documents to a network file share."
     ],
     "tip": "Protects sensitive pages in shared spaces."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "A technician encounters this situation: Check share permissions and path. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Check share permissions and path. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "SMB scan",
       "Print server",
@@ -12229,16 +12229,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SMB scan: Sends scanned documents to a network file share.",
-      "Print server: Host that manages shared printer jobs. This serves a different function from smb scan.",
-      "Duplex: Printer setting to print on both sides. This serves a different function from smb scan.",
-      "PCL: Printer control language for describing print jobs. This serves a different function from smb scan."
+      "Print server: Host that manages shared printer jobs.",
+      "Duplex: Printer setting to print on both sides.",
+      "PCL: Printer control language for describing print jobs."
     ],
     "tip": "Check share permissions and path."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "Which term describes the following capability: printer setting to print on both sides?",
+    "q": "A technician is comparing options for this requirement: printer setting to print on both sides. Which technology is appropriate?",
     "opts": [
       "Duplex",
       "ADF",
@@ -12250,16 +12250,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Duplex: Printer setting to print on both sides.",
-      "ADF: Automatic document feeder for multi-page scanning. This serves a different function from duplex.",
-      "SMB scan: Sends scanned documents to a network file share. This serves a different function from duplex.",
-      "PostScript: Page description language used by many printers. This serves a different function from duplex."
+      "ADF: Automatic document feeder for multi-page scanning.",
+      "SMB scan: Sends scanned documents to a network file share.",
+      "PostScript: Page description language used by many printers."
     ],
     "tip": "Enable duplex to reduce paper use."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.7",
-    "q": "An IT support specialist needs to identify a component or service that page setting for portrait or landscape. What should they select?",
+    "q": "An IT department is purchasing equipment for page setting for portrait or landscape. Which option is relevant?",
     "opts": [
       "Orientation",
       "PostScript",
@@ -12271,16 +12271,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Orientation: Page setting for portrait or landscape.",
-      "PostScript: Page description language used by many printers. This serves a different function from orientation.",
-      "PCL: Printer control language for describing print jobs. This serves a different function from orientation.",
-      "ADF: Automatic document feeder for multi-page scanning. This serves a different function from orientation."
+      "PostScript: Page description language used by many printers.",
+      "PCL: Printer control language for describing print jobs.",
+      "ADF: Automatic document feeder for multi-page scanning."
     ],
     "tip": "Wrong orientation can look like a layout fault."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "A technician encounters this situation: Faded laser output can indicate low toner. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Faded laser output can indicate low toner. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Laser toner",
       "Pickup roller",
@@ -12292,16 +12292,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Laser toner: Powder used in laser printing.",
-      "Pickup roller: Roller that feeds sheets into a printer. This serves a different function from laser toner.",
-      "Impact ribbon: Ink ribbon struck by an impact printhead. This serves a different function from laser toner.",
-      "Thermal paper: Heat-sensitive paper used by thermal printers. This serves a different function from laser toner."
+      "Pickup roller: Roller that feeds sheets into a printer.",
+      "Impact ribbon: Ink ribbon struck by an impact printhead.",
+      "Thermal paper: Heat-sensitive paper used by thermal printers."
     ],
     "tip": "Faded laser output can indicate low toner."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "Which term describes the following capability: nozzle assembly that deposits ink?",
+    "q": "Which option would you select when a support ticket calls for nozzle assembly that deposits ink?",
     "opts": [
       "Inkjet printhead",
       "Pickup roller",
@@ -12313,16 +12313,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Inkjet printhead: Nozzle assembly that deposits ink.",
-      "Pickup roller: Roller that feeds sheets into a printer. This serves a different function from inkjet printhead.",
-      "Laser maintenance kit: Replaceable service components for laser printers. This serves a different function from inkjet printhead.",
-      "Impact ribbon: Ink ribbon struck by an impact printhead. This serves a different function from inkjet printhead."
+      "Pickup roller: Roller that feeds sheets into a printer.",
+      "Laser maintenance kit: Replaceable service components for laser printers.",
+      "Impact ribbon: Ink ribbon struck by an impact printhead."
     ],
     "tip": "Streaking may call for printhead cleaning."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "An IT support specialist needs to identify a component or service that heat-sensitive paper used by thermal printers. What should they select?",
+    "q": "A customer describes a system that needs heat-sensitive paper used by thermal printers. Which choice matches that need?",
     "opts": [
       "Thermal paper",
       "Impact ribbon",
@@ -12334,16 +12334,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Thermal paper: Heat-sensitive paper used by thermal printers.",
-      "Impact ribbon: Ink ribbon struck by an impact printhead. This serves a different function from thermal paper.",
-      "Laser toner: Powder used in laser printing. This serves a different function from thermal paper.",
-      "Laser maintenance kit: Replaceable service components for laser printers. This serves a different function from thermal paper."
+      "Impact ribbon: Ink ribbon struck by an impact printhead.",
+      "Laser toner: Powder used in laser printing.",
+      "Laser maintenance kit: Replaceable service components for laser printers."
     ],
     "tip": "Ordinary paper may not work in direct thermal units."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "A technician encounters this situation: Faded impact output may need a new ribbon. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Faded impact output may need a new ribbon. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Impact ribbon",
       "Laser toner",
@@ -12355,16 +12355,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Impact ribbon: Ink ribbon struck by an impact printhead.",
-      "Laser toner: Powder used in laser printing. This serves a different function from impact ribbon.",
-      "Pickup roller: Roller that feeds sheets into a printer. This serves a different function from impact ribbon.",
-      "Calibrate printer: Adjusts printer output alignment or quality. This serves a different function from impact ribbon."
+      "Laser toner: Powder used in laser printing.",
+      "Pickup roller: Roller that feeds sheets into a printer.",
+      "Calibrate printer: Adjusts printer output alignment or quality."
     ],
     "tip": "Faded impact output may need a new ribbon."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "Which term describes the following capability: replaceable service components for laser printers?",
+    "q": "A technician is comparing options for this requirement: replaceable service components for laser printers. Which technology is appropriate?",
     "opts": [
       "Laser maintenance kit",
       "Pickup roller",
@@ -12376,16 +12376,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Laser maintenance kit: Replaceable service components for laser printers.",
-      "Pickup roller: Roller that feeds sheets into a printer. This serves a different function from laser maintenance kit.",
-      "Thermal paper: Heat-sensitive paper used by thermal printers. This serves a different function from laser maintenance kit.",
-      "Impact ribbon: Ink ribbon struck by an impact printhead. This serves a different function from laser maintenance kit."
+      "Pickup roller: Roller that feeds sheets into a printer.",
+      "Thermal paper: Heat-sensitive paper used by thermal printers.",
+      "Impact ribbon: Ink ribbon struck by an impact printhead."
     ],
     "tip": "Maintenance intervals vary by device."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "An IT support specialist needs to identify a component or service that roller that feeds sheets into a printer. What should they select?",
+    "q": "A field technician must provide roller that feeds sheets into a printer. Which technology fulfills this purpose?",
     "opts": [
       "Pickup roller",
       "Thermal paper",
@@ -12397,16 +12397,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Pickup roller: Roller that feeds sheets into a printer.",
-      "Thermal paper: Heat-sensitive paper used by thermal printers. This serves a different function from pickup roller.",
-      "Laser maintenance kit: Replaceable service components for laser printers. This serves a different function from pickup roller.",
-      "Impact ribbon: Ink ribbon struck by an impact printhead. This serves a different function from pickup roller."
+      "Thermal paper: Heat-sensitive paper used by thermal printers.",
+      "Laser maintenance kit: Replaceable service components for laser printers.",
+      "Impact ribbon: Ink ribbon struck by an impact printhead."
     ],
     "tip": "Worn rollers can cause feed failures."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "A technician encounters this situation: Calibration can address output consistency. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Calibration can address output consistency. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Calibrate printer",
       "Laser toner",
@@ -12418,16 +12418,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Calibrate printer: Adjusts printer output alignment or quality.",
-      "Laser toner: Powder used in laser printing. This serves a different function from calibrate printer.",
-      "Inkjet printhead: Nozzle assembly that deposits ink. This serves a different function from calibrate printer.",
-      "Laser maintenance kit: Replaceable service components for laser printers. This serves a different function from calibrate printer."
+      "Laser toner: Powder used in laser printing.",
+      "Inkjet printhead: Nozzle assembly that deposits ink.",
+      "Laser maintenance kit: Replaceable service components for laser printers."
     ],
     "tip": "Calibration can address output consistency."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "Which term describes the following capability: powder used in laser printing?",
+    "q": "An administrator needs powder used in laser printing. Which item matches the requirement?",
     "opts": [
       "Laser toner",
       "Impact ribbon",
@@ -12439,16 +12439,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Laser toner: Powder used in laser printing.",
-      "Impact ribbon: Ink ribbon struck by an impact printhead. This serves a different function from laser toner.",
-      "Thermal paper: Heat-sensitive paper used by thermal printers. This serves a different function from laser toner.",
-      "Laser maintenance kit: Replaceable service components for laser printers. This serves a different function from laser toner."
+      "Impact ribbon: Ink ribbon struck by an impact printhead.",
+      "Thermal paper: Heat-sensitive paper used by thermal printers.",
+      "Laser maintenance kit: Replaceable service components for laser printers."
     ],
     "tip": "Faded laser output can indicate low toner."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "An IT support specialist needs to identify a component or service that nozzle assembly that deposits ink. What should they select?",
+    "q": "A repair ticket specifies nozzle assembly that deposits ink. Which item addresses that specification?",
     "opts": [
       "Inkjet printhead",
       "Laser toner",
@@ -12460,16 +12460,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Inkjet printhead: Nozzle assembly that deposits ink.",
-      "Laser toner: Powder used in laser printing. This serves a different function from inkjet printhead.",
-      "Pickup roller: Roller that feeds sheets into a printer. This serves a different function from inkjet printhead.",
-      "Impact ribbon: Ink ribbon struck by an impact printhead. This serves a different function from inkjet printhead."
+      "Laser toner: Powder used in laser printing.",
+      "Pickup roller: Roller that feeds sheets into a printer.",
+      "Impact ribbon: Ink ribbon struck by an impact printhead."
     ],
     "tip": "Streaking may call for printhead cleaning."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "A technician encounters this situation: Ordinary paper may not work in direct thermal units. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Ordinary paper may not work in direct thermal units. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Thermal paper",
       "Laser toner",
@@ -12481,16 +12481,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Thermal paper: Heat-sensitive paper used by thermal printers.",
-      "Laser toner: Powder used in laser printing. This serves a different function from thermal paper.",
-      "Inkjet printhead: Nozzle assembly that deposits ink. This serves a different function from thermal paper.",
-      "Pickup roller: Roller that feeds sheets into a printer. This serves a different function from thermal paper."
+      "Laser toner: Powder used in laser printing.",
+      "Inkjet printhead: Nozzle assembly that deposits ink.",
+      "Pickup roller: Roller that feeds sheets into a printer."
     ],
     "tip": "Ordinary paper may not work in direct thermal units."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "Which term describes the following capability: ink ribbon struck by an impact printhead?",
+    "q": "A device specification mentions ink ribbon struck by an impact printhead. What feature is being described?",
     "opts": [
       "Impact ribbon",
       "Inkjet printhead",
@@ -12502,16 +12502,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Impact ribbon: Ink ribbon struck by an impact printhead.",
-      "Inkjet printhead: Nozzle assembly that deposits ink. This serves a different function from impact ribbon.",
-      "Thermal paper: Heat-sensitive paper used by thermal printers. This serves a different function from impact ribbon.",
-      "Calibrate printer: Adjusts printer output alignment or quality. This serves a different function from impact ribbon."
+      "Inkjet printhead: Nozzle assembly that deposits ink.",
+      "Thermal paper: Heat-sensitive paper used by thermal printers.",
+      "Calibrate printer: Adjusts printer output alignment or quality."
     ],
     "tip": "Faded impact output may need a new ribbon."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "An IT support specialist needs to identify a component or service that replaceable service components for laser printers. What should they select?",
+    "q": "During a help-desk escalation, the documented need is replaceable service components for laser printers. What should the technician use?",
     "opts": [
       "Laser maintenance kit",
       "Thermal paper",
@@ -12523,16 +12523,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Laser maintenance kit: Replaceable service components for laser printers.",
-      "Thermal paper: Heat-sensitive paper used by thermal printers. This serves a different function from laser maintenance kit.",
-      "Laser toner: Powder used in laser printing. This serves a different function from laser maintenance kit.",
-      "Pickup roller: Roller that feeds sheets into a printer. This serves a different function from laser maintenance kit."
+      "Thermal paper: Heat-sensitive paper used by thermal printers.",
+      "Laser toner: Powder used in laser printing.",
+      "Pickup roller: Roller that feeds sheets into a printer."
     ],
     "tip": "Maintenance intervals vary by device."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "A technician encounters this situation: Worn rollers can cause feed failures. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Worn rollers can cause feed failures. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Pickup roller",
       "Impact ribbon",
@@ -12544,16 +12544,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Pickup roller: Roller that feeds sheets into a printer.",
-      "Impact ribbon: Ink ribbon struck by an impact printhead. This serves a different function from pickup roller.",
-      "Thermal paper: Heat-sensitive paper used by thermal printers. This serves a different function from pickup roller.",
-      "Laser maintenance kit: Replaceable service components for laser printers. This serves a different function from pickup roller."
+      "Impact ribbon: Ink ribbon struck by an impact printhead.",
+      "Thermal paper: Heat-sensitive paper used by thermal printers.",
+      "Laser maintenance kit: Replaceable service components for laser printers."
     ],
     "tip": "Worn rollers can cause feed failures."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "Which term describes the following capability: adjusts printer output alignment or quality?",
+    "q": "Which option would you select when a support ticket calls for adjusts printer output alignment or quality?",
     "opts": [
       "Calibrate printer",
       "Pickup roller",
@@ -12565,16 +12565,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Calibrate printer: Adjusts printer output alignment or quality.",
-      "Pickup roller: Roller that feeds sheets into a printer. This serves a different function from calibrate printer.",
-      "Thermal paper: Heat-sensitive paper used by thermal printers. This serves a different function from calibrate printer.",
-      "Inkjet printhead: Nozzle assembly that deposits ink. This serves a different function from calibrate printer."
+      "Pickup roller: Roller that feeds sheets into a printer.",
+      "Thermal paper: Heat-sensitive paper used by thermal printers.",
+      "Inkjet printhead: Nozzle assembly that deposits ink."
     ],
     "tip": "Calibration can address output consistency."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "An IT support specialist needs to identify a component or service that powder used in laser printing. What should they select?",
+    "q": "A support team is checking compatibility for powder used in laser printing. Which item should be considered?",
     "opts": [
       "Laser toner",
       "Impact ribbon",
@@ -12586,16 +12586,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Laser toner: Powder used in laser printing.",
-      "Impact ribbon: Ink ribbon struck by an impact printhead. This serves a different function from laser toner.",
-      "Inkjet printhead: Nozzle assembly that deposits ink. This serves a different function from laser toner.",
-      "Pickup roller: Roller that feeds sheets into a printer. This serves a different function from laser toner."
+      "Impact ribbon: Ink ribbon struck by an impact printhead.",
+      "Inkjet printhead: Nozzle assembly that deposits ink.",
+      "Pickup roller: Roller that feeds sheets into a printer."
     ],
     "tip": "Faded laser output can indicate low toner."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "A technician encounters this situation: Streaking may call for printhead cleaning. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Streaking may call for printhead cleaning. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Inkjet printhead",
       "Laser maintenance kit",
@@ -12607,16 +12607,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Inkjet printhead: Nozzle assembly that deposits ink.",
-      "Laser maintenance kit: Replaceable service components for laser printers. This serves a different function from inkjet printhead.",
-      "Impact ribbon: Ink ribbon struck by an impact printhead. This serves a different function from inkjet printhead.",
-      "Pickup roller: Roller that feeds sheets into a printer. This serves a different function from inkjet printhead."
+      "Laser maintenance kit: Replaceable service components for laser printers.",
+      "Impact ribbon: Ink ribbon struck by an impact printhead.",
+      "Pickup roller: Roller that feeds sheets into a printer."
     ],
     "tip": "Streaking may call for printhead cleaning."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "Which term describes the following capability: heat-sensitive paper used by thermal printers?",
+    "q": "A technician is comparing options for this requirement: heat-sensitive paper used by thermal printers. Which technology is appropriate?",
     "opts": [
       "Thermal paper",
       "Laser toner",
@@ -12628,16 +12628,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Thermal paper: Heat-sensitive paper used by thermal printers.",
-      "Laser toner: Powder used in laser printing. This serves a different function from thermal paper.",
-      "Pickup roller: Roller that feeds sheets into a printer. This serves a different function from thermal paper.",
-      "Laser maintenance kit: Replaceable service components for laser printers. This serves a different function from thermal paper."
+      "Laser toner: Powder used in laser printing.",
+      "Pickup roller: Roller that feeds sheets into a printer.",
+      "Laser maintenance kit: Replaceable service components for laser printers."
     ],
     "tip": "Ordinary paper may not work in direct thermal units."
   },
   {
     "domain": "3.0 Hardware",
     "obj": "3.8",
-    "q": "An IT support specialist needs to identify a component or service that ink ribbon struck by an impact printhead. What should they select?",
+    "q": "An IT department is purchasing equipment for ink ribbon struck by an impact printhead. Which option is relevant?",
     "opts": [
       "Impact ribbon",
       "Laser maintenance kit",
@@ -12649,16 +12649,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Impact ribbon: Ink ribbon struck by an impact printhead.",
-      "Laser maintenance kit: Replaceable service components for laser printers. This serves a different function from impact ribbon.",
-      "Thermal paper: Heat-sensitive paper used by thermal printers. This serves a different function from impact ribbon.",
-      "Inkjet printhead: Nozzle assembly that deposits ink. This serves a different function from impact ribbon."
+      "Laser maintenance kit: Replaceable service components for laser printers.",
+      "Thermal paper: Heat-sensitive paper used by thermal printers.",
+      "Inkjet printhead: Nozzle assembly that deposits ink."
     ],
     "tip": "Faded impact output may need a new ribbon."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "A technician encounters this situation: Bare-metal hosts do not require a desktop OS underneath. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Bare-metal hosts do not require a desktop OS underneath. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Type 1 hypervisor",
       "VM",
@@ -12670,16 +12670,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Type 1 hypervisor: Virtualization layer running directly on physical hardware.",
-      "VM: Isolated virtual computer with its own guest OS. This serves a different function from type 1 hypervisor.",
-      "VDI: Remote delivery of centrally hosted desktop sessions. This serves a different function from type 1 hypervisor.",
-      "Type 2 hypervisor: Virtualization software running on a host operating system. This serves a different function from type 1 hypervisor."
+      "VM: Isolated virtual computer with its own guest OS.",
+      "VDI: Remote delivery of centrally hosted desktop sessions.",
+      "Type 2 hypervisor: Virtualization software running on a host operating system."
     ],
     "tip": "Bare-metal hosts do not require a desktop OS underneath."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "Which term describes the following capability: virtualization software running on a host operating system?",
+    "q": "Which option would you select when a support ticket calls for virtualization software running on a host operating system?",
     "opts": [
       "Type 2 hypervisor",
       "Application virtualization",
@@ -12691,16 +12691,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Type 2 hypervisor: Virtualization software running on a host operating system.",
-      "Application virtualization: Runs applications in a virtualized environment. This serves a different function from type 2 hypervisor.",
-      "VM: Isolated virtual computer with its own guest OS. This serves a different function from type 2 hypervisor.",
-      "Container: Isolated application environment sharing a host kernel. This serves a different function from type 2 hypervisor."
+      "Application virtualization: Runs applications in a virtualized environment.",
+      "VM: Isolated virtual computer with its own guest OS.",
+      "Container: Isolated application environment sharing a host kernel."
     ],
     "tip": "Hosted virtualization is convenient for desktop labs."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "An IT support specialist needs to identify a component or service that isolated virtual computer with its own guest OS. What should they select?",
+    "q": "A customer describes a system that needs isolated virtual computer with its own guest OS. Which choice matches that need?",
     "opts": [
       "VM",
       "Application virtualization",
@@ -12712,16 +12712,16 @@ const QUESTIONS = [
     ],
     "why": [
       "VM: Isolated virtual computer with its own guest OS.",
-      "Application virtualization: Runs applications in a virtualized environment. This serves a different function from vm.",
-      "Type 2 hypervisor: Virtualization software running on a host operating system. This serves a different function from vm.",
-      "VDI: Remote delivery of centrally hosted desktop sessions. This serves a different function from vm."
+      "Application virtualization: Runs applications in a virtualized environment.",
+      "Type 2 hypervisor: Virtualization software running on a host operating system.",
+      "VDI: Remote delivery of centrally hosted desktop sessions."
     ],
     "tip": "A VM usually includes a complete operating system."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "A technician encounters this situation: Containers are lighter than full guest VMs. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Containers are lighter than full guest VMs. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Container",
       "Sandbox",
@@ -12733,16 +12733,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Container: Isolated application environment sharing a host kernel.",
-      "Sandbox: Isolated environment for safely testing software. This serves a different function from container.",
-      "Application virtualization: Runs applications in a virtualized environment. This serves a different function from container.",
-      "Type 1 hypervisor: Virtualization layer running directly on physical hardware. This serves a different function from container."
+      "Sandbox: Isolated environment for safely testing software.",
+      "Application virtualization: Runs applications in a virtualized environment.",
+      "Type 1 hypervisor: Virtualization layer running directly on physical hardware."
     ],
     "tip": "Containers are lighter than full guest VMs."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "Which term describes the following capability: remote delivery of centrally hosted desktop sessions?",
+    "q": "A technician is comparing options for this requirement: remote delivery of centrally hosted desktop sessions. Which technology is appropriate?",
     "opts": [
       "VDI",
       "Container",
@@ -12754,16 +12754,16 @@ const QUESTIONS = [
     ],
     "why": [
       "VDI: Remote delivery of centrally hosted desktop sessions.",
-      "Container: Isolated application environment sharing a host kernel. This serves a different function from vdi.",
-      "VM: Isolated virtual computer with its own guest OS. This serves a different function from vdi.",
-      "Type 1 hypervisor: Virtualization layer running directly on physical hardware. This serves a different function from vdi."
+      "Container: Isolated application environment sharing a host kernel.",
+      "VM: Isolated virtual computer with its own guest OS.",
+      "Type 1 hypervisor: Virtualization layer running directly on physical hardware."
     ],
     "tip": "User desktops can run in a data center."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "An IT support specialist needs to identify a component or service that isolated environment for safely testing software. What should they select?",
+    "q": "A field technician must provide isolated environment for safely testing software. Which technology fulfills this purpose?",
     "opts": [
       "Sandbox",
       "Container",
@@ -12775,16 +12775,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Sandbox: Isolated environment for safely testing software.",
-      "Container: Isolated application environment sharing a host kernel. This serves a different function from sandbox.",
-      "Type 1 hypervisor: Virtualization layer running directly on physical hardware. This serves a different function from sandbox.",
-      "Type 2 hypervisor: Virtualization software running on a host operating system. This serves a different function from sandbox."
+      "Container: Isolated application environment sharing a host kernel.",
+      "Type 1 hypervisor: Virtualization layer running directly on physical hardware.",
+      "Type 2 hypervisor: Virtualization software running on a host operating system."
     ],
     "tip": "Test untrusted changes away from production."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "A technician encounters this situation: Legacy software may need compatibility isolation. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Legacy software may need compatibility isolation. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Application virtualization",
       "Type 2 hypervisor",
@@ -12796,16 +12796,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Application virtualization: Runs applications in a virtualized environment.",
-      "Type 2 hypervisor: Virtualization software running on a host operating system. This serves a different function from application virtualization.",
-      "Type 1 hypervisor: Virtualization layer running directly on physical hardware. This serves a different function from application virtualization.",
-      "Sandbox: Isolated environment for safely testing software. This serves a different function from application virtualization."
+      "Type 2 hypervisor: Virtualization software running on a host operating system.",
+      "Type 1 hypervisor: Virtualization layer running directly on physical hardware.",
+      "Sandbox: Isolated environment for safely testing software."
     ],
     "tip": "Legacy software may need compatibility isolation."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "Which term describes the following capability: virtualization layer running directly on physical hardware?",
+    "q": "An administrator needs virtualization layer running directly on physical hardware. Which item matches the requirement?",
     "opts": [
       "Type 1 hypervisor",
       "Type 2 hypervisor",
@@ -12817,16 +12817,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Type 1 hypervisor: Virtualization layer running directly on physical hardware.",
-      "Type 2 hypervisor: Virtualization software running on a host operating system. This serves a different function from type 1 hypervisor.",
-      "Container: Isolated application environment sharing a host kernel. This serves a different function from type 1 hypervisor.",
-      "Sandbox: Isolated environment for safely testing software. This serves a different function from type 1 hypervisor."
+      "Type 2 hypervisor: Virtualization software running on a host operating system.",
+      "Container: Isolated application environment sharing a host kernel.",
+      "Sandbox: Isolated environment for safely testing software."
     ],
     "tip": "Bare-metal hosts do not require a desktop OS underneath."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "An IT support specialist needs to identify a component or service that virtualization software running on a host operating system. What should they select?",
+    "q": "A repair ticket specifies virtualization software running on a host operating system. Which item addresses that specification?",
     "opts": [
       "Type 2 hypervisor",
       "Container",
@@ -12838,16 +12838,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Type 2 hypervisor: Virtualization software running on a host operating system.",
-      "Container: Isolated application environment sharing a host kernel. This serves a different function from type 2 hypervisor.",
-      "Sandbox: Isolated environment for safely testing software. This serves a different function from type 2 hypervisor.",
-      "VDI: Remote delivery of centrally hosted desktop sessions. This serves a different function from type 2 hypervisor."
+      "Container: Isolated application environment sharing a host kernel.",
+      "Sandbox: Isolated environment for safely testing software.",
+      "VDI: Remote delivery of centrally hosted desktop sessions."
     ],
     "tip": "Hosted virtualization is convenient for desktop labs."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "A technician encounters this situation: A VM usually includes a complete operating system. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: A VM usually includes a complete operating system. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "VM",
       "Container",
@@ -12859,16 +12859,16 @@ const QUESTIONS = [
     ],
     "why": [
       "VM: Isolated virtual computer with its own guest OS.",
-      "Container: Isolated application environment sharing a host kernel. This serves a different function from vm.",
-      "Application virtualization: Runs applications in a virtualized environment. This serves a different function from vm.",
-      "Sandbox: Isolated environment for safely testing software. This serves a different function from vm."
+      "Container: Isolated application environment sharing a host kernel.",
+      "Application virtualization: Runs applications in a virtualized environment.",
+      "Sandbox: Isolated environment for safely testing software."
     ],
     "tip": "A VM usually includes a complete operating system."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "Which term describes the following capability: isolated application environment sharing a host kernel?",
+    "q": "A device specification mentions isolated application environment sharing a host kernel. What feature is being described?",
     "opts": [
       "Container",
       "VDI",
@@ -12880,16 +12880,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Container: Isolated application environment sharing a host kernel.",
-      "VDI: Remote delivery of centrally hosted desktop sessions. This serves a different function from container.",
-      "VM: Isolated virtual computer with its own guest OS. This serves a different function from container.",
-      "Sandbox: Isolated environment for safely testing software. This serves a different function from container."
+      "VDI: Remote delivery of centrally hosted desktop sessions.",
+      "VM: Isolated virtual computer with its own guest OS.",
+      "Sandbox: Isolated environment for safely testing software."
     ],
     "tip": "Containers are lighter than full guest VMs."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "An IT support specialist needs to identify a component or service that remote delivery of centrally hosted desktop sessions. What should they select?",
+    "q": "During a help-desk escalation, the documented need is remote delivery of centrally hosted desktop sessions. What should the technician use?",
     "opts": [
       "VDI",
       "Type 2 hypervisor",
@@ -12901,16 +12901,16 @@ const QUESTIONS = [
     ],
     "why": [
       "VDI: Remote delivery of centrally hosted desktop sessions.",
-      "Type 2 hypervisor: Virtualization software running on a host operating system. This serves a different function from vdi.",
-      "Sandbox: Isolated environment for safely testing software. This serves a different function from vdi.",
-      "Type 1 hypervisor: Virtualization layer running directly on physical hardware. This serves a different function from vdi."
+      "Type 2 hypervisor: Virtualization software running on a host operating system.",
+      "Sandbox: Isolated environment for safely testing software.",
+      "Type 1 hypervisor: Virtualization layer running directly on physical hardware."
     ],
     "tip": "User desktops can run in a data center."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "A technician encounters this situation: Test untrusted changes away from production. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Test untrusted changes away from production. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Sandbox",
       "Application virtualization",
@@ -12922,16 +12922,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Sandbox: Isolated environment for safely testing software.",
-      "Application virtualization: Runs applications in a virtualized environment. This serves a different function from sandbox.",
-      "VM: Isolated virtual computer with its own guest OS. This serves a different function from sandbox.",
-      "Container: Isolated application environment sharing a host kernel. This serves a different function from sandbox."
+      "Application virtualization: Runs applications in a virtualized environment.",
+      "VM: Isolated virtual computer with its own guest OS.",
+      "Container: Isolated application environment sharing a host kernel."
     ],
     "tip": "Test untrusted changes away from production."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "Which term describes the following capability: runs applications in a virtualized environment?",
+    "q": "Which option would you select when a support ticket calls for runs applications in a virtualized environment?",
     "opts": [
       "Application virtualization",
       "Sandbox",
@@ -12943,16 +12943,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Application virtualization: Runs applications in a virtualized environment.",
-      "Sandbox: Isolated environment for safely testing software. This serves a different function from application virtualization.",
-      "Type 1 hypervisor: Virtualization layer running directly on physical hardware. This serves a different function from application virtualization.",
-      "Type 2 hypervisor: Virtualization software running on a host operating system. This serves a different function from application virtualization."
+      "Sandbox: Isolated environment for safely testing software.",
+      "Type 1 hypervisor: Virtualization layer running directly on physical hardware.",
+      "Type 2 hypervisor: Virtualization software running on a host operating system."
     ],
     "tip": "Legacy software may need compatibility isolation."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "An IT support specialist needs to identify a component or service that virtualization layer running directly on physical hardware. What should they select?",
+    "q": "A support team is checking compatibility for virtualization layer running directly on physical hardware. Which item should be considered?",
     "opts": [
       "Type 1 hypervisor",
       "Sandbox",
@@ -12964,16 +12964,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Type 1 hypervisor: Virtualization layer running directly on physical hardware.",
-      "Sandbox: Isolated environment for safely testing software. This serves a different function from type 1 hypervisor.",
-      "VM: Isolated virtual computer with its own guest OS. This serves a different function from type 1 hypervisor.",
-      "Container: Isolated application environment sharing a host kernel. This serves a different function from type 1 hypervisor."
+      "Sandbox: Isolated environment for safely testing software.",
+      "VM: Isolated virtual computer with its own guest OS.",
+      "Container: Isolated application environment sharing a host kernel."
     ],
     "tip": "Bare-metal hosts do not require a desktop OS underneath."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.1",
-    "q": "A technician encounters this situation: Hosted virtualization is convenient for desktop labs. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Hosted virtualization is convenient for desktop labs. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Type 2 hypervisor",
       "VDI",
@@ -12985,16 +12985,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Type 2 hypervisor: Virtualization software running on a host operating system.",
-      "VDI: Remote delivery of centrally hosted desktop sessions. This serves a different function from type 2 hypervisor.",
-      "Type 1 hypervisor: Virtualization layer running directly on physical hardware. This serves a different function from type 2 hypervisor.",
-      "Container: Isolated application environment sharing a host kernel. This serves a different function from type 2 hypervisor."
+      "VDI: Remote delivery of centrally hosted desktop sessions.",
+      "Type 1 hypervisor: Virtualization layer running directly on physical hardware.",
+      "Container: Isolated application environment sharing a host kernel."
     ],
     "tip": "Hosted virtualization is convenient for desktop labs."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "A technician encounters this situation: Customer typically manages guest operating systems. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Customer typically manages guest operating systems. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "IaaS",
       "Public cloud",
@@ -13006,16 +13006,16 @@ const QUESTIONS = [
     ],
     "why": [
       "IaaS: Cloud delivery of virtual infrastructure resources.",
-      "Public cloud: Shared provider infrastructure offered broadly. This serves a different function from iaas.",
-      "Elasticity: Ability to scale resources with demand. This serves a different function from iaas.",
-      "SaaS: Complete provider-hosted application. This serves a different function from iaas."
+      "Public cloud: Shared provider infrastructure offered broadly.",
+      "Elasticity: Ability to scale resources with demand.",
+      "SaaS: Complete provider-hosted application."
     ],
     "tip": "Customer typically manages guest operating systems."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "Which term describes the following capability: cloud-managed application development and runtime platform?",
+    "q": "Which option would you select when a support ticket calls for cloud-managed application development and runtime platform?",
     "opts": [
       "PaaS",
       "Multitenancy",
@@ -13027,16 +13027,16 @@ const QUESTIONS = [
     ],
     "why": [
       "PaaS: Cloud-managed application development and runtime platform.",
-      "Multitenancy: Multiple customers share underlying infrastructure with isolation. This serves a different function from paas.",
-      "Metered utilization: Resource usage measured for billing or control. This serves a different function from paas.",
-      "SaaS: Complete provider-hosted application. This serves a different function from paas."
+      "Multitenancy: Multiple customers share underlying infrastructure with isolation.",
+      "Metered utilization: Resource usage measured for billing or control.",
+      "SaaS: Complete provider-hosted application."
     ],
     "tip": "Developers focus on code instead of servers."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "An IT support specialist needs to identify a component or service that complete provider-hosted application. What should they select?",
+    "q": "A customer describes a system that needs complete provider-hosted application. Which choice matches that need?",
     "opts": [
       "SaaS",
       "Multitenancy",
@@ -13048,16 +13048,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SaaS: Complete provider-hosted application.",
-      "Multitenancy: Multiple customers share underlying infrastructure with isolation. This serves a different function from saas.",
-      "Public cloud: Shared provider infrastructure offered broadly. This serves a different function from saas.",
-      "Private cloud: Cloud environment dedicated to one organization. This serves a different function from saas."
+      "Multitenancy: Multiple customers share underlying infrastructure with isolation.",
+      "Public cloud: Shared provider infrastructure offered broadly.",
+      "Private cloud: Cloud environment dedicated to one organization."
     ],
     "tip": "Users consume software through a service."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "A technician encounters this situation: Shared infrastructure does not imply public data. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Shared infrastructure does not imply public data. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Public cloud",
       "SaaS",
@@ -13069,16 +13069,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Public cloud: Shared provider infrastructure offered broadly.",
-      "SaaS: Complete provider-hosted application. This serves a different function from public cloud.",
-      "Private cloud: Cloud environment dedicated to one organization. This serves a different function from public cloud.",
-      "Metered utilization: Resource usage measured for billing or control. This serves a different function from public cloud."
+      "SaaS: Complete provider-hosted application.",
+      "Private cloud: Cloud environment dedicated to one organization.",
+      "Metered utilization: Resource usage measured for billing or control."
     ],
     "tip": "Shared infrastructure does not imply public data."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "Which term describes the following capability: cloud environment dedicated to one organization?",
+    "q": "A technician is comparing options for this requirement: cloud environment dedicated to one organization. Which technology is appropriate?",
     "opts": [
       "Private cloud",
       "Metered utilization",
@@ -13090,16 +13090,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Private cloud: Cloud environment dedicated to one organization.",
-      "Metered utilization: Resource usage measured for billing or control. This serves a different function from private cloud.",
-      "Multitenancy: Multiple customers share underlying infrastructure with isolation. This serves a different function from private cloud.",
-      "SaaS: Complete provider-hosted application. This serves a different function from private cloud."
+      "Metered utilization: Resource usage measured for billing or control.",
+      "Multitenancy: Multiple customers share underlying infrastructure with isolation.",
+      "SaaS: Complete provider-hosted application."
     ],
     "tip": "Dedicated governance can influence placement."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "An IT support specialist needs to identify a component or service that architecture combining private and public environments. What should they select?",
+    "q": "A field technician must provide architecture combining private and public environments. Which technology fulfills this purpose?",
     "opts": [
       "Hybrid cloud",
       "PaaS",
@@ -13111,16 +13111,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Hybrid cloud: Architecture combining private and public environments.",
-      "PaaS: Cloud-managed application development and runtime platform. This serves a different function from hybrid cloud.",
-      "IaaS: Cloud delivery of virtual infrastructure resources. This serves a different function from hybrid cloud.",
-      "SaaS: Complete provider-hosted application. This serves a different function from hybrid cloud."
+      "PaaS: Cloud-managed application development and runtime platform.",
+      "IaaS: Cloud delivery of virtual infrastructure resources.",
+      "SaaS: Complete provider-hosted application."
     ],
     "tip": "Workloads can span different deployment models."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "A technician encounters this situation: Temporary demand can trigger scaling. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Temporary demand can trigger scaling. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Elasticity",
       "Hybrid cloud",
@@ -13132,16 +13132,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Elasticity: Ability to scale resources with demand.",
-      "Hybrid cloud: Architecture combining private and public environments. This serves a different function from elasticity.",
-      "Multitenancy: Multiple customers share underlying infrastructure with isolation. This serves a different function from elasticity.",
-      "PaaS: Cloud-managed application development and runtime platform. This serves a different function from elasticity."
+      "Hybrid cloud: Architecture combining private and public environments.",
+      "Multitenancy: Multiple customers share underlying infrastructure with isolation.",
+      "PaaS: Cloud-managed application development and runtime platform."
     ],
     "tip": "Temporary demand can trigger scaling."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "Which term describes the following capability: resource usage measured for billing or control?",
+    "q": "An administrator needs resource usage measured for billing or control. Which item matches the requirement?",
     "opts": [
       "Metered utilization",
       "Public cloud",
@@ -13153,16 +13153,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Metered utilization: Resource usage measured for billing or control.",
-      "Public cloud: Shared provider infrastructure offered broadly. This serves a different function from metered utilization.",
-      "Private cloud: Cloud environment dedicated to one organization. This serves a different function from metered utilization.",
-      "SaaS: Complete provider-hosted application. This serves a different function from metered utilization."
+      "Public cloud: Shared provider infrastructure offered broadly.",
+      "Private cloud: Cloud environment dedicated to one organization.",
+      "SaaS: Complete provider-hosted application."
     ],
     "tip": "Watch compute and data egress charges."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "An IT support specialist needs to identify a component or service that multiple customers share underlying infrastructure with isolation. What should they select?",
+    "q": "A repair ticket specifies multiple customers share underlying infrastructure with isolation. Which item addresses that specification?",
     "opts": [
       "Multitenancy",
       "Hybrid cloud",
@@ -13174,16 +13174,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Multitenancy: Multiple customers share underlying infrastructure with isolation.",
-      "Hybrid cloud: Architecture combining private and public environments. This serves a different function from multitenancy.",
-      "Public cloud: Shared provider infrastructure offered broadly. This serves a different function from multitenancy.",
-      "PaaS: Cloud-managed application development and runtime platform. This serves a different function from multitenancy."
+      "Hybrid cloud: Architecture combining private and public environments.",
+      "Public cloud: Shared provider infrastructure offered broadly.",
+      "PaaS: Cloud-managed application development and runtime platform."
     ],
     "tip": "Tenant separation is critical."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "A technician encounters this situation: Customer typically manages guest operating systems. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Customer typically manages guest operating systems. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "IaaS",
       "Multitenancy",
@@ -13195,16 +13195,16 @@ const QUESTIONS = [
     ],
     "why": [
       "IaaS: Cloud delivery of virtual infrastructure resources.",
-      "Multitenancy: Multiple customers share underlying infrastructure with isolation. This serves a different function from iaas.",
-      "Metered utilization: Resource usage measured for billing or control. This serves a different function from iaas.",
-      "SaaS: Complete provider-hosted application. This serves a different function from iaas."
+      "Multitenancy: Multiple customers share underlying infrastructure with isolation.",
+      "Metered utilization: Resource usage measured for billing or control.",
+      "SaaS: Complete provider-hosted application."
     ],
     "tip": "Customer typically manages guest operating systems."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "Which term describes the following capability: cloud-managed application development and runtime platform?",
+    "q": "A device specification mentions cloud-managed application development and runtime platform. What feature is being described?",
     "opts": [
       "PaaS",
       "SaaS",
@@ -13216,16 +13216,16 @@ const QUESTIONS = [
     ],
     "why": [
       "PaaS: Cloud-managed application development and runtime platform.",
-      "SaaS: Complete provider-hosted application. This serves a different function from paas.",
-      "Hybrid cloud: Architecture combining private and public environments. This serves a different function from paas.",
-      "Elasticity: Ability to scale resources with demand. This serves a different function from paas."
+      "SaaS: Complete provider-hosted application.",
+      "Hybrid cloud: Architecture combining private and public environments.",
+      "Elasticity: Ability to scale resources with demand."
     ],
     "tip": "Developers focus on code instead of servers."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "An IT support specialist needs to identify a component or service that complete provider-hosted application. What should they select?",
+    "q": "During a help-desk escalation, the documented need is complete provider-hosted application. What should the technician use?",
     "opts": [
       "SaaS",
       "Multitenancy",
@@ -13237,16 +13237,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SaaS: Complete provider-hosted application.",
-      "Multitenancy: Multiple customers share underlying infrastructure with isolation. This serves a different function from saas.",
-      "IaaS: Cloud delivery of virtual infrastructure resources. This serves a different function from saas.",
-      "Elasticity: Ability to scale resources with demand. This serves a different function from saas."
+      "Multitenancy: Multiple customers share underlying infrastructure with isolation.",
+      "IaaS: Cloud delivery of virtual infrastructure resources.",
+      "Elasticity: Ability to scale resources with demand."
     ],
     "tip": "Users consume software through a service."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "A technician encounters this situation: Shared infrastructure does not imply public data. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Shared infrastructure does not imply public data. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Public cloud",
       "Hybrid cloud",
@@ -13258,16 +13258,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Public cloud: Shared provider infrastructure offered broadly.",
-      "Hybrid cloud: Architecture combining private and public environments. This serves a different function from public cloud.",
-      "Private cloud: Cloud environment dedicated to one organization. This serves a different function from public cloud.",
-      "SaaS: Complete provider-hosted application. This serves a different function from public cloud."
+      "Hybrid cloud: Architecture combining private and public environments.",
+      "Private cloud: Cloud environment dedicated to one organization.",
+      "SaaS: Complete provider-hosted application."
     ],
     "tip": "Shared infrastructure does not imply public data."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "Which term describes the following capability: cloud environment dedicated to one organization?",
+    "q": "Which option would you select when a support ticket calls for cloud environment dedicated to one organization?",
     "opts": [
       "Private cloud",
       "Multitenancy",
@@ -13279,16 +13279,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Private cloud: Cloud environment dedicated to one organization.",
-      "Multitenancy: Multiple customers share underlying infrastructure with isolation. This serves a different function from private cloud.",
-      "Hybrid cloud: Architecture combining private and public environments. This serves a different function from private cloud.",
-      "Elasticity: Ability to scale resources with demand. This serves a different function from private cloud."
+      "Multitenancy: Multiple customers share underlying infrastructure with isolation.",
+      "Hybrid cloud: Architecture combining private and public environments.",
+      "Elasticity: Ability to scale resources with demand."
     ],
     "tip": "Dedicated governance can influence placement."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "An IT support specialist needs to identify a component or service that architecture combining private and public environments. What should they select?",
+    "q": "A support team is checking compatibility for architecture combining private and public environments. Which item should be considered?",
     "opts": [
       "Hybrid cloud",
       "Elasticity",
@@ -13300,16 +13300,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Hybrid cloud: Architecture combining private and public environments.",
-      "Elasticity: Ability to scale resources with demand. This serves a different function from hybrid cloud.",
-      "PaaS: Cloud-managed application development and runtime platform. This serves a different function from hybrid cloud.",
-      "Private cloud: Cloud environment dedicated to one organization. This serves a different function from hybrid cloud."
+      "Elasticity: Ability to scale resources with demand.",
+      "PaaS: Cloud-managed application development and runtime platform.",
+      "Private cloud: Cloud environment dedicated to one organization."
     ],
     "tip": "Workloads can span different deployment models."
   },
   {
     "domain": "4.0 Virtualization and Cloud Computing",
     "obj": "4.2",
-    "q": "A technician encounters this situation: Temporary demand can trigger scaling. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Temporary demand can trigger scaling. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Elasticity",
       "Metered utilization",
@@ -13321,16 +13321,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Elasticity: Ability to scale resources with demand.",
-      "Metered utilization: Resource usage measured for billing or control. This serves a different function from elasticity.",
-      "Multitenancy: Multiple customers share underlying infrastructure with isolation. This serves a different function from elasticity.",
-      "PaaS: Cloud-managed application development and runtime platform. This serves a different function from elasticity."
+      "Metered utilization: Resource usage measured for billing or control.",
+      "Multitenancy: Multiple customers share underlying infrastructure with isolation.",
+      "PaaS: Cloud-managed application development and runtime platform."
     ],
     "tip": "Temporary demand can trigger scaling."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "A technician encounters this situation: Interpret beep patterns using vendor documentation. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Interpret beep patterns using vendor documentation. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "POST beeps",
       "No power",
@@ -13342,16 +13342,16 @@ const QUESTIONS = [
     ],
     "why": [
       "POST beeps: Startup diagnostic sound codes for hardware checks.",
-      "No power: System shows no sign of electrical startup. This serves a different function from post beeps.",
-      "Overheating: Excessive component temperature affecting stability. This serves a different function from post beeps.",
-      "Application crash: Program unexpectedly stops running. This serves a different function from post beeps."
+      "No power: System shows no sign of electrical startup.",
+      "Overheating: Excessive component temperature affecting stability.",
+      "Application crash: Program unexpectedly stops running."
     ],
     "tip": "Interpret beep patterns using vendor documentation."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "Which term describes the following capability: excessive component temperature affecting stability?",
+    "q": "Which option would you select when a support ticket calls for excessive component temperature affecting stability?",
     "opts": [
       "Overheating",
       "POST beeps",
@@ -13363,16 +13363,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Overheating: Excessive component temperature affecting stability.",
-      "POST beeps: Startup diagnostic sound codes for hardware checks. This serves a different function from overheating.",
-      "Incorrect date/time: Clock settings that reset or drift. This serves a different function from overheating.",
-      "Swollen capacitor: Physical sign of possible motherboard failure. This serves a different function from overheating."
+      "POST beeps: Startup diagnostic sound codes for hardware checks.",
+      "Incorrect date/time: Clock settings that reset or drift.",
+      "Swollen capacitor: Physical sign of possible motherboard failure."
     ],
     "tip": "Check fans dust and heatsink contact."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "An IT support specialist needs to identify a component or service that unexpected loss of system operation. What should they select?",
+    "q": "A customer describes a system that needs unexpected loss of system operation. Which choice matches that need?",
     "opts": [
       "Random shutdown",
       "No power",
@@ -13384,16 +13384,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Random shutdown: Unexpected loss of system operation.",
-      "No power: System shows no sign of electrical startup. This serves a different function from random shutdown.",
-      "Incorrect date/time: Clock settings that reset or drift. This serves a different function from random shutdown.",
-      "POST beeps: Startup diagnostic sound codes for hardware checks. This serves a different function from random shutdown."
+      "No power: System shows no sign of electrical startup.",
+      "Incorrect date/time: Clock settings that reset or drift.",
+      "POST beeps: Startup diagnostic sound codes for hardware checks."
     ],
     "tip": "Check thermal and power conditions."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "A technician encounters this situation: Do not ignore bulging board components. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Do not ignore bulging board components. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Swollen capacitor",
       "No power",
@@ -13405,16 +13405,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Swollen capacitor: Physical sign of possible motherboard failure.",
-      "No power: System shows no sign of electrical startup. This serves a different function from swollen capacitor.",
-      "Random shutdown: Unexpected loss of system operation. This serves a different function from swollen capacitor.",
-      "Overheating: Excessive component temperature affecting stability. This serves a different function from swollen capacitor."
+      "No power: System shows no sign of electrical startup.",
+      "Random shutdown: Unexpected loss of system operation.",
+      "Overheating: Excessive component temperature affecting stability."
     ],
     "tip": "Do not ignore bulging board components."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "Which term describes the following capability: clock settings that reset or drift?",
+    "q": "A technician is comparing options for this requirement: clock settings that reset or drift. Which technology is appropriate?",
     "opts": [
       "Incorrect date/time",
       "Application crash",
@@ -13426,16 +13426,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Incorrect date/time: Clock settings that reset or drift.",
-      "Application crash: Program unexpectedly stops running. This serves a different function from incorrect date/time.",
-      "Overheating: Excessive component temperature affecting stability. This serves a different function from incorrect date/time.",
-      "No power: System shows no sign of electrical startup. This serves a different function from incorrect date/time."
+      "Application crash: Program unexpectedly stops running.",
+      "Overheating: Excessive component temperature affecting stability.",
+      "No power: System shows no sign of electrical startup."
     ],
     "tip": "A failing CMOS battery may be involved."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "An IT support specialist needs to identify a component or service that system shows no sign of electrical startup. What should they select?",
+    "q": "A field technician must provide system shows no sign of electrical startup. Which technology fulfills this purpose?",
     "opts": [
       "No power",
       "Overheating",
@@ -13447,16 +13447,16 @@ const QUESTIONS = [
     ],
     "why": [
       "No power: System shows no sign of electrical startup.",
-      "Overheating: Excessive component temperature affecting stability. This serves a different function from no power.",
-      "Incorrect date/time: Clock settings that reset or drift. This serves a different function from no power.",
-      "Random shutdown: Unexpected loss of system operation. This serves a different function from no power."
+      "Overheating: Excessive component temperature affecting stability.",
+      "Incorrect date/time: Clock settings that reset or drift.",
+      "Random shutdown: Unexpected loss of system operation."
     ],
     "tip": "Verify outlet PSU switch and power connections."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "A technician encounters this situation: Distinguish app faults from hardware instability. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Distinguish app faults from hardware instability. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Application crash",
       "Random shutdown",
@@ -13468,16 +13468,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Application crash: Program unexpectedly stops running.",
-      "Random shutdown: Unexpected loss of system operation. This serves a different function from application crash.",
-      "Overheating: Excessive component temperature affecting stability. This serves a different function from application crash.",
-      "POST beeps: Startup diagnostic sound codes for hardware checks. This serves a different function from application crash."
+      "Random shutdown: Unexpected loss of system operation.",
+      "Overheating: Excessive component temperature affecting stability.",
+      "POST beeps: Startup diagnostic sound codes for hardware checks."
     ],
     "tip": "Distinguish app faults from hardware instability."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "Which term describes the following capability: startup diagnostic sound codes for hardware checks?",
+    "q": "An administrator needs startup diagnostic sound codes for hardware checks. Which item matches the requirement?",
     "opts": [
       "POST beeps",
       "Random shutdown",
@@ -13489,16 +13489,16 @@ const QUESTIONS = [
     ],
     "why": [
       "POST beeps: Startup diagnostic sound codes for hardware checks.",
-      "Random shutdown: Unexpected loss of system operation. This serves a different function from post beeps.",
-      "Overheating: Excessive component temperature affecting stability. This serves a different function from post beeps.",
-      "No power: System shows no sign of electrical startup. This serves a different function from post beeps."
+      "Random shutdown: Unexpected loss of system operation.",
+      "Overheating: Excessive component temperature affecting stability.",
+      "No power: System shows no sign of electrical startup."
     ],
     "tip": "Interpret beep patterns using vendor documentation."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "An IT support specialist needs to identify a component or service that excessive component temperature affecting stability. What should they select?",
+    "q": "A repair ticket specifies excessive component temperature affecting stability. Which item addresses that specification?",
     "opts": [
       "Overheating",
       "Random shutdown",
@@ -13510,16 +13510,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Overheating: Excessive component temperature affecting stability.",
-      "Random shutdown: Unexpected loss of system operation. This serves a different function from overheating.",
-      "Application crash: Program unexpectedly stops running. This serves a different function from overheating.",
-      "Incorrect date/time: Clock settings that reset or drift. This serves a different function from overheating."
+      "Random shutdown: Unexpected loss of system operation.",
+      "Application crash: Program unexpectedly stops running.",
+      "Incorrect date/time: Clock settings that reset or drift."
     ],
     "tip": "Check fans dust and heatsink contact."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "A technician encounters this situation: Check thermal and power conditions. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Check thermal and power conditions. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Random shutdown",
       "Overheating",
@@ -13531,16 +13531,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Random shutdown: Unexpected loss of system operation.",
-      "Overheating: Excessive component temperature affecting stability. This serves a different function from random shutdown.",
-      "No power: System shows no sign of electrical startup. This serves a different function from random shutdown.",
-      "Swollen capacitor: Physical sign of possible motherboard failure. This serves a different function from random shutdown."
+      "Overheating: Excessive component temperature affecting stability.",
+      "No power: System shows no sign of electrical startup.",
+      "Swollen capacitor: Physical sign of possible motherboard failure."
     ],
     "tip": "Check thermal and power conditions."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "Which term describes the following capability: physical sign of possible motherboard failure?",
+    "q": "A device specification mentions physical sign of possible motherboard failure. What feature is being described?",
     "opts": [
       "Swollen capacitor",
       "Random shutdown",
@@ -13552,16 +13552,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Swollen capacitor: Physical sign of possible motherboard failure.",
-      "Random shutdown: Unexpected loss of system operation. This serves a different function from swollen capacitor.",
-      "No power: System shows no sign of electrical startup. This serves a different function from swollen capacitor.",
-      "Incorrect date/time: Clock settings that reset or drift. This serves a different function from swollen capacitor."
+      "Random shutdown: Unexpected loss of system operation.",
+      "No power: System shows no sign of electrical startup.",
+      "Incorrect date/time: Clock settings that reset or drift."
     ],
     "tip": "Do not ignore bulging board components."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "An IT support specialist needs to identify a component or service that clock settings that reset or drift. What should they select?",
+    "q": "During a help-desk escalation, the documented need is clock settings that reset or drift. What should the technician use?",
     "opts": [
       "Incorrect date/time",
       "Random shutdown",
@@ -13573,16 +13573,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Incorrect date/time: Clock settings that reset or drift.",
-      "Random shutdown: Unexpected loss of system operation. This serves a different function from incorrect date/time.",
-      "Overheating: Excessive component temperature affecting stability. This serves a different function from incorrect date/time.",
-      "Application crash: Program unexpectedly stops running. This serves a different function from incorrect date/time."
+      "Random shutdown: Unexpected loss of system operation.",
+      "Overheating: Excessive component temperature affecting stability.",
+      "Application crash: Program unexpectedly stops running."
     ],
     "tip": "A failing CMOS battery may be involved."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "A technician encounters this situation: Verify outlet PSU switch and power connections. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Verify outlet PSU switch and power connections. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "No power",
       "Random shutdown",
@@ -13594,16 +13594,16 @@ const QUESTIONS = [
     ],
     "why": [
       "No power: System shows no sign of electrical startup.",
-      "Random shutdown: Unexpected loss of system operation. This serves a different function from no power.",
-      "Incorrect date/time: Clock settings that reset or drift. This serves a different function from no power.",
-      "POST beeps: Startup diagnostic sound codes for hardware checks. This serves a different function from no power."
+      "Random shutdown: Unexpected loss of system operation.",
+      "Incorrect date/time: Clock settings that reset or drift.",
+      "POST beeps: Startup diagnostic sound codes for hardware checks."
     ],
     "tip": "Verify outlet PSU switch and power connections."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "Which term describes the following capability: program unexpectedly stops running?",
+    "q": "Which option would you select when a support ticket calls for program unexpectedly stops running?",
     "opts": [
       "Application crash",
       "POST beeps",
@@ -13615,16 +13615,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Application crash: Program unexpectedly stops running.",
-      "POST beeps: Startup diagnostic sound codes for hardware checks. This serves a different function from application crash.",
-      "Incorrect date/time: Clock settings that reset or drift. This serves a different function from application crash.",
-      "Random shutdown: Unexpected loss of system operation. This serves a different function from application crash."
+      "POST beeps: Startup diagnostic sound codes for hardware checks.",
+      "Incorrect date/time: Clock settings that reset or drift.",
+      "Random shutdown: Unexpected loss of system operation."
     ],
     "tip": "Distinguish app faults from hardware instability."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "An IT support specialist needs to identify a component or service that startup diagnostic sound codes for hardware checks. What should they select?",
+    "q": "A support team is checking compatibility for startup diagnostic sound codes for hardware checks. Which item should be considered?",
     "opts": [
       "POST beeps",
       "Incorrect date/time",
@@ -13636,16 +13636,16 @@ const QUESTIONS = [
     ],
     "why": [
       "POST beeps: Startup diagnostic sound codes for hardware checks.",
-      "Incorrect date/time: Clock settings that reset or drift. This serves a different function from post beeps.",
-      "Overheating: Excessive component temperature affecting stability. This serves a different function from post beeps.",
-      "Application crash: Program unexpectedly stops running. This serves a different function from post beeps."
+      "Incorrect date/time: Clock settings that reset or drift.",
+      "Overheating: Excessive component temperature affecting stability.",
+      "Application crash: Program unexpectedly stops running."
     ],
     "tip": "Interpret beep patterns using vendor documentation."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "A technician encounters this situation: Check fans dust and heatsink contact. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Check fans dust and heatsink contact. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Overheating",
       "Application crash",
@@ -13657,16 +13657,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Overheating: Excessive component temperature affecting stability.",
-      "Application crash: Program unexpectedly stops running. This serves a different function from overheating.",
-      "Swollen capacitor: Physical sign of possible motherboard failure. This serves a different function from overheating.",
-      "Incorrect date/time: Clock settings that reset or drift. This serves a different function from overheating."
+      "Application crash: Program unexpectedly stops running.",
+      "Swollen capacitor: Physical sign of possible motherboard failure.",
+      "Incorrect date/time: Clock settings that reset or drift."
     ],
     "tip": "Check fans dust and heatsink contact."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.1",
-    "q": "Which term describes the following capability: unexpected loss of system operation?",
+    "q": "A technician is comparing options for this requirement: unexpected loss of system operation. Which technology is appropriate?",
     "opts": [
       "Random shutdown",
       "POST beeps",
@@ -13678,16 +13678,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Random shutdown: Unexpected loss of system operation.",
-      "POST beeps: Startup diagnostic sound codes for hardware checks. This serves a different function from random shutdown.",
-      "Incorrect date/time: Clock settings that reset or drift. This serves a different function from random shutdown.",
-      "Overheating: Excessive component temperature affecting stability. This serves a different function from random shutdown."
+      "POST beeps: Startup diagnostic sound codes for hardware checks.",
+      "Incorrect date/time: Clock settings that reset or drift.",
+      "Overheating: Excessive component temperature affecting stability."
     ],
     "tip": "Check thermal and power conditions."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "A technician encounters this situation: Back up data before investigating replacement. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Back up data before investigating replacement. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "SMART alert",
       "Clicking HDD",
@@ -13699,16 +13699,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SMART alert: Drive health monitoring warning of possible failure.",
-      "Clicking HDD: Repeated mechanical drive clicking. This serves a different function from smart alert.",
-      "Boot device not found: Firmware cannot locate a bootable storage target. This serves a different function from smart alert.",
-      "Low IOPS: Insufficient input/output operations per second. This serves a different function from smart alert."
+      "Clicking HDD: Repeated mechanical drive clicking.",
+      "Boot device not found: Firmware cannot locate a bootable storage target.",
+      "Low IOPS: Insufficient input/output operations per second."
     ],
     "tip": "Back up data before investigating replacement."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "Which term describes the following capability: repeated mechanical drive clicking?",
+    "q": "Which option would you select when a support ticket calls for repeated mechanical drive clicking?",
     "opts": [
       "Clicking HDD",
       "RAID failure",
@@ -13720,16 +13720,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Clicking HDD: Repeated mechanical drive clicking.",
-      "RAID failure: Loss or degradation of a disk array. This serves a different function from clicking hdd.",
-      "Low IOPS: Insufficient input/output operations per second. This serves a different function from clicking hdd.",
-      "Data corruption: Stored information becomes invalid or unreadable. This serves a different function from clicking hdd."
+      "RAID failure: Loss or degradation of a disk array.",
+      "Low IOPS: Insufficient input/output operations per second.",
+      "Data corruption: Stored information becomes invalid or unreadable."
     ],
     "tip": "Mechanical noise can signal impending failure."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "An IT support specialist needs to identify a component or service that loss or degradation of a disk array. What should they select?",
+    "q": "A customer describes a system that needs loss or degradation of a disk array. Which choice matches that need?",
     "opts": [
       "RAID failure",
       "Low IOPS",
@@ -13741,16 +13741,16 @@ const QUESTIONS = [
     ],
     "why": [
       "RAID failure: Loss or degradation of a disk array.",
-      "Low IOPS: Insufficient input/output operations per second. This serves a different function from raid failure.",
-      "Clicking HDD: Repeated mechanical drive clicking. This serves a different function from raid failure.",
-      "SMART alert: Drive health monitoring warning of possible failure. This serves a different function from raid failure."
+      "Low IOPS: Insufficient input/output operations per second.",
+      "Clicking HDD: Repeated mechanical drive clicking.",
+      "SMART alert: Drive health monitoring warning of possible failure."
     ],
     "tip": "Check array status and failed member identification."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "A technician encounters this situation: Inspect boot order and drive detection. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Inspect boot order and drive detection. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Boot device not found",
       "Missing drive",
@@ -13762,16 +13762,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Boot device not found: Firmware cannot locate a bootable storage target.",
-      "Missing drive: Storage device absent from operating system view. This serves a different function from boot device not found.",
-      "RAID failure: Loss or degradation of a disk array. This serves a different function from boot device not found.",
-      "Low IOPS: Insufficient input/output operations per second. This serves a different function from boot device not found."
+      "Missing drive: Storage device absent from operating system view.",
+      "RAID failure: Loss or degradation of a disk array.",
+      "Low IOPS: Insufficient input/output operations per second."
     ],
     "tip": "Inspect boot order and drive detection."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "Which term describes the following capability: insufficient input/output operations per second?",
+    "q": "A technician is comparing options for this requirement: insufficient input/output operations per second. Which technology is appropriate?",
     "opts": [
       "Low IOPS",
       "SMART alert",
@@ -13783,16 +13783,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Low IOPS: Insufficient input/output operations per second.",
-      "SMART alert: Drive health monitoring warning of possible failure. This serves a different function from low iops.",
-      "Data corruption: Stored information becomes invalid or unreadable. This serves a different function from low iops.",
-      "Missing drive: Storage device absent from operating system view. This serves a different function from low iops."
+      "SMART alert: Drive health monitoring warning of possible failure.",
+      "Data corruption: Stored information becomes invalid or unreadable.",
+      "Missing drive: Storage device absent from operating system view."
     ],
     "tip": "Random workloads can expose storage bottlenecks."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "An IT support specialist needs to identify a component or service that stored information becomes invalid or unreadable. What should they select?",
+    "q": "A field technician must provide stored information becomes invalid or unreadable. Which technology fulfills this purpose?",
     "opts": [
       "Data corruption",
       "RAID failure",
@@ -13804,16 +13804,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Data corruption: Stored information becomes invalid or unreadable.",
-      "RAID failure: Loss or degradation of a disk array. This serves a different function from data corruption.",
-      "Boot device not found: Firmware cannot locate a bootable storage target. This serves a different function from data corruption.",
-      "SMART alert: Drive health monitoring warning of possible failure. This serves a different function from data corruption."
+      "RAID failure: Loss or degradation of a disk array.",
+      "Boot device not found: Firmware cannot locate a bootable storage target.",
+      "SMART alert: Drive health monitoring warning of possible failure."
     ],
     "tip": "Prioritize preserving remaining data."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "A technician encounters this situation: Check power data cable and firmware detection. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Check power data cable and firmware detection. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Missing drive",
       "Data corruption",
@@ -13825,16 +13825,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Missing drive: Storage device absent from operating system view.",
-      "Data corruption: Stored information becomes invalid or unreadable. This serves a different function from missing drive.",
-      "Clicking HDD: Repeated mechanical drive clicking. This serves a different function from missing drive.",
-      "Low IOPS: Insufficient input/output operations per second. This serves a different function from missing drive."
+      "Data corruption: Stored information becomes invalid or unreadable.",
+      "Clicking HDD: Repeated mechanical drive clicking.",
+      "Low IOPS: Insufficient input/output operations per second."
     ],
     "tip": "Check power data cable and firmware detection."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "Which term describes the following capability: drive health monitoring warning of possible failure?",
+    "q": "An administrator needs drive health monitoring warning of possible failure. Which item matches the requirement?",
     "opts": [
       "SMART alert",
       "RAID failure",
@@ -13846,16 +13846,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SMART alert: Drive health monitoring warning of possible failure.",
-      "RAID failure: Loss or degradation of a disk array. This serves a different function from smart alert.",
-      "Low IOPS: Insufficient input/output operations per second. This serves a different function from smart alert.",
-      "Missing drive: Storage device absent from operating system view. This serves a different function from smart alert."
+      "RAID failure: Loss or degradation of a disk array.",
+      "Low IOPS: Insufficient input/output operations per second.",
+      "Missing drive: Storage device absent from operating system view."
     ],
     "tip": "Back up data before investigating replacement."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "An IT support specialist needs to identify a component or service that repeated mechanical drive clicking. What should they select?",
+    "q": "A repair ticket specifies repeated mechanical drive clicking. Which item addresses that specification?",
     "opts": [
       "Clicking HDD",
       "Data corruption",
@@ -13867,16 +13867,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Clicking HDD: Repeated mechanical drive clicking.",
-      "Data corruption: Stored information becomes invalid or unreadable. This serves a different function from clicking hdd.",
-      "SMART alert: Drive health monitoring warning of possible failure. This serves a different function from clicking hdd.",
-      "Missing drive: Storage device absent from operating system view. This serves a different function from clicking hdd."
+      "Data corruption: Stored information becomes invalid or unreadable.",
+      "SMART alert: Drive health monitoring warning of possible failure.",
+      "Missing drive: Storage device absent from operating system view."
     ],
     "tip": "Mechanical noise can signal impending failure."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "A technician encounters this situation: Check array status and failed member identification. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Check array status and failed member identification. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "RAID failure",
       "Clicking HDD",
@@ -13888,16 +13888,16 @@ const QUESTIONS = [
     ],
     "why": [
       "RAID failure: Loss or degradation of a disk array.",
-      "Clicking HDD: Repeated mechanical drive clicking. This serves a different function from raid failure.",
-      "Missing drive: Storage device absent from operating system view. This serves a different function from raid failure.",
-      "Low IOPS: Insufficient input/output operations per second. This serves a different function from raid failure."
+      "Clicking HDD: Repeated mechanical drive clicking.",
+      "Missing drive: Storage device absent from operating system view.",
+      "Low IOPS: Insufficient input/output operations per second."
     ],
     "tip": "Check array status and failed member identification."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "Which term describes the following capability: firmware cannot locate a bootable storage target?",
+    "q": "A device specification mentions firmware cannot locate a bootable storage target. What feature is being described?",
     "opts": [
       "Boot device not found",
       "SMART alert",
@@ -13909,16 +13909,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Boot device not found: Firmware cannot locate a bootable storage target.",
-      "SMART alert: Drive health monitoring warning of possible failure. This serves a different function from boot device not found.",
-      "Clicking HDD: Repeated mechanical drive clicking. This serves a different function from boot device not found.",
-      "Low IOPS: Insufficient input/output operations per second. This serves a different function from boot device not found."
+      "SMART alert: Drive health monitoring warning of possible failure.",
+      "Clicking HDD: Repeated mechanical drive clicking.",
+      "Low IOPS: Insufficient input/output operations per second."
     ],
     "tip": "Inspect boot order and drive detection."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "An IT support specialist needs to identify a component or service that insufficient input/output operations per second. What should they select?",
+    "q": "During a help-desk escalation, the documented need is insufficient input/output operations per second. What should the technician use?",
     "opts": [
       "Low IOPS",
       "Data corruption",
@@ -13930,16 +13930,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Low IOPS: Insufficient input/output operations per second.",
-      "Data corruption: Stored information becomes invalid or unreadable. This serves a different function from low iops.",
-      "SMART alert: Drive health monitoring warning of possible failure. This serves a different function from low iops.",
-      "Clicking HDD: Repeated mechanical drive clicking. This serves a different function from low iops."
+      "Data corruption: Stored information becomes invalid or unreadable.",
+      "SMART alert: Drive health monitoring warning of possible failure.",
+      "Clicking HDD: Repeated mechanical drive clicking."
     ],
     "tip": "Random workloads can expose storage bottlenecks."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "A technician encounters this situation: Prioritize preserving remaining data. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Prioritize preserving remaining data. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Data corruption",
       "Missing drive",
@@ -13951,16 +13951,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Data corruption: Stored information becomes invalid or unreadable.",
-      "Missing drive: Storage device absent from operating system view. This serves a different function from data corruption.",
-      "Low IOPS: Insufficient input/output operations per second. This serves a different function from data corruption.",
-      "SMART alert: Drive health monitoring warning of possible failure. This serves a different function from data corruption."
+      "Missing drive: Storage device absent from operating system view.",
+      "Low IOPS: Insufficient input/output operations per second.",
+      "SMART alert: Drive health monitoring warning of possible failure."
     ],
     "tip": "Prioritize preserving remaining data."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "Which term describes the following capability: storage device absent from operating system view?",
+    "q": "Which option would you select when a support ticket calls for storage device absent from operating system view?",
     "opts": [
       "Missing drive",
       "Data corruption",
@@ -13972,16 +13972,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Missing drive: Storage device absent from operating system view.",
-      "Data corruption: Stored information becomes invalid or unreadable. This serves a different function from missing drive.",
-      "Boot device not found: Firmware cannot locate a bootable storage target. This serves a different function from missing drive.",
-      "SMART alert: Drive health monitoring warning of possible failure. This serves a different function from missing drive."
+      "Data corruption: Stored information becomes invalid or unreadable.",
+      "Boot device not found: Firmware cannot locate a bootable storage target.",
+      "SMART alert: Drive health monitoring warning of possible failure."
     ],
     "tip": "Check power data cable and firmware detection."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "An IT support specialist needs to identify a component or service that drive health monitoring warning of possible failure. What should they select?",
+    "q": "A support team is checking compatibility for drive health monitoring warning of possible failure. Which item should be considered?",
     "opts": [
       "SMART alert",
       "Low IOPS",
@@ -13993,16 +13993,16 @@ const QUESTIONS = [
     ],
     "why": [
       "SMART alert: Drive health monitoring warning of possible failure.",
-      "Low IOPS: Insufficient input/output operations per second. This serves a different function from smart alert.",
-      "Data corruption: Stored information becomes invalid or unreadable. This serves a different function from smart alert.",
-      "Boot device not found: Firmware cannot locate a bootable storage target. This serves a different function from smart alert."
+      "Low IOPS: Insufficient input/output operations per second.",
+      "Data corruption: Stored information becomes invalid or unreadable.",
+      "Boot device not found: Firmware cannot locate a bootable storage target."
     ],
     "tip": "Back up data before investigating replacement."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "A technician encounters this situation: Mechanical noise can signal impending failure. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Mechanical noise can signal impending failure. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Clicking HDD",
       "Missing drive",
@@ -14014,16 +14014,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Clicking HDD: Repeated mechanical drive clicking.",
-      "Missing drive: Storage device absent from operating system view. This serves a different function from clicking hdd.",
-      "SMART alert: Drive health monitoring warning of possible failure. This serves a different function from clicking hdd.",
-      "RAID failure: Loss or degradation of a disk array. This serves a different function from clicking hdd."
+      "Missing drive: Storage device absent from operating system view.",
+      "SMART alert: Drive health monitoring warning of possible failure.",
+      "RAID failure: Loss or degradation of a disk array."
     ],
     "tip": "Mechanical noise can signal impending failure."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.2",
-    "q": "Which term describes the following capability: loss or degradation of a disk array?",
+    "q": "A technician is comparing options for this requirement: loss or degradation of a disk array. Which technology is appropriate?",
     "opts": [
       "RAID failure",
       "Boot device not found",
@@ -14035,16 +14035,16 @@ const QUESTIONS = [
     ],
     "why": [
       "RAID failure: Loss or degradation of a disk array.",
-      "Boot device not found: Firmware cannot locate a bootable storage target. This serves a different function from raid failure.",
-      "Data corruption: Stored information becomes invalid or unreadable. This serves a different function from raid failure.",
-      "Low IOPS: Insufficient input/output operations per second. This serves a different function from raid failure."
+      "Boot device not found: Firmware cannot locate a bootable storage target.",
+      "Data corruption: Stored information becomes invalid or unreadable.",
+      "Low IOPS: Insufficient input/output operations per second."
     ],
     "tip": "Check array status and failed member identification."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "A technician encounters this situation: Select the active HDMI or DisplayPort input. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Select the active HDMI or DisplayPort input. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Incorrect input source",
       "Fuzzy image",
@@ -14056,16 +14056,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Incorrect input source: Display listens to the wrong input connector.",
-      "Fuzzy image: Projected or displayed image lacks sharpness. This serves a different function from incorrect input source.",
-      "Burnt-out bulb: Projector light source no longer operates. This serves a different function from incorrect input source.",
-      "Burn-in: Persistent image retention damage on a display. This serves a different function from incorrect input source."
+      "Fuzzy image: Projected or displayed image lacks sharpness.",
+      "Burnt-out bulb: Projector light source no longer operates.",
+      "Burn-in: Persistent image retention damage on a display."
     ],
     "tip": "Select the active HDMI or DisplayPort input."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "Which term describes the following capability: individual screen pixels that no longer function correctly?",
+    "q": "Which option would you select when a support ticket calls for individual screen pixels that no longer function correctly?",
     "opts": [
       "Dead pixels",
       "Incorrect input source",
@@ -14077,16 +14077,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Dead pixels: Individual screen pixels that no longer function correctly.",
-      "Incorrect input source: Display listens to the wrong input connector. This serves a different function from dead pixels.",
-      "Fuzzy image: Projected or displayed image lacks sharpness. This serves a different function from dead pixels.",
-      "Burnt-out bulb: Projector light source no longer operates. This serves a different function from dead pixels."
+      "Incorrect input source: Display listens to the wrong input connector.",
+      "Fuzzy image: Projected or displayed image lacks sharpness.",
+      "Burnt-out bulb: Projector light source no longer operates."
     ],
     "tip": "A single bad pixel differs from total signal loss."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "An IT support specialist needs to identify a component or service that persistent image retention damage on a display. What should they select?",
+    "q": "A customer describes a system that needs persistent image retention damage on a display. Which choice matches that need?",
     "opts": [
       "Burn-in",
       "Burnt-out bulb",
@@ -14098,16 +14098,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Burn-in: Persistent image retention damage on a display.",
-      "Burnt-out bulb: Projector light source no longer operates. This serves a different function from burn-in.",
-      "Dim image: Display output has insufficient brightness. This serves a different function from burn-in.",
-      "Dead pixels: Individual screen pixels that no longer function correctly. This serves a different function from burn-in."
+      "Burnt-out bulb: Projector light source no longer operates.",
+      "Dim image: Display output has insufficient brightness.",
+      "Dead pixels: Individual screen pixels that no longer function correctly."
     ],
     "tip": "Static imagery is especially relevant to OLED."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "A technician encounters this situation: Check brightness backlight and power. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Check brightness backlight and power. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Dim image",
       "Fuzzy image",
@@ -14119,16 +14119,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Dim image: Display output has insufficient brightness.",
-      "Fuzzy image: Projected or displayed image lacks sharpness. This serves a different function from dim image.",
-      "Dead pixels: Individual screen pixels that no longer function correctly. This serves a different function from dim image.",
-      "Flashing screen: Display intermittently flickers. This serves a different function from dim image."
+      "Fuzzy image: Projected or displayed image lacks sharpness.",
+      "Dead pixels: Individual screen pixels that no longer function correctly.",
+      "Flashing screen: Display intermittently flickers."
     ],
     "tip": "Check brightness backlight and power."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "Which term describes the following capability: projected or displayed image lacks sharpness?",
+    "q": "A technician is comparing options for this requirement: projected or displayed image lacks sharpness. Which technology is appropriate?",
     "opts": [
       "Fuzzy image",
       "Dim image",
@@ -14140,16 +14140,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Fuzzy image: Projected or displayed image lacks sharpness.",
-      "Dim image: Display output has insufficient brightness. This serves a different function from fuzzy image.",
-      "Burn-in: Persistent image retention damage on a display. This serves a different function from fuzzy image.",
-      "Burnt-out bulb: Projector light source no longer operates. This serves a different function from fuzzy image."
+      "Dim image: Display output has insufficient brightness.",
+      "Burn-in: Persistent image retention damage on a display.",
+      "Burnt-out bulb: Projector light source no longer operates."
     ],
     "tip": "Adjust focus and native resolution."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "An IT support specialist needs to identify a component or service that projector light source no longer operates. What should they select?",
+    "q": "A field technician must provide projector light source no longer operates. Which technology fulfills this purpose?",
     "opts": [
       "Burnt-out bulb",
       "Dim image",
@@ -14161,16 +14161,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Burnt-out bulb: Projector light source no longer operates.",
-      "Dim image: Display output has insufficient brightness. This serves a different function from burnt-out bulb.",
-      "Incorrect input source: Display listens to the wrong input connector. This serves a different function from burnt-out bulb.",
-      "Burn-in: Persistent image retention damage on a display. This serves a different function from burnt-out bulb."
+      "Dim image: Display output has insufficient brightness.",
+      "Incorrect input source: Display listens to the wrong input connector.",
+      "Burn-in: Persistent image retention damage on a display."
     ],
     "tip": "Follow safe cooling before lamp replacement."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "A technician encounters this situation: Check cable refresh rate and display hardware. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Check cable refresh rate and display hardware. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Flashing screen",
       "Incorrect input source",
@@ -14182,16 +14182,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Flashing screen: Display intermittently flickers.",
-      "Incorrect input source: Display listens to the wrong input connector. This serves a different function from flashing screen.",
-      "Fuzzy image: Projected or displayed image lacks sharpness. This serves a different function from flashing screen.",
-      "Burn-in: Persistent image retention damage on a display. This serves a different function from flashing screen."
+      "Incorrect input source: Display listens to the wrong input connector.",
+      "Fuzzy image: Projected or displayed image lacks sharpness.",
+      "Burn-in: Persistent image retention damage on a display."
     ],
     "tip": "Check cable refresh rate and display hardware."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "Which term describes the following capability: display listens to the wrong input connector?",
+    "q": "An administrator needs display listens to the wrong input connector. Which item matches the requirement?",
     "opts": [
       "Incorrect input source",
       "Dim image",
@@ -14203,16 +14203,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Incorrect input source: Display listens to the wrong input connector.",
-      "Dim image: Display output has insufficient brightness. This serves a different function from incorrect input source.",
-      "Burn-in: Persistent image retention damage on a display. This serves a different function from incorrect input source.",
-      "Dead pixels: Individual screen pixels that no longer function correctly. This serves a different function from incorrect input source."
+      "Dim image: Display output has insufficient brightness.",
+      "Burn-in: Persistent image retention damage on a display.",
+      "Dead pixels: Individual screen pixels that no longer function correctly."
     ],
     "tip": "Select the active HDMI or DisplayPort input."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "An IT support specialist needs to identify a component or service that individual screen pixels that no longer function correctly. What should they select?",
+    "q": "A repair ticket specifies individual screen pixels that no longer function correctly. Which item addresses that specification?",
     "opts": [
       "Dead pixels",
       "Burnt-out bulb",
@@ -14224,16 +14224,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Dead pixels: Individual screen pixels that no longer function correctly.",
-      "Burnt-out bulb: Projector light source no longer operates. This serves a different function from dead pixels.",
-      "Burn-in: Persistent image retention damage on a display. This serves a different function from dead pixels.",
-      "Flashing screen: Display intermittently flickers. This serves a different function from dead pixels."
+      "Burnt-out bulb: Projector light source no longer operates.",
+      "Burn-in: Persistent image retention damage on a display.",
+      "Flashing screen: Display intermittently flickers."
     ],
     "tip": "A single bad pixel differs from total signal loss."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "A technician encounters this situation: Static imagery is especially relevant to OLED. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Static imagery is especially relevant to OLED. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Burn-in",
       "Burnt-out bulb",
@@ -14245,16 +14245,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Burn-in: Persistent image retention damage on a display.",
-      "Burnt-out bulb: Projector light source no longer operates. This serves a different function from burn-in.",
-      "Fuzzy image: Projected or displayed image lacks sharpness. This serves a different function from burn-in.",
-      "Dead pixels: Individual screen pixels that no longer function correctly. This serves a different function from burn-in."
+      "Burnt-out bulb: Projector light source no longer operates.",
+      "Fuzzy image: Projected or displayed image lacks sharpness.",
+      "Dead pixels: Individual screen pixels that no longer function correctly."
     ],
     "tip": "Static imagery is especially relevant to OLED."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "Which term describes the following capability: display output has insufficient brightness?",
+    "q": "A device specification mentions display output has insufficient brightness. What feature is being described?",
     "opts": [
       "Dim image",
       "Dead pixels",
@@ -14266,16 +14266,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Dim image: Display output has insufficient brightness.",
-      "Dead pixels: Individual screen pixels that no longer function correctly. This serves a different function from dim image.",
-      "Fuzzy image: Projected or displayed image lacks sharpness. This serves a different function from dim image.",
-      "Burn-in: Persistent image retention damage on a display. This serves a different function from dim image."
+      "Dead pixels: Individual screen pixels that no longer function correctly.",
+      "Fuzzy image: Projected or displayed image lacks sharpness.",
+      "Burn-in: Persistent image retention damage on a display."
     ],
     "tip": "Check brightness backlight and power."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "An IT support specialist needs to identify a component or service that projected or displayed image lacks sharpness. What should they select?",
+    "q": "During a help-desk escalation, the documented need is projected or displayed image lacks sharpness. What should the technician use?",
     "opts": [
       "Fuzzy image",
       "Burn-in",
@@ -14287,16 +14287,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Fuzzy image: Projected or displayed image lacks sharpness.",
-      "Burn-in: Persistent image retention damage on a display. This serves a different function from fuzzy image.",
-      "Dim image: Display output has insufficient brightness. This serves a different function from fuzzy image.",
-      "Dead pixels: Individual screen pixels that no longer function correctly. This serves a different function from fuzzy image."
+      "Burn-in: Persistent image retention damage on a display.",
+      "Dim image: Display output has insufficient brightness.",
+      "Dead pixels: Individual screen pixels that no longer function correctly."
     ],
     "tip": "Adjust focus and native resolution."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "A technician encounters this situation: Follow safe cooling before lamp replacement. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Follow safe cooling before lamp replacement. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Burnt-out bulb",
       "Burn-in",
@@ -14308,16 +14308,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Burnt-out bulb: Projector light source no longer operates.",
-      "Burn-in: Persistent image retention damage on a display. This serves a different function from burnt-out bulb.",
-      "Dim image: Display output has insufficient brightness. This serves a different function from burnt-out bulb.",
-      "Fuzzy image: Projected or displayed image lacks sharpness. This serves a different function from burnt-out bulb."
+      "Burn-in: Persistent image retention damage on a display.",
+      "Dim image: Display output has insufficient brightness.",
+      "Fuzzy image: Projected or displayed image lacks sharpness."
     ],
     "tip": "Follow safe cooling before lamp replacement."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "Which term describes the following capability: display intermittently flickers?",
+    "q": "Which option would you select when a support ticket calls for display intermittently flickers?",
     "opts": [
       "Flashing screen",
       "Dim image",
@@ -14329,16 +14329,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Flashing screen: Display intermittently flickers.",
-      "Dim image: Display output has insufficient brightness. This serves a different function from flashing screen.",
-      "Burnt-out bulb: Projector light source no longer operates. This serves a different function from flashing screen.",
-      "Burn-in: Persistent image retention damage on a display. This serves a different function from flashing screen."
+      "Dim image: Display output has insufficient brightness.",
+      "Burnt-out bulb: Projector light source no longer operates.",
+      "Burn-in: Persistent image retention damage on a display."
     ],
     "tip": "Check cable refresh rate and display hardware."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "An IT support specialist needs to identify a component or service that display listens to the wrong input connector. What should they select?",
+    "q": "A support team is checking compatibility for display listens to the wrong input connector. Which item should be considered?",
     "opts": [
       "Incorrect input source",
       "Dim image",
@@ -14350,16 +14350,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Incorrect input source: Display listens to the wrong input connector.",
-      "Dim image: Display output has insufficient brightness. This serves a different function from incorrect input source.",
-      "Dead pixels: Individual screen pixels that no longer function correctly. This serves a different function from incorrect input source.",
-      "Burnt-out bulb: Projector light source no longer operates. This serves a different function from incorrect input source."
+      "Dim image: Display output has insufficient brightness.",
+      "Dead pixels: Individual screen pixels that no longer function correctly.",
+      "Burnt-out bulb: Projector light source no longer operates."
     ],
     "tip": "Select the active HDMI or DisplayPort input."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "A technician encounters this situation: A single bad pixel differs from total signal loss. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: A single bad pixel differs from total signal loss. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Dead pixels",
       "Incorrect input source",
@@ -14371,16 +14371,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Dead pixels: Individual screen pixels that no longer function correctly.",
-      "Incorrect input source: Display listens to the wrong input connector. This serves a different function from dead pixels.",
-      "Burnt-out bulb: Projector light source no longer operates. This serves a different function from dead pixels.",
-      "Burn-in: Persistent image retention damage on a display. This serves a different function from dead pixels."
+      "Incorrect input source: Display listens to the wrong input connector.",
+      "Burnt-out bulb: Projector light source no longer operates.",
+      "Burn-in: Persistent image retention damage on a display."
     ],
     "tip": "A single bad pixel differs from total signal loss."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "Which term describes the following capability: persistent image retention damage on a display?",
+    "q": "A technician is comparing options for this requirement: persistent image retention damage on a display. Which technology is appropriate?",
     "opts": [
       "Burn-in",
       "Dead pixels",
@@ -14392,16 +14392,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Burn-in: Persistent image retention damage on a display.",
-      "Dead pixels: Individual screen pixels that no longer function correctly. This serves a different function from burn-in.",
-      "Dim image: Display output has insufficient brightness. This serves a different function from burn-in.",
-      "Incorrect input source: Display listens to the wrong input connector. This serves a different function from burn-in."
+      "Dead pixels: Individual screen pixels that no longer function correctly.",
+      "Dim image: Display output has insufficient brightness.",
+      "Incorrect input source: Display listens to the wrong input connector."
     ],
     "tip": "Static imagery is especially relevant to OLED."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.3",
-    "q": "An IT support specialist needs to identify a component or service that display output has insufficient brightness. What should they select?",
+    "q": "An IT department is purchasing equipment for display output has insufficient brightness. Which option is relevant?",
     "opts": [
       "Dim image",
       "Incorrect input source",
@@ -14413,16 +14413,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Dim image: Display output has insufficient brightness.",
-      "Incorrect input source: Display listens to the wrong input connector. This serves a different function from dim image.",
-      "Fuzzy image: Projected or displayed image lacks sharpness. This serves a different function from dim image.",
-      "Flashing screen: Display intermittently flickers. This serves a different function from dim image."
+      "Incorrect input source: Display listens to the wrong input connector.",
+      "Fuzzy image: Projected or displayed image lacks sharpness.",
+      "Flashing screen: Display intermittently flickers."
     ],
     "tip": "Check brightness backlight and power."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "A technician encounters this situation: Stop charging and follow safe replacement procedures. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Stop charging and follow safe replacement procedures. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Swollen battery",
       "Digitizer failure",
@@ -14434,16 +14434,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Swollen battery: Physically expanded rechargeable cell.",
-      "Digitizer failure: Touch sensing malfunction with image still visible. This serves a different function from swollen battery.",
-      "Charging port damage: Physical connector damage preventing reliable power. This serves a different function from swollen battery.",
-      "Overheating phone: Mobile device becomes excessively hot. This serves a different function from swollen battery."
+      "Digitizer failure: Touch sensing malfunction with image still visible.",
+      "Charging port damage: Physical connector damage preventing reliable power.",
+      "Overheating phone: Mobile device becomes excessively hot."
     ],
     "tip": "Stop charging and follow safe replacement procedures."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "Which term describes the following capability: touch sensing malfunction with image still visible?",
+    "q": "Which option would you select when a support ticket calls for touch sensing malfunction with image still visible?",
     "opts": [
       "Digitizer failure",
       "Poor connectivity",
@@ -14455,16 +14455,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Digitizer failure: Touch sensing malfunction with image still visible.",
-      "Poor connectivity: Weak or absent mobile network access. This serves a different function from digitizer failure.",
-      "Cursor drift: Touch pointer moves or registers inaccurately. This serves a different function from digitizer failure.",
-      "Malware: Malicious software affecting device operation. This serves a different function from digitizer failure."
+      "Poor connectivity: Weak or absent mobile network access.",
+      "Cursor drift: Touch pointer moves or registers inaccurately.",
+      "Malware: Malicious software affecting device operation."
     ],
     "tip": "Touch and display image are separate functions."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "An IT support specialist needs to identify a component or service that physical connector damage preventing reliable power. What should they select?",
+    "q": "A customer describes a system that needs physical connector damage preventing reliable power. Which choice matches that need?",
     "opts": [
       "Charging port damage",
       "Malware",
@@ -14476,16 +14476,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Charging port damage: Physical connector damage preventing reliable power.",
-      "Malware: Malicious software affecting device operation. This serves a different function from charging port damage.",
-      "Swollen battery: Physically expanded rechargeable cell. This serves a different function from charging port damage.",
-      "Cursor drift: Touch pointer moves or registers inaccurately. This serves a different function from charging port damage."
+      "Malware: Malicious software affecting device operation.",
+      "Swollen battery: Physically expanded rechargeable cell.",
+      "Cursor drift: Touch pointer moves or registers inaccurately."
     ],
     "tip": "Inspect the port before blaming the charger."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "A technician encounters this situation: Unexpected behavior can require security checks. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Unexpected behavior can require security checks. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Malware",
       "Cursor drift",
@@ -14497,16 +14497,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Malware: Malicious software affecting device operation.",
-      "Cursor drift: Touch pointer moves or registers inaccurately. This serves a different function from malware.",
-      "Digitizer failure: Touch sensing malfunction with image still visible. This serves a different function from malware.",
-      "Charging port damage: Physical connector damage preventing reliable power. This serves a different function from malware."
+      "Cursor drift: Touch pointer moves or registers inaccurately.",
+      "Digitizer failure: Touch sensing malfunction with image still visible.",
+      "Charging port damage: Physical connector damage preventing reliable power."
     ],
     "tip": "Unexpected behavior can require security checks."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "Which term describes the following capability: touch pointer moves or registers inaccurately?",
+    "q": "A technician is comparing options for this requirement: touch pointer moves or registers inaccurately. Which technology is appropriate?",
     "opts": [
       "Cursor drift",
       "Malware",
@@ -14518,16 +14518,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Cursor drift: Touch pointer moves or registers inaccurately.",
-      "Malware: Malicious software affecting device operation. This serves a different function from cursor drift.",
-      "Poor connectivity: Weak or absent mobile network access. This serves a different function from cursor drift.",
-      "Charging port damage: Physical connector damage preventing reliable power. This serves a different function from cursor drift."
+      "Malware: Malicious software affecting device operation.",
+      "Poor connectivity: Weak or absent mobile network access.",
+      "Charging port damage: Physical connector damage preventing reliable power."
     ],
     "tip": "Calibration and digitizer faults can be involved."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "An IT support specialist needs to identify a component or service that mobile device becomes excessively hot. What should they select?",
+    "q": "A field technician must provide mobile device becomes excessively hot. Which technology fulfills this purpose?",
     "opts": [
       "Overheating phone",
       "Charging port damage",
@@ -14539,16 +14539,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Overheating phone: Mobile device becomes excessively hot.",
-      "Charging port damage: Physical connector damage preventing reliable power. This serves a different function from overheating phone.",
-      "Swollen battery: Physically expanded rechargeable cell. This serves a different function from overheating phone.",
-      "Cursor drift: Touch pointer moves or registers inaccurately. This serves a different function from overheating phone."
+      "Charging port damage: Physical connector damage preventing reliable power.",
+      "Swollen battery: Physically expanded rechargeable cell.",
+      "Cursor drift: Touch pointer moves or registers inaccurately."
     ],
     "tip": "Check charging battery and workload."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "A technician encounters this situation: Isolate Wi-Fi cellular and Bluetooth separately. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Isolate Wi-Fi cellular and Bluetooth separately. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Poor connectivity",
       "Cursor drift",
@@ -14560,16 +14560,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Poor connectivity: Weak or absent mobile network access.",
-      "Cursor drift: Touch pointer moves or registers inaccurately. This serves a different function from poor connectivity.",
-      "Charging port damage: Physical connector damage preventing reliable power. This serves a different function from poor connectivity.",
-      "Malware: Malicious software affecting device operation. This serves a different function from poor connectivity."
+      "Cursor drift: Touch pointer moves or registers inaccurately.",
+      "Charging port damage: Physical connector damage preventing reliable power.",
+      "Malware: Malicious software affecting device operation."
     ],
     "tip": "Isolate Wi-Fi cellular and Bluetooth separately."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "Which term describes the following capability: physically expanded rechargeable cell?",
+    "q": "An administrator needs physically expanded rechargeable cell. Which item matches the requirement?",
     "opts": [
       "Swollen battery",
       "Poor connectivity",
@@ -14581,16 +14581,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Swollen battery: Physically expanded rechargeable cell.",
-      "Poor connectivity: Weak or absent mobile network access. This serves a different function from swollen battery.",
-      "Charging port damage: Physical connector damage preventing reliable power. This serves a different function from swollen battery.",
-      "Overheating phone: Mobile device becomes excessively hot. This serves a different function from swollen battery."
+      "Poor connectivity: Weak or absent mobile network access.",
+      "Charging port damage: Physical connector damage preventing reliable power.",
+      "Overheating phone: Mobile device becomes excessively hot."
     ],
     "tip": "Stop charging and follow safe replacement procedures."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "An IT support specialist needs to identify a component or service that touch sensing malfunction with image still visible. What should they select?",
+    "q": "A repair ticket specifies touch sensing malfunction with image still visible. Which item addresses that specification?",
     "opts": [
       "Digitizer failure",
       "Cursor drift",
@@ -14602,16 +14602,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Digitizer failure: Touch sensing malfunction with image still visible.",
-      "Cursor drift: Touch pointer moves or registers inaccurately. This serves a different function from digitizer failure.",
-      "Malware: Malicious software affecting device operation. This serves a different function from digitizer failure.",
-      "Poor connectivity: Weak or absent mobile network access. This serves a different function from digitizer failure."
+      "Cursor drift: Touch pointer moves or registers inaccurately.",
+      "Malware: Malicious software affecting device operation.",
+      "Poor connectivity: Weak or absent mobile network access."
     ],
     "tip": "Touch and display image are separate functions."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "A technician encounters this situation: Inspect the port before blaming the charger. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Inspect the port before blaming the charger. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Charging port damage",
       "Digitizer failure",
@@ -14623,16 +14623,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Charging port damage: Physical connector damage preventing reliable power.",
-      "Digitizer failure: Touch sensing malfunction with image still visible. This serves a different function from charging port damage.",
-      "Poor connectivity: Weak or absent mobile network access. This serves a different function from charging port damage.",
-      "Malware: Malicious software affecting device operation. This serves a different function from charging port damage."
+      "Digitizer failure: Touch sensing malfunction with image still visible.",
+      "Poor connectivity: Weak or absent mobile network access.",
+      "Malware: Malicious software affecting device operation."
     ],
     "tip": "Inspect the port before blaming the charger."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "Which term describes the following capability: malicious software affecting device operation?",
+    "q": "A device specification mentions malicious software affecting device operation. What feature is being described?",
     "opts": [
       "Malware",
       "Overheating phone",
@@ -14644,16 +14644,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Malware: Malicious software affecting device operation.",
-      "Overheating phone: Mobile device becomes excessively hot. This serves a different function from malware.",
-      "Digitizer failure: Touch sensing malfunction with image still visible. This serves a different function from malware.",
-      "Charging port damage: Physical connector damage preventing reliable power. This serves a different function from malware."
+      "Overheating phone: Mobile device becomes excessively hot.",
+      "Digitizer failure: Touch sensing malfunction with image still visible.",
+      "Charging port damage: Physical connector damage preventing reliable power."
     ],
     "tip": "Unexpected behavior can require security checks."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "An IT support specialist needs to identify a component or service that touch pointer moves or registers inaccurately. What should they select?",
+    "q": "During a help-desk escalation, the documented need is touch pointer moves or registers inaccurately. What should the technician use?",
     "opts": [
       "Cursor drift",
       "Poor connectivity",
@@ -14665,16 +14665,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Cursor drift: Touch pointer moves or registers inaccurately.",
-      "Poor connectivity: Weak or absent mobile network access. This serves a different function from cursor drift.",
-      "Charging port damage: Physical connector damage preventing reliable power. This serves a different function from cursor drift.",
-      "Swollen battery: Physically expanded rechargeable cell. This serves a different function from cursor drift."
+      "Poor connectivity: Weak or absent mobile network access.",
+      "Charging port damage: Physical connector damage preventing reliable power.",
+      "Swollen battery: Physically expanded rechargeable cell."
     ],
     "tip": "Calibration and digitizer faults can be involved."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "A technician encounters this situation: Check charging battery and workload. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Check charging battery and workload. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Overheating phone",
       "Malware",
@@ -14686,16 +14686,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Overheating phone: Mobile device becomes excessively hot.",
-      "Malware: Malicious software affecting device operation. This serves a different function from overheating phone.",
-      "Charging port damage: Physical connector damage preventing reliable power. This serves a different function from overheating phone.",
-      "Swollen battery: Physically expanded rechargeable cell. This serves a different function from overheating phone."
+      "Malware: Malicious software affecting device operation.",
+      "Charging port damage: Physical connector damage preventing reliable power.",
+      "Swollen battery: Physically expanded rechargeable cell."
     ],
     "tip": "Check charging battery and workload."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "Which term describes the following capability: weak or absent mobile network access?",
+    "q": "Which option would you select when a support ticket calls for weak or absent mobile network access?",
     "opts": [
       "Poor connectivity",
       "Overheating phone",
@@ -14707,16 +14707,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Poor connectivity: Weak or absent mobile network access.",
-      "Overheating phone: Mobile device becomes excessively hot. This serves a different function from poor connectivity.",
-      "Malware: Malicious software affecting device operation. This serves a different function from poor connectivity.",
-      "Swollen battery: Physically expanded rechargeable cell. This serves a different function from poor connectivity."
+      "Overheating phone: Mobile device becomes excessively hot.",
+      "Malware: Malicious software affecting device operation.",
+      "Swollen battery: Physically expanded rechargeable cell."
     ],
     "tip": "Isolate Wi-Fi cellular and Bluetooth separately."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "An IT support specialist needs to identify a component or service that physically expanded rechargeable cell. What should they select?",
+    "q": "A support team is checking compatibility for physically expanded rechargeable cell. Which item should be considered?",
     "opts": [
       "Swollen battery",
       "Malware",
@@ -14728,16 +14728,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Swollen battery: Physically expanded rechargeable cell.",
-      "Malware: Malicious software affecting device operation. This serves a different function from swollen battery.",
-      "Poor connectivity: Weak or absent mobile network access. This serves a different function from swollen battery.",
-      "Charging port damage: Physical connector damage preventing reliable power. This serves a different function from swollen battery."
+      "Malware: Malicious software affecting device operation.",
+      "Poor connectivity: Weak or absent mobile network access.",
+      "Charging port damage: Physical connector damage preventing reliable power."
     ],
     "tip": "Stop charging and follow safe replacement procedures."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "A technician encounters this situation: Touch and display image are separate functions. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Touch and display image are separate functions. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Digitizer failure",
       "Swollen battery",
@@ -14749,16 +14749,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Digitizer failure: Touch sensing malfunction with image still visible.",
-      "Swollen battery: Physically expanded rechargeable cell. This serves a different function from digitizer failure.",
-      "Charging port damage: Physical connector damage preventing reliable power. This serves a different function from digitizer failure.",
-      "Cursor drift: Touch pointer moves or registers inaccurately. This serves a different function from digitizer failure."
+      "Swollen battery: Physically expanded rechargeable cell.",
+      "Charging port damage: Physical connector damage preventing reliable power.",
+      "Cursor drift: Touch pointer moves or registers inaccurately."
     ],
     "tip": "Touch and display image are separate functions."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.4",
-    "q": "Which term describes the following capability: physical connector damage preventing reliable power?",
+    "q": "A technician is comparing options for this requirement: physical connector damage preventing reliable power. Which technology is appropriate?",
     "opts": [
       "Charging port damage",
       "Poor connectivity",
@@ -14770,16 +14770,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Charging port damage: Physical connector damage preventing reliable power.",
-      "Poor connectivity: Weak or absent mobile network access. This serves a different function from charging port damage.",
-      "Malware: Malicious software affecting device operation. This serves a different function from charging port damage.",
-      "Swollen battery: Physically expanded rechargeable cell. This serves a different function from charging port damage."
+      "Poor connectivity: Weak or absent mobile network access.",
+      "Malware: Malicious software affecting device operation.",
+      "Swollen battery: Physically expanded rechargeable cell."
     ],
     "tip": "Inspect the port before blaming the charger."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "A technician encounters this situation: VoIP audio breaks up when timing varies. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: VoIP audio breaks up when timing varies. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Jitter",
       "Authentication failure",
@@ -14791,16 +14791,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Jitter: Variation in packet arrival delay.",
-      "Authentication failure: Access rejected during identity verification. This serves a different function from jitter.",
-      "Slow network: Throughput lower than expected. This serves a different function from jitter.",
-      "Wireless interference: Competing radio signals degrade Wi-Fi. This serves a different function from jitter."
+      "Authentication failure: Access rejected during identity verification.",
+      "Slow network: Throughput lower than expected.",
+      "Wireless interference: Competing radio signals degrade Wi-Fi."
     ],
     "tip": "VoIP audio breaks up when timing varies."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "Which term describes the following capability: delay for data to traverse a network path?",
+    "q": "Which option would you select when a support ticket calls for delay for data to traverse a network path?",
     "opts": [
       "Latency",
       "Jitter",
@@ -14812,16 +14812,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Latency: Delay for data to traverse a network path.",
-      "Jitter: Variation in packet arrival delay. This serves a different function from latency.",
-      "Port flapping: Switch port repeatedly changes link state. This serves a different function from latency.",
-      "Wireless interference: Competing radio signals degrade Wi-Fi. This serves a different function from latency."
+      "Jitter: Variation in packet arrival delay.",
+      "Port flapping: Switch port repeatedly changes link state.",
+      "Wireless interference: Competing radio signals degrade Wi-Fi."
     ],
     "tip": "High round-trip times harm interactive applications."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "An IT support specialist needs to identify a component or service that switch port repeatedly changes link state. What should they select?",
+    "q": "A customer describes a system that needs switch port repeatedly changes link state. Which choice matches that need?",
     "opts": [
       "Port flapping",
       "Jitter",
@@ -14833,16 +14833,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Port flapping: Switch port repeatedly changes link state.",
-      "Jitter: Variation in packet arrival delay. This serves a different function from port flapping.",
-      "Slow network: Throughput lower than expected. This serves a different function from port flapping.",
-      "Wireless interference: Competing radio signals degrade Wi-Fi. This serves a different function from port flapping."
+      "Jitter: Variation in packet arrival delay.",
+      "Slow network: Throughput lower than expected.",
+      "Wireless interference: Competing radio signals degrade Wi-Fi."
     ],
     "tip": "Check cabling transceiver and endpoint power."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "A technician encounters this situation: Survey channels and physical sources. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Survey channels and physical sources. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Wireless interference",
       "Jitter",
@@ -14854,16 +14854,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Wireless interference: Competing radio signals degrade Wi-Fi.",
-      "Jitter: Variation in packet arrival delay. This serves a different function from wireless interference.",
-      "Authentication failure: Access rejected during identity verification. This serves a different function from wireless interference.",
-      "Port flapping: Switch port repeatedly changes link state. This serves a different function from wireless interference."
+      "Jitter: Variation in packet arrival delay.",
+      "Authentication failure: Access rejected during identity verification.",
+      "Port flapping: Switch port repeatedly changes link state."
     ],
     "tip": "Survey channels and physical sources."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "Which term describes the following capability: access rejected during identity verification?",
+    "q": "A technician is comparing options for this requirement: access rejected during identity verification. Which technology is appropriate?",
     "opts": [
       "Authentication failure",
       "Port flapping",
@@ -14875,16 +14875,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Authentication failure: Access rejected during identity verification.",
-      "Port flapping: Switch port repeatedly changes link state. This serves a different function from authentication failure.",
-      "Wireless interference: Competing radio signals degrade Wi-Fi. This serves a different function from authentication failure.",
-      "Intermittent internet: WAN access drops unpredictably. This serves a different function from authentication failure."
+      "Port flapping: Switch port repeatedly changes link state.",
+      "Wireless interference: Competing radio signals degrade Wi-Fi.",
+      "Intermittent internet: WAN access drops unpredictably."
     ],
     "tip": "Check credentials policy and clock synchronization."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "An IT support specialist needs to identify a component or service that wAN access drops unpredictably. What should they select?",
+    "q": "A field technician must provide wAN access drops unpredictably. Which technology fulfills this purpose?",
     "opts": [
       "Intermittent internet",
       "Wireless interference",
@@ -14896,16 +14896,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Intermittent internet: WAN access drops unpredictably.",
-      "Wireless interference: Competing radio signals degrade Wi-Fi. This serves a different function from intermittent internet.",
-      "Port flapping: Switch port repeatedly changes link state. This serves a different function from intermittent internet.",
-      "Jitter: Variation in packet arrival delay. This serves a different function from intermittent internet."
+      "Wireless interference: Competing radio signals degrade Wi-Fi.",
+      "Port flapping: Switch port repeatedly changes link state.",
+      "Jitter: Variation in packet arrival delay."
     ],
     "tip": "Separate local Wi-Fi loss from ISP failure."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "A technician encounters this situation: Test link speed congestion and errors. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Test link speed congestion and errors. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Slow network",
       "Authentication failure",
@@ -14917,16 +14917,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Slow network: Throughput lower than expected.",
-      "Authentication failure: Access rejected during identity verification. This serves a different function from slow network.",
-      "Wireless interference: Competing radio signals degrade Wi-Fi. This serves a different function from slow network.",
-      "Port flapping: Switch port repeatedly changes link state. This serves a different function from slow network."
+      "Authentication failure: Access rejected during identity verification.",
+      "Wireless interference: Competing radio signals degrade Wi-Fi.",
+      "Port flapping: Switch port repeatedly changes link state."
     ],
     "tip": "Test link speed congestion and errors."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "Which term describes the following capability: variation in packet arrival delay?",
+    "q": "An administrator needs variation in packet arrival delay. Which item matches the requirement?",
     "opts": [
       "Jitter",
       "Authentication failure",
@@ -14938,16 +14938,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Jitter: Variation in packet arrival delay.",
-      "Authentication failure: Access rejected during identity verification. This serves a different function from jitter.",
-      "Latency: Delay for data to traverse a network path. This serves a different function from jitter.",
-      "Wireless interference: Competing radio signals degrade Wi-Fi. This serves a different function from jitter."
+      "Authentication failure: Access rejected during identity verification.",
+      "Latency: Delay for data to traverse a network path.",
+      "Wireless interference: Competing radio signals degrade Wi-Fi."
     ],
     "tip": "VoIP audio breaks up when timing varies."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "An IT support specialist needs to identify a component or service that delay for data to traverse a network path. What should they select?",
+    "q": "A repair ticket specifies delay for data to traverse a network path. Which item addresses that specification?",
     "opts": [
       "Latency",
       "Authentication failure",
@@ -14959,16 +14959,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Latency: Delay for data to traverse a network path.",
-      "Authentication failure: Access rejected during identity verification. This serves a different function from latency.",
-      "Intermittent internet: WAN access drops unpredictably. This serves a different function from latency.",
-      "Jitter: Variation in packet arrival delay. This serves a different function from latency."
+      "Authentication failure: Access rejected during identity verification.",
+      "Intermittent internet: WAN access drops unpredictably.",
+      "Jitter: Variation in packet arrival delay."
     ],
     "tip": "High round-trip times harm interactive applications."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "A technician encounters this situation: Check cabling transceiver and endpoint power. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Check cabling transceiver and endpoint power. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Port flapping",
       "Jitter",
@@ -14980,16 +14980,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Port flapping: Switch port repeatedly changes link state.",
-      "Jitter: Variation in packet arrival delay. This serves a different function from port flapping.",
-      "Wireless interference: Competing radio signals degrade Wi-Fi. This serves a different function from port flapping.",
-      "Authentication failure: Access rejected during identity verification. This serves a different function from port flapping."
+      "Jitter: Variation in packet arrival delay.",
+      "Wireless interference: Competing radio signals degrade Wi-Fi.",
+      "Authentication failure: Access rejected during identity verification."
     ],
     "tip": "Check cabling transceiver and endpoint power."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "Which term describes the following capability: competing radio signals degrade Wi-Fi?",
+    "q": "A device specification mentions competing radio signals degrade Wi-Fi. What feature is being described?",
     "opts": [
       "Wireless interference",
       "Intermittent internet",
@@ -15001,16 +15001,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Wireless interference: Competing radio signals degrade Wi-Fi.",
-      "Intermittent internet: WAN access drops unpredictably. This serves a different function from wireless interference.",
-      "Latency: Delay for data to traverse a network path. This serves a different function from wireless interference.",
-      "Jitter: Variation in packet arrival delay. This serves a different function from wireless interference."
+      "Intermittent internet: WAN access drops unpredictably.",
+      "Latency: Delay for data to traverse a network path.",
+      "Jitter: Variation in packet arrival delay."
     ],
     "tip": "Survey channels and physical sources."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "An IT support specialist needs to identify a component or service that access rejected during identity verification. What should they select?",
+    "q": "During a help-desk escalation, the documented need is access rejected during identity verification. What should the technician use?",
     "opts": [
       "Authentication failure",
       "Port flapping",
@@ -15022,16 +15022,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Authentication failure: Access rejected during identity verification.",
-      "Port flapping: Switch port repeatedly changes link state. This serves a different function from authentication failure.",
-      "Slow network: Throughput lower than expected. This serves a different function from authentication failure.",
-      "Latency: Delay for data to traverse a network path. This serves a different function from authentication failure."
+      "Port flapping: Switch port repeatedly changes link state.",
+      "Slow network: Throughput lower than expected.",
+      "Latency: Delay for data to traverse a network path."
     ],
     "tip": "Check credentials policy and clock synchronization."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "A technician encounters this situation: Separate local Wi-Fi loss from ISP failure. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Separate local Wi-Fi loss from ISP failure. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Intermittent internet",
       "Jitter",
@@ -15043,16 +15043,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Intermittent internet: WAN access drops unpredictably.",
-      "Jitter: Variation in packet arrival delay. This serves a different function from intermittent internet.",
-      "Wireless interference: Competing radio signals degrade Wi-Fi. This serves a different function from intermittent internet.",
-      "Slow network: Throughput lower than expected. This serves a different function from intermittent internet."
+      "Jitter: Variation in packet arrival delay.",
+      "Wireless interference: Competing radio signals degrade Wi-Fi.",
+      "Slow network: Throughput lower than expected."
     ],
     "tip": "Separate local Wi-Fi loss from ISP failure."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "Which term describes the following capability: throughput lower than expected?",
+    "q": "Which option would you select when a support ticket calls for throughput lower than expected?",
     "opts": [
       "Slow network",
       "Jitter",
@@ -15064,16 +15064,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Slow network: Throughput lower than expected.",
-      "Jitter: Variation in packet arrival delay. This serves a different function from slow network.",
-      "Authentication failure: Access rejected during identity verification. This serves a different function from slow network.",
-      "Wireless interference: Competing radio signals degrade Wi-Fi. This serves a different function from slow network."
+      "Jitter: Variation in packet arrival delay.",
+      "Authentication failure: Access rejected during identity verification.",
+      "Wireless interference: Competing radio signals degrade Wi-Fi."
     ],
     "tip": "Test link speed congestion and errors."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "An IT support specialist needs to identify a component or service that variation in packet arrival delay. What should they select?",
+    "q": "A support team is checking compatibility for variation in packet arrival delay. Which item should be considered?",
     "opts": [
       "Jitter",
       "Intermittent internet",
@@ -15085,16 +15085,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Jitter: Variation in packet arrival delay.",
-      "Intermittent internet: WAN access drops unpredictably. This serves a different function from jitter.",
-      "Authentication failure: Access rejected during identity verification. This serves a different function from jitter.",
-      "Slow network: Throughput lower than expected. This serves a different function from jitter."
+      "Intermittent internet: WAN access drops unpredictably.",
+      "Authentication failure: Access rejected during identity verification.",
+      "Slow network: Throughput lower than expected."
     ],
     "tip": "VoIP audio breaks up when timing varies."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.5",
-    "q": "A technician encounters this situation: High round-trip times harm interactive applications. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: High round-trip times harm interactive applications. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Latency",
       "Authentication failure",
@@ -15106,16 +15106,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Latency: Delay for data to traverse a network path.",
-      "Authentication failure: Access rejected during identity verification. This serves a different function from latency.",
-      "Slow network: Throughput lower than expected. This serves a different function from latency.",
-      "Jitter: Variation in packet arrival delay. This serves a different function from latency."
+      "Authentication failure: Access rejected during identity verification.",
+      "Slow network: Throughput lower than expected.",
+      "Jitter: Variation in packet arrival delay."
     ],
     "tip": "High round-trip times harm interactive applications."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "A technician encounters this situation: Inspect rollers and remove paper carefully. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Inspect rollers and remove paper carefully. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Paper jam",
       "Multipage misfeed",
@@ -15127,16 +15127,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Paper jam: Sheet becomes stuck in printer path.",
-      "Multipage misfeed: Several sheets feed at once. This serves a different function from paper jam.",
-      "Wrong orientation: Page prints in unintended portrait or landscape mode. This serves a different function from paper jam.",
-      "Garbled print: Output contains unexpected characters or symbols. This serves a different function from paper jam."
+      "Multipage misfeed: Several sheets feed at once.",
+      "Wrong orientation: Page prints in unintended portrait or landscape mode.",
+      "Garbled print: Output contains unexpected characters or symbols."
     ],
     "tip": "Inspect rollers and remove paper carefully."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "Which term describes the following capability: printed content lacks expected density?",
+    "q": "Which option would you select when a support ticket calls for printed content lacks expected density?",
     "opts": [
       "Faded print",
       "Frozen print queue",
@@ -15148,16 +15148,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Faded print: Printed content lacks expected density.",
-      "Frozen print queue: Jobs stop progressing through the spooler. This serves a different function from faded print.",
-      "Double image: Ghosted repeated image on a printed page. This serves a different function from faded print.",
-      "Tray not recognized: Printer does not detect installed paper tray. This serves a different function from faded print."
+      "Frozen print queue: Jobs stop progressing through the spooler.",
+      "Double image: Ghosted repeated image on a printed page.",
+      "Tray not recognized: Printer does not detect installed paper tray."
     ],
     "tip": "Consumables and printheads differ by printer type."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "An IT support specialist needs to identify a component or service that output contains unexpected characters or symbols. What should they select?",
+    "q": "A customer describes a system that needs output contains unexpected characters or symbols. Which choice matches that need?",
     "opts": [
       "Garbled print",
       "Double image",
@@ -15169,16 +15169,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Garbled print: Output contains unexpected characters or symbols.",
-      "Double image: Ghosted repeated image on a printed page. This serves a different function from garbled print.",
-      "Faded print: Printed content lacks expected density. This serves a different function from garbled print.",
-      "Multipage misfeed: Several sheets feed at once. This serves a different function from garbled print."
+      "Double image: Ghosted repeated image on a printed page.",
+      "Faded print: Printed content lacks expected density.",
+      "Multipage misfeed: Several sheets feed at once."
     ],
     "tip": "Driver or page language mismatch can cause this."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "A technician encounters this situation: Clear or restart the affected queue appropriately. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Clear or restart the affected queue appropriately. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Frozen print queue",
       "Multipage misfeed",
@@ -15190,16 +15190,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Frozen print queue: Jobs stop progressing through the spooler.",
-      "Multipage misfeed: Several sheets feed at once. This serves a different function from frozen print queue.",
-      "Faded print: Printed content lacks expected density. This serves a different function from frozen print queue.",
-      "Garbled print: Output contains unexpected characters or symbols. This serves a different function from frozen print queue."
+      "Multipage misfeed: Several sheets feed at once.",
+      "Faded print: Printed content lacks expected density.",
+      "Garbled print: Output contains unexpected characters or symbols."
     ],
     "tip": "Clear or restart the affected queue appropriately."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "Which term describes the following capability: several sheets feed at once?",
+    "q": "A technician is comparing options for this requirement: several sheets feed at once. Which technology is appropriate?",
     "opts": [
       "Multipage misfeed",
       "Paper jam",
@@ -15211,16 +15211,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Multipage misfeed: Several sheets feed at once.",
-      "Paper jam: Sheet becomes stuck in printer path. This serves a different function from multipage misfeed.",
-      "Double image: Ghosted repeated image on a printed page. This serves a different function from multipage misfeed.",
-      "Wrong orientation: Page prints in unintended portrait or landscape mode. This serves a different function from multipage misfeed."
+      "Paper jam: Sheet becomes stuck in printer path.",
+      "Double image: Ghosted repeated image on a printed page.",
+      "Wrong orientation: Page prints in unintended portrait or landscape mode."
     ],
     "tip": "Check separation rollers and paper condition."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "An IT support specialist needs to identify a component or service that ghosted repeated image on a printed page. What should they select?",
+    "q": "A field technician must provide ghosted repeated image on a printed page. Which technology fulfills this purpose?",
     "opts": [
       "Double image",
       "Paper jam",
@@ -15232,16 +15232,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Double image: Ghosted repeated image on a printed page.",
-      "Paper jam: Sheet becomes stuck in printer path. This serves a different function from double image.",
-      "Multipage misfeed: Several sheets feed at once. This serves a different function from double image.",
-      "Tray not recognized: Printer does not detect installed paper tray. This serves a different function from double image."
+      "Paper jam: Sheet becomes stuck in printer path.",
+      "Multipage misfeed: Several sheets feed at once.",
+      "Tray not recognized: Printer does not detect installed paper tray."
     ],
     "tip": "Inspect imaging components in laser printers."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "A technician encounters this situation: Reseat tray and check sensors. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Reseat tray and check sensors. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Tray not recognized",
       "Multipage misfeed",
@@ -15253,16 +15253,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Tray not recognized: Printer does not detect installed paper tray.",
-      "Multipage misfeed: Several sheets feed at once. This serves a different function from tray not recognized.",
-      "Garbled print: Output contains unexpected characters or symbols. This serves a different function from tray not recognized.",
-      "Frozen print queue: Jobs stop progressing through the spooler. This serves a different function from tray not recognized."
+      "Multipage misfeed: Several sheets feed at once.",
+      "Garbled print: Output contains unexpected characters or symbols.",
+      "Frozen print queue: Jobs stop progressing through the spooler."
     ],
     "tip": "Reseat tray and check sensors."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "Which term describes the following capability: page prints in unintended portrait or landscape mode?",
+    "q": "An administrator needs page prints in unintended portrait or landscape mode. Which item matches the requirement?",
     "opts": [
       "Wrong orientation",
       "Faded print",
@@ -15274,16 +15274,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Wrong orientation: Page prints in unintended portrait or landscape mode.",
-      "Faded print: Printed content lacks expected density. This serves a different function from wrong orientation.",
-      "Garbled print: Output contains unexpected characters or symbols. This serves a different function from wrong orientation.",
-      "Multipage misfeed: Several sheets feed at once. This serves a different function from wrong orientation."
+      "Faded print: Printed content lacks expected density.",
+      "Garbled print: Output contains unexpected characters or symbols.",
+      "Multipage misfeed: Several sheets feed at once."
     ],
     "tip": "Verify application and driver settings."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "An IT support specialist needs to identify a component or service that sheet becomes stuck in printer path. What should they select?",
+    "q": "A repair ticket specifies sheet becomes stuck in printer path. Which item addresses that specification?",
     "opts": [
       "Paper jam",
       "Double image",
@@ -15295,16 +15295,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Paper jam: Sheet becomes stuck in printer path.",
-      "Double image: Ghosted repeated image on a printed page. This serves a different function from paper jam.",
-      "Wrong orientation: Page prints in unintended portrait or landscape mode. This serves a different function from paper jam.",
-      "Tray not recognized: Printer does not detect installed paper tray. This serves a different function from paper jam."
+      "Double image: Ghosted repeated image on a printed page.",
+      "Wrong orientation: Page prints in unintended portrait or landscape mode.",
+      "Tray not recognized: Printer does not detect installed paper tray."
     ],
     "tip": "Inspect rollers and remove paper carefully."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "A technician encounters this situation: Consumables and printheads differ by printer type. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Consumables and printheads differ by printer type. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Faded print",
       "Paper jam",
@@ -15316,16 +15316,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Faded print: Printed content lacks expected density.",
-      "Paper jam: Sheet becomes stuck in printer path. This serves a different function from faded print.",
-      "Garbled print: Output contains unexpected characters or symbols. This serves a different function from faded print.",
-      "Double image: Ghosted repeated image on a printed page. This serves a different function from faded print."
+      "Paper jam: Sheet becomes stuck in printer path.",
+      "Garbled print: Output contains unexpected characters or symbols.",
+      "Double image: Ghosted repeated image on a printed page."
     ],
     "tip": "Consumables and printheads differ by printer type."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "Which term describes the following capability: output contains unexpected characters or symbols?",
+    "q": "A device specification mentions output contains unexpected characters or symbols. What feature is being described?",
     "opts": [
       "Garbled print",
       "Multipage misfeed",
@@ -15337,16 +15337,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Garbled print: Output contains unexpected characters or symbols.",
-      "Multipage misfeed: Several sheets feed at once. This serves a different function from garbled print.",
-      "Tray not recognized: Printer does not detect installed paper tray. This serves a different function from garbled print.",
-      "Double image: Ghosted repeated image on a printed page. This serves a different function from garbled print."
+      "Multipage misfeed: Several sheets feed at once.",
+      "Tray not recognized: Printer does not detect installed paper tray.",
+      "Double image: Ghosted repeated image on a printed page."
     ],
     "tip": "Driver or page language mismatch can cause this."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "An IT support specialist needs to identify a component or service that jobs stop progressing through the spooler. What should they select?",
+    "q": "During a help-desk escalation, the documented need is jobs stop progressing through the spooler. What should the technician use?",
     "opts": [
       "Frozen print queue",
       "Wrong orientation",
@@ -15358,16 +15358,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Frozen print queue: Jobs stop progressing through the spooler.",
-      "Wrong orientation: Page prints in unintended portrait or landscape mode. This serves a different function from frozen print queue.",
-      "Faded print: Printed content lacks expected density. This serves a different function from frozen print queue.",
-      "Multipage misfeed: Several sheets feed at once. This serves a different function from frozen print queue."
+      "Wrong orientation: Page prints in unintended portrait or landscape mode.",
+      "Faded print: Printed content lacks expected density.",
+      "Multipage misfeed: Several sheets feed at once."
     ],
     "tip": "Clear or restart the affected queue appropriately."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "A technician encounters this situation: Check separation rollers and paper condition. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Check separation rollers and paper condition. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Multipage misfeed",
       "Frozen print queue",
@@ -15379,16 +15379,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Multipage misfeed: Several sheets feed at once.",
-      "Frozen print queue: Jobs stop progressing through the spooler. This serves a different function from multipage misfeed.",
-      "Faded print: Printed content lacks expected density. This serves a different function from multipage misfeed.",
-      "Double image: Ghosted repeated image on a printed page. This serves a different function from multipage misfeed."
+      "Frozen print queue: Jobs stop progressing through the spooler.",
+      "Faded print: Printed content lacks expected density.",
+      "Double image: Ghosted repeated image on a printed page."
     ],
     "tip": "Check separation rollers and paper condition."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "Which term describes the following capability: ghosted repeated image on a printed page?",
+    "q": "Which option would you select when a support ticket calls for ghosted repeated image on a printed page?",
     "opts": [
       "Double image",
       "Tray not recognized",
@@ -15400,16 +15400,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Double image: Ghosted repeated image on a printed page.",
-      "Tray not recognized: Printer does not detect installed paper tray. This serves a different function from double image.",
-      "Multipage misfeed: Several sheets feed at once. This serves a different function from double image.",
-      "Frozen print queue: Jobs stop progressing through the spooler. This serves a different function from double image."
+      "Tray not recognized: Printer does not detect installed paper tray.",
+      "Multipage misfeed: Several sheets feed at once.",
+      "Frozen print queue: Jobs stop progressing through the spooler."
     ],
     "tip": "Inspect imaging components in laser printers."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "An IT support specialist needs to identify a component or service that printer does not detect installed paper tray. What should they select?",
+    "q": "A support team is checking compatibility for printer does not detect installed paper tray. Which item should be considered?",
     "opts": [
       "Tray not recognized",
       "Multipage misfeed",
@@ -15421,16 +15421,16 @@ const QUESTIONS = [
     ],
     "why": [
       "Tray not recognized: Printer does not detect installed paper tray.",
-      "Multipage misfeed: Several sheets feed at once. This serves a different function from tray not recognized.",
-      "Wrong orientation: Page prints in unintended portrait or landscape mode. This serves a different function from tray not recognized.",
-      "Double image: Ghosted repeated image on a printed page. This serves a different function from tray not recognized."
+      "Multipage misfeed: Several sheets feed at once.",
+      "Wrong orientation: Page prints in unintended portrait or landscape mode.",
+      "Double image: Ghosted repeated image on a printed page."
     ],
     "tip": "Reseat tray and check sensors."
   },
   {
     "domain": "5.0 Hardware and Network Troubleshooting",
     "obj": "5.6",
-    "q": "A technician encounters this situation: Verify application and driver settings. Which technology or concept is MOST relevant?",
+    "q": "In a troubleshooting case, the following observation is recorded: Verify application and driver settings. Which technology or concept is MOST relevant? Which option is most relevant?",
     "opts": [
       "Wrong orientation",
       "Paper jam",
@@ -15442,9 +15442,9 @@ const QUESTIONS = [
     ],
     "why": [
       "Wrong orientation: Page prints in unintended portrait or landscape mode.",
-      "Paper jam: Sheet becomes stuck in printer path. This serves a different function from wrong orientation.",
-      "Frozen print queue: Jobs stop progressing through the spooler. This serves a different function from wrong orientation.",
-      "Faded print: Printed content lacks expected density. This serves a different function from wrong orientation."
+      "Paper jam: Sheet becomes stuck in printer path.",
+      "Frozen print queue: Jobs stop progressing through the spooler.",
+      "Faded print: Printed content lacks expected density."
     ],
     "tip": "Verify application and driver settings."
   }
